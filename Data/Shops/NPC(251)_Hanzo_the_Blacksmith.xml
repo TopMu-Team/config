@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2019 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// For detailed explanation of the shops system refer to ### Shops System Description ###.txt included in \Data\Shops\
+-->
+
+<Shop>
+	
+	<Tab Id="1">
+		<!-- Orb of Twisting Slash-->
+		<Item Cat="12" Index="7" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Orb of Anger Blow-->
+		<Item Cat="12" Index="12" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Orb of Impale-->
+		<Item Cat="12" Index="13" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Orb of Greater Fortitude-->
+		<Item Cat="12" Index="14" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Crystal of Destruction-->
+		<Item Cat="12" Index="44" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Orb of Death Stab-->
+		<Item Cat="12" Index="19" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Strong Belief Bead-->
+		<Item Cat="12" Index="487" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Solid Protection Bead-->
+		<Item Cat="12" Index="488" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Swordsman's Wrath-->
+		<Item Cat="12" Index="485" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	</Tab>
+	<Tab Id="2">
+		<!-- Orb of Twisting Slash-->
+		<Item Cat="12" Index="7" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Sword Inertia Bead-->
+		<Item Cat="12" Index="476" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Bat Flock Bead-->
+		<Item Cat="12" Index="477" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Detection Bead-->
+		<Item Cat="12" Index="478" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Demolish Bead-->
+		<Item Cat="12" Index="482" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	</Tab>
+	<Tab Id="3">
+		<!-- Orb of Fire Slash-->
+		<Item Cat="12" Index="16" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Crystal of Flame Strike-->
+		<Item Cat="12" Index="47" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Scroll of Gigantic Storm-->
+		<Item Cat="15" Index="29" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Elemental Charge Scroll-->
+		<Item Cat="12" Index="166" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Crusher Charge Orb-->
+		<Item Cat="12" Index="165" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Spiral Charge Orb-->
+		<Item Cat="12" Index="164" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	</Tab>
+	<Tab Id="4">
+		<!-- Wind Glaive Beads-->
+		<Item Cat="12" Index="90" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Charge Slash Bead-->
+		<Item Cat="12" Index="89" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Illusion Avatar Bead-->
+		<Item Cat="12" Index="88" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Illusion Blade Bead-->
+		<Item Cat="12" Index="87" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	</Tab>
+	<Tab Id="5">
+		<!-- Insert shop data here -->
+	</Tab>
+</Shop>

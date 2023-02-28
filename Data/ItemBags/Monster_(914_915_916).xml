@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_(908_909_910)" ItemRate="10000" SetItemRate="0" SetItemCount="1" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" PartyDropRate="0" PartyShareType="0" PartyOneDropOnly="0" />
+	<AddCoin Enable="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
+	<Ruud GainRate="7500" MinValue="3000" MaxValue="3000" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropSection DisplayName="Section 1" UseMode="-1">
+		<DropAllow DW="1" DK="1" ELF="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SLA="1" GC="1" LW="1" LM="1" IK="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" MapNumber="-1" DisplayName="DropAllow">
+			<Drop Rate="3000" Count="1" Type="0">
+				<!--Apocalypse Knight Helmet-->
+				<Item Cat="7" Index="284" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Wizard Helmet-->
+				<Item Cat="7" Index="285" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Helmet-->
+				<Item Cat="7" Index="286" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Summoner Helmet-->
+				<Item Cat="7" Index="287" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lord Helmet-->
+				<Item Cat="7" Index="289" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Fighter Helmet-->
+				<Item Cat="7" Index="290" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lancer Helmet-->
+				<Item Cat="7" Index="291" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Helmet-->
+				<Item Cat="7" Index="292" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Rune Wizard Helmet-->
+				<Item Cat="7" Index="294" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Slayer Helmet-->
+				<Item Cat="7" Index="295" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Helmet (Belief)-->
+				<Item Cat="7" Index="296" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Gun Crusher Helmet-->
+				<Item Cat="7" Index="297" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Light Wizard Helmet-->
+				<Item Cat="7" Index="298" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Mage Helmet-->
+				<Item Cat="7" Index="299" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Illusion Knight Helmet-->
+				<Item Cat="7" Index="314" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Armor-->
+				<Item Cat="8" Index="284" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Wizard Armor-->
+				<Item Cat="8" Index="285" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Armor-->
+				<Item Cat="8" Index="286" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Summoner Armor-->
+				<Item Cat="8" Index="287" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Armor-->
+				<Item Cat="8" Index="288" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lord Armor-->
+				<Item Cat="8" Index="289" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Fighter Armor-->
+				<Item Cat="8" Index="290" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lancer Armor-->
+				<Item Cat="8" Index="291" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Armor-->
+				<Item Cat="8" Index="292" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Armor-->
+				<Item Cat="8" Index="293" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Rune Wizard Armor-->
+				<Item Cat="8" Index="294" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Slayer Armor-->
+				<Item Cat="8" Index="295" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Armor (Belief)-->
+				<Item Cat="8" Index="296" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Gun Crusher Armor-->
+				<Item Cat="8" Index="297" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Light Wizard Armor-->
+				<Item Cat="8" Index="298" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Mage Armor-->
+				<Item Cat="8" Index="299" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Illusion Knight Armor-->
+				<Item Cat="8" Index="314" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Pants-->
+				<Item Cat="9" Index="284" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Wizard Pants-->
+				<Item Cat="9" Index="285" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Pants-->
+				<Item Cat="9" Index="286" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Summoner Pants-->
+				<Item Cat="9" Index="287" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Pants-->
+				<Item Cat="9" Index="288" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lord Pants-->
+				<Item Cat="9" Index="289" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Fighter Pants-->
+				<Item Cat="9" Index="290" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lancer Pants-->
+				<Item Cat="9" Index="291" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Pants-->
+				<Item Cat="9" Index="292" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Pants-->
+				<Item Cat="9" Index="293" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Rune Wizard Pants-->
+				<Item Cat="9" Index="294" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Slayer Pants-->
+				<Item Cat="9" Index="295" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Pants (Belief)-->
+				<Item Cat="9" Index="296" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Gun Crusher Pants-->
+				<Item Cat="9" Index="297" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Light Wizard Pants-->
+				<Item Cat="9" Index="298" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Mage Pants-->
+				<Item Cat="9" Index="299" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Illusion Knight Pants-->
+				<Item Cat="9" Index="314" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Gloves-->
+				<Item Cat="10" Index="284" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Wizard Gloves-->
+				<Item Cat="10" Index="285" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Gloves-->
+				<Item Cat="10" Index="286" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Summoner Gloves-->
+				<Item Cat="10" Index="287" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Gloves-->
+				<Item Cat="10" Index="288" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lord Gloves-->
+				<Item Cat="10" Index="289" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lancer Gloves-->
+				<Item Cat="10" Index="291" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Gloves-->
+				<Item Cat="10" Index="292" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Gloves-->
+				<Item Cat="10" Index="293" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Rune Wizard Gloves-->
+				<Item Cat="10" Index="294" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Slayer Gloves-->
+				<Item Cat="10" Index="295" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Gloves (Belief)-->
+				<Item Cat="10" Index="296" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Gun Crusher Gloves-->
+				<Item Cat="10" Index="297" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Light Wizard Gloves-->
+				<Item Cat="10" Index="298" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Mage Gloves-->
+				<Item Cat="10" Index="299" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Illusion Knight Gloves-->
+				<Item Cat="10" Index="314" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Boots-->
+				<Item Cat="11" Index="284" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Wizard Boots-->
+				<Item Cat="11" Index="285" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Boots-->
+				<Item Cat="11" Index="286" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Summoner Boots-->
+				<Item Cat="11" Index="287" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Boots-->
+				<Item Cat="11" Index="288" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lord Boots-->
+				<Item Cat="11" Index="289" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Fighter Boots-->
+				<Item Cat="11" Index="290" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Lancer Boots-->
+				<Item Cat="11" Index="291" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Elf Boots-->
+				<Item Cat="11" Index="292" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Magic Boots-->
+				<Item Cat="11" Index="293" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Rune Wizard Boots-->
+				<Item Cat="11" Index="294" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Slayer Boots-->
+				<Item Cat="11" Index="295" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Knight Boots (Belief)-->
+				<Item Cat="11" Index="296" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Gun Crusher Boots-->
+				<Item Cat="11" Index="297" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Light Wizard Boots-->
+				<Item Cat="11" Index="298" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Mage Boots-->
+				<Item Cat="11" Index="299" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Apocalypse Illusion Knight Boots-->
+				<Item Cat="11" Index="314" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			</Drop>
+			<Drop Rate="3000" Count="1" Type="0">
+				<!--Guardian Elite Opt Change Pcs-->
+				<Item Cat="14" Index="469" ItemMinLevel="0" ItemMaxLevel="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" ElementalItem="-1" />
+				<!--Sealed Armor Sculpture-->
+				<Item Cat="14" Index="471" ItemMinLevel="0" ItemMaxLevel="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" ElementalItem="-1" />
+			</Drop>
+			<Drop Rate="4000" Count="5" Type="0">
+				<!--Jewel of Bless-->
+				<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Soul-->
+				<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Life-->
+				<Item Cat="14" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Creation-->
+				<Item Cat="14" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Harmony-->
+				<Item Cat="14" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Golden Sentence-->
+				<Item Cat="13" Index="468" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Elite Guardian Enhanced-->
+				<Item Cat="14" Index="468" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Guardian Enhanced Stone-->
+				<Item Cat="14" Index="467" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			</Drop>
+		</DropAllow>
+	</DropSection>
+</ItemBag>

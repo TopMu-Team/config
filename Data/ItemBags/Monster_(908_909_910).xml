@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_(908_909_910)" ItemRate="10000" SetItemRate="0" SetItemCount="1" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" PartyDropRate="0" PartyShareType="0" PartyOneDropOnly="0" />
+	<AddCoin Enable="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
+	<Ruud GainRate="7500" MinValue="2750" MaxValue="2750" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropSection DisplayName="Section 1" UseMode="-1">
+		<DropAllow DW="1" DK="1" ELF="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SLA="1" GC="1" LW="1" LM="1" IK="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" MapNumber="-1" DisplayName="DropAllow">
+            <Drop Rate="3000" Count="1" Type="0">
+				<!--Brilliant Illusion Knight Helmet-->
+				<Item Cat="7" Index="313" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Illusion Knight Armor-->
+				<Item Cat="8" Index="313" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Illusion Knight Pants-->
+				<Item Cat="9" Index="313" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Illusion Knight Gloves-->
+				<Item Cat="10" Index="313" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Illusion Knight Boots-->
+				<Item Cat="11" Index="313" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Helmet-->
+				<Item Cat="7" Index="270" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Wizard Helmet-->
+				<Item Cat="7" Index="271" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Helmet-->
+				<Item Cat="7" Index="272" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Summoner Helmet-->
+				<Item Cat="7" Index="273" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lord Helmet-->
+				<Item Cat="7" Index="275" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Fighter Helmet-->
+				<Item Cat="7" Index="276" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lancer Helmet-->
+				<Item Cat="7" Index="277" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Rune Wizard Helmet-->
+				<Item Cat="7" Index="280" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Helmet-->
+				<Item Cat="7" Index="278" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Helmet (Belief)-->
+				<Item Cat="7" Index="282" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Slayer Helmet-->
+				<Item Cat="7" Index="281" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Gun Crauher Helmet-->
+				<Item Cat="7" Index="283" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Mage Armor-->
+				<Item Cat="8" Index="266" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Armor-->
+				<Item Cat="8" Index="270" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Wizard Armor-->
+				<Item Cat="8" Index="271" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Armor-->
+				<Item Cat="8" Index="272" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Summoner Armor-->
+				<Item Cat="8" Index="273" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Armor-->
+				<Item Cat="8" Index="274" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lord Armor-->
+				<Item Cat="8" Index="275" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Fighter Armor-->
+				<Item Cat="8" Index="276" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lancer Armor-->
+				<Item Cat="8" Index="277" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Armor-->
+				<Item Cat="8" Index="278" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Armor-->
+				<Item Cat="8" Index="279" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Rune Wizard Armor-->
+				<Item Cat="8" Index="280" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Slayer Armor-->
+				<Item Cat="8" Index="281" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Armor (Belief)-->
+				<Item Cat="8" Index="282" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Gun Crusher Armor-->
+				<Item Cat="8" Index="283" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Mage Pants-->
+				<Item Cat="9" Index="266" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Pants-->
+				<Item Cat="9" Index="270" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Wizard Pants-->
+				<Item Cat="9" Index="271" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Pants-->
+				<Item Cat="9" Index="272" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Summoner Pants-->
+				<Item Cat="9" Index="273" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Pants-->
+				<Item Cat="9" Index="274" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lord Pants-->
+				<Item Cat="9" Index="275" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Fighter Pants-->
+				<Item Cat="9" Index="276" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lancer Pants-->
+				<Item Cat="9" Index="277" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Pants-->
+				<Item Cat="9" Index="278" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Pants-->
+				<Item Cat="9" Index="279" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Rune Wizard Pants-->
+				<Item Cat="9" Index="280" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Slayer Pants-->
+				<Item Cat="9" Index="281" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Pants (Belief)-->
+				<Item Cat="9" Index="282" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Gun Crusher Pants-->
+				<Item Cat="9" Index="283" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Mage Helmet-->
+				<Item Cat="7" Index="266" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Mage Gloves-->
+				<Item Cat="10" Index="266" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Gloves-->
+				<Item Cat="10" Index="270" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Wizard Gloves-->
+				<Item Cat="10" Index="271" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Gloves-->
+				<Item Cat="10" Index="272" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Summoner Gloves-->
+				<Item Cat="10" Index="273" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Gloves-->
+				<Item Cat="10" Index="274" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lord Gloves-->
+				<Item Cat="10" Index="275" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lancer Gloves-->
+				<Item Cat="10" Index="277" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Gloves-->
+				<Item Cat="10" Index="278" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Gloves-->
+				<Item Cat="10" Index="279" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Rune Wizard Gloves-->
+				<Item Cat="10" Index="280" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Slayer Gloves-->
+				<Item Cat="10" Index="281" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Gloves (Belief)-->
+				<Item Cat="10" Index="282" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Gun Crusher Gloves-->
+				<Item Cat="10" Index="283" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Mage Boots-->
+				<Item Cat="11" Index="266" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Boots-->
+				<Item Cat="11" Index="270" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Wizard Boots-->
+				<Item Cat="11" Index="271" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Boots-->
+				<Item Cat="11" Index="272" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Summoner Boots-->
+				<Item Cat="11" Index="273" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Boots-->
+				<Item Cat="11" Index="274" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lord Boots-->
+				<Item Cat="11" Index="275" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Fighter Boots-->
+				<Item Cat="11" Index="276" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Lancer Boots-->
+				<Item Cat="11" Index="277" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Elf Boots-->
+				<Item Cat="11" Index="278" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Magic Boots-->
+				<Item Cat="11" Index="279" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Rune Wizard Boots-->
+				<Item Cat="11" Index="280" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Slayer Boots-->
+				<Item Cat="11" Index="281" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Knight Boots (Belief)-->
+				<Item Cat="11" Index="282" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Brilliant Gun Crusher Boots-->
+				<Item Cat="11" Index="283" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			</Drop>
+			<Drop Rate="3000" Count="1" Type="0">
+				<!--Guardian Elite Opt Change Pcs-->
+				<Item Cat="14" Index="469" ItemMinLevel="0" ItemMaxLevel="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" ElementalItem="-1" />
+				<!--Sealed Armor Sculpture-->
+				<Item Cat="14" Index="471" ItemMinLevel="0" ItemMaxLevel="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" ElementalItem="-1" />
+			</Drop>
+			<Drop Rate="4000" Count="5" Type="0">
+				<!--Jewel of Bless-->
+				<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Soul-->
+				<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Life-->
+				<Item Cat="14" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Creation-->
+				<Item Cat="14" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Harmony-->
+				<Item Cat="14" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Golden Sentence-->
+				<Item Cat="13" Index="468" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Elite Guardian Enhanced-->
+				<Item Cat="14" Index="468" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Guardian Enhanced Stone-->
+				<Item Cat="14" Index="467" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			</Drop>
+		</DropAllow>
+	</DropSection>
+</ItemBag>
