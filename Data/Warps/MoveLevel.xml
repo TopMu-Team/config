@@ -83,10 +83,10 @@
 	<Move Level="1020" MapNumber="129" StartX="1" StartY="1" EndX="255" EndY="255" Name="Abyss of Atlas 2" />
 	<Move Level="1030" MapNumber="130" StartX="1" StartY="1" EndX="255" EndY="255" Name="Abyss of Atlas 3" />
 	<Move Level="1050" MapNumber="131" StartX="1" StartY="1" EndX="255" EndY="255" Name="Scorched Canyon" />
-	<Move Level="1070" MapNumber="132" StartX="1" StartY="1" EndX="255" EndY="255" Name="Red Smoke Icarus" />
-	<Move Level="1100" MapNumber="133" StartX="1" StartY="1" EndX="255" EndY="255" Name="Arenil Temple" />
-	<Move Level="1130" MapNumber="134" StartX="1" StartY="1" EndX="255" EndY="255" Name="Ashe Aida" />
-	<Move Level="1160" MapNumber="136" StartX="1" StartY="1" EndX="255" EndY="255" Name="Blaze Kethotum" />
-	<Move Level="1190" MapNumber="137" StartX="1" StartY="1" EndX="255" EndY="255" Name="Kanturu Undergrounds" />
-	<Move Level="1220" MapNumber="138" StartX="1" StartY="1" EndX="255" EndY="255" Name="Ignis Volcano" />
+	<Move Level="1100" MapNumber="132" StartX="1" StartY="1" EndX="255" EndY="255" Name="Red Smoke Icarus" />
+	<Move Level="1150" MapNumber="133" StartX="1" StartY="1" EndX="255" EndY="255" Name="Arenil Temple" />
+	<Move Level="1200" MapNumber="134" StartX="1" StartY="1" EndX="255" EndY="255" Name="Ashe Aida" />
+	<Move Level="1250" MapNumber="136" StartX="1" StartY="1" EndX="255" EndY="255" Name="Blaze Kethotum" />
+	<Move Level="1300" MapNumber="137" StartX="1" StartY="1" EndX="255" EndY="255" Name="Kanturu Undergrounds" />
+	<Move Level="1350" MapNumber="138" StartX="1" StartY="1" EndX="255" EndY="255" Name="Ignis Volcano" />
 </MoveSettings>
