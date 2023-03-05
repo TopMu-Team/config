@@ -166,8 +166,8 @@
 	<ErrtelsRankUpgradeSocketRate>
 		<Errtel Rank="2" Socket2Rate="10000" Socket3Rate="0" Socket4Rate="0" Socket5Rate="0" SuccessRateLv7="10000" SuccessRateLv8="10000" SuccessRateLv9="10000" SuccessRateLv10="10000" />       
 		<Errtel Rank="3" Socket2Rate="0" Socket3Rate="10000" Socket4Rate="0" Socket5Rate="0" SuccessRateLv7="10000" SuccessRateLv8="10000" SuccessRateLv9="10000" SuccessRateLv10="10000" />      
-		<Errtel Rank="4" Socket2Rate="0" Socket3Rate="0" Socket4Rate="10000" Socket5Rate="0" SuccessRateLv7="10000" SuccessRateLv8="10000" SuccessRateLv9="10000" SuccessRateLv10="10000" />       
-		<Errtel Rank="5" Socket2Rate="0" Socket3Rate="0" Socket4Rate="0" Socket5Rate="10000" SuccessRateLv7="10000" SuccessRateLv8="10000" SuccessRateLv9="10000" SuccessRateLv10="10000" />       
+		<!-- <Errtel Rank="4" Socket2Rate="0" Socket3Rate="0" Socket4Rate="10000" Socket5Rate="0" SuccessRateLv7="10000" SuccessRateLv8="10000" SuccessRateLv9="10000" SuccessRateLv10="10000" />        -->
+		<!-- <Errtel Rank="5" Socket2Rate="0" Socket3Rate="0" Socket4Rate="0" Socket5Rate="10000" SuccessRateLv7="10000" SuccessRateLv8="10000" SuccessRateLv9="10000" SuccessRateLv10="10000" />        -->
 	</ErrtelsRankUpgradeSocketRate>
  
 	<LevelUpgradeSpecialMode>
