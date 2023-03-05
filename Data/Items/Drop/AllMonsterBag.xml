@@ -79,9 +79,9 @@
   <DropItem MonsterMinLevel="110" MonsterMaxLevel="300" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="430" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="22500" Name="Elena's Letter" />
  
 
-  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="100" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="100000" Name="Jewel of Chaos" />
-  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="100000" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="100000" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="100000" Name="Jewel of Creation" />
-  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="100000" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="100" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="10000" Name="Jewel of Chaos" />
+  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="10000" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="10000" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="10000" Name="Jewel of Creation" />
+  <DropItem MonsterMinLevel="1" MonsterMaxLevel="1500" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="10000" Name="Jewel of Bless" />
 </AllMonsterItemDrop>
