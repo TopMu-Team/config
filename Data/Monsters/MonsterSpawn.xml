@@ -944,9 +944,7 @@
 			<!--(257) Shadow Phantom Soldier [Lv.2]-->
 			<Spawn Index="257" Distance="0" StartX="219" StartY="73" Dir="3" />
 			<!--(257) Shadow Phantom Soldier [Lv.2]-->
-			<Spawn Index="257" Distance="0" StartX="172" StartY="44" Dir="1" />
-			<!--(522) Jerint the Assistant [Lv.2]-->
-			<Spawn Index="522" Distance="0" StartX="229" StartY="221" Dir="1" />
+			<Spawn Index="257" Distance="0" StartX="172" StartY="44" Dir="1" />			
 			<!--(566) Mercenary Guild Manager Tercia [Lv.2]-->
 			<Spawn Index="566" Distance="0" StartX="204" StartY="61" Dir="1" />
 			<!--(584) Sir Lesnar [Lv.2]-->
@@ -9051,9 +9049,7 @@
 			<!--(719) Archangel's Spirit [Lv.2]-->
 			<Spawn Index="719" Distance="0" StartX="187" StartY="93" Dir="2" />
 			<!--(720) Charon [Lv.2]-->
-			<Spawn Index="720" Distance="0" StartX="223" StartY="93" Dir="1" />
-			<!--(721) Jerint the Assistant [Lv.2]-->
-			<Spawn Index="721" Distance="0" StartX="234" StartY="30" Dir="1" />
+			<Spawn Index="720" Distance="0" StartX="223" StartY="93" Dir="1" />			
 			<!--(722) Mirage [Lv.2]-->
 			<Spawn Index="722" Distance="0" StartX="188" StartY="21" Dir="3" />
 			<!--(723) Rugard [Lv.2]-->
@@ -12311,6 +12307,8 @@
 			<Spawn Index="758" Distance="0" StartX="236" StartY="59" Dir="1" />
 			<!--(765) Cent (Entrance) [Lv.2]-->
 			<Spawn Index="765" Distance="0" StartX="240" StartY="239" Dir="1" />
+			<!--(522) Jerint the Assistant [Lv.2]-->
+			<Spawn Index="522" Distance="0" StartX="171" StartY="238" Dir="1" />
 		</Spot>
 	</Map>
 	<Map Number="116" Name="DeepDungeon 1">
