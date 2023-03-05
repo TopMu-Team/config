@@ -673,47 +673,47 @@ function CalcAttackSpeed(Class, Dexterity)
 	local MagicSpeed = 0
 	
 	if(Class == CLASS_WIZARD) then
-		AttackSpeed = Dexterity / 20
-		MagicSpeed = Dexterity / 10
+		AttackSpeed = Dexterity / 60
+		MagicSpeed = Dexterity / 30
 	elseif(Class == CLASS_KNIGHT) then
-		AttackSpeed = (Dexterity / 15) * CLASS_DK_REGULAR_ATK_SPEED
-		MagicSpeed = (Dexterity / 20) * CLASS_DK_REGULAR_ATK_SPEED
+		AttackSpeed = Dexterity / 45
+		MagicSpeed = Dexterity / 60
 	elseif(Class == CLASS_ELF) then 
-		AttackSpeed = Dexterity / 50
-		MagicSpeed = Dexterity / 50
+		AttackSpeed = Dexterity / 100
+		MagicSpeed = Dexterity / 100
 	elseif(Class == CLASS_GLADIATOR) then
-		AttackSpeed = (Dexterity / 15) * CLASS_MG_REGULAR_ATK_SPEED
-		MagicSpeed = (Dexterity / 20) * CLASS_MG_REGULAR_ATK_MAGIC_SPEED
+		AttackSpeed = Dexterity / 45
+		MagicSpeed = Dexterity / 60
 	elseif(Class == CLASS_DARKLORD) then
-		AttackSpeed = Dexterity / 10
-		MagicSpeed = Dexterity / 10
+		AttackSpeed = Dexterity / 30
+		MagicSpeed = Dexterity / 30
 	elseif(Class == CLASS_SUMMONER) then
-		AttackSpeed = Dexterity / 20
-		MagicSpeed = Dexterity / 20
+		AttackSpeed = Dexterity / 60
+		MagicSpeed = Dexterity / 60
 	elseif(Class == CLASS_RAGEFIGHTER) then
-		AttackSpeed = Dexterity / 9
-		MagicSpeed = Dexterity / 9
+		AttackSpeed = Dexterity / 27
+		MagicSpeed = Dexterity / 27
 	elseif(Class == CLASS_GROWLANCER) then
-		AttackSpeed = Dexterity / 20
-		MagicSpeed = Dexterity / 20
+		AttackSpeed = Dexterity / 60
+		MagicSpeed = Dexterity / 60
 	elseif(Class == CLASS_RUNEWIZARD) then
-		AttackSpeed = Dexterity / 12
-		MagicSpeed = Dexterity / 12
+		AttackSpeed = Dexterity / 36
+		MagicSpeed = Dexterity / 36
 	elseif(Class == CLASS_SLAYER) then
-		AttackSpeed = Dexterity / 12
-		MagicSpeed = Dexterity / 12
+		AttackSpeed = Dexterity / 36
+		MagicSpeed = Dexterity / 36
 	elseif(Class == CLASS_GUNCRUSHER) then
-		AttackSpeed = Dexterity / 20
-		MagicSpeed = Dexterity / 20
+		AttackSpeed = Dexterity / 60
+		MagicSpeed = Dexterity / 60
 	elseif(Class == CLASS_LIGHTWIZARD) then
-		AttackSpeed = Dexterity / 20
-		MagicSpeed = Dexterity / 10
+		AttackSpeed = Dexterity / 60
+		MagicSpeed = Dexterity / 30
 	elseif(Class == CLASS_LEMURIAMAGE) then
-		AttackSpeed = Dexterity / 20
-		MagicSpeed = Dexterity / 10
+		AttackSpeed = Dexterity / 60
+		MagicSpeed = Dexterity / 30
 	elseif(Class == CLASS_ILLUSIONKNIGHT) then
-		AttackSpeed = Dexterity / 10
-		MagicSpeed = Dexterity / 10
+		AttackSpeed = Dexterity / 30
+		MagicSpeed = Dexterity / 30
 	end
 	
 	return AttackSpeed, MagicSpeed
