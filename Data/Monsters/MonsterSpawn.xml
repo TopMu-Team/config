@@ -2528,6 +2528,9 @@
 			<!--(200) Soccer Ball [Lv.12]-->
 			<Spawn Index="200" Distance="6" StartX="63" StartY="160" Dir="1" />
 		</Spot>
+		<Spot Type="2" Description="Single Point Monsters">
+			<Spawn Index="919" Distance="6" StartX="61" StartY="114" Dir="-1" />
+		</Spot>
 	</Map>
 	<Map Number="7" Name="Atlans">
 		<Spot Type="1" Description="Multi-Spawn">
@@ -5808,7 +5811,7 @@
 			<!--(406) Apostle Devin [Lv.2]-->
 			<Spawn Index="406" Distance="0" StartX="228" StartY="48" Dir="1" />
 			<!--(407) Werewolf Quarel [Lv.2]-->
-			<Spawn Index="407" Distance="0" StartX="62" StartY="239" Dir="1" />
+			<Spawn Index="407" Distance="0" StartX="224" StartY="48" Dir="1" />
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<!--(310) Hammer Scout [Lv.97]-->
