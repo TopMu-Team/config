@@ -881,18 +881,18 @@
 	<Item GUID="1080" ID="1427" Cat="14" Index="263" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Low Grade)" />
 	<Item GUID="1081" ID="1429" Cat="14" Index="264" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Middle Grade)" />
 	<Item GUID="1082" ID="1431" Cat="14" Index="371" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="[Bound] Bless of Light (Greater)" />
-	<Item GUID="1083" ID="1433" Cat="14" Index="296" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule (Fire)" />
-	<Item GUID="1084" ID="1435" Cat="14" Index="337" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Earth)" />
-	<Item GUID="1085" ID="1437" Cat="14" Index="338" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Water)" />
-	<Item GUID="1086" ID="1439" Cat="14" Index="339" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Wind)" />
-	<Item GUID="1087" ID="1441" Cat="14" Index="340" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Darkness)" />
-	<Item GUID="1088" ID="1443" Cat="14" Index="378" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Fire)" />
-	<Item GUID="1089" ID="1445" Cat="14" Index="379" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Water)" />
-	<Item GUID="1090" ID="1447" Cat="14" Index="380" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Ice)" />
-	<Item GUID="1091" ID="1449" Cat="14" Index="381" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Wind)" />
-	<Item GUID="1092" ID="1451" Cat="14" Index="382" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Lightning)" />
-	<Item GUID="1093" ID="1453" Cat="14" Index="383" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Earth)" />
-	<Item GUID="1094" ID="1455" Cat="14" Index="384" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
+	<Item GUID="1083" ID="1433" Cat="14" Index="296" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule (Fire)" />
+	<Item GUID="1084" ID="1435" Cat="14" Index="337" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Earth)" />
+	<Item GUID="1085" ID="1437" Cat="14" Index="338" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Water)" />
+	<Item GUID="1086" ID="1439" Cat="14" Index="339" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Wind)" />
+	<Item GUID="1087" ID="1441" Cat="14" Index="340" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Capsule(Darkness)" />
+	<Item GUID="1088" ID="1443" Cat="14" Index="378" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Fire)" />
+	<Item GUID="1089" ID="1445" Cat="14" Index="379" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Water)" />
+	<Item GUID="1090" ID="1447" Cat="14" Index="380" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Ice)" />
+	<Item GUID="1091" ID="1449" Cat="14" Index="381" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Wind)" />
+	<Item GUID="1092" ID="1451" Cat="14" Index="382" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Lightning)" />
+	<Item GUID="1093" ID="1453" Cat="14" Index="383" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Earth)" />
+	<Item GUID="1094" ID="1455" Cat="14" Index="384" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
 	<Item GUID="1095" ID="1457" Cat="14" Index="96" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Talisman of Chaos Assembly" />
 	<Item GUID="1096" ID="1458" Cat="14" Index="209" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Tradeable Seal" />
 	<Item GUID="1097" ID="1459" Cat="14" Index="162" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Magic Backpack" />
@@ -1348,4 +1348,8 @@
 	<Item GUID="1447" ID="2211" Cat="20" Index="109" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Boss Battle Ticket" />
 	<Item GUID="1448" ID="2213" Cat="14" Index="224" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Greater) (50)" />
 	<Item GUID="1449" ID="2215" Cat="14" Index="224" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Greater)" />
+	<Item GUID="1450" ID="2216" Cat="13" Index="3" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Horn of Dinorant" />
+	<Item GUID="1451" ID="2218" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Talisman of Item Protection" />
+	<Item GUID="1451" ID="2219" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Talisman of Item Protection" />
+	<Item GUID="1451" ID="2220" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="43200" Description="Talisman of Item Protection" />
 </CashItemInfo>
