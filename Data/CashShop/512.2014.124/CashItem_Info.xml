@@ -1348,7 +1348,7 @@
 	<Item GUID="1447" ID="2211" Cat="20" Index="109" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Boss Battle Ticket" />
 	<Item GUID="1448" ID="2213" Cat="14" Index="224" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Greater) (50)" />
 	<Item GUID="1449" ID="2215" Cat="14" Index="224" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Greater)" />
-	<Item GUID="1450" ID="2216" Cat="13" Index="3" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Horn of Dinorant" />
+	<Item GUID="1450" ID="2216" Cat="13" Index="3" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="43200" Description="Horn of Dinorant" />
 	<Item GUID="1451" ID="2218" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Talisman of Item Protection" />
 	<Item GUID="1451" ID="2219" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Talisman of Item Protection" />
 	<Item GUID="1451" ID="2220" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="43200" Description="Talisman of Item Protection" />
