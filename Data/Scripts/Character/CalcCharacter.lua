@@ -30,7 +30,7 @@ CLASS_ILLUSIONKNIGHT								  = 13	-- Illusion Knight, Mirage Knight, Illusion M
 -- Custom rate for regular and elemental
 
 -- DK
-CLASS_DK_REGULAR_ATK_RATE = 1.5
+CLASS_DK_REGULAR_ATK_RATE = 2.5
 CLASS_DK_REGULAR_ATK_SPEED = 2.0
 CLASS_DK_REGULAR_ATK_MAGIC_RATE = 1.5
 CLASS_DK_REGULAR_ATK_SUCCESS_RATE_PVP = 1.0
