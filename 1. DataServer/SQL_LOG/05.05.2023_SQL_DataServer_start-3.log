@@ -1,0 +1,18 @@
+[02:00:28] SELECT * FROM IGC_MonsterSoul_Config
+[02:00:28] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[02:00:28] EXEC IGC_PersonalStore_LoadAllStores
+[02:00:28] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[02:00:28] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[02:00:28] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[02:00:28] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[02:00:28] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[02:00:28] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
+[02:00:28] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
+[02:00:28] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
+[02:00:28] UPDATE GameServerInfo SET GensRankingMonth=5 WHERE Number=0
+[02:00:28] EXEC IGC_DeleteAllPartyMatchingList
+[02:00:28] EXEC IGC_LoadPartyInfo
+[02:00:28] SELECT * FROM Guild
+[02:00:29] DELETE FROM IGC_MonsterSoul_Config
+[02:00:29] INSERT INTO IGC_MonsterSoul_Config (NextResetTime, Level1MonsterType1, Level1MonsterType2, Level1MonsterType3, Level1MonsterType4, Level2MonsterType1, Level2MonsterType2, Level2MonsterType3, Level2MonsterType4, Level3MonsterType1, Level3MonsterType2, Level3MonsterType3, Level3MonsterType4, Level4MonsterType1, Level4MonsterType2, Level4MonsterType3, Level4MonsterType4, Level5MonsterType1, Level5MonsterType2, Level5MonsterType3, Level5MonsterType4) VALUES (1683826200, 4, 3, -1, -1, 9, 1, -1, -1, 7, 2, -1, -1, 3, 0, -1, -1, 4, 6, -1, -1)
+[02:00:29] UPDATE IGC_MonsterSoul_ItemBuyLimit SET AvailablePurchases = 3

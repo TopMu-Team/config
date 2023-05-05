@@ -1,0 +1,6 @@
+[01:56:10] SELECT * FROM IGC_MonsterSoul_Config
+[01:56:10] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[01:56:10] EXEC IGC_PersonalStore_LoadAllStores
+[01:56:10] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[01:56:10] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[01:56:10] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'

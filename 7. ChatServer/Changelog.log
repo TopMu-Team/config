@@ -1,0 +1,49 @@
+﻿[v17.2.2.1]
+**** UPGRADE TO .NET 4.8 ****
+	-> [FIX] possible crash on connection receive
+	-> [FIX] data not being processed rarely
+
+[v16.1.2.0]
+	-> [FIX] invalid log display
+
+[v14.0.1.1]
+	-> [FIX] possible crashes
+
+[v14.0.1.0]
+	-> [FIX] Non-ascii languages issues
+	-> [MOD->FILE] 'config.ini' 
+	-> [MOD->FILE] 'Data\Languages\English.ini'
+
+[v13.0.0.0]
+	-> [FIX] char message text is scrumbled
+
+[v12.0.0.0]
+	-> [MOD] upgraded to .net framework 4.6.1
+	-> [FIX] possible issue with half-received packets being lost
+	-> [FIX] some synronizing issues
+	-> [FIX] various minor fixes
+	-> [FIX] possible issue with invalid room id / chat indexes with long use
+	-> [MOD] reduced memory usage
+	-> [MOD] some UI changes
+	-> [NEW] Prohibited words system
+	-> [NEW] ExDB reconnect system
+	-> [MOD->FILE] 'config.ini' 
+	-> [REMOVE] 'Languages\English.ini' 
+	-> [ADD] 'Data\Languages\English.ini' 
+	-> [ADD] 'Data\IGC_ProhibitedWords.xml' 
+	-> [MOD->FILE] 'config.ini' 
+
+[ ------ v9.1.0.1  ------ ]
+~ [FIX] minor log output fixes
+~ [MOD] removed "IP" configuration from config.ini file 
+
+[ ------ v9.1.0.0  ------ ]
+~ multi lang support
+~ chat history
+~ chat logging
+~ IP/character ban
+~ custom ports configuration
+~ chat greetings message
+~ monitor & managing active chats
+~ view live chat conversations
+~ join live chat conversations (as admin)
