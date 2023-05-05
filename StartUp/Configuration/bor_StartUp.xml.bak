@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="C:\MuSS8\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuSS8\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuSS8\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuSS8\MHPServer\MHPServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuSS8\GameServer\GameServer.exe" Parameters="" />
+</Processes>
