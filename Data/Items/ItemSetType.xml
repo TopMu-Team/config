@@ -1079,5 +1079,7 @@
 		<Item Index="26" TierI="15" TierII="59" TierIII="0" TierIV="0" MixLevelA="0" MixLevelB="0" />
 		<Item Index="27" TierI="31" TierII="58" TierIII="0" TierIV="0" MixLevelA="0" MixLevelB="0" />
 		<Item Index="28" TierI="29" TierII="56" TierIII="0" TierIV="0" MixLevelA="0" MixLevelB="0" />
+		<Item Index="187" TierI="64" TierII="0" TierIII="0" TierIV="0" MixLevelA="0" MixLevelB="0" />
+		<Item Index="193"  TierI="64" TierII="0" TierIII="0" TierIV="0" MixLevelA="0" MixLevelB="0" />
 	</Section>
 </SetItemType>
