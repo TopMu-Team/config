@@ -11,7 +11,7 @@
 //~~ Changes to the file must be reflected on game client side and encrypted to .bmd using ToolKit Lite or Premium "IGC File Enc/Dec (XML)" tool, \Data\Local\ItemPriceSystem.bmd
 //
 // ### ItemPriceSystem ###
-//	Password: 
+//	Password: A password used by ToolKit ServerInfo (XML) editor to encode the file, max 8 characters
 //
 // ### ItemPriceSystem::ItemSell ###
 //	Enable: Deactivates or activates item sell price override, 0/1
