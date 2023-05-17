@@ -49,6 +49,8 @@
 		<Server Code="14" Initiation="0" IP="15.235.181.48" Port="56914" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Siege" />
 		<Server Code="15" Initiation="0" IP="15.235.181.48" Port="56915" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Instance" />
 		<Server Code="480" Initiation="0" IP="15.235.181.48" Port="56120" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="BattleCore" />
+		<!-- Test server -->
+		<Server Code="20" Initiation="1" IP="15.235.181.48" Port="56950" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Regular" />
 	</ServerList>
 	
 	<ServerMapping>

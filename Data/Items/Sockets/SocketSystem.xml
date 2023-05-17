@@ -38,7 +38,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<SocketSystem TotalWeaponSocketLimit="6">
+<SocketSystem TotalWeaponSocketLimit="10">
 	<SocketMix>
 		<Cost ExtractSeedMoney="1000000" SeedSphereComposite="1000000" SetSeedSphere="1000000" RemoveSeedSphere="1000000" />
 		<SuccessRate RemoveSeedSphere="90" />

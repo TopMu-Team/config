@@ -175,7 +175,7 @@ end
 
 -- SkillID: 356, Swell Life Strengthener - (Blade Master)
 function KnightSkillAddLife_Level1(Index, TargetIndex, TargetClass, Vitality, Energy, PartyBonus)
-	local SkillEffect = Vitality / 100 + 12 + Energy / 20 + PartyBonus
+	local SkillEffect = 25
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime
@@ -183,7 +183,7 @@ end
 
 -- SkillID: 360, Swell Life Proficiency - (Blade Master)
 function KnightSkillAddLife_Level2(Index, TargetIndex, TargetClass, Vitality, Energy, PartyBonus)
-	local SkillEffect = Vitality / 100 + 12 + Energy / 20 + PartyBonus
+	local SkillEffect = 30
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime
@@ -191,7 +191,7 @@ end
 
 -- SkillID: 363, Swell Life Mastery - (Blade Master)
 function KnightSkillAddLife_Level3(Index, TargetIndex, TargetClass, Vitality, Energy, PartyBonus)
-	local SkillEffect = Vitality / 100 + 12 + Energy / 20 + PartyBonus
+	local SkillEffect = 35
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime

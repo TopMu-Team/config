@@ -53,7 +53,7 @@ function AngerBlow_4thEnchant(Class, InDamage, Strength, Dexterity, Vitality, En
 end
 
 function FireBlow_4thEnchant_Knight(InDamage, Strength, Dexterity, Vitality, Energy)
-    local OutDamage = InDamage * (200 + (Strength / 7) + (Dexterity / 10)) / 100
+    local OutDamage = InDamage * (200 + (Strength / 20) + (Dexterity / 20)) / 100
 
     return OutDamage
 end
@@ -96,7 +96,7 @@ function FireSlash_4thEnchant_Gladiator(InDamage, Strength, Energy, BarrageCount
 end
 
 function WindSoul_4thEnchant_Lord(InDamage, Strength, Dexterity, Vitality, Energy, Command)
-	local OutDamage = InDamage * (Energy / 25 + 200) / 100
+	local OutDamage = InDamage * (Strength / 25 + 200) / 100
 	
 	return OutDamage
 end
@@ -108,7 +108,7 @@ function ChaoticDiseier_4thEnchant_Lord(InDamage, Energy)
 end
 
 function FireBurst_4thEnchant_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100
+	local OutDamage = (InDamage * (((Strength) / 20 + 200))) / 100
 	
 	return OutDamage
 end
@@ -187,13 +187,13 @@ function FocusShot_4thEnchant_Elf(InDamage, Strength, Dexterity, Energy)
 end
 
 function MeteorStorm_4thEnchant_Wizard(InDamage, Energy)
-	local OutDamage = InDamage
+	local OutDamage = ((InDamage * 1.0) * (200 + (Energy / 40))) / 100
 	
 	return OutDamage
 end
 
 function MeteorStrike_4thEnchant_Wizard(InDamage, Energy)
-	local OutDamage = InDamage
+	local OutDamage =  ((InDamage * 1.0) * (200 + (Energy / 30))) / 100
 	
 	return OutDamage
 end
@@ -227,15 +227,15 @@ function ChaosBlade_4thEnchant_Gladiator(InDamage, Strength, Dexterity, Vitality
     local OutDamage = 0
     
     if (BarrageCount == 1) then
-        OutDamage = (InDamage * 0.8) * ( 200 + ( Strength / 10 ) ) / 100
+        OutDamage = (InDamage * 0.8) * ( 200 + ( Strength / 15 ) ) / 100
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * 1.0) * ( 200 + ( Strength / 10 ) ) / 100
+        OutDamage = (InDamage * 1.0) * ( 200 + ( Strength / 15 ) ) / 100
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * 1.2) * ( 200 + ( Strength / 10 ) ) / 100
+        OutDamage = (InDamage * 1.1) * ( 200 + ( Strength / 15 ) ) / 100
     elseif (BarrageCount == 4) then
-        OutDamage = (InDamage * 1.3) * ( 200 + ( Strength / 10 ) ) / 100		
+        OutDamage = (InDamage * 1.15) * ( 200 + ( Strength / 15 ) ) / 100		
 	elseif(BarrageCount == 5) then -- Explosion
-		OutDamage = (InDamage * 3.0) * ( 200 + ( Strength / 10 ) ) / 100
+		OutDamage = (InDamage * 3.5) * ( 200 + ( Strength / 15 ) ) / 100
     end
     return OutDamage
 end
@@ -259,19 +259,19 @@ function HavokSpear_4thEnchant_Gladiator(InDamage, Strength, Dexterity, Vitality
 end
 
 function MagicArrow_4thEnchant_RuneWizard(InDamage, Strength, Dexterity, Vitality, Energy)
-	local OutDamage = InDamage
+	local OutDamage =  (InDamage * 1.0) * ( 200 + ( Energy / 30 ) ) / 100
 	
 	return OutDamage
 end
 
 function PlasmaBall_4thEnchant_RuneWizard(InDamage, Strength, Dexterity, Vitality, Energy)
-	local OutDamage = InDamage
+	local OutDamage = (InDamage * 1.0) * ( 200 + ( Energy / 30 ) ) / 100
 	
 	return OutDamage
 end
 
 function LightningStorm_4thEnchant_RuneWizard(InDamage, Strength, Dexterity, Vitality, Energy)
-	local OutDamage = InDamage
+	local OutDamage = (InDamage * 1.0) * ( 200 + ( Energy / 15 ) ) / 100
 	
 	return OutDamage
 end
@@ -305,21 +305,21 @@ function BatFlock_DotDamage_4thEnchant_Slayer(InDamage, Strength, Energy)
 end
 
 function SwordInertia_4thEnchant_Slayer(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 20) + 150) / 100
+	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 8) + 150) / 100
 	OutDamage = OutDamage
 	
 	return OutDamage
 end	
 
 function BatFlock_4thEnchant_Slayer(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 20) + 150) / 100
+	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 8) + 150) / 100
 	OutDamage = OutDamage * 0.5
 	
 	return OutDamage
 end	
 
 function PierceAttack_4thEnchant_Slayer(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 20) + 150) / 100
+	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 8) + 150) / 100
 	return OutDamage
 end
 

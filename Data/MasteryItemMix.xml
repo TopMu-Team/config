@@ -1152,6 +1152,32 @@
 		<Material ID="1070" Cat="6" Index="50" MinLevel="11" MaxLevel="15" Option="4" Durability="0" Type="0" Name="Manticore Shield" />
 		<Material ID="1071" Cat="0" Index="111" MinLevel="11" MaxLevel="15" Option="4" Durability="0" Type="1" Name="Manticore Blade" />
 		<Material ID="1072" Cat="0" Index="112" MinLevel="11" MaxLevel="15" Option="4" Durability="0" Type="1" Name="Brilliant Blade" />
+		<!-- Custom -->
+		<Material ID="1073" Cat="13" Index="173" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Rings of Ultimatum" />
+		<Material ID="1074" Cat="13" Index="12" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Pendant of Lighting" />
+		<Material ID="1075" Cat="13" Index="13" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Pendant of Fire" />
+		<Material ID="1076" Cat="13" Index="25" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Pendant of Ice" />
+		<Material ID="1077" Cat="13" Index="26" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Pendant of Wind" />
+		<Material ID="1078" Cat="13" Index="27" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Pendant of Water" />
+		<Material ID="1079" Cat="13" Index="28" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="1" Name="Pendant of Abbility" />
+
+		<Material ID="1080" Cat="13" Index="187" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Bloodangel Ring" />
+		<Material ID="1081" Cat="13" Index="193" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Bloodangel Pendant" />
+		<Material ID="1082" Cat="13" Index="188" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Darkangel Ring" />
+		<Material ID="1083" Cat="13" Index="194" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Darkangel Pendant" />
+		
+		<Material ID="1084" Cat="13" Index="189" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Holyangel Ring" />
+		<Material ID="1085" Cat="13" Index="195" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Holyangel Pendant" />
+		
+		<Material ID="1086" Cat="13" Index="190" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Awakening Ring" />
+		<Material ID="1087" Cat="13" Index="196" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Awakening Pendant" />
+		
+		<Material ID="1088" Cat="13" Index="191" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Blueeye Ring" />
+		<Material ID="1089" Cat="13" Index="197" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Blueeye Pendant" />
+		
+		<Material ID="1090" Cat="13" Index="192" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Silverheart Ring" />
+		<Material ID="1091" Cat="13" Index="198" MinLevel="0" MaxLevel="15" Option="0" Durability="0" Type="2" Name="Silverheart Pendant" />
+		
 	</CombinationMaterials>
 
 	<CombinationResult AncientHeroSoulLuckRate="50" NoAncientHeroSoulLuckRate="5">
@@ -2245,6 +2271,31 @@
 		<Mix ID="1647" Cat="8" Index="314" Level="0" Name="Apocalypse Illusion Knight Armor" OptKeepType="6" SuccessRate="100" MaterialID1="1017" MaterialCnt1="1" MaterialID2="1020" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="1" MaterialID4="22" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
 		<Mix ID="1648" Cat="9" Index="314" Level="0" Name="Apocalypse Illusion Knight Pants" OptKeepType="6" SuccessRate="100" MaterialID1="1018" MaterialCnt1="1" MaterialID2="1020" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="1" MaterialID4="22" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
 		<Mix ID="1649" Cat="10" Index="314" Level="0" Name="Apocalypse Illusion Knight Gloves" OptKeepType="6" SuccessRate="100" MaterialID1="1019" MaterialCnt1="1" MaterialID2="1020" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="1" MaterialID4="22" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
+		
+		<!-- Custom -->
+		<Mix ID="1650" Cat="13" Index="187" Level="0" Name="Bloodangel Ring" OptKeepType="24" SuccessRate="100" MaterialID1="1073" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+		<Mix ID="1651" Cat="13" Index="193" Level="0" Name="Bloodangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1074" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+		<Mix ID="1652" Cat="13" Index="193" Level="0" Name="Bloodangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1075" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+		<Mix ID="1653" Cat="13" Index="193" Level="0" Name="Bloodangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1076" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+		<Mix ID="1654" Cat="13" Index="193" Level="0" Name="Bloodangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1077" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+		<Mix ID="1655" Cat="13" Index="193" Level="0" Name="Bloodangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1078" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+		<Mix ID="1656" Cat="13" Index="193" Level="0" Name="Bloodangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1079" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="23" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="27" MaterialCnt6="1" Money="0" />
+	
+		<Mix ID="1657" Cat="13" Index="188" Level="0" Name="Darkangel Ring" OptKeepType="24" SuccessRate="100" MaterialID1="1080" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="36" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		<Mix ID="1658" Cat="13" Index="194" Level="0" Name="Darkangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1081" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="36" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		
+		<Mix ID="1659" Cat="13" Index="189" Level="0" Name="Holyangel Ring" OptKeepType="24" SuccessRate="100" MaterialID1="1082" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="271" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		<Mix ID="1660" Cat="13" Index="195" Level="0" Name="Holyangel Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1083" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="271" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		
+		<Mix ID="1661" Cat="13" Index="190" Level="0" Name="Awakening Ring" OptKeepType="24" SuccessRate="100" MaterialID1="1084" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="338" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		<Mix ID="1662" Cat="13" Index="196" Level="0" Name="Awakening Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1085" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="338" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+	
+		<Mix ID="1663" Cat="13" Index="191" Level="0" Name="Blueeye Ring" OptKeepType="24" SuccessRate="100" MaterialID1="1086" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="453" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		<Mix ID="1664" Cat="13" Index="197" Level="0" Name="Blueeye Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1087" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="453" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		
+		<Mix ID="1665" Cat="13" Index="192" Level="0" Name="Silverheart Ring" OptKeepType="24" SuccessRate="100" MaterialID1="1088" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="643" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+		<Mix ID="1666" Cat="13" Index="198" Level="0" Name="Silverheart Pendant" OptKeepType="24" SuccessRate="100" MaterialID1="1089" MaterialCnt1="1" MaterialID2="21" MaterialCnt2="1" MaterialID3="22" MaterialCnt3="1" MaterialID4="643" MaterialCnt4="1" MaterialID5="24" MaterialCnt5="1" MaterialID6="6" MaterialCnt6="1" Money="0" />
+	
 	</CombinationResult>
 	<RandomCombinationResult>
 		<Result ID="0">
