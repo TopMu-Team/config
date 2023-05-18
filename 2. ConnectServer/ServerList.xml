@@ -34,4 +34,6 @@
 	<Server Code="14" IP="15.235.181.48" Port="56914" Visible="0" Name="Siege" />
 	<Server Code="15" IP="15.235.181.48" Port="56915" Visible="0" Name="Instance" />
 	<Server Code="480" IP="15.235.181.48" Port="56120" Visible="1" Name="BattleCore" />
+	<!-- Test server -->
+	<Server Code="20"  IP="15.235.181.48" Port="56950" Visible="1" Name="Maya" />
 </ServerList>

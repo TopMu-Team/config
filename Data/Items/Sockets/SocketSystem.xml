@@ -41,7 +41,7 @@
 <SocketSystem TotalWeaponSocketLimit="10">
 	<SocketMix>
 		<Cost ExtractSeedMoney="1000000" SeedSphereComposite="1000000" SetSeedSphere="1000000" RemoveSeedSphere="1000000" />
-		<SuccessRate RemoveSeedSphere="90" />
+		<SuccessRate RemoveSeedSphere="100" />
 	</SocketMix>
 	
 	<SocketRateSettings>

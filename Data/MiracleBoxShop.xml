@@ -103,9 +103,9 @@
 		<Section ID="5" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 		<Section ID="6" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 		<Section ID="7" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="8" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
+		<Section ID="8" SkillRate="0" LuckRate="0" OptionRate="0" ExcRate="1000000" /> <!-- n/1000000 -->
 		<Section ID="9" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->		
-		<Section ID="10" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
+		<Section ID="10" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="1000000" /> <!-- n/1000000 -->
 	</RewardSettings>
 	<ItemRewardList>
 		<Section ID="0" Active="1"  Name="Moss Sword Box">
@@ -233,7 +233,7 @@
 			</Input>
 			<Reward>
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- 700 Article Earning -->
-				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" /> <!-- 300 Article Earning -->
+				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2500" /> <!-- 300 Article Earning -->
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" /> <!-- Necklace of Lightning -->
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" /> <!-- Ring of Fire -->
 				<Item Cat="14" Index="14" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" /> <!-- Jewel of Soul -->

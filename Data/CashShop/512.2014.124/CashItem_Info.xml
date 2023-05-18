@@ -145,7 +145,7 @@
 	<Item GUID="74" ID="126" Cat="13" Index="105" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="10080" Description="SD Boost Aura" />
 	<Item GUID="75" ID="127" Cat="13" Index="103" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="1440" Description="Party EXP Increase" />
 	<Item GUID="75" ID="128" Cat="13" Index="103" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="10080" Description="Party EXP Increase" />
-	<Item GUID="76" ID="129" Cat="14" Index="133" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite SD Potion" />
+	<Item GUID="76" ID="129" Cat="14" Index="133" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite SD Potion" />
 	<Item GUID="77" ID="130" Cat="13" Index="125" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Open Access Ticket to Doppelganger" />
 	<Item GUID="77" ID="131" Cat="13" Index="125" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Open Access Ticket to Doppelganger" />
 	<Item GUID="78" ID="132" Cat="13" Index="126" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Open Access Ticket to Varka" />
@@ -1349,7 +1349,16 @@
 	<Item GUID="1448" ID="2213" Cat="14" Index="224" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Greater) (50)" />
 	<Item GUID="1449" ID="2215" Cat="14" Index="224" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bless of Light (Greater)" />
 	<Item GUID="1450" ID="2216" Cat="13" Index="3" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="43200" Description="Horn of Dinorant" />
-	<Item GUID="1451" ID="2218" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Talisman of Item Protection" />
-	<Item GUID="1451" ID="2219" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Talisman of Item Protection" />
-	<Item GUID="1451" ID="2220" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="43200" Description="Talisman of Item Protection" />
+	<Item GUID="1451" ID="2218" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="1440" Description="Talisman of Item Protection" />
+	<Item GUID="1451" ID="2219" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="10080" Description="Talisman of Item Protection" />
+	<Item GUID="1451" ID="2220" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="43200" Description="Talisman of Item Protection" />
+	<Item GUID="1452" ID="2221" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="1440" Description="Talisman of Item Protection" />
+	<Item GUID="1452" ID="2222" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="10080" Description="Talisman of Item Protection" />
+	<Item GUID="1452" ID="2223" Cat="13" Index="82" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="43200" Description="Talisman of Item Protection" />
+	<Item GUID="1453" ID="2225" Cat="14" Index="378" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Fire)" />
+	<Item GUID="1454" ID="2227" Cat="14" Index="384" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
+	<Item GUID="1455" ID="2229" Cat="14" Index="378" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Fire)" />
+	<Item GUID="1456" ID="2231" Cat="14" Index="384" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
+	<Item GUID="1457" ID="2233" Cat="14" Index="378" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Fire)" />
+	<Item GUID="1458" ID="2235" Cat="14" Index="384" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
 </CashItemInfo>
