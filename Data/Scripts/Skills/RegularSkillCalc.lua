@@ -115,7 +115,7 @@ end
 
 -- SkillID: 48, Swell Life
 function KnightSkillAddLife(Index, TargetIndex, TargetClass, Vitality, Energy, PartyBonus)
-	local SkillEffect = Vitality / 100 + 12 + Energy / 20 + PartyBonus
+	local SkillEffect = 20
 	local SkillTime = Energy / 10 + 60
 	
 	return SkillEffect, SkillTime

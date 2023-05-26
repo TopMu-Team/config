@@ -227,15 +227,15 @@ function ChaosBlade_4thEnchant_Gladiator(InDamage, Strength, Dexterity, Vitality
     local OutDamage = 0
     
     if (BarrageCount == 1) then
-        OutDamage = (InDamage * 0.8) * ( 200 + ( Strength / 15 ) ) / 100
+        OutDamage = (InDamage * 1.0) * ( 200 + ( Strength / 12 ) ) / 100
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * 1.0) * ( 200 + ( Strength / 15 ) ) / 100
+        OutDamage = (InDamage * 1.2) * ( 200 + ( Strength / 12 ) ) / 100
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * 1.1) * ( 200 + ( Strength / 15 ) ) / 100
+        OutDamage = (InDamage * 1.25) * ( 200 + ( Strength / 12 ) ) / 100
     elseif (BarrageCount == 4) then
-        OutDamage = (InDamage * 1.15) * ( 200 + ( Strength / 15 ) ) / 100		
+        OutDamage = (InDamage * 1.3) * ( 200 + ( Strength / 12 ) ) / 100		
 	elseif(BarrageCount == 5) then -- Explosion
-		OutDamage = (InDamage * 3.5) * ( 200 + ( Strength / 15 ) ) / 100
+		OutDamage = (InDamage * 3.0) * ( 200 + ( Strength / 12 ) ) / 100
     end
     return OutDamage
 end
@@ -344,13 +344,13 @@ function SwordBlow_4thEnchant_Knight(InDamage, Strength, Dexterity, Vitality, En
 	local OutDamage = 0
 
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 0.8) * ((Strength / 10) + (Dexterity / 15) + 200) / 100
+		OutDamage = (InDamage * 0.8) * ((Strength / 40) + (Dexterity / 40) + 200) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.0) * ((Strength / 10) + (Dexterity / 15) + 200) / 100
+		OutDamage = (InDamage * 1.0) * ((Strength / 40) + (Dexterity / 40) + 200) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * 1.2) * ((Strength / 10) + (Dexterity / 15) + 200) / 100
+		OutDamage = (InDamage * 1.2) * ((Strength / 40) + (Dexterity / 40) + 200) / 100
 	elseif (BarrageCount == 4) then
-		OutDamage = (InDamage * 1.4) * ((Strength / 10) + (Dexterity / 15) + 200) / 100
+		OutDamage = (InDamage * 1.4) * ((Strength / 40) + (Dexterity / 40) + 200) / 100
 	end
 
 	return OutDamage
