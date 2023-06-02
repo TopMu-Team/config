@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\1. DataServer\IGC.DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\1. DataServer_BattleCore\IGC.DataServer_B.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\2. ConnectServer\IGC.ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\3. GameServer_Regular\IGC.GameServer_R.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\4. GameServer_Arca\IGC.GameServer_A.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\5. GameServer_Siege\IGC.GameServer_C.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\6. GameServer_Market\IGC.GameServer_M.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\7. ChatServer\IGC.ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\8. GameServer_Instance\IGC.GameServer_I.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\MainServer\9. GameServer_BattleCore\IGC.GameServer_B.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\TestServer\1. DataServer_Test\IGC.DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\config\TestServer\3. GameServer_Regular_Test\IGC.GameServer_R.exe" Parameters="" />
+</Processes>

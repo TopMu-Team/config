@@ -1,0 +1,18 @@
+[10:45:47 PM] ChatServer initialization started
+[10:45:47 PM] [SQL] [Connecting...]
+[10:45:48 PM] 	-> [Success]
+[10:45:48 PM] [Database] Message Logs Cleaner Job Run
+[10:45:48 PM] [ExDB] [IOCP] Connecting 127.0.0.1:56906
+[10:45:48 PM] [ExDB] [IOCP] Connected 127.0.0.1:56906
+[10:45:48 PM] [ExDB] [IOCP] [1992] Connected
+[10:45:49 PM] [ChatServer] [IOCP] Starting TCP 56980
+[10:45:49 PM] [ChatServer] [IOCP] Started TCP 56980
+[11:28:08 PM] ChatServer initialization started
+[11:28:09 PM] [SQL] [Connecting...]
+[11:28:09 PM] 	-> [Success]
+[11:28:09 PM] [Database] Message Logs Cleaner Job Run
+[11:28:09 PM] [ExDB] [IOCP] Connecting 127.0.0.1:56906
+[11:28:09 PM] [ExDB] [IOCP] Connected 127.0.0.1:56906
+[11:28:09 PM] [ExDB] [IOCP] [1992] Connected
+[11:28:10 PM] [ChatServer] [IOCP] Starting TCP 56980
+[11:28:10 PM] [ChatServer] [IOCP] Started TCP 56980

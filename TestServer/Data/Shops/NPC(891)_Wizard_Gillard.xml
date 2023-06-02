@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2019 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// For detailed explanation of the shops system refer to ### Shops System Description ###.txt included in \Data\Shops\
+-->
+
+<Shop>
+	<Tab Id="1">
+		<!-- Dragon Violent Law Book-->
+		<Item Cat="15" Index="48" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Shining Bird Law Book-->
+		<Item Cat="15" Index="47" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Reflection Barrier Book-->
+		<Item Cat="15" Index="50" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Marvel Burst Law Book-->
+		<Item Cat="15" Index="51" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Unleash Marvel's Book-->
+		<Item Cat="15" Index="52" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Beginner Recovery Bead-->
+		<Item Cat="15" Index="57" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Beginner's Treatment Bead-->
+		<Item Cat="15" Index="54" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Beginner Defense Enhancement Bead-->
+		<Item Cat="15" Index="55" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Beginner Attack Power Enhancement Bead-->
+		<Item Cat="15" Index="56" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Beginner Bless Bead-->
+		<Item Cat="15" Index="58" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	</Tab>
+	<Tab Id="2">
+		<!-- Insert shop data here -->
+	</Tab>
+	<Tab Id="3">
+		<!-- Insert shop data here -->
+	</Tab>
+	<Tab Id="4">
+		<!-- Insert shop data here -->
+	</Tab>
+	<Tab Id="5">
+		<!-- Insert shop data here -->
+	</Tab>
+</Shop>

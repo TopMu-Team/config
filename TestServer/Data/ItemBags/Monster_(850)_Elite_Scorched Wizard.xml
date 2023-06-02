@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_(850)_Elite_Scorched Wizard" ItemRate="10000" SetItemRate="0" SetItemCount="1" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" PartyDropRate="0" PartyShareType="0" PartyOneDropOnly="0" />
+	<AddCoin Enable="0" CoinType="0" CoinValue="0" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
+	<Ruud GainRate="7500" MinValue="1500" MaxValue="1500" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropSection DisplayName="Section 1" UseMode="-1">
+		<DropAllow DW="1" DK="1" ELF="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SLA="1" GC="1" LW="1" LM="1" IK="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" MapNumber="-1" DisplayName="DropAllow">
+			<Drop Rate="3000" Count="1" Type="0">
+				<!--Silver Heart Illusion Knight Helmet-->
+				<Item Cat="7" Index="311" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silver Heart Illusion Knight Armor-->
+				<Item Cat="8" Index="311" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silver Heart Illusion Knight Pants-->
+				<Item Cat="9" Index="311" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silver Heart Illusion Knight Gloves-->
+				<Item Cat="10" Index="311" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silver Heart Illusion Knight Boots-->
+				<Item Cat="11" Index="311" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Runist Helm-->
+				<Item Cat="7" Index="199" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Knight Helm-->
+				<Item Cat="7" Index="189" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silver Heart Wizard Helm-->
+				<Item Cat="7" Index="190" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Helm (A)-->
+				<Item Cat="7" Index="191" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Summoner Helm-->
+				<Item Cat="7" Index="192" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lord Helm-->
+				<Item Cat="7" Index="194" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Fighter Helm-->
+				<Item Cat="7" Index="195" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lancer Helm-->
+				<Item Cat="7" Index="196" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Helm (B)-->
+				<Item Cat="7" Index="197" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Runist Armor-->
+				<Item Cat="8" Index="199" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Knight Armor-->
+				<Item Cat="8" Index="189" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Wizard Armor-->
+				<Item Cat="8" Index="190" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Armor (A)-->
+				<Item Cat="8" Index="191" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Summoner Armor-->
+				<Item Cat="8" Index="192" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Armor (A)-->
+				<Item Cat="8" Index="193" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lord Armor-->
+				<Item Cat="8" Index="194" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Fighter Armor-->
+				<Item Cat="8" Index="195" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lancer Armor-->
+				<Item Cat="8" Index="196" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Armor (B)-->
+				<Item Cat="8" Index="197" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Armor (B)-->
+				<Item Cat="8" Index="198" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Runist Pants-->
+				<Item Cat="9" Index="199" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Knight Pants-->
+				<Item Cat="9" Index="189" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Wizard Pants-->
+				<Item Cat="9" Index="190" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Pants (A)-->
+				<Item Cat="9" Index="191" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Summoner Pants-->
+				<Item Cat="9" Index="192" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Pants (A)-->
+				<Item Cat="9" Index="193" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lord Pants-->
+				<Item Cat="9" Index="194" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Fighter Pants-->
+				<Item Cat="9" Index="195" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lancer Pants-->
+				<Item Cat="9" Index="196" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Pants (B)-->
+				<Item Cat="9" Index="197" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Pants (B)-->
+				<Item Cat="9" Index="198" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Runist Gloves-->
+				<Item Cat="10" Index="199" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Knight Gloves-->
+				<Item Cat="10" Index="189" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Wizard Gloves-->
+				<Item Cat="10" Index="190" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Gloves (A)-->
+				<Item Cat="10" Index="191" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Summoner Gloves-->
+				<Item Cat="10" Index="192" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Gloves (A)-->
+				<Item Cat="10" Index="193" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lord Gloves-->
+				<Item Cat="10" Index="194" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lancer Gloves-->
+				<Item Cat="10" Index="196" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Gloves (B)-->
+				<Item Cat="10" Index="197" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Gloves (B)-->
+				<Item Cat="10" Index="198" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Runist Boots-->
+				<Item Cat="11" Index="199" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Knight Boots-->
+				<Item Cat="11" Index="189" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Wizard Boots-->
+				<Item Cat="11" Index="190" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Boots (A)-->
+				<Item Cat="11" Index="191" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Summoner Boots-->
+				<Item Cat="11" Index="192" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Boots (A)-->
+				<Item Cat="11" Index="193" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lord Boots-->
+				<Item Cat="11" Index="194" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Fighter Boots-->
+				<Item Cat="11" Index="195" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Lancer Boots-->
+				<Item Cat="11" Index="196" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Elf Boots (B)-->
+				<Item Cat="11" Index="197" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Silverheart Magic Boots (B)-->
+				<Item Cat="11" Index="198" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			</Drop>
+			<Drop Rate="3000" Count="1" Type="0">
+				<!--Guardian Elite Opt Change Pcs-->
+				<Item Cat="14" Index="469" ItemMinLevel="0" ItemMaxLevel="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" ElementalItem="-1" />
+				<!--Sealed Armor Sculpture-->
+				<Item Cat="14" Index="471" ItemMinLevel="0" ItemMaxLevel="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" ElementalItem="-1" />
+			</Drop>
+			<Drop Rate="4000" Count="5" Type="0">
+				<!--Jewel of Bless-->
+				<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Soul-->
+				<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Life-->
+				<Item Cat="14" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Creation-->
+				<Item Cat="14" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Jewel of Harmony-->
+				<Item Cat="14" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Golden Sentence-->
+				<Item Cat="13" Index="468" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Elite Guardian Enhanced-->
+				<Item Cat="14" Index="468" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+				<!--Guardian Enhanced Stone-->
+				<Item Cat="14" Index="467" ItemMinLevel="0" ItemMaxLevel="0" Durability="15" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			</Drop>
+		</DropAllow>
+	</DropSection>
+</ItemBag>

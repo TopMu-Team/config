@@ -1,0 +1,234 @@
+[22:30:54] SELECT * FROM IGC_MonsterSoul_Config
+[22:30:54] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[22:30:54] EXEC IGC_PersonalStore_LoadAllStores
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 52
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 64
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 65
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 66
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 67
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 68
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 53
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 69
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 70
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 71
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 72
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 54
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 73
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 74
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 75
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 76
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 77
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 55
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 78
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 79
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 80
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 81
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 82
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 56
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 83
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 84
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 85
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 86
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 87
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 57
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 88
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 89
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 90
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 91
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 92
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 58
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 93
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 94
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 95
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 96
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 97
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 27
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 28
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 32
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 50
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 54
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 55
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 56
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 57
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 58
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 51
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 59
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 60
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 61
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 62
+[22:30:54] EXEC IGC_PersonalStore_LoadItem 63
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 49
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 39
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 30
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 31
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 32
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 33
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 34
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 35
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 36
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 37
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 38
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 40
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 41
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 42
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 43
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 44
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 45
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 46
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 47
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 48
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 1
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 2
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 3
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 4
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 11
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 6
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 7
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 10
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 12
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 13
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 14
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 15
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 16
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 17
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 18
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 19
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 20
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 21
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 22
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 23
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 24
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 25
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 26
+[22:30:54] EXEC IGC_PersonalStore_LoadOffer 29
+[22:30:54] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[22:30:54] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[22:30:54] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[22:30:54] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[22:30:54] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[22:30:54] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
+[22:30:54] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
+[22:30:54] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
+[22:30:55] EXEC IGC_DeleteAllPartyMatchingList
+[22:30:55] EXEC IGC_LoadPartyInfo
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 3
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 8
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 30
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 33
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 35
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 36
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 37
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 39
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 41
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 44
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 45
+[22:30:55] EXEC IGC_LoadPartyMemberInfo 46
+[22:30:55] SELECT * FROM Guild
+[22:30:55] SELECT G_Notice FROM Guild WHERE G_Name='Admin'
+[22:30:55] SELECT G_Mark FROM Guild WHERE G_Name='Admin'
+[22:30:55] SELECT * FROM GuildMember WHERE G_Name = 'Admin'
+[22:31:10] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:10] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:10] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:10] SELECT * FROM DefaultClassType
+[22:31:11] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:11] EXEC IGC_ArcaBattleProcSelect
+[22:31:13] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:13] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:13] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:13] SELECT * FROM DefaultClassType
+[22:31:14] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:14] EXEC IGC_ArcaBattleProcSelect
+[22:31:20] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:20] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:20] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:20] SELECT * FROM DefaultClassType
+[22:31:21] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:21] EXEC IGC_ArcaBattleProcSelect
+[22:31:27] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:27] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:27] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:27] SELECT * FROM DefaultClassType
+[22:31:28] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:28] EXEC IGC_ArcaBattleProcSelect
+[22:31:34] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:34] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:34] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:34] SELECT * FROM DefaultClassType
+[22:31:35] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:35] EXEC IGC_ArcaBattleProcInsert 1
+[22:31:37] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:37] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:37] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:37] SELECT * FROM DefaultClassType
+[22:31:38] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:38] EXEC IGC_ArcaBattleProcSelect
+[22:31:38] EXEC WZ_CS_GetCastleTotalInfo 0, 14
+[22:31:38] EXEC WZ_CS_GetCastleNpcInfo 0
+[22:31:38] EXEC WZ_CW_InfoLoad 0
+[22:31:44] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:44] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:44] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:44] SELECT * FROM DefaultClassType
+[22:31:45] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:45] EXEC IGC_ArcaBattleProcSelect
+[22:31:55] SELECT OWNER_GUILD FROM MuCastle_DATA
+[22:31:55] SELECT G_Master FROM Guild WHERE G_Name=''
+[22:31:55] SELECT AccountID FROM Character WHERE Name = ''
+[22:31:55] SELECT * FROM DefaultClassType
+[22:31:56] SELECT * FROM IGC_LabyrinthLeagueUser ORDER BY GroupLevel ASC, GroupNum ASC
+[22:31:56] DELETE FROM IGC_LabyrinthLeagueUser
+[22:31:56] EXEC IGC_Labyrinth_LeagueAddUser 'hoaitan92', 'iSunz', 2, 0, -1
+[22:31:56] EXEC IGC_ArcaBattleWinGuildSelect
+[22:31:56] EXEC IGC_ArcaBattleProcSelect
+[22:32:45] SELECT * FROM MEMB_INFO WHERE memb___id='admin'
+[22:32:45] SELECT memb__pwd from MEMB_INFO where memb___id='admin'
+[22:32:45] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '1051-2C35-2DD0-9119-3A4E-C6D8-450E-A3FB'
+[22:32:45] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('admin','Maya','14.191.215.173', GETDATE(), 'Connect', '1051-2C35-2DD0-9119-3A4E-C6D8-450E-A3FB')
+[22:32:45] EXEC WZ_CONNECT_MEMB 'admin','Maya','14.191.215.173'
+[22:32:45] EXEC VIPSystem_CheckAccount 'admin'
+[22:32:45] SELECT Id FROM AccountCharacter WHERE Id='admin'
+[22:32:45] SELECT * FROM AccountCharacter WHERE Id='admin'
+[22:32:45] SELECT WarehouseExpansion, MagicGladiator, DarkLord, Summoner, RageFighter, GrowLancer, RuneWizard, Slayer, GunCrusher, LightWizard, LemuriaMage, IllusionKnight, SecCode, ILC FROM AccountCharacter WHERE Id='admin'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='testmg'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='testmg'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='testmg'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='testmg'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='testsum'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='testsum'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='testsum'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='testsum'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='testrw'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='testrw'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='testrw'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='testrw'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='testslayer'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='testslayer'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='testslayer'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='testslayer'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='testdw'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='testdw'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='testdw'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='testdw'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='aas22'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='aas22'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='aas22'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='aas22'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='testgl'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='testgl'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='testgl'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='testgl'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='ass22'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='ass22'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='ass22'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='ass22'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='aa2222'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='aa2222'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='aa2222'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='aa2222'
+[22:32:45] SELECT cLevel, mLevel, Class, CtlCode FROM vCharacterPreview WHERE Name='123232'
+[22:32:45] SELECT Inventory FROM Character WHERE Name='123232'
+[22:32:45] SELECT RESETS FROM Character WHERE Name='123232'
+[22:32:45] SELECT G_Status FROM GuildMember WHERE Name='123232'
+[22:32:45] INSERT INTO ConnectionHistory (AccountID, ServerName, IP, Date, State, HWID) Values('admin','Maya','14.191.215.173', GETDATE(), 'Disconnect', 'N/A')
+[22:32:45] EXEC WZ_DISCONNECT_MEMB 'admin'

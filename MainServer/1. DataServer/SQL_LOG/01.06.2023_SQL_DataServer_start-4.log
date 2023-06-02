@@ -1,0 +1,165 @@
+[23:27:38] SELECT * FROM IGC_MonsterSoul_Config
+[23:27:38] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[23:27:38] EXEC IGC_PersonalStore_LoadAllStores
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 52
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 64
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 65
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 66
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 67
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 68
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 53
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 69
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 70
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 71
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 72
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 54
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 73
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 74
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 75
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 76
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 77
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 55
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 78
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 79
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 80
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 81
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 82
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 56
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 83
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 84
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 85
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 86
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 87
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 57
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 88
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 89
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 90
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 91
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 92
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 58
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 93
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 94
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 95
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 96
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 97
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 27
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 28
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 32
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 50
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 54
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 55
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 56
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 57
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 58
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 51
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 59
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 60
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 61
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 62
+[23:27:38] EXEC IGC_PersonalStore_LoadItem 63
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 49
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 39
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 30
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 31
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 32
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 33
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 34
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 35
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 36
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 37
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 38
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 40
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 41
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 42
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 43
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 44
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 45
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 46
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 47
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 48
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 1
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 2
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 3
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 4
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 11
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 6
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 7
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 10
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 12
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 13
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 14
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 15
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 16
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 17
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 18
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 19
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 20
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 21
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 22
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 23
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 24
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 25
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 26
+[23:27:38] EXEC IGC_PersonalStore_LoadOffer 29
+[23:27:38] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[23:27:38] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[23:27:38] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[23:27:38] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[23:27:38] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[23:27:38] SELECT GensRankingMonth FROM GameServerInfo WHERE Number=0
+[23:27:38] SELECT * From IGC_Gens WHERE Influence=1 ORDER By Points DESC
+[23:27:38] SELECT * From IGC_Gens WHERE Influence=2 ORDER By Points DESC
+[23:27:38] EXEC IGC_DeleteAllPartyMatchingList
+[23:27:38] EXEC IGC_LoadPartyInfo
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 3
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 8
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 30
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 33
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 35
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 36
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 37
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 39
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 41
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 44
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 45
+[23:27:38] EXEC IGC_LoadPartyMemberInfo 46
+[23:27:38] SELECT * FROM Guild
+[23:27:38] SELECT G_Notice FROM Guild WHERE G_Name='Admin'
+[23:27:38] SELECT G_Mark FROM Guild WHERE G_Name='Admin'
+[23:27:38] SELECT * FROM GuildMember WHERE G_Name = 'Admin'
+[23:27:54] SELECT OWNER_GUILD FROM MuCastle_DATA
+[23:27:54] SELECT G_Master FROM Guild WHERE G_Name=''
+[23:27:54] SELECT AccountID FROM Character WHERE Name = ''
+[23:27:54] SELECT * FROM DefaultClassType
+[23:27:55] EXEC IGC_ArcaBattleWinGuildSelect
+[23:27:55] EXEC IGC_ArcaBattleProcSelect
+[23:27:56] SELECT OWNER_GUILD FROM MuCastle_DATA
+[23:27:56] SELECT G_Master FROM Guild WHERE G_Name=''
+[23:27:56] SELECT AccountID FROM Character WHERE Name = ''
+[23:27:56] SELECT * FROM DefaultClassType
+[23:27:57] EXEC IGC_ArcaBattleWinGuildSelect
+[23:27:57] EXEC IGC_ArcaBattleProcInsert 1
+[23:28:03] SELECT OWNER_GUILD FROM MuCastle_DATA
+[23:28:03] SELECT G_Master FROM Guild WHERE G_Name=''
+[23:28:03] SELECT AccountID FROM Character WHERE Name = ''
+[23:28:03] SELECT * FROM DefaultClassType
+[23:28:04] EXEC IGC_ArcaBattleWinGuildSelect
+[23:28:04] EXEC IGC_ArcaBattleProcSelect
+[23:28:04] EXEC WZ_CS_GetCastleTotalInfo 0, 14
+[23:28:04] EXEC WZ_CS_GetCastleNpcInfo 0
+[23:28:04] EXEC WZ_CW_InfoLoad 0
+[23:28:06] SELECT OWNER_GUILD FROM MuCastle_DATA
+[23:28:06] SELECT G_Master FROM Guild WHERE G_Name=''
+[23:28:06] SELECT AccountID FROM Character WHERE Name = ''
+[23:28:06] SELECT * FROM DefaultClassType
+[23:28:07] EXEC IGC_ArcaBattleWinGuildSelect
+[23:28:07] EXEC IGC_ArcaBattleProcSelect
+[23:28:16] SELECT OWNER_GUILD FROM MuCastle_DATA
+[23:28:16] SELECT G_Master FROM Guild WHERE G_Name=''
+[23:28:16] SELECT AccountID FROM Character WHERE Name = ''
+[23:28:16] SELECT * FROM DefaultClassType
+[23:28:17] SELECT * FROM IGC_LabyrinthLeagueUser ORDER BY GroupLevel ASC, GroupNum ASC
+[23:28:17] DELETE FROM IGC_LabyrinthLeagueUser
+[23:28:17] EXEC IGC_Labyrinth_LeagueAddUser 'hoaitan92', 'iSunz', 2, 0, -1
+[23:28:17] EXEC IGC_ArcaBattleWinGuildSelect
+[23:28:17] EXEC IGC_ArcaBattleProcSelect

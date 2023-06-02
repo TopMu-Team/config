@@ -1,0 +1,21 @@
+[22:30:57] Initializing...
+[22:30:57] DataServer(e) version: 18.1.3.18 S Compiled at: May 30 2023 16:34:26
+[22:30:57] IP Address 15.235.181.48 valid, no resolving required
+[22:30:57] Characte creation method load OK
+[22:30:57] Current Global Connections Limit (IP) per ServerGroup, General: 5 OffPlayer: (3)
+[22:30:57] Current Global Connections Limit (HWID) per ServerGroup, General: 5 OffPlayer: (3)
+[22:30:57] .\AllowedIPList.xml File Loaded successfuly
+[22:30:58] [DataServer] ItemCount: 0
+[22:30:58] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 50)
+[22:30:58] [JoinServer] Password Encrypt Type: MD5
+[22:30:58] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[22:30:58] [ExDB] Guild Load Completed, total:0, Time:0 ms
+[22:30:58] [IOCP] ST_JOINSERVER Start! PORT [ 56770 ]
+[22:30:58] [IOCP] ST_DATASERVER Start! PORT [ 56760 ]
+[22:30:58] [IOCP] ST_EXDATASERVER Start! PORT [ 56706 ]
+[22:30:59] License Information:
+[22:30:59] Customer: hào nguy?n - haonhien Server: TopMu
+[22:31:58] [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[22:31:58] [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[22:31:58] [Join Server] GameServer Battle Core connected BattleCore, PORT: 56120, Code: 480, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[22:31:58] [DataServer] GameServer(Battle Core)(480)(24) connect

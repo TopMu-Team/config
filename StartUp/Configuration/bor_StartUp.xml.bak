@@ -1,8 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Processes>
-  <Process Run="True" Delay="1000" Path="C:\MuSS8\ConnectServer\ConnectServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\MuSS8\DataServer\DataServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\MuSS8\JoinServer\JoinServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\MuSS8\MHPServer\MHPServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\MuSS8\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\1. DataServer\IGC.DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\1. DataServer_BattleCore\IGC.DataServer_B.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\2. ConnectServer\IGC.ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\3. GameServer_Regular\IGC.GameServer_R.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\3. GameServer_Regular_1\IGC.GameServer_R.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\3. GameServer_Regular_2\IGC.GameServer_R.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\3. GameServer_Regular_3\IGC.GameServer_R.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\4. GameServer_Arca\IGC.GameServer_A.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\5. GameServer_Siege\IGC.GameServer_C.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\6. GameServer_Market\IGC.GameServer_M.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\7. ChatServer\IGC.ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\8. GameServer_Instance\IGC.GameServer_I.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\Users\admin\source-game\Server\Files\9. GameServer_BattleCore\IGC.GameServer_B.exe" Parameters="" />
 </Processes>

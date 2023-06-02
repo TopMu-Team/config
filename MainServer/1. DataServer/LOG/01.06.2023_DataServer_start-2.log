@@ -1,0 +1,92 @@
+[22:33:27] Initializing...
+[22:33:27] DataServer(e) version: 18.1.3.18 S Compiled at: May 30 2023 16:34:26
+[22:33:29] IP Address PUBLIC_IP invalid, please configure WanIP in IGCDS.ini with proper hostname or IP address
+[22:33:29] Characte creation method load OK
+[22:33:29] Current Global Connections Limit (IP) per ServerGroup, General: 5 OffPlayer: (3)
+[22:33:29] Current Global Connections Limit (HWID) per ServerGroup, General: 5 OffPlayer: (3)
+[22:33:29] .\AllowedIPList.xml File Loaded successfuly
+[22:33:29] ..\\Data\\GensSystem.xml file loaded OK
+[22:33:30] [DataServer] ItemCount: 495903
+[22:33:30] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 50)
+[22:33:30] [JoinServer] Password Encrypt Type: MD5
+[22:33:30] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[22:33:30] [ExDB][Gens System] Initializing Gens...
+[22:33:30] [ExDB][Gens System] Current Month: 6
+[22:33:30] [Gens System] Ranking Making [START]
+[22:33:30] [Gens System] RANKING (DUPRIAN): [NAME:DKVN] [CONTRIBUTION:10] [CLASS:14] [RANK:1]
+[22:33:30] [Gens System] RANKING (DUPRIAN): [NAME:DyDyDy] [CONTRIBUTION:10] [CLASS:14] [RANK:2]
+[22:33:30] [Gens System] RANKING (DUPRIAN): [NAME:lallala] [CONTRIBUTION:10] [CLASS:14] [RANK:3]
+[22:33:30] [Gens System] RANKING (DUPRIAN): [NAME:testdk] [CONTRIBUTION:10] [CLASS:14] [RANK:4]
+[22:33:30] [Gens System] RANKING (DUPRIAN): [NAME:xxxLumiaxx] [CONTRIBUTION:10] [CLASS:14] [RANK:5]
+[22:33:30] [Gens System] RANKING (VANERT): [NAME:DLzzzzzDL] [CONTRIBUTION:10] [CLASS:14] [RANK:1]
+[22:33:30] [Gens System] RANKING (VANERT): [NAME:DungLaXuc] [CONTRIBUTION:10] [CLASS:14] [RANK:2]
+[22:33:30] [Gens System] RANKING (VANERT): [NAME:KDzzzzzKD] [CONTRIBUTION:10] [CLASS:14] [RANK:3]
+[22:33:30] [Gens System] RANKING (VANERT): [NAME:NAMI] [CONTRIBUTION:10] [CLASS:14] [RANK:4]
+[22:33:30] [Gens System] RANKING (VANERT): [NAME:TIMON] [CONTRIBUTION:10] [CLASS:14] [RANK:5]
+[22:33:30] [Gens System] (D:0.00) VS (V:0.00)
+[22:33:30] [Gens System] Ranking Making [END]
+[22:33:30] [PMATCHING][CreateParty]Leader:RedHair TotalPartyCnt:1 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:ThuHa TotalPartyCnt:2 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:IIIIIIII TotalPartyCnt:3 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:xxxLumiaxx TotalPartyCnt:4 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:zZChipbeZz TotalPartyCnt:5 - Success
+[22:33:30] [PMATCHING][AddPartyMember]Leader:zZChipbeZz, Member:ChymDep, MemberCnt:2
+[22:33:30] [PMATCHING][CreateParty]Leader:Knight TotalPartyCnt:6 - Success
+[22:33:30] [PMATCHING][AddPartyMember]Leader:Knight, Member:Merlin, MemberCnt:2
+[22:33:30] [PMATCHING][CreateParty]Leader:MKngiht TotalPartyCnt:7 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:NoFear TotalPartyCnt:8 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:ConMeNo TotalPartyCnt:9 - Success
+[22:33:30] [PMATCHING][AddPartyMember]Leader:ConMeNo, Member:Lumeria, MemberCnt:2
+[22:33:30] [PMATCHING][CreateParty]Leader:thuyzDKz TotalPartyCnt:10 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:thuyzELFz TotalPartyCnt:11 - Success
+[22:33:30] [PMATCHING][CreateParty]Leader:QuetQuet TotalPartyCnt:12 - Success
+[22:33:30] [Admin] Create Guild Master = testdk
+[22:33:30] [ExDB] Guild Load Completed, total:1, Time:15 ms
+[22:33:30] [IOCP] ST_JOINSERVER Start! PORT [ 56970 ]
+[22:33:30] [IOCP] ST_DATASERVER Start! PORT [ 56960 ]
+[22:33:30] [IOCP] ST_EXDATASERVER Start! PORT [ 56906 ]
+[22:33:31] License Information:
+[22:33:31] Customer: hào nguy?n - haonhien Server: TopMu
+[22:33:44] [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[22:33:44] [Join Server] GameServer Arca connected Arca, PORT: 56913, Code: 13, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[22:33:44] [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[22:33:44] [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 3
+[22:33:44] [DataServer] GameServer(Arca)(13)(0) connect
+[22:33:44] [ExDB] GameServer [Arca] with ServerCode[13] connected.
+[22:33:44] Siege Guild , Master 
+[22:33:48] [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 1
+[22:33:48] [Server Engine] Connect : Index : 4 - IP : 127.0.0.1 - ServerType : 2
+[22:33:48] [Join Server] GameServer Siege connected Siege, PORT: 56914, Code: 14, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[22:33:48] [DataServer] GameServer(Siege)(14)(0) connect
+[22:33:48] [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 3
+[22:33:48] [ExDB] GameServer [Siege] with ServerCode[14] connected.
+[22:33:48] Siege Guild , Master 
+[22:33:54] [Server Engine] Connect : Index : 6 - IP : 127.0.0.1 - ServerType : 1
+[22:33:54] [Join Server] GameServer Market connected Market, PORT: 56912, Code: 12, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[22:33:54] [Server Engine] Connect : Index : 7 - IP : 127.0.0.1 - ServerType : 2
+[22:33:54] [Server Engine] Connect : Index : 8 - IP : 127.0.0.1 - ServerType : 3
+[22:33:54] [ExDB] GameServer [Market] with ServerCode[12] connected.
+[22:33:54] [DataServer] GameServer(Market)(12)(0) connect
+[22:33:54] Siege Guild , Master 
+[22:33:57] [Server Engine] Connect : Index : 9 - IP : 127.0.0.1 - ServerType : 3
+[22:33:58] [ChatServer] Chat Server Connected
+[22:34:04] [Server Engine] Connect : Index : 10 - IP : 127.0.0.1 - ServerType : 1
+[22:34:04] [Join Server] GameServer Instance connected Instance, PORT: 56915, Code: 15, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[22:34:04] [Server Engine] Connect : Index : 11 - IP : 127.0.0.1 - ServerType : 2
+[22:34:04] [Server Engine] Connect : Index : 12 - IP : 127.0.0.1 - ServerType : 3
+[22:34:04] [ExDB] GameServer [Instance] with ServerCode[15] connected.
+[22:34:04] [DataServer] GameServer(Instance)(15)(0) connect
+[22:34:04] Siege Guild , Master 
+[22:34:17] [Server Engine] Connect : Index : 13 - IP : 127.0.0.1 - ServerType : 1
+[22:34:17] [Join Server] GameServer Normal connected Maya, PORT: 56900, Code: 0, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[22:34:17] [Server Engine] Connect : Index : 14 - IP : 127.0.0.1 - ServerType : 2
+[22:34:17] [Server Engine] Connect : Index : 15 - IP : 127.0.0.1 - ServerType : 3
+[22:34:17] [ExDB] GameServer [Normal] with ServerCode[0] connected.
+[22:34:17] [DataServer] GameServer(Normal)(0)(0) connect
+[22:34:17] Siege Guild , Master 
+[22:35:02] [JoinServer] Add User (admin)(Guid: 1) (ServerCode:0) (ServerGroup:0) (UserIndex:20600) (IP:14.191.215.173) (HWID:1051-2C35-2DD0-9119-3A4E-C6D8-450E-A3FB)
+[22:35:02] [admin] - characters: [testmg][testsum][testrw][testslayer][testdw][aas22][testgl][ass22][aa2222][123232]
+[22:35:02] [admin] - Account Data: [MG:0][DL:0][SU:0][RF:0][GL:0][RW:0][SL:0][GC:0][LW:0][LM:0][IK:0][Expanded WH:0]
+[22:35:04] [ExDB] Friend Login request : testmg 20600 server:0
+[22:35:04] [20600] New Friend Master = testmg
+[22:35:04] [ExDB][Gens System] [testmg] Get Data from DB [I:0] [P:0] [C:0] [RANK:0]
