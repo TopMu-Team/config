@@ -250,6 +250,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,106),0, 'Item_(20,106,0)_Spider_Artifact_6_7_Box') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,107),0, 'Item_(20,107,0)_Artifact_Enchantment_Stone_Box') -- DropFunction /4/
 	-- AddItemBag(BAG_INVENTORY, MakeItemID(14,441),0, 'Item_(14,441,0)_Three_Vacancy_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(14,441),0, 'Item_(14,441,0)_Lapidary_Stone_Box') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,442),0, 'Item_(14,442,0)_Shiny_Earring_Box_(Left)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,443),0, 'Item_(14,443,0)_Shiny_Earring_Box_(Right)') -- DropFunction /4/
 	--AddItemBag(BAG_INVENTORY, MakeItemID(14,445),0, 'Item_(14,445,0)_Box_of_Blessing') -- DropFunction /4/
@@ -280,7 +281,21 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,75),0, 'Item_(20,75,0)_Blood_Angel_Armor_Box_(4)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,76),0, 'Item_(20,76,0)_Blood_Angel_Weapon_Box') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,78),0, 'Item_(20,78,0)_Harmony_Jewel_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,85),0, 'Item_(20,85,0)_[Bound]_+13_Third_Wing_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,86),0, 'Item_(20,86,0)_[Speed]_Earring_Box_(Right)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,103),0, 'Item_(20,103,0)_Spider_Artifact_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,106),0, 'Item_(20,106,0)_Spider_Artifact_6_7_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,107),0, 'Item_(20,107,0)_Artifact_Enchantment_Stone_Box') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,110),0, 'Item_(20,110,0)_Boss_Battle_Bonus_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,120),0, 'Item_(20,120,0)_Elixir_Jar') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,121),0, 'Item_(20,121,0)_[Bound]_Brilliant_Amulet_Box') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,125),0, 'Item_(20,125,0)_Ruud_Box_(10000)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,142),0, 'Item_(20,142,0)_Tempest_Muun Egg_(Amplified)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,143),0, 'Item_(20,143,0)_Tempest_Muun_Box_(Amplified)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,144),0, 'Item_(20,144,0)_Tempest_Muun_Evolution_Stone_Box_(Amplified)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,145),0, 'Item_(20,145,0)_Tempest_Muun_Egg_(Wide)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,146),0, 'Item_(20,146,0)_Tempest_Muun_Box_(Wide)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,110),0, 'Item_(20,147,0)_Tempest_Muun_Evolution_Stone_Box_(Wide)') -- DropFunction /4/
 
 -- ====================================================================
 -- MonsterBags -- BagType, 0, MonsterID, 'FileName'
@@ -372,6 +387,9 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,908,'Monster_(908_909_910)') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,909,'Monster_(908_909_910)') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,910,'Monster_(908_909_910)') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,930,'Monster_(930)_Elite_Bloody_Wolf_of_Fresh_Blood') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,931,'Monster_(931)_Elite_Bloody_Beam_Knight') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,932,'Monster_(932)_Elite_Bloody_Tantalus') -- DropFunction /2/
 
 -- ====================================================================
 -- EventBags -- BagType, EventID, 0, 'FileName'
