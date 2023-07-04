@@ -295,7 +295,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,144),0, 'Item_(20,144,0)_Tempest_Muun_Evolution_Stone_Box_(Amplified)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,145),0, 'Item_(20,145,0)_Tempest_Muun_Egg_(Wide)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,146),0, 'Item_(20,146,0)_Tempest_Muun_Box_(Wide)') -- DropFunction /4/
-	AddItemBag(BAG_INVENTORY, MakeItemID(20,110),0, 'Item_(20,147,0)_Tempest_Muun_Evolution_Stone_Box_(Wide)') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,147),0, 'Item_(20,147,0)_Tempest_Muun_Evolution_Stone_Box_(Wide)') -- DropFunction /4/
 
 -- ====================================================================
 -- MonsterBags -- BagType, 0, MonsterID, 'FileName'
@@ -683,10 +683,11 @@ function CommonBagItemDrop(aIndex, MapNumber, X, Y)
 	end
 	
 	-- Protection against unsupported options for EvolutionStone item
-	if (ItemID == MakeItemID(16,211)) then
+	if (ItemID == MakeItemID(16, 211) or ItemID == MakeItemID(16, 510)) then
 		if (ItemInfo.MuunEvolutionItemType == 13) then
 			ItemInfo.MuunEvolutionItemType = 16
 		end
+		
 		MuunEvoItemID = MakeItemID(ItemInfo.MuunEvolutionItemType, ItemInfo.MuunEvolutionItemIndex)
 		IsSkill = 0
 		IsLuck = 0
@@ -887,7 +888,7 @@ function MonsterBagItemDrop(MonsterIndex, MapNumber, MonsterX, MonsterY, PlayerI
 	end
 
 	-- Protection against unsupported options for EvolutionStone item
-	if (ItemID == MakeItemID(16,211)) then
+	if (ItemID == MakeItemID(16, 211) or ItemID == MakeItemID(16, 510)) then
 		if (ItemInfo.MuunEvolutionItemType == 13) then
 			ItemInfo.MuunEvolutionItemType = 16
 		end
@@ -1092,7 +1093,7 @@ function EventBagItemDrop(MonsterIndex, MapNumber, MonsterX, MonsterY, PlayerInd
 	end
 
 	-- Protection against unsupported options for EvolutionStone item
-	if (ItemID == MakeItemID(16,211)) then
+	if (ItemID == MakeItemID(16, 211) or ItemID == MakeItemID(16, 510)) then
 		if (ItemInfo.MuunEvolutionItemType == 13) then
 			ItemInfo.MuunEvolutionItemType = 16
 		end
@@ -1301,10 +1302,11 @@ function EventBagMakeItem()
 	end
 
 	-- Protection against unsupported options for EvolutionStone item
-	if (ItemID == MakeItemID(16,211)) then
+	if (ItemID == MakeItemID(16, 211) or ItemID == MakeItemID(16, 510)) then
 		if (ItemInfo.MuunEvolutionItemType == 13) then
 			ItemInfo.MuunEvolutionItemType = 16
 		end
+		
 		MuunEvoItemID = MakeItemID(ItemInfo.MuunEvolutionItemType, ItemInfo.MuunEvolutionItemIndex)
 		IsSkill = 0
 		IsLuck = 0
@@ -1504,7 +1506,7 @@ function InventoryBagItemCreate(aIndex)
 	end
 
 	-- Protection against unsupported options for EvolutionStone item
-	if (ItemID == MakeItemID(16,211)) then
+	if (ItemID == MakeItemID(16, 211) or ItemID == MakeItemID(16, 510)) then
 		if (ItemInfo.MuunEvolutionItemType == 13) then
 			ItemInfo.MuunEvolutionItemType = 16
 		end
