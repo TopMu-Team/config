@@ -1,8 +1,0 @@
-[01:57:39] Initializing...
-[01:57:39] DataServer(e) version: 18.1.3.6 S2 Compiled at: Mar  3 2023 12:32:25
-[01:57:41] IP Address PUBLIC_IP invalid, please configure WanIP in IGCDS.ini with proper hostname or IP address
-[01:57:41] Characte creation method load OK
-[01:57:41] Current Global Connections Limit (HWiD) per ServerGroup: 3
-[01:57:41] .\AllowedIPList.xml File Loaded successfuly
-[01:57:41] ..\\Data\\GensSystem.xml file loaded OK
-[01:57:42] [DataServer] ItemCount: 81233
