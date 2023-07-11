@@ -1361,4 +1361,14 @@
 	<Item GUID="1456" ID="2231" Cat="14" Index="384" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
 	<Item GUID="1457" ID="2233" Cat="14" Index="378" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Seed Capsule (Fire)" />
 	<Item GUID="1458" ID="2235" Cat="14" Index="384" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sphere Upgrade Rune Capsule" />
+	<Item GUID="1459" ID="2236" Cat="20" Index="124" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="4" Duration="1" Description="Premium Pass Voucher" />
+	<Item GUID="1460" ID="2238" Cat="20" Index="122" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Pass Ticket" />
+	<Item GUID="1461" ID="2240" Cat="20" Index="123" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Pass Ticket X1" />
+	<Item GUID="1462" ID="2242" Cat="20" Index="124" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="6" Duration="1" Description="Premium Pass Voucher" />
+	<Item GUID="1463" ID="2244" Cat="20" Index="123" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="6" Duration="1" Description="Premium Pass Voucher" />
+	<Item GUID="1464" ID="2246" Cat="20" Index="124" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="6" Duration="1" Description="Premium Pass Voucher" />
+	<Item GUID="1465" ID="2248" Cat="20" Index="123" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="6" Duration="1" Description="Gold Pass Voucher" />
+	<Item GUID="1466" ID="2250" Cat="20" Index="122" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Pass Ticket" />
+	<Item GUID="1467" ID="2252" Cat="20" Index="122" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Pass Ticket X1" />
+	<Item GUID="1467" ID="2253" Cat="20" Index="122" Level="0" Durability="5" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Pass Ticket X5" />
 </CashItemInfo>
