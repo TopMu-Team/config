@@ -11,6 +11,11 @@
 
 -- Any Custom chances to the script are out of support scope
 
+-- Define Bag Use Types
+	BAG_REWARD_GROUND = 0
+	BAG_REWARD_INVENTORY = 1
+	BAG_REWARD_GREMORY_CASE = 2
+	
 -- Define Bag Types
 	BAG_DROP = 0 -- Mostly Boxes and other items which dropped on ground throws item
 	BAG_INVENTORY = 1 -- Mostly Boxes and other items which require right click to use in inventory
@@ -925,7 +930,7 @@ end
 
 
 -- ### /3/ Create Item (using Event Bag Structure) - Item Drop on Ground ### --
-function EventBagItemDrop(MonsterIndex, MapNumber, MonsterX, MonsterY, PlayerIndex, IsGremoryCase, GremoryCaseType, GremoryCaseGiveType, iGCReceiptDuration)
+function EventBagItemDrop(MonsterIndex, MapNumber, MonsterX, MonsterY, PlayerIndex, UseType, GremoryCaseType, GremoryCaseGiveType, iGCReceiptDuration)
 	local ItemID = MakeItemID(ItemInfo.ItemType, ItemInfo.ItemIndex)
 	local ItemCheck = IsItem(ItemID);
 
@@ -1124,9 +1129,11 @@ function EventBagItemDrop(MonsterIndex, MapNumber, MonsterX, MonsterY, PlayerInd
 		MuunEvoItemID = 0;
 	end
 
-	if IsGremoryCase == 1 then
+	if UseType == BAG_REWARD_GREMORY_CASE then
 		InsertItem_GremoryCase(PlayerIndex, GremoryCaseType, GremoryCaseGiveType, ItemID, ItemLevel, ItemDur, IsSkill, IsLuck, IsOption, IsAncient, IsSocket, IsElemental, MuunEvoItemID, Exc1, Exc2, Exc3, Exc4, Exc5, Exc6, Exc7, Exc8, Exc9, Socket1, Socket2, Socket3, Socket4, Socket5, iGCReceiptDuration, Duration)
-	else	
+	elseif UseType == BAG_REWARD_INVENTORY then
+		CreateItem(MonsterIndex, 235, MonsterX, MonsterY, ItemID, ItemLevel, ItemDur, IsSkill, IsLuck, IsOption, PlayerIndex, IsAncient, Duration, IsSocket, IsElemental, MuunEvoItemID, Exc1, Exc2, Exc3, Exc4, Exc5, Exc6, Exc7, Exc8, Exc9, Socket1, Socket2, Socket3, Socket4, Socket5)
+	else -- BAG_REWARD_GROUND 
 		CreateItem(MonsterIndex, MapNumber, MonsterX, MonsterY, ItemID, ItemLevel, ItemDur, IsSkill, IsLuck, IsOption, PlayerIndex, IsAncient, Duration, IsSocket, IsElemental, MuunEvoItemID, Exc1, Exc2, Exc3, Exc4, Exc5, Exc6, Exc7, Exc8, Exc9, Socket1, Socket2, Socket3, Socket4, Socket5)
 	end
 	return 1
