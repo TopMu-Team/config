@@ -392,6 +392,11 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,908,'Monster_(908_909_910)') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,909,'Monster_(908_909_910)') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,910,'Monster_(908_909_910)') -- DropFunction /2/
+
+	AddItemBag(BAG_MONSTER, 0,914,'Monster_(914_915_916)') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,915,'Monster_(914_915_916)') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,916,'Monster_(914_915_916)') -- DropFunction /2/
+
 	AddItemBag(BAG_MONSTER, 0,930,'Monster_(930)_Elite_Bloody_Wolf_of_Fresh_Blood') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,931,'Monster_(931)_Elite_Bloody_Beam_Knight') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,932,'Monster_(932)_Elite_Bloody_Tantalus') -- DropFunction /2/

@@ -12,8 +12,8 @@
 -->
 
 <ItemBag>
-<BagConfig Name="Golden_Goblin" ItemRate="9000" SetItemRate="0" SetItemCount="1" MasterySetItemInclude="0"  MoneyDrop="100000" IsPentagramForBeginnersDrop="0" PartyDropRate="0" PartyOneDropOnly="0" PartyShareType="0" BagUseEffect="0" BagUseRate="10000" />
-<SummonBook Enable="1" ItemIndex="217" ItemCat="14" DropRate="250000"/>
+<BagConfig Name="Golden_Goblin" ItemRate="9000" SetItemRate="0" SetItemCount="1" MasterySetItemInclude="0"  MoneyDrop="100000" IsPentagramForBeginnersDrop="0" PartyDropRate="0" PartyOneDropOnly="0" PartyShareType="0" BagUseEffect="-1" BagUseType="0" GCStorageType="0" GCRewardType="0" BagUseRate="10000" />
+<SummonBook Enable="1" DropRate="600000" ItemCat="14" ItemIndex="217" />
 <AddCoin PlayerMaxReset="MAX" PlayerMinReset="0" PlayerMaxLevel="MAX" PlayerMinLevel="1" CoinValue="150" CoinType="1" Enable="1"/>
 <Ruud GainRate="0" MinValue="1" MaxValue="10" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
 
