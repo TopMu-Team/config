@@ -824,7 +824,7 @@ function CalcDefense(Class, Strength, Dexterity, IsSpecialBuff)
 		Defense = (Dexterity / 5) * CLASS_SLAYER_REGULAR_DEFENSE_RATE
 	elseif(Class == CLASS_GUNCRUSHER) then
 		if (IsSpecialBuff == 1) then -- Fixed Fire
-			Defense = (Dexterity / 8) * CLASS_GUN_REGULAR_DEFENSE_RATE
+			Defense = (Dexterity / 6) * CLASS_GUN_REGULAR_DEFENSE_RATE
 		else
 			Defense = (Dexterity / 4) * CLASS_GUN_REGULAR_DEFENSE_RATE
 		end
