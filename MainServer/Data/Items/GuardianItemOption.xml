@@ -123,7 +123,7 @@
 		<Guardian Number="5" OptionSet="0" OptionNumber1="0" FormulaID1="46" ValueType1="0" OptionNumber2="2" FormulaID2="48" ValueType2="0" />
 		<Guardian Number="5" OptionSet="1" OptionNumber1="1" FormulaID1="47" ValueType1="0" OptionNumber2="2" FormulaID2="48" ValueType2="0" />
 		<Guardian Number="5" OptionSet="2" OptionNumber1="0" FormulaID1="46" ValueType1="0" OptionNumber2="3" FormulaID2="49" ValueType2="0" />
-		<Guardian Number="5" OptionSet="3" OptionNumber1="1" FormulaID1="47" ValueType1="0" OptionNumber2="4" FormulaID2="40" ValueType2="0" />
-		<Guardian Number="5" OptionSet="4" OptionNumber1="0" FormulaID1="46" ValueType1="0" OptionNumber2="4" FormulaID2="40" ValueType2="0" />
+		<Guardian Number="5" OptionSet="3" OptionNumber1="1" FormulaID1="47" ValueType1="0" OptionNumber2="4" FormulaID2="50" ValueType2="0" />
+		<Guardian Number="5" OptionSet="4" OptionNumber1="0" FormulaID1="46" ValueType1="0" OptionNumber2="4" FormulaID2="50" ValueType2="0" />
 	</EliteOptionSettings>
 </GuardianItemOption>

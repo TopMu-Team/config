@@ -68,7 +68,19 @@
 // ### SeasonPass::BuffOption::Buff ###
 //	Number: Index of buff, 411-415, check BuffEffectManager.xml
 //	ValueX(1-20): Value of buff at specific pass level
-//	
+//
+// ### MasteryHornCrystalDrop ###
+//	Denominator: A figure that represents the total value the success of the drop is expressed, e.g. n/x where x = denominator and n is chance achieved from season pass buffs
+//
+// ### MasteryHornCrystalDrop::Item ###
+//	Cat: Category of mastery horn crystal item, see ItemList.xml
+//	Index: Index of mastery horn crystal item, see ItemList.xml
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ Mastery Horn Crystal Cat and Index must stay defined as by default
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+//	MapNumber: Map numbers to drop the mastery horn crystals items on, maximum 10 maps per item, separate with semicolon, -1 to disable drop
+//
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 <SeasonPass Enable="1" MasteryHornMaxDropPerDay="100">
@@ -217,4 +229,14 @@
 		<Buff Number="414" Value1="2" Value2="2" Value3="2"	Value4="2" Value5="4" Value6="4" Value7="4" Value8="4" Value9="4" Value10="6" Value11="6" Value12="6" Value13="6" Value14="6" Value15="8" Value16="8" Value17="8" Value18="8" Value19="8" Value20="10" />
 		<Buff Number="415" Value1="5" Value2="10" Value3="15" Value4="20" Value5="25" Value6="30" Value7="35" Value8="40" Value9="45" Value10="50" Value11="55" Value12="60" Value13="65" Value14="70" Value15="75" Value16="80" Value17="85" Value18="90" Value19="95" Value20="100" />
 	</BuffOption>
+	<MasteryHornCrystalDrop Denominator="100000">
+		<Item Cat="20" Index="126" MapNumber="113" />
+		<Item Cat="20" Index="127" MapNumber="122" />
+		<Item Cat="20" Index="128" MapNumber="123;124;125;126;127" />
+		<Item Cat="20" Index="129" MapNumber="131" />
+		<Item Cat="20" Index="130" MapNumber="133" />
+		<Item Cat="20" Index="131" MapNumber="136" />
+		<Item Cat="20" Index="131" MapNumber="138" />
+		<Item Cat="20" Index="133" MapNumber="-1" />
+	</MasteryHornCrystalDrop>
 </SeasonPass>	
