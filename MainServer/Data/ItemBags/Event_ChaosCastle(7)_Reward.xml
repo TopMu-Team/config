@@ -11,7 +11,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 <ItemBag>
-	<BagConfig Name="Event_ChaosCastle_7" ItemRate="10000" SetItemRate="7000" SetItemCount="1" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" PartyDropRate="0" PartyShareType="0" PartyOneDropOnly="0" />
+	<BagConfig Name="Event_ChaosCastle_7" ItemRate="10000" SetItemRate="7000" SetItemCount="1" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" PartyDropRate="0" PartyShareType="0" PartyOneDropOnly="0" BagUseType="2" GCStorageType="2" GCRewardType="2" BagUseRate="10000" />
 	<AddCoin Enable="1" CoinType="0" CoinValue="20" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
 	<Ruud GainRate="0" MinValue="1" MaxValue="10" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" />
 	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
