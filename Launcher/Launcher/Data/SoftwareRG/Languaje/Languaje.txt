@@ -1,0 +1,156 @@
+[LANGUAJE #1]
+            WEB
+ FORO
+    NEWS
+RANKING
+   ESTADISTICAS
+    OPCIONES
+No se puede conectar con Settings.txt, verifique su conexión con el alojamiento web
+Tiene una MD5 no válida
+Archivo no encontrado
+ESTADISTICAS
+NOMBRE
+RESET
+CLASS
+USUARIOS ONLINE
+TOTAL ACCOUNTS
+TOTAL CHARACTER
+TOTAL GUILD
+     ServerStatus:
+    Modo ventana:
+APAGADO
+ENCENDIDO
+[USERPANEL SYSTEM #1]
+NOMBRE
+NIVEL
+MAPA
+CLASE
+VIDA
+[TOP RANKING SYSTEM #1]
+NOMBRE
+NIVEL
+[PANEL OPTIONS #1]
+Resoluciones
+Cuenta
+Min Colors
+Max Colors
+Sonidos efectos
+Musica de fondo
+Lenguaje
+Acceso Directo
+[UPDATE TEXTS #1]
+Se ha producido un error desconocido pero crítico. Mensaje de error que puede ayudar a resolver el problema:
+No se puede iniciar el juego porque falta
+No puedo iniciar el juego, probablemente sea tu antivirus, por favor apágalo.
+No se puede conectar al servidor, verifique la configuración de la red y vuelva a intentarlo.
+Conectando al servidor...
+Comprobando actualización.
+Comprobación de archivos:
+comprobación ...
+Descargando archivos:
+Todos los archivos han sido verificados correctamente.
+Actualización completada.
+[LANGUAJE #2]
+           WEB
+      FORUM
+          NEWS
+RANKING
+       STATISTICS
+    OPTIONS
+Cannot connect to Settings.txt, please check your connection to the web host
+You have an invalid MD5
+File not Found
+STATISTICS
+NAME
+RESET
+CLASS
+ONLINE USERS
+TOTAL ACCOUNTS
+TOTAL CHARACTER
+TOTAL GUILD
+     ServerStatus:
+    Window mode:
+OFFLINE
+ONLINE
+[USERPANEL SYSTEM #2]
+NAME
+LEVEL
+MAP
+CLASS
+LIFE
+[TOP RANKING SYSTEM #2]
+NAME
+LEVEL
+[PANEL OPTIONS #2]
+Resolutions
+AccountID
+Min Colors
+Max Colors
+Sounds effects
+Background music
+Language
+Direct access
+[UPDATE TEXTS #2]
+An unknown but critical error has occurred. Error message that can help solve the problem:
+The game cannot be started, because it is missing
+Can't start the game, it's probably your antivirus, please turn it off.
+Cannot connect to server, check network settings and try again.
+Connecting to the server...
+Checking update.
+Checking files:
+checking ...
+Downloading files:
+All files have been verified correctly.
+Update completed.
+[LANGUAJE #3]
+          САЙТ
+ФОРУМ
+ НОВОСТИ
+РЕЙТИНГ
+    СТАТИСТИКА
+       ОПЦИИ
+Нет подключения к Settings.txt, пожалуйста проверьте ваше подключение к хостингу
+У вас имеются неисправные файлы MD5
+Файл не найден
+СТАТИСТИКА
+ИМЯ
+РЕСЕТ
+КЛАСС
+ОНЛАЙН ПЕРСОНАЖЕЙ
+ВСЕГО АККАУНТОВ
+ВСЕГО ПЕРСОНАЖЕЙ
+ВСЕГО ГИЛЬДИЙ
+Статус сервера:
+Оконный режим:
+ОФФЛАЙН
+ОНЛАЙН
+[USERPANEL SYSTEM #3]
+ИМЯ
+УРОВЕНЬ
+ЛОКАЦИЯ
+КЛАСС
+ЗДОРОВЬЕ
+[TOP RANKING SYSTEM #3]
+ИМЯ
+УРОВЕНЬ
+[PANEL OPTIONS #3]
+Разрешение экрана
+ID аккаунта
+Min Глубина цвета
+Max Глубина цвета
+Звуковые эффекты
+Фоновая музыка
+Язык
+Прямой доступ
+[UPDATE TEXTS #3]
+Неизвестная критическая ошибка. Сообщение которое может помочь решить проблему:
+Игра не может быть запущена, потому, что она отсутствует
+Игра не может быть запущено, скорее всего проблема с антивирусом, попробуйте отключить его.
+Нет подключения к серверу, проверьте соединение с интернетом и попробуйте снова..
+Подключение к серверу...
+Проверка обновлений.
+Проверка файлов:
+Проверка ...
+Загрузка файлов:
+Все файлы игры в порядке.
+Обновление завершено.

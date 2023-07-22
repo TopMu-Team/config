@@ -1,0 +1,9 @@
+11:38:14 [HackDetected][][] IpAddress: 42.117.162.148, HardwareId: 4EABCF58-C7B7E6A5-C46B8F7D-C471EAD1, DetectionType: MACRO_DETECTION, CaptionName: , ProcessName: 
+19:30:25 [HackDetected][][] IpAddress: 42.117.162.148, HardwareId: 4EABCF58-C7B7E6A5-C46B8F7D-C471EAD1, DetectionType: MACRO_DETECTION, CaptionName: , ProcessName: 
+19:41:47 [HackDetected][][] IpAddress: 115.76.115.226, HardwareId: 0AE1FD33-A7CDF4B7-C76B8F7C-BA78E1D7, DetectionType: MEMORY_DETECTION, CaptionName: , ProcessName: 
+20:01:29 [HackDetected][][] IpAddress: 42.117.162.148, HardwareId: 4EABCF58-C7B7E6A5-C46B8F7D-C471EAD1, DetectionType: MACRO_DETECTION, CaptionName: , ProcessName: 
+20:02:09 [HackDetected][][] IpAddress: 42.117.162.148, HardwareId: 4EABCF58-C7B7E6A5-C46B8F7D-C471EAD1, DetectionType: MACRO_DETECTION, CaptionName: , ProcessName: 
+21:13:38 [HackDetected][][] IpAddress: 115.76.115.226, HardwareId: 0AE1FD33-A7CDF4B7-C76B8F7C-BA78E1D7, DetectionType: MEMORY_DETECTION, CaptionName: , ProcessName: 
+21:29:10 [HackDetected][][] IpAddress: 42.117.162.148, HardwareId: 4EABCF58-C7B7E6A5-C46B8F7D-C471EAD1, DetectionType: MACRO_DETECTION, CaptionName: , ProcessName: 
+21:41:03 [HackDetected][][] IpAddress: 42.117.162.148, HardwareId: 4EABCF58-C7B7E6A5-C46B8F7D-C471EAD1, DetectionType: MACRO_DETECTION, CaptionName: , ProcessName: 
+22:00:35 [HackDetected][][] IpAddress: 115.72.168.61, HardwareId: 2EC3AE5E-B9B991A5-C618FC1B-B17982A2, DetectionType: MEMORY_DETECTION, CaptionName: , ProcessName: 

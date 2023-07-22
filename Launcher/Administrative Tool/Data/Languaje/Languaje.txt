@@ -1,0 +1,156 @@
+[LANGUAJE #1]
+            WEB
+ FORO
+    NEWS
+RANKING
+   ESTADISTICAS
+    OPCIONES
+No se puede conectar con Settings.txt, verifique su conexión con el alojamiento web
+Tiene una MD5 no válida
+Archivo no encontrado
+ESTADISTICAS
+NOMBRE
+RESET
+CLASS
+USUARIOS ONLINE
+TOTAL ACCOUNTS
+TOTAL CHARACTER
+TOTAL GUILD
+     ServerStatus:
+    Modo ventana:
+APAGADO
+ENCENDIDO
+[USERPANEL SYSTEM #1]
+NOMBRE
+NIVEL
+MAPA
+CLASE
+VIDA
+[TOP RANKING SYSTEM #1]
+NOMBRE
+NIVEL
+[PANEL OPTIONS #1]
+Resoluciones
+Cuenta
+Min Colors
+Max Colors
+Sonidos efectos
+Musica de fondo
+Lenguaje
+Acceso Directo
+[UPDATE TEXTS #1]
+Se ha producido un error desconocido pero crítico. Mensaje de error que puede ayudar a resolver el problema:
+No se puede iniciar el juego porque falta
+No puedo iniciar el juego, probablemente sea tu antivirus, por favor apágalo.
+No se puede conectar al servidor, verifique la configuración de la red y vuelva a intentarlo.
+Conectando al servidor...
+Comprobando actualización.
+Comprobación de archivos:
+comprobación ...
+Descargando archivos:
+Todos los archivos han sido verificados correctamente.
+Actualización completada.
+[LANGUAJE #2]
+           WEB
+FORUM
+    NEWS
+RANKING
+       STATISTICS
+    OPTIONS
+Cannot connect to Settings.txt, please check your connection to the web host
+You have an invalid MD5
+File not Found
+STATISTICS
+NAME
+RESET
+CLASS
+ONLINE USERS
+TOTAL ACCOUNTS
+TOTAL CHARACTER
+TOTAL GUILD
+     ServerStatus:
+    Window mode:
+OFFLINE
+ONLINE
+[USERPANEL SYSTEM #2]
+NAME
+LEVEL
+MAP
+CLASS
+LIFE
+[TOP RANKING SYSTEM #2]
+NAME
+LEVEL
+[PANEL OPTIONS #2]
+Resolutions
+AccountID
+Min Colors
+Max Colors
+Sounds effects
+Background music
+Language
+Direct access
+[UPDATE TEXTS #2]
+An unknown but critical error has occurred. Error message that can help solve the problem:
+The game cannot be started, because it is missing
+Can't start the game, it's probably your antivirus, please turn it off.
+Cannot connect to server, check network settings and try again.
+Connecting to the server...
+Checking update.
+Checking files:
+checking ...
+Downloading files:
+All files have been verified correctly.
+Update completed.
+[LANGUAJE #3]
+          網絡
+論壇
+    消息
+   排行
+        統計數據
+       選項
+無法連接到 Settings.txt，請檢查您與網絡主機的連接
+您的 MD5 無效
+文件未找到
+統計數據
+名稱
+重啟
+班級
+在線用戶
+賬戶總數
+總字符
+總公會
+     服務器狀態：
+            窗口模式：
+離線
+在線的
+[USERPANEL SYSTEM #3]
+名稱
+等級
+地圖
+班級
+生活
+[TOP RANKING SYSTEM #3]
+名稱
+等級
+[PANEL OPTIONS #3]
+決議
+帳戶ID
+最小顏色
+最大顏色
+音效
+背景音樂
+語
+直接訪問
+[UPDATE TEXTS #3]
+發生了未知但嚴重的錯誤。可以幫助解決問題的錯誤信息：
+遊戲無法啟動，因為它丟失了
+無法啟動遊戲，可能是你的殺毒軟件，請關閉。
+無法連接到服務器，請檢查網絡設置並重試。
+正在連接服務器...
+檢查更新。
+檢查文件：
+檢查...
+下載文件：
+所有文件均已正確驗證。
+更新完成。

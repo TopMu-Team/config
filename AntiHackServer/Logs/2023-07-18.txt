@@ -1,0 +1,32 @@
+00:22:38 [ClientManager][0] AddClient (14.161.46.27)
+00:22:38 [ClientManager][0] ClientInfo (HardwareId: 3AD3B74A-94FDC685-F45BBF4C-8941D8E7)
+00:32:48 [ClientManager][0] DelClient (14.161.46.27)
+01:51:31 [ClientManager][2] AddClient (113.173.190.113)
+01:51:31 [ClientManager][2] ClientInfo (HardwareId: 56D0BF3F-978ACEEA-862DD425-8F2AB493)
+02:22:04 [ClientManager][2] DelClient (113.173.190.113)
+05:14:50 [ClientManager][1] DelClient (123.21.109.78)
+07:08:36 [SocketManager] Server started at port [55999]
+07:08:36 [AntiHackServerInfo] Config loaded successfully
+07:08:36 [AntiHackServerInfo] DumpList loaded successfully
+07:08:36 [AntiHackServerInfo] ChecksumList loaded successfully
+07:08:36 [AntiHackServerInfo] InternalList loaded successfully
+07:08:36 [AntiHackServerInfo] WindowList loaded successfully
+07:08:36 [AntiHackServerInfo] BlackList loaded successfully
+07:09:41 [ClientManager][0] AddClient (123.21.109.78)
+07:09:41 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+07:10:03 [ClientManager][1] AddClient (14.161.46.27)
+07:10:03 [ClientManager][1] ClientInfo (HardwareId: 3AD3B74A-94FDC685-F45BBF4C-8941D8E7)
+07:11:13 [ClientManager][1] DelClient (14.161.46.27)
+07:12:05 [ClientManager][1] AddClient (14.161.46.27)
+07:12:05 [ClientManager][1] ClientInfo (HardwareId: 3AD3B74A-94FDC685-F45BBF4C-8941D8E7)
+07:13:34 [ClientManager][1] DelClient (14.161.46.27)
+10:08:33 [ClientManager][1] AddClient (1.53.53.113)
+10:08:33 [ClientManager][1] ClientInfo (HardwareId: 21D8B03F-D0C5F5DA-C56AE07F-CB1EE8D2)
+10:14:28 [ClientManager][0] DelClient (123.21.109.78)
+10:32:51 [ClientManager][1] DelClient (1.53.53.113)
+10:50:42 [ClientManager][0] AddClient (123.16.226.127)
+10:50:42 [ClientManager][0] ClientInfo (HardwareId: 40B8D339-B9B991A5-C218FC1B-C705EFBE)
+11:11:14 [ClientManager][0] DelClient (123.16.226.127)
+21:35:10 [ClientManager][1] AddClient (14.248.94.153)
+21:35:10 [ClientManager][1] ClientInfo (HardwareId: 22A1A528-B4DDE6A5-D47B9F6C-DA00E1B0)
+21:38:09 [ClientManager][1] DelClient (14.248.94.153)

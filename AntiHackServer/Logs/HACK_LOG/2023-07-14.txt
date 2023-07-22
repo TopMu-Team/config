@@ -1,0 +1,2 @@
+08:16:36 [HackDetected][][] IpAddress: 123.21.109.78, HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7, DetectionType: MEMORY_DETECTION, CaptionName: , ProcessName: 
+11:07:07 [HackDetected][][] IpAddress: 14.186.16.46, HardwareId: 4AC7DB5E-B9B991A5-C218FC1B-CF19EABE, DetectionType: MEMORY_DETECTION, CaptionName: , ProcessName: 
