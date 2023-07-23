@@ -114,7 +114,7 @@ function FireBurst_4thEnchant_Lord(InDamage, Energy)
 end
 
 function DarkSide_4thEnchant_Fighter(InDamage, Dexterity, Energy)
-	local OutDamage = InDamage * ((Dexterity / 6) + (Energy / 8) + 200) / 100.0
+	local OutDamage = InDamage * ((Dexterity / 10) + (Energy / 10) + 200) / 100.0
  
 	return OutDamage
 end
@@ -157,7 +157,7 @@ function ShiningPeak_4thEnchant_Lancer(InDamage, Strength, Dexterity, SkillTreeB
 end
 
 function SpiritHook_4thEnchant_Fighter(InDamage, Vitality)
-	local OutDamage = InDamage * (Vitality / 6 + 200) / 100
+	local OutDamage = InDamage * ((Vitality / 20) + 200) / 100
 	
 	return OutDamage
 end
