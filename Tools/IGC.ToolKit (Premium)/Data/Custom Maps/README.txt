@@ -1,0 +1,2 @@
+~ To add custom map or Override existing map's Image - just add JPG image to this folder with name same as map ID. for example Exile map will be "5.jpg"
+~ Any JPG images added to this folder, will be added MonsterSetBase Editor Map List

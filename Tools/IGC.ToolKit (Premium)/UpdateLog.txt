@@ -1,0 +1,124 @@
+Started installation
+Installing 'TempUpdate\ToolKit.Premium.exe.parent'
+Renaming parent file to original name
+Removing old file
+Writing new file
+Installing 'TempUpdate\Changelog.txt'
+Removing old file
+Writing new file
+Installing 'TempUpdate\ToolKit.Premium (简体中文).bat'
+Skipping identical files
+Installing 'TempUpdate\FreeImage.dll'
+Skipping identical files
+Installing 'TempUpdate\OpenTK.dll'
+Skipping identical files
+Installing 'TempUpdate\DeleteLicenseData.reg'
+Skipping identical files
+Installing 'TempUpdate\cppcsw.dll'
+Skipping identical files
+Installing 'TempUpdate\updater.exe'
+Perserving original file
+Installing 'TempUpdate\Data\ArtifactOption.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ArtifactSystem.xml'
+Perserving original file
+Installing 'TempUpdate\Data\config.ini'
+Perserving original file
+Installing 'TempUpdate\Data\EventTypes.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ExcellentOptions.xml'
+Perserving original file
+Installing 'TempUpdate\Data\GuardianItemOption.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemGradeOption.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemList.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemListExportOptions.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemListExportOptions_S6.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemListExportOptions_SX3.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemList_s6.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemList_SX.xml'
+Perserving original file
+Installing 'TempUpdate\Data\ItemTRSData.txt'
+Perserving original file
+Installing 'TempUpdate\Data\MapList.xml'
+Perserving original file
+Installing 'TempUpdate\Data\MasteryGradeItems.xml'
+Perserving original file
+Installing 'TempUpdate\Data\MonsterList.xml'
+Perserving original file
+Installing 'TempUpdate\Data\MonsterSpawn.xml'
+Perserving original file
+Installing 'TempUpdate\Data\MuunInfo.xml'
+Perserving original file
+Installing 'TempUpdate\Data\NPCList.xml'
+Perserving original file
+Installing 'TempUpdate\Data\SpecialItemList.dat'
+Perserving original file
+Installing 'TempUpdate\Data\TabbedFileInfo.json'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\CashItem_Info.xml'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\CashItem_List.xml'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\CashItem_Package.xml'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\IBSCategory.txt'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\IBSPackage.txt'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\IBSProduct.txt'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\IGC_CashItemInfo.dat'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\IGC_CashItemList.dat'
+Perserving original file
+Installing 'TempUpdate\Data\CashShop Files\IGC_CashItemPackages.dat'
+Perserving original file
+Installing 'TempUpdate\Data\Custom Maps\24.jpg'
+Perserving original file
+Installing 'TempUpdate\Data\Custom Maps\README.txt'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_GateSettings_S13+_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_GateSettings_S6+_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_MoveReq_S13_P2-2+_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_MoveReq_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_PentagramOption_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SeedSphere_Upgrade_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SkillList_S12+_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SkillList_S13+_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SkillList_S13E1_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SkillList_S13_P2-2+_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SkillList_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SkillList_Template_S15_P1.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\IGC_SocketItem_Upgrade_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Export Templates\PentagramJewelOptionValue_Template.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Monster Files\Monster.txt'
+Perserving original file
+Installing 'TempUpdate\Data\Monster Files\MonsterList.xml'
+Perserving original file
+Installing 'TempUpdate\Data\Monster Files\MonsterSetBase.txt'
+Perserving original file
+Installing 'TempUpdate\zh-Hans\ToolKit.Premium.resources.dll'
+Removing old file
+Writing new file
+Completed installation

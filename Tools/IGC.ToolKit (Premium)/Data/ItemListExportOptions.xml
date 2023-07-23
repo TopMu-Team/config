@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList Serial="0" Option="0" Drop="0">
+	<Section Index="0" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Kris -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Short Sword -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Rapier -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Katana -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Sword of Assassin -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Blade -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Gladius -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Falchion -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Serpent Sword -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Sword of Salamander -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Light Saber -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Sword -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Heliacal Sword -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Double Blade -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Lighting Sword -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Giant Sword -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Sword of Destruction -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Dark Breaker -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Thunder Blade -->
+		<Item Index="19" Serial="1" Option="1" Drop="0"  /> <!-- Divine Sword of Archangel -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Knight Blade -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Dark Reign Blade -->
+		<Item Index="22" Serial="1" Option="1" Drop="0"  /> <!-- Bone Blade -->
+		<Item Index="23" Serial="1" Option="1" Drop="0"  /> <!-- Explosion Blade -->
+		<Item Index="24" Serial="1" Option="1" Drop="1"  /> <!-- Daybreak -->
+		<Item Index="25" Serial="1" Option="1" Drop="1"  /> <!-- Sword Dancer -->
+		<Item Index="26" Serial="1" Option="1" Drop="1"  /> <!-- Flameberge -->
+		<Item Index="27" Serial="1" Option="1" Drop="1"  /> <!-- Sword Breaker -->
+		<Item Index="28" Serial="1" Option="1" Drop="1"  /> <!-- Rune Bastard Sword -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Sonic Blade -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Asura -->
+		<Item Index="31" Serial="1" Option="1" Drop="1"  /> <!-- Rune Blade -->
+		<Item Index="32" Serial="1" Option="1" Drop="1"  /> <!-- Sacred Glove -->
+		<Item Index="33" Serial="1" Option="1" Drop="1"  /> <!-- Holy Storm Claw -->
+		<Item Index="34" Serial="1" Option="1" Drop="1"  /> <!-- Piercing Blade Glove -->
+		<Item Index="35" Serial="1" Option="1" Drop="0"  /> <!-- Phoenix Soul Star -->
+		<Item Index="36" Serial="1" Option="1" Drop="0"  /> <!-- Cyclone Sword -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Blast Break -->
+		<Item Index="41" Serial="1" Option="0" Drop="0"  /> <!-- Pandora Pick (Two-Handed) -->
+		<Item Index="42" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Sword -->
+		<Item Index="44" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Sword -->
+		<Item Index="46" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Claw -->
+		<Item Index="48" Serial="1" Option="1" Drop="0"  /> <!-- Sword of Destruction (Bound) -->
+		<Item Index="49" Serial="1" Option="1" Drop="0"  /> <!-- Thunder Blade (Bound) -->
+		<Item Index="50" Serial="1" Option="1" Drop="0"  /> <!-- Holy Storm Claw (Bound) -->
+		<Item Index="51" Serial="1" Option="1" Drop="0"  /> <!-- Blessed Divine Arch Sword -->
+		<Item Index="52" Serial="1" Option="1" Drop="1"  /> <!-- Pantera Claws -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Devast Claws -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Sword -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Magic Sword -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Claw -->
+		<Item Index="57" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Sword -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Magic Sword -->
+		<Item Index="59" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Claws -->
+	</Section>
+	<Section Index="1" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Small Axe -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Hand Axe -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Double Axe -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Tomahawk -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Elven Axe -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Battle Axe -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Nikea Axe -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Larkan Axe -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Crescent Axe -->
+	</Section>
+	<Section Index="2" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Mace -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Morning Star -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Flail -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Great Hammer -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Crystal Morning Star -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Crystal Sword -->
+		<Item Index="6" Serial="1" Option="1" Drop="0"  /> <!-- Chaos Dragon Axe -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Elemental Mace -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Battle Scepter -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Master Scepter -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Great Scepter -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Lord Scepter -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Great Lord Scepter -->
+		<Item Index="13" Serial="1" Option="1" Drop="0"  /> <!-- Divine Scepter of Archangel -->
+		<Item Index="14" Serial="1" Option="1" Drop="0"  /> <!-- Soleil Scepter -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Shining Scepter -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Frost Mace -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Absolute Scepter -->
+		<Item Index="18" Serial="1" Option="1" Drop="0"  /> <!-- Striker Scepter -->
+		<Item Index="19" Serial="1" Option="1" Drop="0"  /> <!-- Thunderbolt -->
+		<Item Index="20" Serial="1" Option="1" Drop="0"  /> <!-- Horn of Steal -->
+		<Item Index="22" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Scepter -->
+		<Item Index="24" Serial="1" Option="1" Drop="0"  /> <!-- Lord's Scepter (Bound) -->
+		<Item Index="25" Serial="1" Option="1" Drop="0"  /> <!-- Blessed Divine Arch Scepter -->
+		<Item Index="26" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Scepter -->
+		<Item Index="27" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Scepter -->
+	</Section>
+	<Section Index="3" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Light Spear -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Spear -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Lance -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Giant Trident -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Serpent Spear -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Double Poleaxe -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Halberd -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Berdysh -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Great Scythe -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Bill of Balrog -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Spear -->
+		<Item Index="11" Serial="1" Option="1" Drop="0"  /> <!-- Brova -->
+		<Item Index="12" Serial="1" Option="1" Drop="0"  /> <!-- Magmus Peer -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Lapid Lance -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Conmocion Lance -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Pluma Lance -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Vis Lance -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Prickle Lance -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Alacran Lance -->
+		<Item Index="19" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lance -->
+		<Item Index="21" Serial="1" Option="1" Drop="0"  /> <!-- Pluma Lance (Bound) -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Rectuus Lance -->
+		<Item Index="23" Serial="1" Option="1" Drop="0"  /> <!-- Russell Light Lance -->
+		<Item Index="24" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Lance -->
+		<Item Index="25" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Lance -->
+	</Section>
+	<Section Index="4" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Short Bow -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Bow -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Elven Bow -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Battle Bow -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Tiger Bow -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Silver Bow -->
+		<Item Index="6" Serial="1" Option="1" Drop="0"  /> <!-- Chaos Nature Bow -->
+		<Item Index="7" Serial="0" Option="0" Drop="0"  /> <!-- Bolt -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Crossbow -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Golden Crossbow -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Arquebus -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Light Crossbow -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Serpent Crossbow -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Bluewing Crossbow -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Aquagold Crossbow -->
+		<Item Index="15" Serial="0" Option="0" Drop="0"  /> <!-- Arrow -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Saint Crossbow -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Celestial Bow -->
+		<Item Index="18" Serial="1" Option="1" Drop="0"  /> <!-- Divine Crossbow of Archangel -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Great Reign Crossbow -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Arrow Viper Bow -->
+		<Item Index="21" Serial="1" Option="1" Drop="0"  /> <!-- Sylph Wind Bow -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Albatross Bow -->
+		<Item Index="23" Serial="1" Option="1" Drop="1"  /> <!-- Dark Stinger -->
+		<Item Index="24" Serial="1" Option="1" Drop="0"  /> <!-- Aileen Bow -->
+		<Item Index="25" Serial="1" Option="1" Drop="0"  /> <!-- Angelic Bow -->
+		<Item Index="26" Serial="1" Option="1" Drop="0"  /> <!-- Devil Crossbow -->
+		<Item Index="28" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Bow -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Celestial Bow (Bound) -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Blessed Divine Arch Crossbow -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Bow -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Combat Quiver -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Devilwood Quiver -->
+		<Item Index="34" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Quiver -->
+		<Item Index="35" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Quiver -->
+		<Item Index="36" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Bow -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Quiver -->
+	</Section>
+	<Section Index="5" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Skull Staff -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Angelic Staff -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Serpent Staff -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Thunder Staff -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Gorgon Staff -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Staff -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Staff of Resurrection -->
+		<Item Index="7" Serial="1" Option="1" Drop="0"  /> <!-- Chaos Lighting Staff -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Staff of Destruction -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Soul Staff -->
+		<Item Index="10" Serial="1" Option="1" Drop="0"  /> <!-- Divine Staff of Archangel -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Staff of Kundun -->
+		<Item Index="12" Serial="1" Option="1" Drop="0"  /> <!-- Grand Viper Staff -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Platina Staff -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Mystery Stick -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Violent Wind Stick -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Red Wing Stick -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Ancient Stick -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Demonic Stick -->
+		<Item Index="19" Serial="1" Option="1" Drop="0"  /> <!-- Storm Blitz Stick -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Eternal Wing Stick -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Book of Shamut -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Book of Neil -->
+		<Item Index="23" Serial="1" Option="1" Drop="1"  /> <!-- Book of Lagle -->
+		<Item Index="30" Serial="1" Option="1" Drop="1"  /> <!-- Deadly Staff -->
+		<Item Index="31" Serial="1" Option="1" Drop="1"  /> <!-- Inberial Staff -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Summon Spirit Stick -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Chrome Staff -->
+		<Item Index="34" Serial="1" Option="1" Drop="0"  /> <!-- Raven Stick -->
+		<Item Index="35" Serial="1" Option="1" Drop="0"  /> <!-- Miracle Staff -->
+		<Item Index="36" Serial="1" Option="1" Drop="0"  /> <!-- Divine Stick of the Archangel -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Spite Staff -->
+		<Item Index="41" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Staff -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Stick -->
+		<Item Index="45" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Staff (Bound) -->
+		<Item Index="46" Serial="1" Option="1" Drop="0"  /> <!-- Red Winged Stick (Bound) -->
+		<Item Index="47" Serial="1" Option="1" Drop="0"  /> <!-- Book of Lagle (Bound) -->
+		<Item Index="48" Serial="1" Option="1" Drop="0"  /> <!-- Staff of Destruction (Bound) -->
+		<Item Index="49" Serial="1" Option="1" Drop="0"  /> <!-- Blessed Divine Arch Staff -->
+		<Item Index="50" Serial="1" Option="1" Drop="0"  /> <!-- Blessed Divine Arch Stick -->
+		<Item Index="51" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Staff -->
+		<Item Index="52" Serial="1" Option="1" Drop="0"  /> <!-- Dark Angel Stick -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Staff -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Holy Angel Stick -->
+	</Section>
+	<Section Index="6" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Small Shield -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Horn Shield -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Kite Shield -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Elven Shield -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Buckler -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Slayer Shield -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Skull Shield -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Spiked Shield -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Tower Shield -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Plate Shield -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Large Round Shield -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Serpent Shield -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Bronze Shield -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Shield -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Shield -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Grand Soul Shield -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Elemental Shield -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Crimson Glory -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Salamander Shield -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Frost Barrier -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Guardian Shield -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Cross Shield -->
+		<Item Index="22" Serial="1" Option="1" Drop="0"  /> <!-- Lazy Wind Shield -->
+		<Item Index="23" Serial="1" Option="1" Drop="0"  /> <!-- Light Lord Shield -->
+		<Item Index="24" Serial="1" Option="1" Drop="0"  /> <!-- Dark Devil Shield -->
+		<Item Index="25" Serial="1" Option="1" Drop="0"  /> <!-- Magic Knight Shield -->
+		<Item Index="26" Serial="1" Option="1" Drop="0"  /> <!-- Ambition Shield -->
+		<Item Index="29" Serial="1" Option="1" Drop="1"  /> <!-- Lapid Shield -->
+		<Item Index="30" Serial="1" Option="1" Drop="1"  /> <!-- Pluma Shield -->
+		<Item Index="31" Serial="1" Option="1" Drop="1"  /> <!-- Alacran Shield -->
+		<Item Index="32" Serial="1" Option="1" Drop="1"  /> <!-- Vis Shield -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Shield (Bound) -->
+		<Item Index="38" Serial="1" Option="1" Drop="0"  /> <!-- Cross Shield (Bound) -->
+		<Item Index="39" Serial="1" Option="1" Drop="0"  /> <!-- Pluma Shield (Bound) -->
+		<Item Index="40" Serial="1" Option="1" Drop="0"  /> <!-- Grace Shield -->
+		<Item Index="41" Serial="1" Option="1" Drop="0"  /> <!-- Constant Shield -->
+	</Section>
+	<Section Index="7" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Bronze Helm -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Helm -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Pad Helm -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Helm -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Bone Helm -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Leather Helm -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Scale Helm -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Sphinx Mask -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Brass Helm -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Plate Helm -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Vine Helm -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Silk Helm -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Wind Helm -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Spirit Helm -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Guardian Helm -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Black Dragon Helm -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Dark Phoenix Helm -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Grand Soul Helm -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Holy Spirit Helm -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Great Dragon Helm -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Dark Soul Helm -->
+		<Item Index="24" Serial="1" Option="1" Drop="1"  /> <!-- Red Spirit Helm -->
+		<Item Index="25" Serial="1" Option="1" Drop="1"  /> <!-- Light Plate Mask -->
+		<Item Index="26" Serial="1" Option="1" Drop="1"  /> <!-- Adamantine Mask -->
+		<Item Index="27" Serial="1" Option="1" Drop="1"  /> <!-- Dark Steel Mask -->
+		<Item Index="28" Serial="1" Option="1" Drop="1"  /> <!-- Dark Master Mask -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Knight Helm -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Venom Mist Helm -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Sylphid Ray Helm -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Sunlight Mask -->
+		<Item Index="34" Serial="1" Option="1" Drop="1"  /> <!-- Ashcrow Helm -->
+		<Item Index="35" Serial="1" Option="1" Drop="1"  /> <!-- Eclipse Helm -->
+		<Item Index="36" Serial="1" Option="1" Drop="1"  /> <!-- Iris Helm -->
+		<Item Index="38" Serial="1" Option="1" Drop="1"  /> <!-- Glorious Mask -->
+		<Item Index="39" Serial="1" Option="1" Drop="1"  /> <!-- Violent Wind Helm -->
+		<Item Index="40" Serial="1" Option="1" Drop="1"  /> <!-- Red Wing Helm -->
+		<Item Index="41" Serial="1" Option="1" Drop="1"  /> <!-- Ancient Helm -->
+		<Item Index="42" Serial="1" Option="1" Drop="1"  /> <!-- Demonic Helm -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Storm Blitz Helm -->
+		<Item Index="44" Serial="1" Option="1" Drop="1"  /> <!-- Eternal Wing Helm -->
+		<Item Index="45" Serial="1" Option="1" Drop="1"  /> <!-- Titan  Helm -->
+		<Item Index="46" Serial="1" Option="1" Drop="1"  /> <!-- Brave Helm -->
+		<Item Index="49" Serial="1" Option="1" Drop="1"  /> <!-- Seraphim Helm -->
+		<Item Index="50" Serial="1" Option="1" Drop="1"  /> <!-- Divine Helm -->
+		<Item Index="51" Serial="1" Option="1" Drop="1"  /> <!-- Royal Mask -->
+		<Item Index="52" Serial="1" Option="1" Drop="1"  /> <!-- Hades Helm -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Succubus Helm -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Lazy Wind Helm -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Dark Devil Helm -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Sticky Helm -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Ambition Mask -->
+		<Item Index="59" Serial="1" Option="1" Drop="1"  /> <!-- Sacred Fire Helm -->
+		<Item Index="60" Serial="1" Option="1" Drop="1"  /> <!-- Storm Jahad Helm -->
+		<Item Index="61" Serial="1" Option="1" Drop="1"  /> <!-- Piercing Groove Helm -->
+		<Item Index="62" Serial="1" Option="1" Drop="0"  /> <!-- Scale Helm -->
+		<Item Index="63" Serial="1" Option="1" Drop="0"  /> <!-- Silk Helm -->
+		<Item Index="64" Serial="1" Option="1" Drop="0"  /> <!-- Sphinx Helm -->
+		<Item Index="65" Serial="1" Option="1" Drop="0"  /> <!-- Violent Wind Helm -->
+		<Item Index="66" Serial="1" Option="1" Drop="0"  /> <!-- Dark Soul Helm -->
+		<Item Index="67" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Helm -->
+		<Item Index="68" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Helm -->
+		<Item Index="69" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Helm -->
+		<Item Index="70" Serial="1" Option="1" Drop="0"  /> <!-- Red Wing Helm -->
+		<Item Index="72" Serial="1" Option="1" Drop="0"  /> <!-- Storm Jahad Helm -->
+		<Item Index="73" Serial="1" Option="1" Drop="0"  /> <!-- Phoenix Soul Helmet -->
+		<Item Index="74" Serial="1" Option="1" Drop="0"  /> <!-- Stormwing Helm -->
+		<Item Index="75" Serial="1" Option="1" Drop="0"  /> <!-- Light Lord Helmet -->
+		<Item Index="91" Serial="1" Option="1" Drop="1"  /> <!-- Robust Helmet -->
+		<Item Index="92" Serial="1" Option="1" Drop="1"  /> <!-- Gru hill Helmet -->
+		<Item Index="93" Serial="1" Option="1" Drop="1"  /> <!-- Princie Helmet -->
+		<Item Index="94" Serial="1" Option="1" Drop="1"  /> <!-- Hirat Helmet -->
+		<Item Index="95" Serial="1" Option="1" Drop="1"  /> <!-- Sate Helmet -->
+		<Item Index="96" Serial="1" Option="1" Drop="1"  /> <!-- Robust Helmet -->
+		<Item Index="97" Serial="1" Option="1" Drop="1"  /> <!-- Princie Helmet -->
+		<Item Index="98" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Knight Helm -->
+		<Item Index="99" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Wizard Helm -->
+		<Item Index="100" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Helm -->
+		<Item Index="101" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Summoner Helm -->
+		<Item Index="103" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lord Helm -->
+		<Item Index="104" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Fighter Helm -->
+		<Item Index="105" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lancer Helm -->
+		<Item Index="106" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Knight Helm -->
+		<Item Index="107" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Wizard Helm -->
+		<Item Index="108" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Agi) Helm -->
+		<Item Index="109" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Summoner Helm -->
+		<Item Index="111" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lord Helm -->
+		<Item Index="112" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Fighter Helm -->
+		<Item Index="113" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lancer Helm -->
+		<Item Index="114" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Ene) Helm -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Helm (Bound) -->
+		<Item Index="131" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Helm (Bound) -->
+		<Item Index="132" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Helm (Bound) -->
+		<Item Index="133" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Summoner Helm -->
+		<Item Index="134" Serial="1" Option="1" Drop="0"  /> <!-- Adamantine Mask (Bound) -->
+		<Item Index="135" Serial="1" Option="1" Drop="0"  /> <!-- Red Winged Helm (Bound) -->
+		<Item Index="136" Serial="1" Option="1" Drop="0"  /> <!-- Storm Zahard Helm (Bound) -->
+		<Item Index="137" Serial="1" Option="1" Drop="0"  /> <!-- Princie Helmet (Bound) -->
+		<Item Index="138" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Knight Helm -->
+		<Item Index="139" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Wizard Helm -->
+		<Item Index="140" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Helm -->
+		<Item Index="141" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Summoner Helm -->
+		<Item Index="143" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lord Helm -->
+		<Item Index="144" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Fighter Helm -->
+		<Item Index="145" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lancer Helm -->
+		<Item Index="146" Serial="1" Option="1" Drop="0"  /> <!-- Tigris Helm -->
+		<Item Index="147" Serial="1" Option="1" Drop="0"  /> <!-- Crimson Skull Helm -->
+		<Item Index="148" Serial="1" Option="1" Drop="0"  /> <!-- Grace Helm -->
+		<Item Index="149" Serial="1" Option="1" Drop="0"  /> <!-- Constant Helm -->
+		<Item Index="150" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Knight Helm -->
+		<Item Index="151" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Wizard Helm -->
+		<Item Index="152" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Helm -->
+		<Item Index="153" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Summoner Helm -->
+		<Item Index="155" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lord Helm -->
+		<Item Index="156" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Fighter Helm -->
+		<Item Index="157" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lancer Helm -->
+		<Item Index="158" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Helm -->
+		<Item Index="159" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Helm -->
+		<Item Index="160" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Helm -->
+	</Section>
+	<Section Index="8" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Bronze Armor -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Armor -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Pad Armor -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Armor -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Bone Armor -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Leather Armor -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Scale Armor -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Sphinx Armor -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Brass Armor -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Plate Armor -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Vine Armor -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Silk Armor -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Wind Armor -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Spirit Armor -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Guardian Armor -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Storm Crow Armor -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Black Dragon Armor -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Dark Phoenix Armor -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Grand Soul Armor -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Holy Spirit Armor -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Thunder Hawk Armor -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Great Dragon Armor -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Dark Soul Armor -->
+		<Item Index="23" Serial="1" Option="1" Drop="1"  /> <!-- Hurricane Armor -->
+		<Item Index="24" Serial="1" Option="1" Drop="1"  /> <!-- Red Spirit Armor -->
+		<Item Index="25" Serial="1" Option="1" Drop="1"  /> <!-- Light Plate Armor -->
+		<Item Index="26" Serial="1" Option="1" Drop="1"  /> <!-- Adamantine Armor -->
+		<Item Index="27" Serial="1" Option="1" Drop="1"  /> <!-- Dark Steel Armor -->
+		<Item Index="28" Serial="1" Option="1" Drop="1"  /> <!-- Dark Master Armor -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Knight Armor -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Venom Mist Armor -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Sylphid Ray Armor -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Volcano Armor -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Sunlight Armor -->
+		<Item Index="34" Serial="1" Option="1" Drop="1"  /> <!-- Ashcrow Armor -->
+		<Item Index="35" Serial="1" Option="1" Drop="1"  /> <!-- Eclipse Armor -->
+		<Item Index="36" Serial="1" Option="1" Drop="1"  /> <!-- Iris Armor -->
+		<Item Index="37" Serial="1" Option="1" Drop="1"  /> <!-- Valiant Armor -->
+		<Item Index="38" Serial="1" Option="1" Drop="1"  /> <!-- Glorious Armor -->
+		<Item Index="39" Serial="1" Option="1" Drop="1"  /> <!-- Violent Wind Armor -->
+		<Item Index="40" Serial="1" Option="1" Drop="1"  /> <!-- Red Wing Armor -->
+		<Item Index="41" Serial="1" Option="1" Drop="1"  /> <!-- Ancient Armor -->
+		<Item Index="42" Serial="1" Option="1" Drop="1"  /> <!-- Demonic Armor -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Storm Blitz Armor -->
+		<Item Index="44" Serial="1" Option="1" Drop="1"  /> <!-- Eternal Wing Armor -->
+		<Item Index="45" Serial="1" Option="1" Drop="1"  /> <!-- Titan  Armor -->
+		<Item Index="46" Serial="1" Option="1" Drop="1"  /> <!-- Brave Armor -->
+		<Item Index="47" Serial="1" Option="1" Drop="1"  /> <!-- Phantom  Armor -->
+		<Item Index="48" Serial="1" Option="1" Drop="1"  /> <!-- Destroy Armor -->
+		<Item Index="49" Serial="1" Option="1" Drop="1"  /> <!-- Seraphim Armor -->
+		<Item Index="50" Serial="1" Option="1" Drop="1"  /> <!-- Divine Armor -->
+		<Item Index="51" Serial="1" Option="1" Drop="1"  /> <!-- Royal Armor -->
+		<Item Index="52" Serial="1" Option="1" Drop="1"  /> <!-- Hades Armor -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Succubus Armor -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Lazy Wind Armor -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Dark Devil Armor -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Sticky Armor -->
+		<Item Index="57" Serial="1" Option="1" Drop="0"  /> <!-- Hell Night Armor -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Ambition Armor -->
+		<Item Index="59" Serial="1" Option="1" Drop="1"  /> <!-- Sacred Fire Armor -->
+		<Item Index="60" Serial="1" Option="1" Drop="1"  /> <!-- Storm Jahad Armor -->
+		<Item Index="61" Serial="1" Option="1" Drop="1"  /> <!-- Piercing Groove Armor -->
+		<Item Index="62" Serial="1" Option="1" Drop="0"  /> <!-- Scale Armor -->
+		<Item Index="63" Serial="1" Option="1" Drop="0"  /> <!-- Silk Armor -->
+		<Item Index="64" Serial="1" Option="1" Drop="0"  /> <!-- Sphinx Armor -->
+		<Item Index="65" Serial="1" Option="1" Drop="0"  /> <!-- Violent Wind Armor -->
+		<Item Index="66" Serial="1" Option="1" Drop="0"  /> <!-- Dark Soul Armor -->
+		<Item Index="67" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Armor -->
+		<Item Index="68" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Armor -->
+		<Item Index="69" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Armor -->
+		<Item Index="70" Serial="1" Option="1" Drop="0"  /> <!-- Red Wing Armor -->
+		<Item Index="71" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Armor -->
+		<Item Index="72" Serial="1" Option="1" Drop="0"  /> <!-- Storm Jahad Armor -->
+		<Item Index="73" Serial="1" Option="1" Drop="0"  /> <!-- Phoenix Soul Armor -->
+		<Item Index="74" Serial="1" Option="1" Drop="0"  /> <!-- Stormwing Armor -->
+		<Item Index="75" Serial="1" Option="1" Drop="0"  /> <!-- Light Lord Armor -->
+		<Item Index="76" Serial="1" Option="1" Drop="0"  /> <!-- Magic Knight Armor -->
+		<Item Index="91" Serial="1" Option="1" Drop="1"  /> <!-- Robust Armor -->
+		<Item Index="92" Serial="1" Option="1" Drop="1"  /> <!-- Gru Hill Armor -->
+		<Item Index="93" Serial="1" Option="1" Drop="1"  /> <!-- Princie Armor -->
+		<Item Index="94" Serial="1" Option="1" Drop="1"  /> <!-- Hirat Armor -->
+		<Item Index="95" Serial="1" Option="1" Drop="1"  /> <!-- Sate Armor -->
+		<Item Index="96" Serial="1" Option="1" Drop="1"  /> <!-- Robust Armor -->
+		<Item Index="97" Serial="1" Option="1" Drop="1"  /> <!-- Princie Armor -->
+		<Item Index="98" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Knight Armor -->
+		<Item Index="99" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Wizard Armor -->
+		<Item Index="100" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Armor -->
+		<Item Index="101" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Summoner Armor -->
+		<Item Index="102" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Armor -->
+		<Item Index="103" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lord Armor -->
+		<Item Index="104" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Fighter Armor -->
+		<Item Index="105" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lancer Armor -->
+		<Item Index="106" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Knight Armor -->
+		<Item Index="107" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Wizard Armor -->
+		<Item Index="108" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Agi) Armor -->
+		<Item Index="109" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Summoner Armor -->
+		<Item Index="110" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Str) Armor -->
+		<Item Index="111" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lord Armor -->
+		<Item Index="112" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Fighter Armor -->
+		<Item Index="113" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lancer Armor -->
+		<Item Index="114" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Ene) Armor -->
+		<Item Index="115" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Ene) Armor -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Armor (Bound) -->
+		<Item Index="131" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Armor (Bound) -->
+		<Item Index="132" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Armor (Bound) -->
+		<Item Index="133" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Armor (Bound) -->
+		<Item Index="134" Serial="1" Option="1" Drop="0"  /> <!-- Adamantine Armor (Bound) -->
+		<Item Index="135" Serial="1" Option="1" Drop="0"  /> <!-- Red Winged Armor (Bound) -->
+		<Item Index="136" Serial="1" Option="1" Drop="0"  /> <!-- Storm Zahard Armor (Bound) -->
+		<Item Index="137" Serial="1" Option="1" Drop="0"  /> <!-- Princie Armor (Bound) -->
+		<Item Index="138" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Knight Armor -->
+		<Item Index="139" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Wizard Armor -->
+		<Item Index="140" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Armor -->
+		<Item Index="141" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Summoner Armor -->
+		<Item Index="142" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Armor -->
+		<Item Index="143" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lord Armor -->
+		<Item Index="144" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Fighter Armor -->
+		<Item Index="145" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lancer Armor -->
+		<Item Index="146" Serial="1" Option="1" Drop="0"  /> <!-- Tigris Armor -->
+		<Item Index="147" Serial="1" Option="1" Drop="0"  /> <!-- Crimson Skull Armor -->
+		<Item Index="148" Serial="1" Option="1" Drop="0"  /> <!-- Grace Armor -->
+		<Item Index="149" Serial="1" Option="1" Drop="0"  /> <!-- Constant Armor -->
+		<Item Index="150" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Knight Armor -->
+		<Item Index="151" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Wizard Armor -->
+		<Item Index="152" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Armor -->
+		<Item Index="153" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Summoner Armor -->
+		<Item Index="154" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Armor -->
+		<Item Index="155" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lord Armor -->
+		<Item Index="156" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Fighter Armor -->
+		<Item Index="157" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lancer Armor -->
+		<Item Index="158" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Armor -->
+		<Item Index="159" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Armor -->
+		<Item Index="160" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Armor -->
+		<Item Index="161" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Armor -->
+		<Item Index="162" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Armor -->
+		<Item Index="163" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Armor -->
+	</Section>
+	<Section Index="9" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Bronze Pants -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Pants -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Pad Pants -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Pants -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Bone Pants -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Leather Pants -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Scale Pants -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Sphinx Pants -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Brass Pants -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Plate Pants -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Vine Pants -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Silk Pants -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Wind Pants -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Spirit Pants -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Guardian Pants -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Storm Crow Pants -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Black Dragon Pants -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Dark Phoenix Pants -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Grand Soul Pants -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Holy Spirit Pants -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Thunder Hawk Pants -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Great Dragon Pants -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Dark Soul Pants -->
+		<Item Index="23" Serial="1" Option="1" Drop="1"  /> <!-- Hurricane Pants -->
+		<Item Index="24" Serial="1" Option="1" Drop="1"  /> <!-- Red Spirit Pants -->
+		<Item Index="25" Serial="1" Option="1" Drop="1"  /> <!-- Light Plate Pants -->
+		<Item Index="26" Serial="1" Option="1" Drop="1"  /> <!-- Adamantine Pants -->
+		<Item Index="27" Serial="1" Option="1" Drop="1"  /> <!-- Dark Steel Pants -->
+		<Item Index="28" Serial="1" Option="1" Drop="1"  /> <!-- Dark Master Pants -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Knight Pants -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Venom Mist Pants -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Sylphid Ray Pants -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Volcano Pants -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Sunlight Pants -->
+		<Item Index="34" Serial="1" Option="1" Drop="1"  /> <!-- Ashcrow Pants -->
+		<Item Index="35" Serial="1" Option="1" Drop="1"  /> <!-- Eclipse Pants -->
+		<Item Index="36" Serial="1" Option="1" Drop="1"  /> <!-- Iris Pants -->
+		<Item Index="37" Serial="1" Option="1" Drop="1"  /> <!-- Valiant Pants -->
+		<Item Index="38" Serial="1" Option="1" Drop="1"  /> <!-- Glorious Pants -->
+		<Item Index="39" Serial="1" Option="1" Drop="1"  /> <!-- Violent Wind Pants -->
+		<Item Index="40" Serial="1" Option="1" Drop="1"  /> <!-- Red Wing Pants -->
+		<Item Index="41" Serial="1" Option="1" Drop="1"  /> <!-- Ancient Pants -->
+		<Item Index="42" Serial="1" Option="1" Drop="1"  /> <!-- Demonic Pants -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Storm Blitz Pants -->
+		<Item Index="44" Serial="1" Option="1" Drop="1"  /> <!-- Eternal Wing Pants -->
+		<Item Index="45" Serial="1" Option="1" Drop="1"  /> <!-- Titan  Pants -->
+		<Item Index="46" Serial="1" Option="1" Drop="1"  /> <!-- Brave Pants -->
+		<Item Index="47" Serial="1" Option="1" Drop="1"  /> <!-- Phantom  Pants -->
+		<Item Index="48" Serial="1" Option="1" Drop="1"  /> <!-- Destroy Pants -->
+		<Item Index="49" Serial="1" Option="1" Drop="1"  /> <!-- Seraphim Pants -->
+		<Item Index="50" Serial="1" Option="1" Drop="1"  /> <!-- Divine Pants -->
+		<Item Index="51" Serial="1" Option="1" Drop="1"  /> <!-- Royal Pants -->
+		<Item Index="52" Serial="1" Option="1" Drop="1"  /> <!-- Hades Pants -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Succubus Pants -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Lazy Wind Pants -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Dark Devil Pants -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Sticky Pants -->
+		<Item Index="57" Serial="1" Option="1" Drop="0"  /> <!-- Hell Night Pants -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Ambition Pants -->
+		<Item Index="59" Serial="1" Option="1" Drop="1"  /> <!-- Sacred Fire Pants -->
+		<Item Index="60" Serial="1" Option="1" Drop="1"  /> <!-- Storm Jahad Pants -->
+		<Item Index="61" Serial="1" Option="1" Drop="1"  /> <!-- Piercing Groove Pants -->
+		<Item Index="62" Serial="1" Option="1" Drop="0"  /> <!-- Scale Pants -->
+		<Item Index="63" Serial="1" Option="1" Drop="0"  /> <!-- Silk Pants -->
+		<Item Index="64" Serial="1" Option="1" Drop="0"  /> <!-- Sphinx Pants -->
+		<Item Index="65" Serial="1" Option="1" Drop="0"  /> <!-- Violent Wind Pants -->
+		<Item Index="66" Serial="1" Option="1" Drop="0"  /> <!-- Dark Soul Pants -->
+		<Item Index="67" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Pants -->
+		<Item Index="68" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Pants -->
+		<Item Index="69" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Pants -->
+		<Item Index="70" Serial="1" Option="1" Drop="0"  /> <!-- Red Wing Pants -->
+		<Item Index="71" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Pants -->
+		<Item Index="72" Serial="1" Option="1" Drop="0"  /> <!-- Storm Jahad Pants -->
+		<Item Index="73" Serial="1" Option="1" Drop="0"  /> <!-- Phoenix Soul Pants -->
+		<Item Index="74" Serial="1" Option="1" Drop="0"  /> <!-- Stormwing Pants -->
+		<Item Index="75" Serial="1" Option="1" Drop="0"  /> <!-- Light Lord Pants -->
+		<Item Index="76" Serial="1" Option="1" Drop="0"  /> <!-- Magic Knight Pants -->
+		<Item Index="91" Serial="1" Option="1" Drop="1"  /> <!-- Robust Pants -->
+		<Item Index="92" Serial="1" Option="1" Drop="1"  /> <!-- Gru Hill Pants -->
+		<Item Index="93" Serial="1" Option="1" Drop="1"  /> <!-- Princie Pants -->
+		<Item Index="94" Serial="1" Option="1" Drop="1"  /> <!-- Hirat Pants -->
+		<Item Index="95" Serial="1" Option="1" Drop="1"  /> <!-- Sate Pants -->
+		<Item Index="96" Serial="1" Option="1" Drop="1"  /> <!-- Robust Pants -->
+		<Item Index="97" Serial="1" Option="1" Drop="1"  /> <!-- Princie Pants -->
+		<Item Index="98" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Knight Pants -->
+		<Item Index="99" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Wizard Pants -->
+		<Item Index="100" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Pants -->
+		<Item Index="101" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Summoner Pants -->
+		<Item Index="102" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Pants -->
+		<Item Index="103" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lord Pants -->
+		<Item Index="104" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Fighter Pants -->
+		<Item Index="105" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lancer Pants -->
+		<Item Index="106" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Knight Pants -->
+		<Item Index="107" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Wizard Pants -->
+		<Item Index="108" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Agi) Pants -->
+		<Item Index="109" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Summoner Pants -->
+		<Item Index="110" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Str) Pants -->
+		<Item Index="111" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lord Pants -->
+		<Item Index="112" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Fighter Pants -->
+		<Item Index="113" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lancer Pants -->
+		<Item Index="114" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Ene) Pants -->
+		<Item Index="115" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Ene) Pants -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Pants (Bound) -->
+		<Item Index="131" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Pants (Bound) -->
+		<Item Index="132" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Pants (Bound) -->
+		<Item Index="133" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Pants (Bound) -->
+		<Item Index="134" Serial="1" Option="1" Drop="0"  /> <!-- Adamantine Pants (Bound) -->
+		<Item Index="135" Serial="1" Option="1" Drop="0"  /> <!-- Red Winged Pants (Bound) -->
+		<Item Index="136" Serial="1" Option="1" Drop="0"  /> <!-- Storm Zahard Pants (Bound) -->
+		<Item Index="137" Serial="1" Option="1" Drop="0"  /> <!-- Princie Pants (Bound) -->
+		<Item Index="138" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Knight Pants -->
+		<Item Index="139" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Wizard Pants -->
+		<Item Index="140" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Pants -->
+		<Item Index="141" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Summoner Pants -->
+		<Item Index="142" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Pants -->
+		<Item Index="143" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lord Pants -->
+		<Item Index="144" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Fighter Pants -->
+		<Item Index="145" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lancer Pants -->
+		<Item Index="146" Serial="1" Option="1" Drop="0"  /> <!-- Tigris Pants -->
+		<Item Index="147" Serial="1" Option="1" Drop="0"  /> <!-- Crimson Skull Pants -->
+		<Item Index="148" Serial="1" Option="1" Drop="0"  /> <!-- Grace Pants -->
+		<Item Index="149" Serial="1" Option="1" Drop="0"  /> <!-- Constant Pants -->
+		<Item Index="150" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Knight Pants -->
+		<Item Index="151" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Wizard Pants -->
+		<Item Index="152" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Pants -->
+		<Item Index="153" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Summoner Pants -->
+		<Item Index="154" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Pants -->
+		<Item Index="155" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lord Pants -->
+		<Item Index="156" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Fighter Pants -->
+		<Item Index="157" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lancer Pants -->
+		<Item Index="158" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Pants -->
+		<Item Index="159" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Pants -->
+		<Item Index="160" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Pants -->
+		<Item Index="161" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Pants -->
+		<Item Index="162" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Pants -->
+		<Item Index="163" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Pants -->
+	</Section>
+	<Section Index="10" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Bronze Gloves -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Gloves -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Pad Gloves -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Gloves -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Bone Gloves -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Leather Gloves -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Scale Gloves -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Sphinx Gloves -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Brass Gloves -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Plate Gloves -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Vine Gloves -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Silk Gloves -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Wind Gloves -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Spirit Gloves -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Guardian Gloves -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Storm Crow Gloves -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Black Dragon Gloves -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Dark Phoenix Gloves -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Grand Soul Gloves -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Holy Spirit Gloves -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Thunder Hawk Gloves -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Great Dragon Gloves -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Dark Soul Gloves -->
+		<Item Index="23" Serial="1" Option="1" Drop="1"  /> <!-- Hurricane Gloves -->
+		<Item Index="24" Serial="1" Option="1" Drop="1"  /> <!-- Red Spirit Gloves -->
+		<Item Index="25" Serial="1" Option="1" Drop="1"  /> <!-- Light Plate Gloves -->
+		<Item Index="26" Serial="1" Option="1" Drop="1"  /> <!-- Adamantine Gloves -->
+		<Item Index="27" Serial="1" Option="1" Drop="1"  /> <!-- Dark Steel Gloves -->
+		<Item Index="28" Serial="1" Option="1" Drop="1"  /> <!-- Dark Master Gloves -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Knight Gloves -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Venom Mist Gloves -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Sylphid Ray Gloves -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Volcano Gloves -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Sunlight Gloves -->
+		<Item Index="34" Serial="1" Option="1" Drop="1"  /> <!-- Ashcrow Gloves -->
+		<Item Index="35" Serial="1" Option="1" Drop="1"  /> <!-- Eclipse Gloves -->
+		<Item Index="36" Serial="1" Option="1" Drop="1"  /> <!-- Iris Gloves -->
+		<Item Index="37" Serial="1" Option="1" Drop="1"  /> <!-- Valiant Gloves -->
+		<Item Index="38" Serial="1" Option="1" Drop="1"  /> <!-- Glorious Gloves -->
+		<Item Index="39" Serial="1" Option="1" Drop="1"  /> <!-- Violent Wind Gloves -->
+		<Item Index="40" Serial="1" Option="1" Drop="1"  /> <!-- Red Wing Gloves -->
+		<Item Index="41" Serial="1" Option="1" Drop="1"  /> <!-- Ancient Gloves -->
+		<Item Index="42" Serial="1" Option="1" Drop="1"  /> <!-- Demonic Gloves -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Storm Blitz Gloves -->
+		<Item Index="44" Serial="1" Option="1" Drop="1"  /> <!-- Eternal Wing Gloves -->
+		<Item Index="45" Serial="1" Option="1" Drop="1"  /> <!-- Titan  Gloves -->
+		<Item Index="46" Serial="1" Option="1" Drop="1"  /> <!-- Brave Gloves -->
+		<Item Index="47" Serial="1" Option="1" Drop="1"  /> <!-- Phantom  Gloves -->
+		<Item Index="48" Serial="1" Option="1" Drop="1"  /> <!-- Destroy Gloves -->
+		<Item Index="49" Serial="1" Option="1" Drop="1"  /> <!-- Seraphim Gloves -->
+		<Item Index="50" Serial="1" Option="1" Drop="1"  /> <!-- Divine Gloves -->
+		<Item Index="51" Serial="1" Option="1" Drop="1"  /> <!-- Royal Gloves -->
+		<Item Index="52" Serial="1" Option="1" Drop="1"  /> <!-- Hades Gloves -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Succubus Gloves -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Lazy Wind Gloves -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Dark Devil Gloves -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Sticky Gloves -->
+		<Item Index="57" Serial="1" Option="1" Drop="0"  /> <!-- Hell Night Gloves -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Ambition Gloves -->
+		<Item Index="62" Serial="1" Option="1" Drop="0"  /> <!-- Scale Gloves -->
+		<Item Index="63" Serial="1" Option="1" Drop="0"  /> <!-- Silk Gloves -->
+		<Item Index="64" Serial="1" Option="1" Drop="0"  /> <!-- Sphinx Gloves -->
+		<Item Index="65" Serial="1" Option="1" Drop="0"  /> <!-- Violent Wind Gloves -->
+		<Item Index="66" Serial="1" Option="1" Drop="0"  /> <!-- Dark Soul Gloves -->
+		<Item Index="67" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Gloves -->
+		<Item Index="68" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Gloves -->
+		<Item Index="69" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Gloves -->
+		<Item Index="70" Serial="1" Option="1" Drop="0"  /> <!-- Red Wing Gloves -->
+		<Item Index="71" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Gloves -->
+		<Item Index="74" Serial="1" Option="1" Drop="0"  /> <!-- Stormwing Gloves -->
+		<Item Index="75" Serial="1" Option="1" Drop="0"  /> <!-- Light Lord Gloves -->
+		<Item Index="76" Serial="1" Option="1" Drop="0"  /> <!-- Magic Knight Gloves -->
+		<Item Index="91" Serial="1" Option="1" Drop="1"  /> <!-- Robust Gloves -->
+		<Item Index="92" Serial="1" Option="1" Drop="1"  /> <!-- Gru Hill Gloves -->
+		<Item Index="93" Serial="1" Option="1" Drop="1"  /> <!-- Princie Gloves -->
+		<Item Index="94" Serial="1" Option="1" Drop="1"  /> <!-- Hirat Gloves -->
+		<Item Index="95" Serial="1" Option="1" Drop="1"  /> <!-- Sate Gloves -->
+		<Item Index="96" Serial="1" Option="1" Drop="1"  /> <!-- Robust Gloves -->
+		<Item Index="97" Serial="1" Option="1" Drop="1"  /> <!-- Princie Gloves -->
+		<Item Index="98" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Knight Gloves -->
+		<Item Index="99" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Wizard Gloves -->
+		<Item Index="100" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Gloves -->
+		<Item Index="101" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Summoner Gloves -->
+		<Item Index="102" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Gloves -->
+		<Item Index="103" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lord Gloves -->
+		<Item Index="105" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lancer Gloves -->
+		<Item Index="106" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Knight Gloves -->
+		<Item Index="107" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Wizard Gloves -->
+		<Item Index="108" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Agi) Gloves -->
+		<Item Index="109" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Summoner Gloves -->
+		<Item Index="110" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Str) Gloves -->
+		<Item Index="111" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lord Gloves -->
+		<Item Index="113" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lancer Gloves -->
+		<Item Index="114" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Ene) Gloves -->
+		<Item Index="115" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Ene) Gloves -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Gloves (Bound) -->
+		<Item Index="131" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Gloves (Bound) -->
+		<Item Index="132" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Gloves (Bound) -->
+		<Item Index="133" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Gloves (Bound) -->
+		<Item Index="134" Serial="1" Option="1" Drop="0"  /> <!-- Adamantine Gloves (Bound) -->
+		<Item Index="135" Serial="1" Option="1" Drop="0"  /> <!-- Red Winged Gloves (Bound) -->
+		<Item Index="137" Serial="1" Option="1" Drop="0"  /> <!-- Princie Gloves (Bound) -->
+		<Item Index="138" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Knight Gloves -->
+		<Item Index="139" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Wizard Gloves -->
+		<Item Index="140" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Gloves -->
+		<Item Index="141" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Summoner Gloves -->
+		<Item Index="142" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Gloves -->
+		<Item Index="143" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lord Gloves -->
+		<Item Index="145" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lancer Gloves -->
+		<Item Index="148" Serial="1" Option="1" Drop="0"  /> <!-- Grace Gloves -->
+		<Item Index="149" Serial="1" Option="1" Drop="0"  /> <!-- Constant Gloves -->
+		<Item Index="150" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Knight Gloves -->
+		<Item Index="151" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Wizard Gloves -->
+		<Item Index="152" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Gloves -->
+		<Item Index="153" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Summoner Gloves -->
+		<Item Index="154" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Gloves -->
+		<Item Index="155" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lord Gloves -->
+		<Item Index="157" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lancer Gloves -->
+		<Item Index="158" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Gloves -->
+		<Item Index="159" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Gloves -->
+		<Item Index="160" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Gloves -->
+		<Item Index="161" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Gloves -->
+		<Item Index="162" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Gloves -->
+		<Item Index="163" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Gloves -->
+	</Section>
+	<Section Index="11" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="1"  /> <!-- Bronze Boots -->
+		<Item Index="1" Serial="1" Option="1" Drop="1"  /> <!-- Dragon Boots -->
+		<Item Index="2" Serial="1" Option="1" Drop="1"  /> <!-- Pad Boots -->
+		<Item Index="3" Serial="1" Option="1" Drop="1"  /> <!-- Legendary Boots -->
+		<Item Index="4" Serial="1" Option="1" Drop="1"  /> <!-- Bone Boots -->
+		<Item Index="5" Serial="1" Option="1" Drop="1"  /> <!-- Leather Boots -->
+		<Item Index="6" Serial="1" Option="1" Drop="1"  /> <!-- Scale Boots -->
+		<Item Index="7" Serial="1" Option="1" Drop="1"  /> <!-- Sphinx Boots -->
+		<Item Index="8" Serial="1" Option="1" Drop="1"  /> <!-- Brass Boots -->
+		<Item Index="9" Serial="1" Option="1" Drop="1"  /> <!-- Plate Boots -->
+		<Item Index="10" Serial="1" Option="1" Drop="1"  /> <!-- Vine Boots -->
+		<Item Index="11" Serial="1" Option="1" Drop="1"  /> <!-- Silk Boots -->
+		<Item Index="12" Serial="1" Option="1" Drop="1"  /> <!-- Wind Boots -->
+		<Item Index="13" Serial="1" Option="1" Drop="1"  /> <!-- Spirit Boots -->
+		<Item Index="14" Serial="1" Option="1" Drop="1"  /> <!-- Guardian Boots -->
+		<Item Index="15" Serial="1" Option="1" Drop="1"  /> <!-- Storm Crow Boots -->
+		<Item Index="16" Serial="1" Option="1" Drop="1"  /> <!-- Black Dragon Boots -->
+		<Item Index="17" Serial="1" Option="1" Drop="1"  /> <!-- Dark Phoenix Boots -->
+		<Item Index="18" Serial="1" Option="1" Drop="1"  /> <!-- Grand Soul Boots -->
+		<Item Index="19" Serial="1" Option="1" Drop="1"  /> <!-- Holy Spirit Boots -->
+		<Item Index="20" Serial="1" Option="1" Drop="1"  /> <!-- Thunder Hawk Boots -->
+		<Item Index="21" Serial="1" Option="1" Drop="1"  /> <!-- Great Dragon Boots -->
+		<Item Index="22" Serial="1" Option="1" Drop="1"  /> <!-- Dark Soul Boots -->
+		<Item Index="23" Serial="1" Option="1" Drop="1"  /> <!-- Hurricane Boots -->
+		<Item Index="24" Serial="1" Option="1" Drop="1"  /> <!-- Red Spirit Boots -->
+		<Item Index="25" Serial="1" Option="1" Drop="1"  /> <!-- Light Plate Boots -->
+		<Item Index="26" Serial="1" Option="1" Drop="1"  /> <!-- Adamantine Boots -->
+		<Item Index="27" Serial="1" Option="1" Drop="1"  /> <!-- Dark Steel Boots -->
+		<Item Index="28" Serial="1" Option="1" Drop="1"  /> <!-- Dark Master Boots -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Knight Boots -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Venom Mist Boots -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Sylphid Ray Boots -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Volcano Boots -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Sunlight Boots -->
+		<Item Index="34" Serial="1" Option="1" Drop="1"  /> <!-- Ashcrow Boots -->
+		<Item Index="35" Serial="1" Option="1" Drop="1"  /> <!-- Eclipse Boots -->
+		<Item Index="36" Serial="1" Option="1" Drop="1"  /> <!-- Iris Boots -->
+		<Item Index="37" Serial="1" Option="1" Drop="1"  /> <!-- Valiant Boots -->
+		<Item Index="38" Serial="1" Option="1" Drop="1"  /> <!-- Glorious Boots -->
+		<Item Index="39" Serial="1" Option="1" Drop="1"  /> <!-- Violent Wind Boots -->
+		<Item Index="40" Serial="1" Option="1" Drop="1"  /> <!-- Red Wing Boots -->
+		<Item Index="41" Serial="1" Option="1" Drop="1"  /> <!-- Ancient Boots -->
+		<Item Index="42" Serial="1" Option="1" Drop="1"  /> <!-- Demonic Boots -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Storm Blitz Boots -->
+		<Item Index="44" Serial="1" Option="1" Drop="1"  /> <!-- Eternal Wing Boots -->
+		<Item Index="45" Serial="1" Option="1" Drop="1"  /> <!-- Titan Boots -->
+		<Item Index="46" Serial="1" Option="1" Drop="1"  /> <!-- Brave Boots -->
+		<Item Index="47" Serial="1" Option="1" Drop="1"  /> <!-- Phantom Boots -->
+		<Item Index="48" Serial="1" Option="1" Drop="1"  /> <!-- Destroy Boots -->
+		<Item Index="49" Serial="1" Option="1" Drop="1"  /> <!-- Seraphim Boots -->
+		<Item Index="50" Serial="1" Option="1" Drop="1"  /> <!-- Divine Boots -->
+		<Item Index="51" Serial="1" Option="1" Drop="1"  /> <!-- Royal Boots -->
+		<Item Index="52" Serial="1" Option="1" Drop="1"  /> <!-- Hades Boots -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Succubus Boots -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Lazy Wind Boots -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Dark Devil Boots -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Sticky Boots -->
+		<Item Index="57" Serial="1" Option="1" Drop="0"  /> <!-- Hell Night Boots -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Ambition Boots -->
+		<Item Index="59" Serial="1" Option="1" Drop="1"  /> <!-- Sacred Fire Boots -->
+		<Item Index="60" Serial="1" Option="1" Drop="1"  /> <!-- Storm Jahad Boots -->
+		<Item Index="61" Serial="1" Option="1" Drop="1"  /> <!-- Piercing Groove Boots -->
+		<Item Index="62" Serial="1" Option="1" Drop="0"  /> <!-- Scale Boots -->
+		<Item Index="63" Serial="1" Option="1" Drop="0"  /> <!-- Silk Boots -->
+		<Item Index="64" Serial="1" Option="1" Drop="0"  /> <!-- Sphinx Boots -->
+		<Item Index="65" Serial="1" Option="1" Drop="0"  /> <!-- Violent Wind Boots -->
+		<Item Index="66" Serial="1" Option="1" Drop="0"  /> <!-- Dark Soul Boots -->
+		<Item Index="67" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Boots -->
+		<Item Index="68" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Boots -->
+		<Item Index="69" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Boots -->
+		<Item Index="70" Serial="1" Option="1" Drop="0"  /> <!-- Red Wing Boots -->
+		<Item Index="71" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Boots -->
+		<Item Index="72" Serial="1" Option="1" Drop="0"  /> <!-- Storm Jahad Boots -->
+		<Item Index="73" Serial="1" Option="1" Drop="0"  /> <!-- Phoenix Soul Boots -->
+		<Item Index="74" Serial="1" Option="1" Drop="0"  /> <!-- Stormwing Boots -->
+		<Item Index="75" Serial="1" Option="1" Drop="0"  /> <!-- Light Lord Boots -->
+		<Item Index="76" Serial="1" Option="1" Drop="0"  /> <!-- Magic Knight Boots -->
+		<Item Index="91" Serial="1" Option="1" Drop="1"  /> <!-- Robust Boots -->
+		<Item Index="92" Serial="1" Option="1" Drop="1"  /> <!-- Gru Hill Boots -->
+		<Item Index="93" Serial="1" Option="1" Drop="1"  /> <!-- Princie Boots -->
+		<Item Index="94" Serial="1" Option="1" Drop="1"  /> <!-- Hirat Boots -->
+		<Item Index="95" Serial="1" Option="1" Drop="1"  /> <!-- Sate Boots -->
+		<Item Index="96" Serial="1" Option="1" Drop="1"  /> <!-- Robust Boots -->
+		<Item Index="97" Serial="1" Option="1" Drop="1"  /> <!-- Princie Boots -->
+		<Item Index="98" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Knight Boots -->
+		<Item Index="99" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Wizard Boots -->
+		<Item Index="100" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Boots -->
+		<Item Index="101" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Summoner Boots -->
+		<Item Index="102" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Boots -->
+		<Item Index="103" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lord Boots -->
+		<Item Index="104" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Fighter Boots -->
+		<Item Index="105" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Lancer Boots -->
+		<Item Index="106" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Knight Boots -->
+		<Item Index="107" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Wizard Boots -->
+		<Item Index="108" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Agi) Boots -->
+		<Item Index="109" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Summoner Boots -->
+		<Item Index="110" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Str) Boots -->
+		<Item Index="111" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lord Boots -->
+		<Item Index="112" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Fighter Boots -->
+		<Item Index="113" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Lancer Boots -->
+		<Item Index="114" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Elf (Ene) Boots -->
+		<Item Index="115" Serial="1" Option="1" Drop="0"  /> <!-- Awakening Soul Magic (Ene) Boots -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Boots (Bound) -->
+		<Item Index="131" Serial="1" Option="1" Drop="0"  /> <!-- Legendary Boots (Bound) -->
+		<Item Index="132" Serial="1" Option="1" Drop="0"  /> <!-- Guardian Boots (Bound) -->
+		<Item Index="133" Serial="1" Option="1" Drop="0"  /> <!-- Atlans Boots (Bound) -->
+		<Item Index="134" Serial="1" Option="1" Drop="0"  /> <!-- Adamantine Boots (Bound) -->
+		<Item Index="135" Serial="1" Option="1" Drop="0"  /> <!-- Red Winged Boots (Bound) -->
+		<Item Index="136" Serial="1" Option="1" Drop="0"  /> <!-- Storm Zahard Boots (Bound) -->
+		<Item Index="137" Serial="1" Option="1" Drop="0"  /> <!-- Princie Boots (Bound) -->
+		<Item Index="138" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Knight Boots -->
+		<Item Index="139" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Wizard Boots -->
+		<Item Index="140" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Boots -->
+		<Item Index="141" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Summoner Boots -->
+		<Item Index="142" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Boots -->
+		<Item Index="143" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lord Boots -->
+		<Item Index="144" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Fighter Boots -->
+		<Item Index="145" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Lancer Boots -->
+		<Item Index="146" Serial="1" Option="1" Drop="0"  /> <!-- Tigris Boots -->
+		<Item Index="147" Serial="1" Option="1" Drop="0"  /> <!-- Crimson Skull Boots -->
+		<Item Index="148" Serial="1" Option="1" Drop="0"  /> <!-- Grace Boots -->
+		<Item Index="149" Serial="1" Option="1" Drop="0"  /> <!-- Constant Boots -->
+		<Item Index="150" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Knight Boots -->
+		<Item Index="151" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Wizard Boots -->
+		<Item Index="152" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Boots -->
+		<Item Index="153" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Summoner Boots -->
+		<Item Index="154" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Boots -->
+		<Item Index="155" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lord Boots -->
+		<Item Index="156" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Fighter Boots -->
+		<Item Index="157" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Lancer Boots -->
+		<Item Index="158" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Elf Boots -->
+		<Item Index="159" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Elf Boots -->
+		<Item Index="160" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Elf Boots -->
+		<Item Index="161" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Magic Boots -->
+		<Item Index="162" Serial="1" Option="1" Drop="0"  /> <!-- Darkangel Magic Boots -->
+		<Item Index="163" Serial="1" Option="1" Drop="0"  /> <!-- Holyangel Magic Boots -->
+	</Section>
+	<Section Index="12" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="0" Drop="0"  /> <!-- Wings of Elf -->
+		<Item Index="1" Serial="1" Option="0" Drop="0"  /> <!-- Wings of Heaven -->
+		<Item Index="2" Serial="1" Option="0" Drop="0"  /> <!-- Wings of Satan -->
+		<Item Index="3" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Spirits -->
+		<Item Index="4" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Soul -->
+		<Item Index="5" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Dragon -->
+		<Item Index="6" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Darkness -->
+		<Item Index="7" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Twisting Slash -->
+		<Item Index="8" Serial="1" Option="0" Drop="1"  /> <!-- Healing Orb -->
+		<Item Index="9" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Greater Fortitude -->
+		<Item Index="10" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Greater Damage -->
+		<Item Index="11" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Summoning -->
+		<Item Index="12" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Rageful Blow -->
+		<Item Index="13" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Impale -->
+		<Item Index="14" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Greater Fortitude -->
+		<Item Index="15" Serial="1" Option="0" Drop="1"  /> <!-- Jewel of Chaos -->
+		<Item Index="16" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Fire Slash -->
+		<Item Index="17" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Penetration -->
+		<Item Index="18" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Ice Arrow -->
+		<Item Index="19" Serial="1" Option="0" Drop="1"  /> <!-- Orb of Death Stab -->
+		<Item Index="21" Serial="1" Option="0" Drop="1"  /> <!-- Scroll of FireBurst -->
+		<Item Index="22" Serial="1" Option="0" Drop="1"  /> <!-- Scroll of Summon -->
+		<Item Index="23" Serial="1" Option="0" Drop="1"  /> <!-- Scroll of Critical Damage -->
+		<Item Index="24" Serial="1" Option="0" Drop="1"  /> <!-- Scroll of Electric Spark -->
+		<Item Index="26" Serial="1" Option="0" Drop="0"  /> <!-- Gem of Secret -->
+		<Item Index="30" Serial="1" Option="0" Drop="0"  /> <!-- Bundle of Jewel of Bless -->
+		<Item Index="31" Serial="1" Option="0" Drop="0"  /> <!-- Bundle of Jewel of Soul -->
+		<Item Index="32" Serial="1" Option="0" Drop="0"  /> <!-- Box of Red Ribbon -->
+		<Item Index="33" Serial="1" Option="0" Drop="0"  /> <!-- Box of Green Ribbon -->
+		<Item Index="34" Serial="1" Option="0" Drop="0"  /> <!-- Box of Blue Ribbon -->
+		<Item Index="35" Serial="1" Option="0" Drop="1"  /> <!-- Scroll of Fire Scream -->
+		<Item Index="36" Serial="1" Option="1" Drop="0"  /> <!-- Wing of Storm -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Wing of Eternal -->
+		<Item Index="38" Serial="1" Option="1" Drop="0"  /> <!-- Wing of Illusion -->
+		<Item Index="39" Serial="1" Option="1" Drop="0"  /> <!-- Wing of Ruin -->
+		<Item Index="40" Serial="1" Option="1" Drop="0"  /> <!-- Cape of Emperor -->
+		<Item Index="41" Serial="1" Option="0" Drop="0"  /> <!-- Wing of Curse -->
+		<Item Index="42" Serial="1" Option="1" Drop="0"  /> <!-- Wind of Despair -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Wing of Dimension -->
+		<Item Index="44" Serial="1" Option="0" Drop="1"  /> <!-- Crystal of Destruction -->
+		<Item Index="45" Serial="1" Option="0" Drop="1"  /> <!-- Crystal of Multi-Shot -->
+		<Item Index="46" Serial="1" Option="0" Drop="1"  /> <!-- Crystal of Recovery -->
+		<Item Index="47" Serial="1" Option="0" Drop="1"  /> <!-- Crystal of Flame Strike -->
+		<Item Index="48" Serial="1" Option="0" Drop="1"  /> <!-- Scroll of Chaotic Diseier -->
+		<Item Index="49" Serial="1" Option="1" Drop="0"  /> <!-- Cape of Fighter -->
+		<Item Index="50" Serial="1" Option="1" Drop="0"  /> <!-- Cape of Overrule -->
+		<Item Index="60" Serial="1" Option="0" Drop="0"  /> <!-- Seed (Fire) -->
+		<Item Index="61" Serial="1" Option="0" Drop="0"  /> <!-- Seed (Water) -->
+		<Item Index="62" Serial="1" Option="0" Drop="0"  /> <!-- Seed (Ice) -->
+		<Item Index="63" Serial="1" Option="0" Drop="0"  /> <!-- Seed (Wind) -->
+		<Item Index="64" Serial="1" Option="0" Drop="0"  /> <!-- Seed (Lightning) -->
+		<Item Index="65" Serial="1" Option="0" Drop="0"  /> <!-- Seed (Earth) -->
+		<Item Index="70" Serial="1" Option="0" Drop="0"  /> <!-- Sphere -->
+		<Item Index="71" Serial="1" Option="0" Drop="0"  /> <!-- Sphere (Di) -->
+		<Item Index="72" Serial="1" Option="0" Drop="0"  /> <!-- Sphere (Tri) -->
+		<Item Index="73" Serial="1" Option="0" Drop="0"  /> <!-- Sphere (Tetra) -->
+		<Item Index="100" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="101" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="102" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="103" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="104" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="105" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="106" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="107" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="108" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="109" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="110" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="111" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="112" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="113" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="114" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="115" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="116" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="117" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="118" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="119" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="120" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="121" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="122" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="123" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="124" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="125" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="126" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="127" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="128" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="129" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Small Cape of Lord -->
+		<Item Index="131" Serial="1" Option="0" Drop="0"  /> <!-- Small Wing of Curse -->
+		<Item Index="132" Serial="1" Option="0" Drop="0"  /> <!-- Small Wings of Elf -->
+		<Item Index="133" Serial="1" Option="0" Drop="0"  /> <!-- Small Wings of Heaven -->
+		<Item Index="134" Serial="1" Option="0" Drop="0"  /> <!-- Small Wings of Satan -->
+		<Item Index="135" Serial="1" Option="0" Drop="0"  /> <!-- Little Warrior's Cloak -->
+		<Item Index="136" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Life Bundle -->
+		<Item Index="137" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Creation Bundle -->
+		<Item Index="138" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Guardian Bundle -->
+		<Item Index="139" Serial="1" Option="0" Drop="0"  /> <!-- Gemstone Bundle -->
+		<Item Index="140" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Harmony Bundle -->
+		<Item Index="141" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Chaos Bundle -->
+		<Item Index="142" Serial="1" Option="0" Drop="0"  /> <!-- Lower Refining Stone Bundle -->
+		<Item Index="143" Serial="1" Option="0" Drop="0"  /> <!-- Higher Refining Stone Bundle -->
+		<Item Index="144" Serial="1" Option="0" Drop="0"  /> <!-- Mithril Fragment -->
+		<Item Index="145" Serial="1" Option="0" Drop="0"  /> <!-- Mithril -->
+		<Item Index="146" Serial="1" Option="0" Drop="0"  /> <!-- Elixir Fragment -->
+		<Item Index="147" Serial="1" Option="0" Drop="0"  /> <!-- Elixir -->
+		<Item Index="148" Serial="1" Option="0" Drop="0"  /> <!-- Mithril Fragment Bunch -->
+		<Item Index="149" Serial="1" Option="0" Drop="0"  /> <!-- Elixir Fragment Bunch -->
+		<Item Index="150" Serial="1" Option="0" Drop="0"  /> <!-- Jewel Combination Frame -->
+		<Item Index="151" Serial="1" Option="0" Drop="0"  /> <!-- Spirit Powder -->
+		<Item Index="200" Serial="1" Option="0" Drop="0"  /> <!-- Muren's Book of Magic -->
+		<Item Index="201" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Etramu -->
+		<Item Index="202" Serial="1" Option="0" Drop="0"  /> <!-- Lorencia Knights' Iron Shield -->
+		<Item Index="203" Serial="1" Option="0" Drop="0"  /> <!-- Iron Shield of the Magic -->
+		<Item Index="204" Serial="1" Option="0" Drop="0"  /> <!-- Hero Elixir -->
+		<Item Index="205" Serial="1" Option="0" Drop="0"  /> <!-- Brave Hero Elixir -->
+		<Item Index="206" Serial="1" Option="0" Drop="0"  /> <!-- Gladiator's Dagger -->
+		<Item Index="207" Serial="1" Option="0" Drop="0"  /> <!-- Merciless Gladiator's Dagger -->
+		<Item Index="208" Serial="1" Option="0" Drop="0"  /> <!-- Kundun's Madness Blade -->
+		<Item Index="209" Serial="1" Option="0" Drop="0"  /> <!-- Kundun's Magic Spell Scroll -->
+		<Item Index="210" Serial="1" Option="0" Drop="0"  /> <!-- Empire Guardians' Stronghold -->
+		<Item Index="211" Serial="1" Option="0" Drop="0"  /> <!-- Ancient Icarus Scroll -->
+		<Item Index="212" Serial="1" Option="0" Drop="0"  /> <!-- Arca's Prophecy -->
+		<Item Index="213" Serial="1" Option="0" Drop="0"  /> <!-- Antonia's Sword -->
+		<Item Index="214" Serial="1" Option="0" Drop="0"  /> <!-- Kundun's Seal Scroll -->
+		<Item Index="215" Serial="1" Option="0" Drop="0"  /> <!-- Pentagram for Beginners -->
+		<Item Index="216" Serial="1" Option="0" Drop="0"  /> <!-- Iron Shield (Bound) -->
+		<Item Index="217" Serial="1" Option="0" Drop="0"  /> <!-- Thoughtful Sage's Jewel -->
+		<Item Index="218" Serial="1" Option="0" Drop="0"  /> <!-- Magic Scroll (Attributable) -->
+		<Item Index="221" Serial="1" Option="0" Drop="0"  /> <!-- Errtel of Anger -->
+		<Item Index="222" Serial="1" Option="0" Drop="0"  /> <!-- Beginners Errtel of Anger -->
+		<Item Index="231" Serial="1" Option="0" Drop="0"  /> <!-- Errtel of Blessing -->
+		<Item Index="232" Serial="1" Option="0" Drop="0"  /> <!-- Beginners Errtel of Blessing -->
+		<Item Index="241" Serial="1" Option="0" Drop="0"  /> <!-- Errtel of Integrity -->
+		<Item Index="242" Serial="1" Option="0" Drop="0"  /> <!-- Beginners Errtel of Integrity -->
+		<Item Index="251" Serial="1" Option="0" Drop="0"  /> <!-- Errtel of Divinity -->
+		<Item Index="252" Serial="1" Option="0" Drop="0"  /> <!-- Beginners Errtel of Divinity -->
+		<Item Index="261" Serial="1" Option="0" Drop="0"  /> <!-- Errtel of Radiance -->
+		<Item Index="262" Serial="1" Option="1" Drop="0"  /> <!-- Cloak of Death -->
+		<Item Index="263" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Chaos -->
+		<Item Index="264" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Magic -->
+		<Item Index="265" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Life -->
+		<Item Index="266" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Conqueror -->
+		<Item Index="267" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Angel and Devil -->
+		<Item Index="268" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Conqueror -->
+		<Item Index="269" Serial="1" Option="1" Drop="0"  /> <!-- Cloak of Limit -->
+		<Item Index="270" Serial="1" Option="1" Drop="0"  /> <!-- Cloak of Transcendence -->
+		<Item Index="271" Serial="1" Option="0" Drop="0"  /> <!-- Spin Step Scroll -->
+		<Item Index="272" Serial="1" Option="0" Drop="0"  /> <!-- Obsidian Scroll -->
+		<Item Index="273" Serial="1" Option="0" Drop="0"  /> <!-- Magic Pin Scroll -->
+		<Item Index="274" Serial="1" Option="0" Drop="0"  /> <!-- Harsh Strike Scroll -->
+		<Item Index="275" Serial="1" Option="0" Drop="0"  /> <!-- Shining Peak Scroll -->
+		<Item Index="276" Serial="1" Option="0" Drop="0"  /> <!-- Wrath Scroll -->
+		<Item Index="277" Serial="1" Option="0" Drop="0"  /> <!-- Breche Scroll -->
+		<Item Index="278" Serial="1" Option="0" Drop="0"  /> <!-- Small Cloak of Limit -->
+		<Item Index="279" Serial="1" Option="1" Drop="0"  /> <!-- Cloak of Death (Bound) -->
+		<Item Index="280" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Chaos (Bound) -->
+		<Item Index="281" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Magic (Bound) -->
+		<Item Index="282" Serial="1" Option="1" Drop="0"  /> <!-- Wings of Life (Bound) -->
+		<Item Index="283" Serial="1" Option="0" Drop="0"  /> <!-- [PC]Wings of Angel and Devil -->
+		<Item Index="284" Serial="1" Option="0" Drop="0"  /> <!-- [PC]Cloak of Death -->
+		<Item Index="285" Serial="1" Option="0" Drop="0"  /> <!-- [PC]Wings of Chaos -->
+		<Item Index="286" Serial="1" Option="0" Drop="0"  /> <!-- [PC]Wings of Magic -->
+		<Item Index="287" Serial="1" Option="0" Drop="0"  /> <!-- [PC]Wings of Life -->
+		<Item Index="288" Serial="1" Option="0" Drop="0"  /> <!-- Elemental Rune -->
+		<Item Index="289" Serial="1" Option="0" Drop="0"  /> <!-- Orb of Fire Blow -->
+		<Item Index="290" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Meteor Strike -->
+		<Item Index="291" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Meteor Storm -->
+		<Item Index="292" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Soul Seeker -->
+		<Item Index="293" Serial="1" Option="0" Drop="0"  /> <!-- Orb of Focus Shot -->
+		<Item Index="295" Serial="1" Option="0" Drop="0"  /> <!-- Parchment of Fire Beast -->
+		<Item Index="296" Serial="1" Option="0" Drop="0"  /> <!-- Parchment of Aqua Beast -->
+		<Item Index="297" Serial="1" Option="0" Drop="0"  /> <!-- Orb of Ice Blood -->
+		<Item Index="298" Serial="1" Option="0" Drop="0"  /> <!-- Orb of Fire Blood -->
+		<Item Index="299" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Dark Blast -->
+		<Item Index="300" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Meteor Strike -->
+		<Item Index="303" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Wind Soul -->
+		<Item Index="305" Serial="1" Option="0" Drop="0"  /> <!-- Dark Phoenix Shot Parchment -->
+		<Item Index="306" Serial="1" Option="0" Drop="0"  /> <!-- Runedil's Goldentune Harp -->
+		<Item Index="307" Serial="1" Option="0" Drop="0"  /> <!-- Lemuria's Orb -->
+		<Item Index="308" Serial="1" Option="0" Drop="0"  /> <!-- Norrwen's Bloodstring Lyra -->
+		<Item Index="311" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="312" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="313" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="314" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="315" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="316" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="317" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="318" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="319" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="320" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="321" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="322" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="323" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="324" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="325" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="326" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="327" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="328" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="329" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="330" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="331" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="332" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="333" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="334" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="335" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Fire) -->
+		<Item Index="336" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Water) -->
+		<Item Index="337" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Ice) -->
+		<Item Index="338" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Wind) -->
+		<Item Index="339" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Lightning) -->
+		<Item Index="340" Serial="1" Option="0" Drop="0"  /> <!-- Seed Sphere (Earth) -->
+		<Item Index="401" Serial="1" Option="0" Drop="0"  /> <!-- Sphere Upgrade Rune -->
+		<Item Index="404" Serial="1" Option="0" Drop="0"  /> <!-- Lesser Spirit Stone -->
+		<Item Index="405" Serial="1" Option="0" Drop="0"  /> <!-- Intermediate Spirit Stone -->
+		<Item Index="406" Serial="1" Option="0" Drop="0"  /> <!-- Greater Spirit Stone -->
+		<Item Index="407" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Magic Lock -->
+		<Item Index="408" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Magic Complete Lock -->
+		<Item Index="409" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Magic Condor -->
+		<Item Index="410" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Magic Complete Condor -->
+		<Item Index="411" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Magic Guarda -->
+		<Item Index="412" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Magic Complete Guarda -->
+		<Item Index="413" Serial="1" Option="0" Drop="0"  /> <!-- Spirit Hook Parchment -->
+		<Item Index="414" Serial="1" Option="1" Drop="0"  /> <!-- Angel Wings -->		
+		<Item Index="415" Serial="1" Option="1" Drop="0"  /> <!-- Devil Wings -->		
+		<Item Index="416" Serial="1" Option="1" Drop="0"  /> <!-- Genius Wings -->		
+		<Item Index="417" Serial="1" Option="1" Drop="0"  /> <!-- Destruction Wings -->	
+		<Item Index="418" Serial="1" Option="1" Drop="0"  /> <!-- Control Wings -->		
+		<Item Index="419" Serial="1" Option="1" Drop="0"  /> <!-- Eternal Wings -->		
+		<Item Index="420" Serial="1" Option="1" Drop="0"  /> <!-- Judgment Cloak -->	
+		<Item Index="421" Serial="1" Option="1" Drop="0"  /> <!-- Eternity Cloak -->	
+		<Item Index="422" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Soul -->
+		<Item Index="423" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Dragon -->
+		<Item Index="424" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Spirit -->
+		<Item Index="425" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Darkness -->
+		<Item Index="426" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Cape of Lord -->
+		<Item Index="427" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Despair -->
+		<Item Index="428" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Cape of Fighter -->
+		<Item Index="429" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Cloak of Limit -->
+		<Item Index="430" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Eternal -->
+		<Item Index="431" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Storm -->
+		<Item Index="432" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Illusion -->
+		<Item Index="433" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Ruin -->
+		<Item Index="434" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Cape of Emperor -->
+		<Item Index="435" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Wings of Curse -->
+		<Item Index="436" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Cape of Overrule -->
+		<Item Index="437" Serial="0" Option="0" Drop="0"  /> <!-- [Bound] Cloak of Transcendence -->
+		<Item Index="438" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Angel Wings -->
+		<Item Index="439" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Devil Wings -->
+		<Item Index="440" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Genius Wings -->
+		<Item Index="441" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Destruction Wings -->
+		<Item Index="442" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Control Wings -->
+		<Item Index="443" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Eternal Wings -->
+		<Item Index="444" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Judgment Cloak -->
+		<Item Index="445" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Eternity Cloak -->
+		<Item Index="446" Serial="1" Option="0" Drop="0"  /> <!-- Lock Magic Bell -->	
+		<Item Index="447" Serial="1" Option="0" Drop="0"  /> <!-- Condor Magical Drops -->
+		<Item Index="448" Serial="1" Option="0" Drop="0"  /> <!-- Garuda Magical Bell -->
+
+	</Section>
+	<Section Index="13" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="0" Drop="0"  /> <!-- Guardian Angel -->
+		<Item Index="1" Serial="1" Option="0" Drop="0"  /> <!-- Imp -->
+		<Item Index="2" Serial="1" Option="0" Drop="0"  /> <!-- Horn of Uniria -->
+		<Item Index="3" Serial="1" Option="0" Drop="0"  /> <!-- Horn of Dinorant -->
+		<Item Index="4" Serial="1" Option="0" Drop="0"  /> <!-- Dark Horse -->
+		<Item Index="5" Serial="1" Option="0" Drop="0"  /> <!-- Dark Raven -->
+		<Item Index="7" Serial="1" Option="0" Drop="0"  /> <!-- Contract (Summon) -->
+		<Item Index="8" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Ice -->
+		<Item Index="9" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Poison -->
+		<Item Index="10" Serial="1" Option="0" Drop="0"  /> <!-- Transformation Ring -->
+		<Item Index="11" Serial="1" Option="0" Drop="0"  /> <!-- Order (Guardian/Life Stone) -->
+		<Item Index="12" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Lighting -->
+		<Item Index="13" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Fire -->
+		<Item Index="14" Serial="1" Option="0" Drop="1"  /> <!-- Loch's Feather -->
+		<Item Index="15" Serial="1" Option="0" Drop="0"  /> <!-- Fruits -->
+		<Item Index="16" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Archangel -->
+		<Item Index="17" Serial="1" Option="0" Drop="0"  /> <!-- Blood Bone -->
+		<Item Index="18" Serial="1" Option="0" Drop="0"  /> <!-- Invisibility Cloak -->
+		<Item Index="19" Serial="1" Option="0" Drop="0"  /> <!-- Absolute Weapon of Archangel -->
+		<Item Index="20" Serial="1" Option="1" Drop="0"  /> <!-- Wizards Ring -->
+		<Item Index="21" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Fire -->
+		<Item Index="22" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Earth -->
+		<Item Index="23" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Wind -->
+		<Item Index="24" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Magic -->
+		<Item Index="25" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Ice -->
+		<Item Index="26" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Wind -->
+		<Item Index="27" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Water -->
+		<Item Index="28" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Ability -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Armor of Guardsman -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Cape of Lord -->
+		<Item Index="31" Serial="1" Option="0" Drop="0"  /> <!-- Spirit -->
+		<Item Index="32" Serial="1" Option="0" Drop="0"  /> <!-- Splinter of Armor -->
+		<Item Index="33" Serial="1" Option="0" Drop="0"  /> <!-- Bless of Guardian -->
+		<Item Index="34" Serial="1" Option="0" Drop="0"  /> <!-- Claw of Beast -->
+		<Item Index="35" Serial="1" Option="0" Drop="0"  /> <!-- Fragment of Horn -->
+		<Item Index="36" Serial="1" Option="0" Drop="0"  /> <!-- Broken Horn -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Horn of Fenrir -->
+		<Item Index="38" Serial="1" Option="1" Drop="0"  /> <!-- Moonstone Pendant -->
+		<Item Index="39" Serial="1" Option="0" Drop="0"  /> <!-- Eilte Transfer Skeleton Ring -->
+		<Item Index="40" Serial="1" Option="0" Drop="0"  /> <!-- Jack Olantern Ring -->
+		<Item Index="41" Serial="1" Option="0" Drop="0"  /> <!-- Transfer Christmas Ring -->
+		<Item Index="42" Serial="1" Option="0" Drop="0"  /> <!-- Ring of GM -->
+		<Item Index="43" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Ascension -->
+		<Item Index="44" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Wealth -->
+		<Item Index="45" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Sustenance -->
+		<Item Index="46" Serial="1" Option="0" Drop="0"  /> <!-- Devil Square Ticket -->
+		<Item Index="47" Serial="1" Option="0" Drop="0"  /> <!-- Blood Castle Ticket -->
+		<Item Index="48" Serial="1" Option="0" Drop="0"  /> <!-- Kalima Ticket -->
+		<Item Index="49" Serial="1" Option="0" Drop="0"  /> <!-- Old Scroll -->
+		<Item Index="50" Serial="1" Option="0" Drop="0"  /> <!-- Illusion Sorcerer Covenant  -->
+		<Item Index="51" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Blood -->
+		<Item Index="52" Serial="1" Option="0" Drop="0"  /> <!-- Condor Flame -->
+		<Item Index="53" Serial="1" Option="0" Drop="0"  /> <!-- Condor Feather -->
+		<Item Index="54" Serial="1" Option="0" Drop="0"  /> <!-- Reset Fruit Strength -->
+		<Item Index="55" Serial="1" Option="0" Drop="0"  /> <!-- Reset Fruit Quickness -->
+		<Item Index="56" Serial="1" Option="0" Drop="0"  /> <!-- Reset Fruit Health -->
+		<Item Index="57" Serial="1" Option="0" Drop="0"  /> <!-- Reset Fruit Energy -->
+		<Item Index="58" Serial="1" Option="0" Drop="0"  /> <!-- Reset Fruit Control -->
+		<Item Index="59" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Mobility -->
+		<Item Index="60" Serial="1" Option="0" Drop="0"  /> <!-- Indulgence -->
+		<Item Index="61" Serial="1" Option="0" Drop="0"  /> <!-- Illusion Temple Ticket -->
+		<Item Index="62" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Healing -->
+		<Item Index="63" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Divinity -->
+		<Item Index="64" Serial="1" Option="0" Drop="0"  /> <!-- Demon -->
+		<Item Index="65" Serial="1" Option="0" Drop="0"  /> <!-- Spirit of Guardian -->
+		<Item Index="66" Serial="1" Option="0" Drop="0"  /> <!-- Invitation to Santa Village -->
+		<Item Index="67" Serial="1" Option="0" Drop="0"  /> <!-- Pet Rudolph -->
+		<Item Index="68" Serial="1" Option="0" Drop="0"  /> <!-- Snowman Transformation Ring -->
+		<Item Index="69" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Resurrection -->
+		<Item Index="70" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Mobility -->
+		<Item Index="71" Serial="1" Option="0" Drop="0"  /> <!-- Sword/Mace/Spear -->
+		<Item Index="72" Serial="1" Option="0" Drop="0"  /> <!-- Staff -->
+		<Item Index="73" Serial="1" Option="0" Drop="0"  /> <!-- Bow/Crossbow -->
+		<Item Index="74" Serial="1" Option="0" Drop="0"  /> <!-- Scepter -->
+		<Item Index="75" Serial="1" Option="0" Drop="0"  /> <!-- Stick -->
+		<Item Index="76" Serial="1" Option="0" Drop="0"  /> <!-- Panda Ring -->
+		<Item Index="77" Serial="1" Option="0" Drop="0"  /> <!-- Brown Panda Ring -->
+		<Item Index="78" Serial="1" Option="0" Drop="0"  /> <!-- Pink Panda Ring -->
+		<Item Index="80" Serial="1" Option="0" Drop="0"  /> <!-- Pet Panda -->
+		<Item Index="81" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Guardian -->
+		<Item Index="82" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Item Protection -->
+		<Item Index="83" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Satan -->
+		<Item Index="84" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Heaven -->
+		<Item Index="85" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Elf -->
+		<Item Index="86" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wing of Curse -->
+		<Item Index="87" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Cape of Emperor -->
+		<Item Index="88" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Dragon -->
+		<Item Index="89" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Soul -->
+		<Item Index="90" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Spirits -->
+		<Item Index="91" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wing of Despair -->
+		<Item Index="92" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Wings of Darkness -->
+		<Item Index="93" Serial="1" Option="0" Drop="0"  /> <!-- Master Seal of Ascension -->
+		<Item Index="94" Serial="1" Option="0" Drop="0"  /> <!-- Master Seal of Wealth -->
+		<Item Index="95" Serial="1" Option="0" Drop="0"  /> <!-- Gladiator's Honor -->
+		<Item Index="96" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Strength -->
+		<Item Index="97" Serial="1" Option="0" Drop="0"  /> <!-- Magic Gladiator Character Card -->
+		<Item Index="98" Serial="1" Option="0" Drop="0"  /> <!-- Dark Lord Character Card -->
+		<Item Index="99" Serial="1" Option="0" Drop="0"  /> <!-- Key -->
+		<Item Index="103" Serial="1" Option="0" Drop="0"  /> <!-- Party EXP Scroll -->
+		<Item Index="104" Serial="1" Option="0" Drop="0"  /> <!-- Max AG Boost Aura -->
+		<Item Index="105" Serial="1" Option="0" Drop="0"  /> <!-- Max SD Boost Aura -->
+		<Item Index="106" Serial="1" Option="0" Drop="0"  /> <!-- Pet Unicorn -->
+		<Item Index="107" Serial="1" Option="1" Drop="0"  /> <!-- Lethal Wizard's Ring -->
+		<Item Index="109" Serial="1" Option="1" Drop="0"  /> <!-- Sapphire Ring -->
+		<Item Index="110" Serial="1" Option="1" Drop="0"  /> <!-- Ruby Ring -->
+		<Item Index="111" Serial="1" Option="1" Drop="0"  /> <!-- Topaz Ring -->
+		<Item Index="112" Serial="1" Option="1" Drop="0"  /> <!-- Amethyst Ring -->
+		<Item Index="113" Serial="1" Option="1" Drop="0"  /> <!-- Ruby Necklace -->
+		<Item Index="114" Serial="1" Option="1" Drop="0"  /> <!-- Emerald Necklace -->
+		<Item Index="115" Serial="1" Option="1" Drop="0"  /> <!-- Sapphire Necklace -->
+		<Item Index="116" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Wealth -->
+		<Item Index="117" Serial="1" Option="0" Drop="0"  /> <!-- Minimum Vitality Potion -->
+		<Item Index="118" Serial="1" Option="0" Drop="0"  /> <!-- Low Vitality Potion -->
+		<Item Index="119" Serial="1" Option="0" Drop="0"  /> <!-- Medium Vitality Potion -->
+		<Item Index="120" Serial="1" Option="0" Drop="0"  /> <!-- High Vitality Potion -->
+		<Item Index="121" Serial="1" Option="0" Drop="0"  /> <!-- Access Ticket to Chaos Castle -->
+		<Item Index="122" Serial="1" Option="0" Drop="0"  /> <!-- Skeleton Transformation Ring -->
+		<Item Index="123" Serial="1" Option="0" Drop="0"  /> <!-- Pet Skeleton -->
+		<Item Index="124" Serial="1" Option="0" Drop="0"  /> <!-- Paid Channel Access Ticket -->
+		<Item Index="125" Serial="1" Option="0" Drop="0"  /> <!-- Doppelganger -->
+		<Item Index="126" Serial="1" Option="0" Drop="0"  /> <!-- Access Ticket to Varka -->
+		<Item Index="127" Serial="1" Option="0" Drop="0"  /> <!-- Access Ticket to Varka Map 7 -->
+		<Item Index="128" Serial="1" Option="1" Drop="0"  /> <!-- Hawk Figurine -->
+		<Item Index="129" Serial="1" Option="1" Drop="0"  /> <!-- Goat Figurine -->
+		<Item Index="130" Serial="1" Option="1" Drop="0"  /> <!-- Oak Charm -->
+		<Item Index="131" Serial="1" Option="1" Drop="0"  /> <!-- Maple Charm -->
+		<Item Index="132" Serial="1" Option="1" Drop="0"  /> <!-- Golden Oak Charm -->
+		<Item Index="133" Serial="1" Option="1" Drop="0"  /> <!-- Golden Maple Charm -->
+		<Item Index="134" Serial="1" Option="1" Drop="0"  /> <!-- Worn Horseshoe -->
+		<Item Index="135" Serial="1" Option="1" Drop="0"  /> <!-- 1st Lucky Armor Ticket -->
+		<Item Index="136" Serial="1" Option="1" Drop="0"  /> <!-- 1st Lucky Pants Ticket -->
+		<Item Index="137" Serial="1" Option="1" Drop="0"  /> <!-- 1st Lucky Helm Ticket -->
+		<Item Index="138" Serial="1" Option="1" Drop="0"  /> <!-- 1st Lucky Gloves Ticket -->
+		<Item Index="139" Serial="1" Option="1" Drop="0"  /> <!-- 1st Lucky Boots Ticket -->
+		<Item Index="140" Serial="1" Option="1" Drop="0"  /> <!-- 2nd Lucky Armor Ticket -->
+		<Item Index="141" Serial="1" Option="1" Drop="0"  /> <!-- 2nd Lucky Pants Ticket -->
+		<Item Index="142" Serial="1" Option="1" Drop="0"  /> <!-- 2nd Lucky Helm Ticket -->
+		<Item Index="143" Serial="1" Option="1" Drop="0"  /> <!-- 2nd Lucky Gloves Ticket -->
+		<Item Index="144" Serial="1" Option="1" Drop="0"  /> <!-- 2nd Lucky Boots Ticket -->
+		<Item Index="145" Serial="1" Option="0" Drop="0"  /> <!-- Spirit Map Fragment -->
+		<Item Index="146" Serial="1" Option="0" Drop="0"  /> <!-- Spirit Map -->
+		<Item Index="147" Serial="1" Option="0" Drop="0"  /> <!-- Trophies of Battle -->
+		<Item Index="148" Serial="1" Option="0" Drop="0"  /> <!-- Green Ink -->
+		<Item Index="149" Serial="1" Option="0" Drop="0"  /> <!-- Blue Ink -->
+		<Item Index="150" Serial="1" Option="0" Drop="0"  /> <!-- Red Ink -->
+		<Item Index="151" Serial="1" Option="0" Drop="0"  /> <!-- Parchment of Soul -->
+		<Item Index="152" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Green Oblivion -->
+		<Item Index="153" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Blue Oblivion -->
+		<Item Index="154" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Red Oblivion -->
+		<Item Index="155" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Gray Oblivion -->
+		<Item Index="156" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Green Oblivion Scroll -->
+		<Item Index="157" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Blue Oblivion Scroll -->
+		<Item Index="158" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Red Oblivion  Scroll -->
+		<Item Index="159" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Gray Oblivion Scroll -->
+		<Item Index="160" Serial="1" Option="0" Drop="0"  /> <!-- Protection Talisman -->
+		<Item Index="161" Serial="1" Option="0" Drop="0"  /> <!-- Cooperation Talisman -->
+		<Item Index="163" Serial="1" Option="0" Drop="0"  /> <!-- Robot Knight Ring -->
+		<Item Index="164" Serial="1" Option="0" Drop="0"  /> <!-- Mini Robot Ring -->
+		<Item Index="165" Serial="1" Option="0" Drop="0"  /> <!-- Great Heavenly Mage Ring -->
+		<Item Index="166" Serial="1" Option="0" Drop="0"  /> <!-- Brown Panda Ring -->
+		<Item Index="168" Serial="1" Option="0" Drop="0"  /> <!-- Character Card -->
+		<Item Index="169" Serial="1" Option="0" Drop="0"  /> <!-- Decoration Ring -->
+		<Item Index="170" Serial="1" Option="1" Drop="0"  /> <!-- Blessed Decoration Ring -->
+		<Item Index="171" Serial="1" Option="1" Drop="0"  /> <!-- Necklace of Agony -->
+		<Item Index="172" Serial="1" Option="1" Drop="0"  /> <!-- Solid Symbol -->
+		<Item Index="173" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Ultimatum -->
+		<Item Index="174" Serial="1" Option="1" Drop="0"  /> <!-- Ring of Block -->
+		<Item Index="175" Serial="1" Option="1" Drop="0"  /> <!-- Protection Ring -->
+		<Item Index="176" Serial="1" Option="1" Drop="0"  /> <!-- Protection Ring -->
+		<Item Index="177" Serial="1" Option="1" Drop="0"  /> <!-- Talisman of Ascension I -->
+		<Item Index="178" Serial="1" Option="1" Drop="0"  /> <!-- Talisman of Ascension II -->
+		<Item Index="179" Serial="1" Option="1" Drop="0"  /> <!-- Talisman of Ascension III -->
+		<Item Index="180" Serial="1" Option="0" Drop="0"  /> <!-- Seal of Ascension II -->
+		<Item Index="181" Serial="1" Option="0" Drop="0"  /> <!-- Master Seal of Ascension II -->
+		<Item Index="210" Serial="1" Option="0" Drop="0"  /> <!-- WereRabbit Egg -->
+		<Item Index="211" Serial="1" Option="0" Drop="0"  /> <!-- Evolution Stone -->
+		<Item Index="212" Serial="1" Option="1" Drop="0"  /> <!-- Luki -->
+		<Item Index="213" Serial="1" Option="1" Drop="0"  /> <!-- Luki (Evolved) -->
+		<Item Index="214" Serial="1" Option="1" Drop="0"  /> <!-- Tony -->
+		<Item Index="215" Serial="1" Option="1" Drop="0"  /> <!-- Tony (Evolved) -->
+		<Item Index="216" Serial="1" Option="1" Drop="0"  /> <!-- Nymph -->
+		<Item Index="217" Serial="1" Option="1" Drop="0"  /> <!-- Nymph (Evolved) -->
+		<Item Index="218" Serial="1" Option="1" Drop="0"  /> <!-- Safi -->
+		<Item Index="219" Serial="1" Option="1" Drop="0"  /> <!-- Safi (Evolved) -->
+		<Item Index="220" Serial="1" Option="0" Drop="0"  /> <!-- Lucky Bag Egg -->
+		<Item Index="221" Serial="1" Option="0" Drop="0"  /> <!-- Fire Flame Ghost Egg -->
+		<Item Index="222" Serial="1" Option="0" Drop="0"  /> <!-- Golden Goblin Egg -->
+		<Item Index="223" Serial="1" Option="1" Drop="0"  /> <!-- William -->
+		<Item Index="224" Serial="1" Option="1" Drop="0"  /> <!-- William (Evolved) -->
+		<Item Index="225" Serial="1" Option="1" Drop="0"  /> <!-- Paul -->
+		<Item Index="226" Serial="1" Option="1" Drop="0"  /> <!-- Paul (Evolved) -->
+		<Item Index="227" Serial="1" Option="1" Drop="0"  /> <!-- Chiron -->
+		<Item Index="228" Serial="1" Option="1" Drop="0"  /> <!-- Chiron (Evolved) -->
+		<Item Index="229" Serial="1" Option="1" Drop="0"  /> <!-- Wooparoo -->
+		<Item Index="230" Serial="1" Option="1" Drop="0"  /> <!-- Wooparoo (Evolved) -->
+		<Item Index="231" Serial="1" Option="1" Drop="0"  /> <!-- Tibetton -->
+		<Item Index="232" Serial="1" Option="1" Drop="0"  /> <!-- Tibetton (Evolved) -->
+		<Item Index="233" Serial="1" Option="1" Drop="0"  /> <!-- Witch -->
+		<Item Index="234" Serial="1" Option="1" Drop="0"  /> <!-- Witch (evolved) -->
+		<Item Index="235" Serial="1" Option="1" Drop="0"  /> <!-- Skull -->
+		<Item Index="236" Serial="1" Option="1" Drop="0"  /> <!-- Skull (evolved) -->
+		<Item Index="237" Serial="1" Option="1" Drop="0"  /> <!-- Pumpy -->
+		<Item Index="238" Serial="1" Option="1" Drop="0"  /> <!-- Pumpy (evolved) -->
+		<Item Index="239" Serial="1" Option="1" Drop="0"  /> <!-- Muun Energy Converter -->
+		<Item Index="240" Serial="1" Option="1" Drop="0"  /> <!-- Wizardry Stone -->
+		<Item Index="241" Serial="1" Option="1" Drop="0"  /> <!-- Savath -->
+		<Item Index="242" Serial="1" Option="1" Drop="0"  /> <!-- Savath (Evolved) -->
+		<Item Index="243" Serial="1" Option="1" Drop="0"  /> <!-- Lycan -->
+		<Item Index="244" Serial="1" Option="1" Drop="0"  /> <!-- Lycan (Evolved) -->
+		<Item Index="245" Serial="1" Option="1" Drop="0"  /> <!-- Torby -->
+		<Item Index="246" Serial="1" Option="1" Drop="0"  /> <!-- Torby (Evolved) -->
+		<Item Index="252" Serial="1" Option="1" Drop="0"  /> <!-- Seiren -->
+		<Item Index="253" Serial="1" Option="1" Drop="0"  /> <!-- Seiren (Evolved) -->
+		<Item Index="254" Serial="1" Option="1" Drop="0"  /> <!-- Behemoth -->
+		<Item Index="255" Serial="1" Option="1" Drop="0"  /> <!-- Behemoth (Evolved) -->
+		<Item Index="256" Serial="1" Option="1" Drop="0"  /> <!-- Loggle -->
+		<Item Index="257" Serial="1" Option="1" Drop="0"  /> <!-- Loggle (Evolved) -->
+		<Item Index="258" Serial="1" Option="1" Drop="0"  /> <!-- Mino -->
+		<Item Index="259" Serial="1" Option="1" Drop="0"  /> <!-- Mino (Evolved) -->
+		<Item Index="260" Serial="1" Option="1" Drop="0"  /> <!-- Hound -->
+		<Item Index="261" Serial="1" Option="1" Drop="0"  /> <!-- Hound (Evolved) -->
+		<Item Index="262" Serial="1" Option="1" Drop="0"  /> <!-- Trive -->
+		<Item Index="263" Serial="1" Option="1" Drop="0"  /> <!-- Trive (Evolved) -->
+		<Item Index="264" Serial="1" Option="1" Drop="0"  /> <!-- Vogan -->
+		<Item Index="265" Serial="1" Option="1" Drop="0"  /> <!-- Vogan (Evolved) -->
+		<Item Index="266" Serial="1" Option="1" Drop="0"  /> <!-- Cyclop -->
+		<Item Index="267" Serial="1" Option="1" Drop="0"  /> <!-- Cyclop (Evolved) -->
+		<Item Index="268" Serial="1" Option="1" Drop="0"  /> <!-- Dark Transformation Ring -->
+		<Item Index="270" Serial="1" Option="1" Drop="0"  /> <!-- Bonf -->
+		<Item Index="271" Serial="1" Option="1" Drop="0"  /> <!-- Bonf (Evolved) -->
+		<Item Index="272" Serial="1" Option="1" Drop="0"  /> <!-- Hawk -->
+		<Item Index="273" Serial="1" Option="1" Drop="0"  /> <!-- Hawk (Evolved) -->
+		<Item Index="274" Serial="1" Option="1" Drop="0"  /> <!-- Muty -->
+		<Item Index="275" Serial="1" Option="1" Drop="0"  /> <!-- Muty (Evolved) -->
+		<Item Index="276" Serial="1" Option="1" Drop="0"  /> <!-- Conqueror's Badge -->
+		<Item Index="277" Serial="1" Option="1" Drop="0"  /> <!-- Badge of Hardships -->
+		<Item Index="278" Serial="1" Option="1" Drop="0"  /> <!-- Mantis -->
+		<Item Index="279" Serial="1" Option="1" Drop="0"  /> <!-- Mantis (Evolved) -->
+		<Item Index="280" Serial="1" Option="1" Drop="0"  /> <!-- Scolpy -->
+		<Item Index="281" Serial="1" Option="1" Drop="0"  /> <!-- Scolpy (Evolved) -->
+		<Item Index="282" Serial="1" Option="1" Drop="0"  /> <!-- Chafer -->
+		<Item Index="283" Serial="1" Option="1" Drop="0"  /> <!-- Chafer (Evolved) -->
+		<Item Index="290" Serial="1" Option="1" Drop="0"  /> <!-- Cosplay Girl -->
+		<Item Index="291" Serial="1" Option="1" Drop="0"  /> <!-- Cosplay Girl (Evolved) -->
+		<Item Index="292" Serial="1" Option="1" Drop="0"  /> <!-- Cheer Girl -->
+		<Item Index="293" Serial="1" Option="1" Drop="0"  /> <!-- Cheer Girl (Evolved) -->
+		<Item Index="294" Serial="1" Option="1" Drop="0"  /> <!-- Sporty Girl -->
+		<Item Index="295" Serial="1" Option="1" Drop="0"  /> <!-- Sporty Girl (Evolved) -->
+		<Item Index="296" Serial="1" Option="1" Drop="0"  /> <!-- Baal -->
+		<Item Index="297" Serial="1" Option="1" Drop="0"  /> <!-- Baal (Evolved) -->
+		<Item Index="298" Serial="1" Option="1" Drop="0"  /> <!-- Gaap -->
+		<Item Index="299" Serial="1" Option="1" Drop="0"  /> <!-- Gaap (Evolved) -->
+		<Item Index="300" Serial="1" Option="1" Drop="0"  /> <!-- Taaf -->
+		<Item Index="301" Serial="1" Option="1" Drop="0"  /> <!-- Taaf (Evolved) -->
+		<Item Index="302" Serial="1" Option="1" Drop="0"  /> <!-- Frozen -->
+		<Item Index="303" Serial="1" Option="1" Drop="0"  /> <!-- Frozen(Evolved) -->
+		<Item Index="304" Serial="1" Option="1" Drop="0"  /> <!-- Loor -->
+		<Item Index="305" Serial="1" Option="1" Drop="0"  /> <!-- Loor(Evolved) -->
+		<Item Index="306" Serial="1" Option="1" Drop="0"  /> <!-- Purssil -->
+		<Item Index="307" Serial="1" Option="1" Drop="0"  /> <!-- Purssil(Evolved) -->
+		<Item Index="308" Serial="1" Option="1" Drop="0"  /> <!-- Lucky Rabbit -->
+		<Item Index="309" Serial="1" Option="1" Drop="0"  /> <!-- Lucky Rabbit (Evolved) -->
+		<Item Index="310" Serial="1" Option="1" Drop="0"  /> <!-- Songpyeon Rabbit -->
+		<Item Index="311" Serial="1" Option="1" Drop="0"  /> <!-- Songpyeon Rabbit (Evolved) -->
+		<Item Index="312" Serial="1" Option="1" Drop="0"  /> <!-- Mortar Rabbit -->
+		<Item Index="313" Serial="1" Option="1" Drop="0"  /> <!-- Mortar Rabbit (Evolved) -->
+		<Item Index="314" Serial="1" Option="1" Drop="0"  /> <!-- Tarius -->
+		<Item Index="315" Serial="1" Option="1" Drop="0"  /> <!-- Tarius (Evolved) -->
+		<Item Index="316" Serial="1" Option="1" Drop="0"  /> <!-- Rainer -->
+		<Item Index="317" Serial="1" Option="1" Drop="0"  /> <!-- Rainer (Evolved) -->
+		<Item Index="318" Serial="1" Option="1" Drop="0"  /> <!-- Alkamo -->
+		<Item Index="319" Serial="1" Option="1" Drop="0"  /> <!-- Alkamo (Evolved) -->
+		<Item Index="320" Serial="1" Option="1" Drop="0"  /> <!-- Glacuse -->
+		<Item Index="321" Serial="1" Option="1" Drop="0"  /> <!-- Glacuse (Evolved) -->
+		<Item Index="322" Serial="1" Option="1" Drop="0"  /> <!-- Kenturion -->
+		<Item Index="323" Serial="1" Option="1" Drop="0"  /> <!-- Kenturion (Evolved) -->
+		<Item Index="324" Serial="1" Option="1" Drop="0"  /> <!-- Rocka -->
+		<Item Index="325" Serial="1" Option="1" Drop="0"  /> <!-- Rocka (Evolved) -->
+		<Item Index="326" Serial="1" Option="1" Drop="0"  /> <!-- Repen -->
+		<Item Index="327" Serial="1" Option="1" Drop="0"  /> <!-- Repen (Evolved) -->
+		<Item Index="328" Serial="1" Option="1" Drop="0"  /> <!-- Pawn -->
+		<Item Index="329" Serial="1" Option="1" Drop="0"  /> <!-- Pawn (Evolved) -->
+		<Item Index="330" Serial="1" Option="1" Drop="0"  /> <!-- Grippus -->
+		<Item Index="331" Serial="1" Option="1" Drop="0"  /> <!-- Grippus (Evolved) -->
+		<Item Index="332" Serial="1" Option="1" Drop="0"  /> <!-- Polar Bear -->
+		<Item Index="333" Serial="1" Option="1" Drop="0"  /> <!-- Polar Bear (Evolved) -->
+		<Item Index="334" Serial="1" Option="1" Drop="0"  /> <!-- Present -->
+		<Item Index="335" Serial="1" Option="1" Drop="0"  /> <!-- Present (Evolved) -->
+		<Item Index="336" Serial="1" Option="1" Drop="0"  /> <!-- Rockinghorse -->
+		<Item Index="337" Serial="1" Option="1" Drop="0"  /> <!-- Rockinghorse (Evolved) -->
+		<Item Index="338" Serial="1" Option="1" Drop="0"  /> <!-- Aries -->
+		<Item Index="339" Serial="1" Option="1" Drop="0"  /> <!-- Aries (Evolved) -->
+		<Item Index="340" Serial="1" Option="1" Drop="0"  /> <!-- Lester -->
+		<Item Index="341" Serial="1" Option="1" Drop="0"  /> <!-- Lester (Evolved) -->
+		<Item Index="342" Serial="1" Option="1" Drop="0"  /> <!-- Merino -->
+		<Item Index="343" Serial="1" Option="1" Drop="0"  /> <!-- Merino (Evolved) -->
+		<Item Index="344" Serial="1" Option="1" Drop="0"  /> <!-- Splinter -->
+		<Item Index="345" Serial="1" Option="1" Drop="0"  /> <!-- Splinter(Evolved) -->
+		<Item Index="346" Serial="1" Option="1" Drop="0"  /> <!-- Mutation -->
+		<Item Index="347" Serial="1" Option="1" Drop="0"  /> <!-- Mutation(Evolved) -->
+		<Item Index="348" Serial="1" Option="1" Drop="0"  /> <!-- Pider -->
+		<Item Index="349" Serial="1" Option="1" Drop="0"  /> <!-- Pider(Evolved) -->
+		<Item Index="350" Serial="1" Option="1" Drop="0"  /> <!-- Muun Egg -->
+		<Item Index="351" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Fury -->
+		<Item Index="352" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Fury -->
+		<Item Index="353" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Fury -->
+		<Item Index="354" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Boots of Sealed Fury -->
+		<Item Index="359" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Transcendence -->
+		<Item Index="360" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Transcendence -->
+		<Item Index="361" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Transcendence -->
+		<Item Index="362" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Gloves of Sealed Transcendence -->
+		<Item Index="363" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Flurry -->
+		<Item Index="364" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Flurry -->
+		<Item Index="365" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Flurry -->
+		<Item Index="366" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Gloves of Sealed Flurry -->
+		<Item Index="367" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Saving Blood Angel Armor -->
+		<Item Index="368" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Saving Blood Angel Helm -->
+		<Item Index="369" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Saving Blood Angel Pants -->
+		<Item Index="370" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Saving Blood Angel Gloves -->
+		<Item Index="371" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Extremity -->
+		<Item Index="372" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Boots of Sealed Extremity -->
+		<Item Index="373" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Extremity -->
+		<Item Index="374" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Gloves of Sealed Extremity -->
+		<Item Index="375" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Magical Blood Angel Armor -->
+		<Item Index="376" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Magical Blood Angel Boots -->
+		<Item Index="377" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Magical Blood Angel Pants -->
+		<Item Index="378" Serial="1" Option="1" Drop="0"  /> <!-- Sealed Magical Blood Angel Gloves -->
+		<Item Index="379" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Conquest -->
+		<Item Index="380" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Conquest -->
+		<Item Index="381" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Conquest -->
+		<Item Index="382" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Gloves of Sealed Conquest -->
+		<Item Index="387" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Honor -->
+		<Item Index="388" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Honor -->
+		<Item Index="389" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Honor -->
+		<Item Index="390" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Gloves of Sealed Honor -->
+		<Item Index="391" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Destruction -->
+		<Item Index="392" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Destruction -->
+		<Item Index="393" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Destruction -->
+		<Item Index="394" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Boots of Sealed Destruction -->
+		<Item Index="399" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Armor of Sealed Tenacity -->
+		<Item Index="400" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Helm of Sealed Tenacity -->
+		<Item Index="401" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Pants of Sealed Tenacity -->
+		<Item Index="402" Serial="1" Option="1" Drop="0"  /> <!-- Bloodangel Gloves of Sealed Tenacity -->
+		<Item Index="407" Serial="1" Option="1" Drop="0"  /> <!-- Ancient Hero's Soul -->
+		<Item Index="408" Serial="1" Option="1" Drop="0"  /> <!-- Pendant of Ability (Bound) -->
+		<Item Index="409" Serial="1" Option="1" Drop="0"  /> <!-- Heywood -->
+		<Item Index="410" Serial="1" Option="1" Drop="0"  /> <!-- Heywood(Evolved) -->
+		<Item Index="411" Serial="1" Option="1" Drop="0"  /> <!-- Branch -->
+		<Item Index="412" Serial="1" Option="1" Drop="0"  /> <!-- Branch(Evolved) -->
+		<Item Index="413" Serial="1" Option="1" Drop="0"  /> <!-- Hook -->
+		<Item Index="414" Serial="1" Option="1" Drop="0"  /> <!-- Hook(Evolved) -->
+		<Item Index="415" Serial="1" Option="1" Drop="0"  /> <!-- Carnifle -->
+		<Item Index="416" Serial="1" Option="1" Drop="0"  /> <!-- Carnifle(Evolved) -->
+		<Item Index="417" Serial="1" Option="1" Drop="0"  /> <!-- Mandora -->
+		<Item Index="418" Serial="1" Option="1" Drop="0"  /> <!-- Mandora(Evolved) -->
+		<Item Index="419" Serial="1" Option="1" Drop="0"  /> <!-- Treat -->
+		<Item Index="420" Serial="1" Option="1" Drop="0"  /> <!-- Treat(Evolved) -->
+		<Item Index="421" Serial="1" Option="1" Drop="0"  /> <!-- Rose Spirit -->
+		<Item Index="422" Serial="1" Option="1" Drop="0"  /> <!-- Rose Spirit(Evolved) -->
+		<Item Index="423" Serial="1" Option="1" Drop="0"  /> <!-- Freesia Spirit -->
+		<Item Index="424" Serial="1" Option="1" Drop="0"  /> <!-- Freesia Spirit(Evolved) -->
+		<Item Index="425" Serial="1" Option="1" Drop="0"  /> <!-- Cherry Blossom Spirit -->
+		<Item Index="426" Serial="1" Option="1" Drop="0"  /> <!-- Cherry Blossom Spirit Evolve -->
+		<Item Index="427" Serial="1" Option="1" Drop="0"  /> <!-- Gigantes -->
+		<Item Index="428" Serial="1" Option="1" Drop="0"  /> <!-- Gigantes(Evolved) -->
+		<Item Index="429" Serial="1" Option="1" Drop="0"  /> <!-- Mammoth -->
+		<Item Index="430" Serial="1" Option="1" Drop="0"  /> <!-- Mammoth(Evolved) -->
+		<Item Index="431" Serial="1" Option="1" Drop="0"  /> <!-- Walker -->
+		<Item Index="432" Serial="1" Option="1" Drop="0"  /> <!-- Walker(Evolved) -->
+		<Item Index="433" Serial="1" Option="1" Drop="0"  /> <!-- Surfing Girl -->
+		<Item Index="434" Serial="1" Option="1" Drop="0"  /> <!-- Surfing Girl (Evolved) -->
+		<Item Index="435" Serial="1" Option="1" Drop="0"  /> <!-- Tube Girl -->
+		<Item Index="436" Serial="1" Option="1" Drop="0"  /> <!-- Tube Girl(Evolved) -->
+		<Item Index="437" Serial="1" Option="1" Drop="0"  /> <!-- Snorkeling Girl -->
+		<Item Index="438" Serial="1" Option="1" Drop="0"  /> <!-- Snorkeling Girl (Evolved) -->
+		<Item Index="439" Serial="1" Option="1" Drop="0"  /> <!-- Commander -->
+		<Item Index="440" Serial="1" Option="1" Drop="0"  /> <!-- Commander(Evolved) -->
+		<Item Index="441" Serial="1" Option="1" Drop="0"  /> <!-- Lance Soldier -->
+		<Item Index="442" Serial="1" Option="1" Drop="0"  /> <!-- Lance Soldier(Evolved) -->
+		<Item Index="443" Serial="1" Option="1" Drop="0"  /> <!-- Bow Soldier -->
+		<Item Index="444" Serial="1" Option="1" Drop="0"  /> <!-- Bow Soldier(Evolved) -->
+		<Item Index="445" Serial="1" Option="1" Drop="0"  /> <!-- Hammer -->
+		<Item Index="446" Serial="1" Option="1" Drop="0"  /> <!-- Hammer(Evolved) -->
+		<Item Index="447" Serial="1" Option="1" Drop="0"  /> <!-- Refear -->
+		<Item Index="448" Serial="1" Option="1" Drop="0"  /> <!-- Refear(Evolved) -->
+		<Item Index="449" Serial="1" Option="1" Drop="0"  /> <!-- Axer -->
+		<Item Index="450" Serial="1" Option="1" Drop="0"  /> <!-- Axer(Evolved) -->
+		<Item Index="451" Serial="1" Option="1" Drop="0"  /> <!-- Pumpkin Girl -->
+		<Item Index="452" Serial="1" Option="1" Drop="0"  /> <!-- Pumpkin Girl(Evolved) -->
+		<Item Index="453" Serial="1" Option="1" Drop="0"  /> <!-- Ghost -->
+		<Item Index="454" Serial="1" Option="1" Drop="0"  /> <!-- Ghost(Evolved) -->
+		<Item Index="455" Serial="1" Option="1" Drop="0"  /> <!-- Mummified Boy -->
+		<Item Index="456" Serial="1" Option="1" Drop="0"  /> <!-- Mummified Boy(Evolved) -->
+		<Item Index="457" Serial="1" Option="1" Drop="0"  /> <!-- Chrysanthemum -->
+		<Item Index="458" Serial="1" Option="1" Drop="0"  /> <!-- Chrysanthemum(Evolved) -->
+		<Item Index="459" Serial="1" Option="1" Drop="0"  /> <!-- Maple -->
+		<Item Index="460" Serial="1" Option="1" Drop="0"  /> <!-- Maple(Evolved) -->
+		<Item Index="461" Serial="1" Option="1" Drop="0"  /> <!-- Ginkgo -->
+		<Item Index="462" Serial="1" Option="1" Drop="0"  /> <!-- Ginkgo(Evolved) -->
+		<Item Index="463" Serial="1" Option="1" Drop="0"  /> <!-- Ghost(Evolved) -->
+		<Item Index="464" Serial="1" Option="1" Drop="0"  /> <!-- Mummified Boy(Evolved) -->
+		<Item Index="466" Serial="1" Option="1" Drop="0"  /> <!-- Garuda's Flame -->
+		<Item Index="467" Serial="1" Option="1" Drop="0"  /> <!-- Garuda's Feather -->
+		<Item Index="468" Serial="1" Option="1" Drop="0"  /> <!-- Golden Sentence -->
+		<Item Index="469" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Pet Panda -->
+		<Item Index="470" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Pet Skeleton -->
+		<Item Index="471" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Panda Ring -->
+		<Item Index="472" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Skeleton Transform Ring -->
+		<Item Index="473" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Robot Knight Ring -->
+		<Item Index="474" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Mini Robot Ring -->
+		<Item Index="475" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Great Heavenly Mage Ring -->
+		<Item Index="476" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Talisman of Ascension II -->
+		<Item Index="477" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Aries -->
+		<Item Index="478" Serial="1" Option="1" Drop="0"  /> <!-- [PC] Indulgence -->
+		<Item Index="479" Serial="1" Option="1" Drop="0"  /> <!-- Event Map Ticket -->
+		<Item Index="480" Serial="1" Option="1" Drop="0"  /> <!-- Toy Soldier -->
+		<Item Index="481" Serial="1" Option="1" Drop="0"  /> <!-- Toy Soldier (Evolved) -->
+		<Item Index="482" Serial="1" Option="1" Drop="0"  /> <!-- Christmas Tree -->
+		<Item Index="483" Serial="1" Option="1" Drop="0"  /> <!-- Christmas Tree (Evolved) -->
+		<Item Index="484" Serial="1" Option="1" Drop="0"  /> <!-- Snowman -->
+		<Item Index="485" Serial="1" Option="1" Drop="0"  /> <!-- Snowman (Evolved) -->
+		<Item Index="486" Serial="1" Option="1" Drop="0"  /> <!-- Busker Monkey -->
+		<Item Index="487" Serial="1" Option="1" Drop="0"  /> <!-- Busker Monkey (Evolved) -->
+		<Item Index="488" Serial="1" Option="1" Drop="0"  /> <!-- DJ Monkey -->
+		<Item Index="489" Serial="1" Option="1" Drop="0"  /> <!-- DJ Monkey (Evolved) -->
+		<Item Index="490" Serial="1" Option="1" Drop="0"  /> <!-- Space Monkey -->
+		<Item Index="491" Serial="1" Option="1" Drop="0"  /> <!-- Space Monkey (Evolved) -->
+		<Item Index="492" Serial="1" Option="1" Drop="0"  /> <!-- Little Cupid -->
+		<Item Index="493" Serial="1" Option="1" Drop="0"  /> <!-- Little Cupid (Evolved) -->
+		<Item Index="494" Serial="1" Option="1" Drop="0"  /> <!-- Chocolate Cookie -->
+		<Item Index="495" Serial="1" Option="1" Drop="0"  /> <!-- Chocolate Cookie (Evolved) -->
+		<Item Index="496" Serial="1" Option="1" Drop="0"  /> <!-- Heart Girl -->
+		<Item Index="497" Serial="1" Option="1" Drop="0"  /> <!-- Heart Girl (Evolved) -->
+		<Item Index="498" Serial="1" Option="1" Drop="0"  /> <!-- Candy Girl -->
+		<Item Index="499" Serial="1" Option="1" Drop="0"  /> <!-- Candy Girl (Evolved) -->
+		<Item Index="500" Serial="1" Option="1" Drop="0"  /> <!-- Lollipop Mama -->
+		<Item Index="501" Serial="1" Option="1" Drop="0"  /> <!-- Lollipop Mama (Evolved) -->
+		<Item Index="502" Serial="1" Option="1" Drop="0"  /> <!-- Sweet Muscle Man -->
+		<Item Index="503" Serial="1" Option="1" Drop="0"  /> <!-- Sweet Muscle Man (Evolved) -->
+		<Item Index="509" Serial="1" Option="1" Drop="0"  /> <!-- Scroll of Black Oblivion -->
+	</Section>
+	<Section Index="14" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="0" Option="0" Drop="0"  /> <!-- Apple -->
+		<Item Index="1" Serial="0" Option="0" Drop="0"  /> <!-- Small Healing Potion -->
+		<Item Index="2" Serial="0" Option="0" Drop="0"  /> <!-- Healing Potion -->
+		<Item Index="3" Serial="0" Option="0" Drop="0"  /> <!-- Large Healing Potion -->
+		<Item Index="4" Serial="0" Option="0" Drop="0"  /> <!-- Small Mana Potion -->
+		<Item Index="5" Serial="0" Option="0" Drop="0"  /> <!-- Mana Potion -->
+		<Item Index="6" Serial="0" Option="0" Drop="0"  /> <!-- Large Mana Potion -->
+		<Item Index="7" Serial="0" Option="0" Drop="0"  /> <!-- Siege Potion -->
+		<Item Index="8" Serial="0" Option="0" Drop="1"  /> <!-- Antidote -->
+		<Item Index="9" Serial="0" Option="0" Drop="1"  /> <!-- Ale -->
+		<Item Index="10" Serial="0" Option="0" Drop="0"  /> <!-- Town Portal Scroll -->
+		<Item Index="11" Serial="1" Option="0" Drop="0"  /> <!-- Box of Luck -->
+		<Item Index="12" Serial="1" Option="0" Drop="1"  /> <!-- Heart -->
+		<Item Index="13" Serial="1" Option="0" Drop="1"  /> <!-- Jewel of Bless -->
+		<Item Index="14" Serial="1" Option="0" Drop="1"  /> <!-- Jewel of Soul -->
+		<Item Index="15" Serial="0" Option="0" Drop="0"  /> <!-- Zen -->
+		<Item Index="16" Serial="1" Option="0" Drop="1"  /> <!-- Jewel of Life -->
+		<Item Index="17" Serial="1" Option="0" Drop="0"  /> <!-- Devil's Eye -->
+		<Item Index="18" Serial="1" Option="0" Drop="0"  /> <!-- Devil's Key -->
+		<Item Index="19" Serial="1" Option="0" Drop="0"  /> <!-- Devil's Invitation -->
+		<Item Index="20" Serial="0" Option="0" Drop="1"  /> <!-- Remedy of Love -->
+		<Item Index="21" Serial="0" Option="0" Drop="1"  /> <!-- Rena -->
+		<Item Index="22" Serial="1" Option="0" Drop="1"  /> <!-- Jewel of Creation -->
+		<Item Index="23" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of the Emperor -->
+		<Item Index="24" Serial="1" Option="0" Drop="0"  /> <!-- Broken Sword -->
+		<Item Index="25" Serial="1" Option="0" Drop="0"  /> <!-- Tear of Elf -->
+		<Item Index="26" Serial="1" Option="0" Drop="0"  /> <!-- Soul Shard of Wizard -->
+		<Item Index="28" Serial="1" Option="0" Drop="0"  /> <!-- Lost Map -->
+		<Item Index="29" Serial="1" Option="0" Drop="0"  /> <!-- Symbol of Kundun -->
+		<Item Index="31" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Guardian -->
+		<Item Index="32" Serial="1" Option="0" Drop="0"  /> <!-- Pink Chocolate Box -->
+		<Item Index="33" Serial="1" Option="0" Drop="0"  /> <!-- Red Chocolate Box -->
+		<Item Index="34" Serial="1" Option="0" Drop="0"  /> <!-- Blue Chocolate Box -->
+		<Item Index="35" Serial="1" Option="0" Drop="0"  /> <!-- Small SD Potion -->
+		<Item Index="36" Serial="1" Option="0" Drop="0"  /> <!-- SD Potion -->
+		<Item Index="37" Serial="1" Option="0" Drop="0"  /> <!-- Large SD Potion -->
+		<Item Index="38" Serial="1" Option="0" Drop="0"  /> <!-- Small Complex Potion -->
+		<Item Index="39" Serial="1" Option="0" Drop="0"  /> <!-- Complex Potion -->
+		<Item Index="40" Serial="1" Option="0" Drop="0"  /> <!-- Large Complex Potion -->
+		<Item Index="41" Serial="1" Option="0" Drop="0"  /> <!-- Gemstone -->
+		<Item Index="42" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Harmony -->
+		<Item Index="43" Serial="1" Option="0" Drop="0"  /> <!-- Lower refining stone -->
+		<Item Index="44" Serial="1" Option="0" Drop="0"  /> <!-- Higher refining stone -->
+		<Item Index="45" Serial="1" Option="0" Drop="0"  /> <!-- Pumpkin of Luck -->
+		<Item Index="46" Serial="1" Option="0" Drop="0"  /> <!-- Jack O'Lantern Blessings -->
+		<Item Index="47" Serial="1" Option="0" Drop="0"  /> <!-- Jack O'Lantern Wrath -->
+		<Item Index="48" Serial="1" Option="0" Drop="0"  /> <!-- Jack O'Lantern Cry -->
+		<Item Index="49" Serial="1" Option="0" Drop="0"  /> <!-- Jack O'Lantern Food -->
+		<Item Index="50" Serial="1" Option="0" Drop="0"  /> <!-- Jack O'Lantern Drink -->
+		<Item Index="51" Serial="1" Option="0" Drop="0"  /> <!-- Chistmas Star -->
+		<Item Index="52" Serial="1" Option="0" Drop="0"  /> <!-- GM Gift -->
+		<Item Index="53" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Luck -->
+		<Item Index="54" Serial="1" Option="0" Drop="0"  /> <!-- Chaos Card -->
+		<Item Index="55" Serial="1" Option="0" Drop="0"  /> <!-- Green Chaos Box -->
+		<Item Index="56" Serial="1" Option="0" Drop="0"  /> <!-- Red Chaos Box -->
+		<Item Index="57" Serial="1" Option="0" Drop="0"  /> <!-- Purple Chaos Box -->
+		<Item Index="58" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket1 -->
+		<Item Index="59" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket2 -->
+		<Item Index="60" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket3 -->
+		<Item Index="61" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket4 -->
+		<Item Index="62" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket5 -->
+		<Item Index="63" Serial="1" Option="0" Drop="0"  /> <!-- Firecracker -->
+		<Item Index="64" Serial="1" Option="0" Drop="0"  /> <!-- Cursed Castle Water -->
+		<Item Index="65" Serial="1" Option="0" Drop="0"  /> <!-- Death-beam Knight Flame -->
+		<Item Index="66" Serial="1" Option="0" Drop="0"  /> <!-- Hell-Miner Horn -->
+		<Item Index="67" Serial="1" Option="0" Drop="0"  /> <!-- Dark Phoenix Feather -->
+		<Item Index="68" Serial="1" Option="0" Drop="0"  /> <!-- Abyssal Eye -->
+		<Item Index="70" Serial="1" Option="0" Drop="0"  /> <!-- Elite Healing Potion -->
+		<Item Index="71" Serial="1" Option="0" Drop="0"  /> <!-- Elite Mana Potion -->
+		<Item Index="72" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Quickness -->
+		<Item Index="73" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Defense -->
+		<Item Index="74" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Wrath -->
+		<Item Index="75" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Wizardry -->
+		<Item Index="76" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Health -->
+		<Item Index="77" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Mana -->
+		<Item Index="78" Serial="1" Option="0" Drop="0"  /> <!-- Elixir of Strength -->
+		<Item Index="79" Serial="1" Option="0" Drop="0"  /> <!-- Elixir of Agility -->
+		<Item Index="80" Serial="1" Option="0" Drop="0"  /> <!-- Elixir of Health -->
+		<Item Index="81" Serial="1" Option="0" Drop="0"  /> <!-- Elixir of Energy -->
+		<Item Index="82" Serial="1" Option="0" Drop="0"  /> <!-- Elixir of Control -->
+		<Item Index="83" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 6 -->
+		<Item Index="84" Serial="1" Option="0" Drop="0"  /> <!-- Cherry Blossom Play-Box -->
+		<Item Index="85" Serial="1" Option="0" Drop="0"  /> <!-- Cherry Blossom Wine -->
+		<Item Index="86" Serial="1" Option="0" Drop="0"  /> <!-- Cherry Blossom Rice Cake -->
+		<Item Index="87" Serial="1" Option="0" Drop="0"  /> <!-- Cherry Blossom Flower Petal -->
+		<Item Index="88" Serial="1" Option="0" Drop="0"  /> <!-- White Cherry Blossom Branch -->
+		<Item Index="89" Serial="1" Option="0" Drop="0"  /> <!-- Red Cherry Blossom Branch -->
+		<Item Index="90" Serial="1" Option="0" Drop="0"  /> <!-- Golden Cherry Blossom Branch -->
+		<Item Index="91" Serial="1" Option="0" Drop="0"  /> <!-- Summoner Character Card -->
+		<Item Index="92" Serial="1" Option="0" Drop="0"  /> <!-- Chaos Card Gold -->
+		<Item Index="93" Serial="1" Option="0" Drop="0"  /> <!-- Chaos Card Rare -->
+		<Item Index="94" Serial="1" Option="0" Drop="0"  /> <!-- Medium Elite Healing Potion -->
+		<Item Index="95" Serial="1" Option="0" Drop="0"  /> <!-- Chaos Card  Mini -->
+		<Item Index="96" Serial="1" Option="0" Drop="0"  /> <!-- Talisman of Chaos Assembly -->
+		<Item Index="97" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Battle -->
+		<Item Index="98" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Strength -->
+		<Item Index="99" Serial="1" Option="0" Drop="0"  /> <!-- Christmas Firecracker -->
+		<Item Index="100" Serial="0" Option="0" Drop="0"  /> <!-- Lucky Coin -->
+		<Item Index="101" Serial="0" Option="0" Drop="0"  /> <!-- Suspicious Scrap of Paper -->
+		<Item Index="102" Serial="0" Option="0" Drop="0"  /> <!-- Gaion's Order -->
+		<Item Index="103" Serial="1" Option="0" Drop="0"  /> <!-- First Secromicon Fragment -->
+		<Item Index="104" Serial="1" Option="0" Drop="0"  /> <!-- Second Secromicon Fragment -->
+		<Item Index="105" Serial="1" Option="0" Drop="0"  /> <!-- Third Secromicon Fragment -->
+		<Item Index="106" Serial="1" Option="0" Drop="0"  /> <!-- Fourth Secromicon Fragment -->
+		<Item Index="107" Serial="1" Option="0" Drop="0"  /> <!-- Fifth Secromicon Fragment -->
+		<Item Index="108" Serial="1" Option="0" Drop="0"  /> <!-- Sixth Secromicon Fragment -->
+		<Item Index="109" Serial="1" Option="0" Drop="0"  /> <!-- Complete Secromicon -->
+		<Item Index="110" Serial="1" Option="0" Drop="0"  /> <!-- Sign of Dimensions -->
+		<Item Index="111" Serial="1" Option="0" Drop="0"  /> <!-- Mirror of Dimensions -->
+		<Item Index="112" Serial="1" Option="0" Drop="0"  /> <!-- Silver Key -->
+		<Item Index="113" Serial="1" Option="0" Drop="0"  /> <!-- Gold Key -->
+		<Item Index="114" Serial="1" Option="0" Drop="0"  /> <!-- Master Skill Reset -->
+		<Item Index="115" Serial="1" Option="0" Drop="0"  /> <!-- Stat Adjustment -->
+		<Item Index="116" Serial="1" Option="0" Drop="0"  /> <!-- Character Relocation Service -->
+		<Item Index="117" Serial="1" Option="0" Drop="0"  /> <!-- Character Rename Service -->
+		<Item Index="118" Serial="1" Option="0" Drop="0"  /> <!-- Server Relocation Service -->
+		<Item Index="119" Serial="1" Option="0" Drop="0"  /> <!-- Premium Package -->
+		<Item Index="120" Serial="1" Option="0" Drop="0"  /> <!-- Goblin Gold Coin -->
+		<Item Index="121" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Golden Box -->
+		<Item Index="122" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Silver Box -->
+		<Item Index="123" Serial="1" Option="0" Drop="0"  /> <!-- Golden Box -->
+		<Item Index="124" Serial="1" Option="0" Drop="0"  /> <!-- Silver Box -->
+		<Item Index="125" Serial="1" Option="0" Drop="0"  /> <!-- Package Box -->
+		<Item Index="126" Serial="1" Option="0" Drop="0"  /> <!-- 30-Day Pass -->
+		<Item Index="127" Serial="1" Option="0" Drop="0"  /> <!-- 90-Day Pass -->
+		<Item Index="128" Serial="1" Option="0" Drop="0"  /> <!-- 30-Day Pass - Points -->
+		<Item Index="129" Serial="1" Option="0" Drop="0"  /> <!-- 90-Day Pass - Points -->
+		<Item Index="130" Serial="1" Option="0" Drop="0"  /> <!-- 3-Hour Pass -->
+		<Item Index="131" Serial="1" Option="0" Drop="0"  /> <!-- 5-Hour Pass -->
+		<Item Index="132" Serial="1" Option="0" Drop="0"  /> <!-- 10-Hour Pass -->
+		<Item Index="133" Serial="1" Option="0" Drop="0"  /> <!-- Elite SD Potion -->
+		<Item Index="134" Serial="1" Option="0" Drop="0"  /> <!-- Package Box A -->
+		<Item Index="135" Serial="1" Option="0" Drop="0"  /> <!-- Package Box B -->
+		<Item Index="136" Serial="1" Option="0" Drop="0"  /> <!-- Package Box C -->
+		<Item Index="137" Serial="1" Option="0" Drop="0"  /> <!-- Package Box D -->
+		<Item Index="138" Serial="1" Option="0" Drop="0"  /> <!-- Package Box E -->
+		<Item Index="139" Serial="1" Option="0" Drop="0"  /> <!-- Package Box F -->
+		<Item Index="140" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Healing -->
+		<Item Index="141" Serial="1" Option="0" Drop="0"  /> <!-- Shining Jewellery Case -->
+		<Item Index="142" Serial="1" Option="0" Drop="0"  /> <!-- Elegant Jewellery Case -->
+		<Item Index="143" Serial="1" Option="0" Drop="0"  /> <!-- Steel Jewellery Case -->
+		<Item Index="144" Serial="1" Option="0" Drop="0"  /> <!-- Old Jewellery Case -->
+		<Item Index="145" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 7 -->
+		<Item Index="146" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 8 -->
+		<Item Index="147" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 9 -->
+		<Item Index="148" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 10 -->
+		<Item Index="149" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 11 -->
+		<Item Index="150" Serial="1" Option="0" Drop="0"  /> <!-- Rare Item Ticket 12 -->
+		<Item Index="151" Serial="1" Option="0" Drop="0"  /> <!-- Lv. 1 Letter of Request -->
+		<Item Index="152" Serial="1" Option="0" Drop="0"  /> <!-- Lv. 1 Completion Certificate -->
+		<Item Index="153" Serial="1" Option="0" Drop="0"  /> <!-- Stardust -->
+		<Item Index="154" Serial="1" Option="0" Drop="0"  /> <!-- Kalt Stone -->
+		<Item Index="155" Serial="1" Option="0" Drop="0"  /> <!-- Tantalos's Armor -->
+		<Item Index="156" Serial="1" Option="0" Drop="0"  /> <!-- Burnt Murderer's Club -->
+		<Item Index="157" Serial="1" Option="0" Drop="0"  /> <!-- Green Box -->
+		<Item Index="158" Serial="1" Option="0" Drop="0"  /> <!-- Red Box -->
+		<Item Index="159" Serial="1" Option="0" Drop="0"  /> <!-- Purple Box -->
+		<Item Index="160" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Extension -->
+		<Item Index="161" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Elevation -->
+		<Item Index="162" Serial="1" Option="0" Drop="0"  /> <!-- Magic Backpack -->
+		<Item Index="163" Serial="1" Option="0" Drop="0"  /> <!-- Vault Expansion Certificate -->
+		<Item Index="164" Serial="1" Option="0" Drop="0"  /> <!-- Ancient Statue -->
+		<Item Index="165" Serial="1" Option="0" Drop="0"  /> <!-- Magic Cloth -->
+		<Item Index="166" Serial="1" Option="0" Drop="0"  /> <!-- Space Cloth -->
+		<Item Index="167" Serial="1" Option="0" Drop="0"  /> <!-- Phase Cloth -->
+		<Item Index="168" Serial="1" Option="0" Drop="0"  /> <!-- Dimension Cloth -->
+		<Item Index="169" Serial="1" Option="0" Drop="0"  /> <!-- RageFighter Character Card -->
+		<Item Index="170" Serial="1" Option="0" Drop="0"  /> <!-- Lv. 2 letter of Request -->
+		<Item Index="171" Serial="1" Option="0" Drop="0"  /> <!-- Lv. 2 Completion Certificate -->
+		<Item Index="176" Serial="1" Option="0" Drop="0"  /> <!-- Death King's Bone -->
+		<Item Index="177" Serial="1" Option="0" Drop="0"  /> <!-- Hell Maine's Leather -->
+		<Item Index="178" Serial="1" Option="0" Drop="0"  /> <!-- Dark Phoenix Flame -->
+		<Item Index="179" Serial="1" Option="0" Drop="0"  /> <!-- Death Beam Knight Soul -->
+		<Item Index="180" Serial="1" Option="0" Drop="0"  /> <!-- Ice Walker's Mane -->
+		<Item Index="181" Serial="1" Option="0" Drop="0"  /> <!-- Mammoth's Bundle of Fur -->
+		<Item Index="182" Serial="1" Option="0" Drop="0"  /> <!-- Giant's Icicle -->
+		<Item Index="183" Serial="1" Option="0" Drop="0"  /> <!-- Coolutin's Poison -->
+		<Item Index="184" Serial="1" Option="0" Drop="0"  /> <!-- Iron Knight's Heart -->
+		<Item Index="185" Serial="1" Option="0" Drop="0"  /> <!-- Dark Mammoth's Horn -->
+		<Item Index="186" Serial="1" Option="0" Drop="0"  /> <!-- Dark Giant's Axe -->
+		<Item Index="187" Serial="1" Option="0" Drop="0"  /> <!-- Dark Coolutin's Blood -->
+		<Item Index="188" Serial="1" Option="0" Drop="0"  /> <!-- Dark Iron Knight's Sword -->
+		<Item Index="189" Serial="1" Option="0" Drop="0"  /> <!-- Elemental Talisman of Luck -->
+		<Item Index="190" Serial="1" Option="0" Drop="0"  /> <!-- Elemental Talisman of Chaos -->
+		<Item Index="191" Serial="1" Option="0" Drop="0"  /> <!-- Sonic Combination Note -->
+		<Item Index="192" Serial="1" Option="0" Drop="0"  /> <!-- Cyclone Combination Note -->
+		<Item Index="193" Serial="1" Option="0" Drop="0"  /> <!-- Blast Combination Note -->
+		<Item Index="194" Serial="1" Option="0" Drop="0"  /> <!-- Magma Combination Note -->
+		<Item Index="195" Serial="1" Option="0" Drop="0"  /> <!-- Horn Combination Note -->
+		<Item Index="196" Serial="1" Option="0" Drop="0"  /> <!-- Angelic Combination Note -->
+		<Item Index="197" Serial="1" Option="0" Drop="0"  /> <!-- Devil Cross Combination Note -->
+		<Item Index="198" Serial="1" Option="0" Drop="0"  /> <!-- Miracle Combination Note -->
+		<Item Index="199" Serial="1" Option="0" Drop="0"  /> <!-- Spite Combination Note -->
+		<Item Index="200" Serial="1" Option="0" Drop="0"  /> <!-- Asura Combination Note -->
+		<Item Index="201" Serial="1" Option="0" Drop="0"  /> <!-- Thunder Combination Note -->
+		<Item Index="202" Serial="1" Option="0" Drop="0"  /> <!-- Soul Combination Note -->
+		<Item Index="206" Serial="1" Option="0" Drop="1"  /> <!-- Lackluster Box -->
+		<Item Index="207" Serial="1" Option="0" Drop="0"  /> <!-- Luxurious Box -->
+		<Item Index="208" Serial="1" Option="0" Drop="0"  /> <!-- Exciting Box -->
+		<Item Index="209" Serial="1" Option="0" Drop="1"  /> <!-- Tradeable Seal -->
+		<Item Index="210" Serial="1" Option="0" Drop="0"  /> <!-- Summon Scroll (Lv1) -->
+		<Item Index="211" Serial="1" Option="0" Drop="0"  /> <!-- Summon Scroll (Lv2) -->
+		<Item Index="212" Serial="1" Option="0" Drop="0"  /> <!-- Summon Scroll (Lv3) -->
+		<Item Index="213" Serial="1" Option="0" Drop="0"  /> <!-- Summon Scroll (Lv4) -->
+		<Item Index="215" Serial="1" Option="0" Drop="0"  /> <!-- Card Piece -->
+		<Item Index="216" Serial="1" Option="0" Drop="0"  /> <!-- Card Deck -->
+		<Item Index="217" Serial="1" Option="0" Drop="0"  /> <!-- Titan's Anger -->
+		<Item Index="218" Serial="1" Option="0" Drop="0"  /> <!-- Tantalose's Punishment -->
+		<Item Index="219" Serial="1" Option="0" Drop="0"  /> <!-- Erohim's Nightmare -->
+		<Item Index="220" Serial="1" Option="0" Drop="0"  /> <!-- Hell Maine's Insanity -->
+		<Item Index="221" Serial="1" Option="0" Drop="0"  /> <!-- Kundun's Greed -->
+		<Item Index="222" Serial="1" Option="0" Drop="0"  /> <!-- Unique Accessory Box -->
+		<Item Index="223" Serial="1" Option="0" Drop="0"  /> <!-- Cursed Castle Water -->
+		<Item Index="224" Serial="1" Option="0" Drop="0"  /> <!-- Bless of Light (Greater) -->
+		<Item Index="225" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Defense -->
+		<Item Index="226" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Wizardry -->
+		<Item Index="227" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Health -->
+		<Item Index="228" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Mana -->
+		<Item Index="229" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Wrath -->
+		<Item Index="230" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Recovery -->
+		<Item Index="231" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Battle -->
+		<Item Index="232" Serial="1" Option="0" Drop="0"  /> <!-- Scroll Master of Strenghener -->
+		<Item Index="233" Serial="1" Option="0" Drop="0"  /> <!-- Unique Weapon Box -->
+		<Item Index="234" Serial="1" Option="0" Drop="0"  /> <!-- Monster Summoning Scroll -->
+		<Item Index="235" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Swiftness Master -->
+		<Item Index="236" Serial="1" Option="0" Drop="0"  /> <!-- Reward Jar -->
+		<Item Index="237" Serial="1" Option="0" Drop="0"  /> <!-- Reward Jar -->
+		<Item Index="238" Serial="1" Option="0" Drop="0"  /> <!-- Reward Jar -->
+		<Item Index="239" Serial="1" Option="0" Drop="0"  /> <!-- Reward Jar -->
+		<Item Index="240" Serial="1" Option="0" Drop="0"  /> <!-- Reward Jar -->
+		<Item Index="241" Serial="1" Option="0" Drop="0"  /> <!-- Valuable Reward Jar -->
+		<Item Index="242" Serial="1" Option="0" Drop="0"  /> <!-- Golden Apple -->
+		<Item Index="243" Serial="1" Option="0" Drop="0"  /> <!-- Golden Apple(2) -->
+		<Item Index="244" Serial="1" Option="0" Drop="0"  /> <!-- Evomon Summoning Scroll -->
+		<Item Index="245" Serial="1" Option="0" Drop="0"  /> <!-- Tetra Crystal (Greater) -->
+		<Item Index="246" Serial="1" Option="0" Drop="0"  /> <!-- Tetra Crystal (Standard) -->
+		<Item Index="247" Serial="1" Option="0" Drop="0"  /> <!-- Tetra Crystal (Minor) -->
+		<Item Index="248" Serial="1" Option="0" Drop="0"  /> <!-- Minor Evomon Box -->
+		<Item Index="249" Serial="1" Option="0" Drop="0"  /> <!-- Standard Evomon Box -->
+		<Item Index="250" Serial="1" Option="0" Drop="0"  /> <!-- Greater Evomon Box -->
+		<Item Index="251" Serial="1" Option="0" Drop="0"  /> <!-- Luxurious Evomon Box -->
+		<Item Index="252" Serial="1" Option="0" Drop="0"  /> <!-- Magnificent Evomon Box -->
+		<Item Index="253" Serial="1" Option="0" Drop="0"  /> <!-- Legendary Evomon Box -->
+		<Item Index="254" Serial="1" Option="0" Drop="0"  /> <!-- Gift of Henchmen -->
+		<Item Index="256" Serial="1" Option="0" Drop="0"  /> <!-- Gift of Knights -->
+		<Item Index="257" Serial="1" Option="0" Drop="0"  /> <!-- Gift of High Knights -->
+		<Item Index="258" Serial="1" Option="0" Drop="0"  /> <!-- Minor Devil's Box -->
+		<Item Index="259" Serial="1" Option="0" Drop="0"  /> <!-- Devil's Box -->
+		<Item Index="260" Serial="1" Option="0" Drop="0"  /> <!-- High Devil's Box -->
+		<Item Index="261" Serial="1" Option="0" Drop="0"  /> <!-- Guardsman's Box -->
+		<Item Index="262" Serial="1" Option="0" Drop="0"  /> <!-- Guardman Captain's Box -->
+		<Item Index="263" Serial="1" Option="0" Drop="0"  /> <!-- Bless of Light (Low Grade) -->
+		<Item Index="264" Serial="1" Option="0" Drop="0"  /> <!-- Bless of Light (Middle Grade) -->
+		<Item Index="265" Serial="1" Option="0" Drop="0"  /> <!-- Goblin Treasure Box (Green) -->
+		<Item Index="266" Serial="1" Option="0" Drop="0"  /> <!-- Goblin Treasure Box (Blue) -->
+		<Item Index="267" Serial="1" Option="0" Drop="0"  /> <!-- Goblin Treasure Box (Red) -->
+		<Item Index="268" Serial="1" Option="0" Drop="0"  /> <!-- Goblin Treasure Box (Yellow) -->
+		<Item Index="269" Serial="1" Option="0" Drop="0"  /> <!-- Normal EXP Potion (1) -->
+		<Item Index="270" Serial="1" Option="0" Drop="0"  /> <!-- Normal EXP Potion (2) -->
+		<Item Index="271" Serial="1" Option="0" Drop="0"  /> <!-- Normal EXP Potion (3) -->
+		<Item Index="272" Serial="1" Option="0" Drop="0"  /> <!-- Normal EXP Potion (4) -->
+		<Item Index="273" Serial="1" Option="0" Drop="0"  /> <!-- Master EXP Potion (1) -->
+		<Item Index="274" Serial="1" Option="0" Drop="0"  /> <!-- Master EXP Potion (2) -->
+		<Item Index="275" Serial="1" Option="0" Drop="0"  /> <!-- Master EXP Potion (3) -->
+		<Item Index="276" Serial="1" Option="0" Drop="0"  /> <!-- Master EXP Potion (4) -->
+		<Item Index="277" Serial="1" Option="0" Drop="0"  /> <!-- Special Card -->
+		<Item Index="278" Serial="1" Option="0" Drop="0"  /> <!-- Piece of Summoning Scroll -->
+		<Item Index="279" Serial="1" Option="0" Drop="0"  /> <!-- Master EXP Potion (5) -->
+		<Item Index="280" Serial="1" Option="0" Drop="0"  /> <!-- Master EXP Potion (6) -->
+		<Item Index="281" Serial="1" Option="0" Drop="0"  /> <!-- Grow Lancer Character Card -->
+		<Item Index="282" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Box(Minor) -->
+		<Item Index="283" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Box(Standard) -->
+		<Item Index="284" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Box(Greater) -->
+		<Item Index="285" Serial="1" Option="0" Drop="0"  /> <!-- Ruud -->
+		<Item Index="286" Serial="1" Option="0" Drop="0"  /> <!-- Pentagram Box -->
+		<Item Index="287" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Reward Chest(2000) -->
+		<Item Index="288" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Reward Chest(1000) -->
+		<Item Index="289" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Reward Chest(500) -->
+		<Item Index="290" Serial="1" Option="0" Drop="0"  /> <!-- Elemental Powder -->
+		<Item Index="293" Serial="1" Option="0" Drop="0"  /> <!-- Elemental Capsule(Normal) -->
+		<Item Index="296" Serial="1" Option="0" Drop="0"  /> <!-- Capsule(Fire) -->
+		<Item Index="309" Serial="1" Option="0" Drop="0"  /> <!-- Fragment of Radiance slot (1) -->
+		<Item Index="310" Serial="1" Option="0" Drop="0"  /> <!-- Fragment of Radiance slot (2) -->
+		<Item Index="311" Serial="1" Option="0" Drop="0"  /> <!-- Fragment of Radiance slot (3) -->
+		<Item Index="312" Serial="1" Option="0" Drop="0"  /> <!-- Fragment of Radiance slot (4) -->
+		<Item Index="316" Serial="1" Option="0" Drop="0"  /> <!-- Expansion Scroll Radiance Slot -->
+		<Item Index="317" Serial="1" Option="0" Drop="0"  /> <!-- Talisman Element Change -->
+		<Item Index="320" Serial="1" Option="0" Drop="0"  /> <!-- Blessing of Spirit -->
+		<Item Index="331" Serial="1" Option="0" Drop="0"  /> <!-- [PC] 1 hour Gift Box -->
+		<Item Index="332" Serial="1" Option="0" Drop="0"  /> <!-- [PC] 4  hour Gift Box -->
+		<Item Index="333" Serial="1" Option="0" Drop="0"  /> <!-- [PC] 8 hour Gift Box -->
+		<Item Index="334" Serial="1" Option="0" Drop="0"  /> <!-- [PC] 12 hour Gift Box -->
+		<Item Index="336" Serial="1" Option="0" Drop="0"  /> <!-- Mastery Reward Chest(100) -->
+		<Item Index="337" Serial="1" Option="0" Drop="0"  /> <!-- Capsule(Earth) -->
+		<Item Index="338" Serial="1" Option="0" Drop="0"  /> <!-- Capsule(Water) -->
+		<Item Index="339" Serial="1" Option="0" Drop="0"  /> <!-- Capsule(Wind) -->
+		<Item Index="340" Serial="1" Option="0" Drop="0"  /> <!-- Capsule(Darkness) -->
+		<Item Index="341" Serial="1" Option="0" Drop="0"  /> <!-- Sealed Stone Shard -->
+		<Item Index="342" Serial="1" Option="0" Drop="0"  /> <!-- Steel of Heaven -->
+		<Item Index="343" Serial="1" Option="0" Drop="0"  /> <!-- Archangel's Hammer -->
+		<Item Index="344" Serial="1" Option="0" Drop="0"  /> <!-- [Speed] Archangel Weapon Box -->
+		<Item Index="345" Serial="1" Option="0" Drop="0"  /> <!-- Mysterious Stone -->
+		<Item Index="346" Serial="1" Option="0" Drop="0"  /> <!-- Fire Symbol -->
+		<Item Index="347" Serial="1" Option="0" Drop="0"  /> <!-- Water Symbol -->
+		<Item Index="348" Serial="1" Option="0" Drop="0"  /> <!-- Earth Symbol -->
+		<Item Index="349" Serial="1" Option="0" Drop="0"  /> <!-- Wind Symbol -->
+		<Item Index="350" Serial="1" Option="0" Drop="0"  /> <!-- Darkness Symbol -->
+		<Item Index="351" Serial="1" Option="0" Drop="0"  /> <!-- Element Box -->
+		<Item Index="352" Serial="1" Option="0" Drop="0"  /> <!-- Ruud Box(10) -->
+		<Item Index="353" Serial="1" Option="0" Drop="0"  /> <!-- Magic Fragment -->
+		<Item Index="354" Serial="1" Option="0" Drop="0"  /> <!-- [14th Anniversary] Gift Box -->
+		<Item Index="355" Serial="1" Option="0" Drop="0"  /> <!-- [14Year]Special Prize Box -->
+		<Item Index="356" Serial="1" Option="0" Drop="0"  /> <!-- [PC Cafe] Ruud Box -->
+		<Item Index="357" Serial="1" Option="0" Drop="0"  /> <!-- [Speed] Helm Box -->
+		<Item Index="358" Serial="1" Option="0" Drop="0"  /> <!-- [Speed] Armor Box -->
+		<Item Index="359" Serial="1" Option="0" Drop="0"  /> <!-- [Speed] Pants Box -->
+		<Item Index="360" Serial="1" Option="0" Drop="0"  /> <!-- [Speed] Gloves Box -->
+		<Item Index="361" Serial="1" Option="0" Drop="0"  /> <!-- [Speed] Boots Box -->
+		<Item Index="364" Serial="1" Option="0" Drop="0"  /> <!-- Socket Upgrade Note -->
+		<Item Index="367" Serial="1" Option="0" Drop="0"  /> <!-- Roomy Card Box (Lower) -->
+		<Item Index="368" Serial="1" Option="0" Drop="0"  /> <!-- Roomy Card Box (Medium) -->
+		<Item Index="369" Serial="1" Option="0" Drop="0"  /> <!-- Roomy Card Box (Higher) -->
+		<Item Index="370" Serial="1" Option="0" Drop="0"  /> <!-- Seed -->
+		<Item Index="371" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Bless of Light (Greater) -->
+		<Item Index="372" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Bless of Light (Middle) -->
+		<Item Index="373" Serial="1" Option="0" Drop="0"  /> <!-- [Bound] Bless of Light (Low Grade) -->
+		<Item Index="374" Serial="1" Option="0" Drop="0"  /> <!-- [Event] Lower Box -->
+		<Item Index="375" Serial="1" Option="0" Drop="0"  /> <!-- [Event] Medium Box -->
+		<Item Index="376" Serial="1" Option="0" Drop="0"  /> <!-- [Event] Higher Box -->
+		<Item Index="377" Serial="1" Option="0" Drop="0"  /> <!-- [Event] Luxury Box -->
+		<Item Index="378" Serial="1" Option="0" Drop="0"  /> <!-- Seed Capsule (Fire) -->
+		<Item Index="379" Serial="1" Option="0" Drop="0"  /> <!-- Seed Capsule (Water) -->
+		<Item Index="380" Serial="1" Option="0" Drop="0"  /> <!-- Seed Capsule (Ice) -->
+		<Item Index="381" Serial="1" Option="0" Drop="0"  /> <!-- Seed Capsule (Wind) -->
+		<Item Index="382" Serial="1" Option="0" Drop="0"  /> <!-- Seed Capsule (Lightning) -->
+		<Item Index="383" Serial="1" Option="0" Drop="0"  /> <!-- Seed Capsule (Earth) -->
+		<Item Index="384" Serial="1" Option="0" Drop="0"  /> <!-- Sphere Upgrade Rune Capsule -->
+		<Item Index="385" Serial="1" Option="0" Drop="0"  /> <!-- Mysterious Box -->
+		<Item Index="386" Serial="1" Option="0" Drop="0"  /> <!-- Darkangel Anvil -->
+		<Item Index="389" Serial="1" Option="0" Drop="0"  /> <!-- Holyangel Spirit -->
+		<Item Index="390" Serial="1" Option="0" Drop="0"  /> <!-- Nixie's spirit fragment -->
+		<Item Index="391" Serial="1" Option="0" Drop="0"  /> <!-- Event Gift Box -->
+		<Item Index="392" Serial="1" Option="0" Drop="0"  /> <!-- Card Box -->
+		<Item Index="393" Serial="1" Option="0" Drop="0"  /> <!-- Card Box (10) -->
+		<Item Index="394" Serial="1" Option="0" Drop="0"  /> <!-- Attack Elf Conversion Order -->
+		<Item Index="395" Serial="1" Option="0" Drop="0"  /> <!-- Support Elf Conversion Order -->
+		<Item Index="396" Serial="1" Option="0" Drop="0"  /> <!-- Attack MG Conversion Order -->
+		<Item Index="397" Serial="1" Option="0" Drop="0"  /> <!-- Magic MG Conversion Order -->
+		<Item Index="398" Serial="1" Option="0" Drop="0"  /> <!-- Attribute Talisman Box -->
+		<Item Index="399" Serial="1" Option="0" Drop="0"  /> <!-- (Hero) Bloodangel Spirit -->
+		<Item Index="400" Serial="1" Option="0" Drop="0"  /> <!-- Labyrinth Box (Lowest) -->
+		<Item Index="401" Serial="1" Option="0" Drop="0"  /> <!-- Labyrinth Box (Lesser) -->
+		<Item Index="402" Serial="1" Option="0" Drop="0"  /> <!-- Labyrinth Box (Medium) -->
+		<Item Index="403" Serial="1" Option="0" Drop="0"  /> <!-- Labyrinth Box (Advanced) -->
+		<Item Index="404" Serial="1" Option="0" Drop="0"  /> <!-- Labyrinth Box (Improved) -->
+		<Item Index="405" Serial="1" Option="0" Drop="0"  /> <!-- Labyrinth Box (Highest) -->
+		<Item Index="406" Serial="1" Option="0" Drop="0"  /> <!-- Intermediate Mastery Weapon B -->
+		<Item Index="407" Serial="1" Option="0" Drop="0"  /> <!-- Speed Server Competition Box -->
+		<Item Index="408" Serial="1" Option="0" Drop="0"  /> <!-- [Jewel Bingo] Lower Box -->
+		<Item Index="409" Serial="1" Option="0" Drop="0"  /> <!-- [Jewel Bingo] Intermediate Bo -->
+		<Item Index="410" Serial="1" Option="0" Drop="0"  /> <!-- [Jewel Bingo] Advanced Box -->
+		<Item Index="411" Serial="1" Option="0" Drop="0"  /> <!-- [Jewel Bingo] Premium Box -->
+		<Item Index="412" Serial="1" Option="0" Drop="0"  /> <!-- Intermediate Mastery Armor Bo -->
+		<Item Index="413" Serial="1" Option="0" Drop="0"  /> <!-- Miracle Coin -->
+		<Item Index="414" Serial="1" Option="0" Drop="0"  /> <!-- Manche Compensation Box -->
+		<Item Index="415" Serial="1" Option="0" Drop="0"  /> <!-- Awakening -->
+		<Item Index="416" Serial="1" Option="0" Drop="0"  /> <!-- Anvil of Holy Angel -->
+		<Item Index="417" Serial="1" Option="0" Drop="0"  /> <!-- Blood Angel Conversion Mark -->
+		<Item Index="418" Serial="1" Option="0" Drop="0"  /> <!-- [PC] Intermediate Mastery Weapon -->
+		<Item Index="419" Serial="1" Option="0" Drop="0"  /> <!-- [PC] Intermediate Mastery Armor -->
+		<Item Index="420" Serial="1" Option="0" Drop="0"  /> <!-- [Bind] Stone of Mystery -->
+		<Item Index="421" Serial="1" Option="0" Drop="0"  /> <!-- Second Wing Box -->
+		<Item Index="422" Serial="1" Option="0" Drop="0"  /> <!-- Third Wing Box -->
+		<Item Index="423" Serial="1" Option="0" Drop="0"  /> <!-- Season Preemption -->
+		<Item Index="424" Serial="1" Option="0" Drop="0"  /> <!-- Season Preemption -->
+		<Item Index="425" Serial="1" Option="0" Drop="0"  /> <!-- Season Preemption -->
+		<Item Index="426" Serial="1" Option="0" Drop="0"  /> <!-- 60-Day Mastery Armor Box -->
+		<Item Index="427" Serial="1" Option="0" Drop="0"  /> <!-- 30-Day Mastery Armor Box -->
+		<Item Index="428" Serial="1" Option="0" Drop="0"  /> <!-- 3-Day Mastery Armor Box -->
+		<Item Index="429" Serial="1" Option="0" Drop="0"  /> <!-- +11 Third Wing Box (Bound) -->
+		<Item Index="500" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Dark Bless -->
+		<Item Index="501" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Dark Soul -->
+		<Item Index="502" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Dark Life -->
+		<Item Index="503" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Excess -->
+		<Item Index="504" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Luck -->
+		<Item Index="505" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Science -->
+		<Item Index="506" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Kundun -->
+		<Item Index="507" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Kondar -->
+		<Item Index="508" Serial="1" Option="0" Drop="0"  /> <!-- Jewel of Wisdom -->
+	</Section>
+	<Section Index="15" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Poison -->
+		<Item Index="1" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Meteorite -->
+		<Item Index="2" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Lighting -->
+		<Item Index="3" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Fire Ball -->
+		<Item Index="4" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Flame -->
+		<Item Index="5" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Teleport -->
+		<Item Index="6" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Ice -->
+		<Item Index="7" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Twister -->
+		<Item Index="8" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Evil Spirit -->
+		<Item Index="9" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Hellfire -->
+		<Item Index="10" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Power Wave -->
+		<Item Index="11" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Aqua Beam -->
+		<Item Index="12" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Cometfall -->
+		<Item Index="13" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Inferno -->
+		<Item Index="14" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Teleport Ally -->
+		<Item Index="15" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Soul Barrier -->
+		<Item Index="16" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Decay -->
+		<Item Index="17" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Ice Storm -->
+		<Item Index="18" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Nova -->
+		<Item Index="19" Serial="1" Option="0" Drop="0"  /> <!-- Chain Lightning Parchment -->
+		<Item Index="20" Serial="1" Option="0" Drop="0"  /> <!-- Drain Life Parchment -->
+		<Item Index="21" Serial="1" Option="0" Drop="0"  /> <!-- Lightning Shock Parchment -->
+		<Item Index="22" Serial="1" Option="0" Drop="0"  /> <!-- Damage Reflection Parchment -->
+		<Item Index="23" Serial="1" Option="0" Drop="0"  /> <!-- Berserker Parchment -->
+		<Item Index="24" Serial="1" Option="0" Drop="0"  /> <!-- Sleep Parchment -->
+		<Item Index="26" Serial="1" Option="0" Drop="0"  /> <!-- Weakness Parchment -->
+		<Item Index="27" Serial="1" Option="0" Drop="0"  /> <!-- Innovation Parchment -->
+		<Item Index="28" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Wizardry Enhance -->
+		<Item Index="29" Serial="1" Option="0" Drop="0"  /> <!-- Scroll of Gigantic Storm -->
+		<Item Index="30" Serial="1" Option="0" Drop="0"  /> <!-- Chain Drive Parchment -->
+		<Item Index="31" Serial="1" Option="0" Drop="0"  /> <!-- Dark Side Parchment -->
+		<Item Index="32" Serial="1" Option="0" Drop="0"  /> <!-- Dragon Roar Parchment -->
+		<Item Index="33" Serial="1" Option="0" Drop="0"  /> <!-- Dragon Slasher Parchment -->
+		<Item Index="34" Serial="1" Option="0" Drop="0"  /> <!-- Ignore Defense Parchment -->
+		<Item Index="35" Serial="1" Option="0" Drop="0"  /> <!-- Increase Health Parchment -->
+		<Item Index="36" Serial="1" Option="0" Drop="0"  /> <!-- Increase Block Parchment -->
+	</Section>
+	<Section Index="16" Serial="0" Option="0" Drop="0">
+		<Item Index="0" Serial="1" Option="1" Drop="0"  /> <!-- Pinocchio -->
+		<Item Index="1" Serial="1" Option="1" Drop="0"  /> <!-- Pinocchio (Evolved) -->
+		<Item Index="2" Serial="1" Option="1" Drop="0"  /> <!-- Geppetto -->
+		<Item Index="3" Serial="1" Option="1" Drop="0"  /> <!-- Geppetto (Evolved) -->
+		<Item Index="4" Serial="1" Option="1" Drop="0"  /> <!-- Blue Fairy -->
+		<Item Index="5" Serial="1" Option="1" Drop="0"  /> <!-- Blue Fairy (Evolved) -->
+		<Item Index="6" Serial="1" Option="1" Drop="0"  /> <!-- Papa Bear -->
+		<Item Index="7" Serial="1" Option="1" Drop="0"  /> <!-- Papa Bear (Evolved) -->
+		<Item Index="8" Serial="1" Option="1" Drop="0"  /> <!-- Baby Bear -->
+		<Item Index="9" Serial="1" Option="1" Drop="0"  /> <!-- Baby Bear (Evolved) -->
+		<Item Index="10" Serial="1" Option="1" Drop="0"  /> <!-- Mama Bear -->
+		<Item Index="11" Serial="1" Option="1" Drop="0"  /> <!-- Mama Bear (Evolved) -->
+		<Item Index="12" Serial="1" Option="1" Drop="0"  /> <!-- Woody -->
+		<Item Index="13" Serial="1" Option="1" Drop="0"  /> <!-- Woody (Evolved) -->
+		<Item Index="14" Serial="1" Option="1" Drop="0"  /> <!-- Treasure Chest -->
+		<Item Index="15" Serial="1" Option="1" Drop="0"  /> <!-- Treasure Chest (Evolved) -->
+		<Item Index="16" Serial="1" Option="1" Drop="0"  /> <!-- Treasure Hunter -->
+		<Item Index="17" Serial="1" Option="1" Drop="0"  /> <!-- Treasure Hunter (Evolved) -->
+		<Item Index="18" Serial="1" Option="1" Drop="0"  /> <!-- Tree Elf -->
+		<Item Index="19" Serial="1" Option="1" Drop="0"  /> <!-- Tree Elf (Evolved) -->
+		<Item Index="20" Serial="1" Option="1" Drop="0"  /> <!-- Grass Fairy -->
+		<Item Index="21" Serial="1" Option="1" Drop="0"  /> <!-- Grass Fairy (Evolved) -->
+		<Item Index="22" Serial="1" Option="1" Drop="0"  /> <!-- Leaf Mage -->
+		<Item Index="23" Serial="1" Option="1" Drop="0"  /> <!-- Leaf Mage (Evolved) -->
+		<Item Index="24" Serial="1" Option="1" Drop="0"  /> <!-- Samba Girl -->
+		<Item Index="25" Serial="1" Option="1" Drop="0"  /> <!-- Samba Girl (Evolved) -->
+		<Item Index="26" Serial="1" Option="1" Drop="0"  /> <!-- Rio -->
+		<Item Index="27" Serial="1" Option="1" Drop="0"  /> <!-- Rio (Evolved) -->
+		<Item Index="28" Serial="1" Option="1" Drop="0"  /> <!-- Bateria -->
+		<Item Index="29" Serial="1" Option="1" Drop="0"  /> <!-- Bateria (Evolved) -->
+		<Item Index="30" Serial="1" Option="1" Drop="0"  /> <!-- Reporter -->
+		<Item Index="31" Serial="1" Option="1" Drop="0"  /> <!-- Dragon Articles -->
+		<Item Index="32" Serial="1" Option="1" Drop="0"  /> <!-- Tiger -->
+		<Item Index="33" Serial="1" Option="1" Drop="0"  /> <!-- Tiger (Evolved) -->
+		<Item Index="34" Serial="1" Option="1" Drop="0"  /> <!-- Libra -->
+		<Item Index="35" Serial="1" Option="1" Drop="0"  /> <!-- Libra (Evolved) -->
+		<Item Index="36" Serial="1" Option="1" Drop="0"  /> <!-- Scorpio -->
+		<Item Index="37" Serial="1" Option="1" Drop="0"  /> <!-- Scorpio (Evolved) -->
+		<Item Index="38" Serial="1" Option="1" Drop="0"  /> <!-- Rabbit -->
+		<Item Index="39" Serial="1" Option="1" Drop="0"  /> <!-- Rabbit (Evolved) -->
+		<Item Index="40" Serial="1" Option="1" Drop="0"  /> <!-- Kaolin -->
+		<Item Index="41" Serial="1" Option="1" Drop="0"  /> <!-- Chicken -->
+		<Item Index="42" Serial="1" Option="1" Drop="0"  /> <!-- Chicken (Evolved) -->
+		<Item Index="43" Serial="1" Option="1" Drop="0"  /> <!-- Rooster -->
+		<Item Index="44" Serial="1" Option="1" Drop="0"  /> <!-- Rooster (Evolved) -->
+		<Item Index="45" Serial="1" Option="1" Drop="0"  /> <!-- Angry Rooster -->
+		<Item Index="46" Serial="1" Option="1" Drop="0"  /> <!-- Angry Rooster (Evolved) -->
+		<Item Index="47" Serial="1" Option="1" Drop="0"  /> <!-- Lion -->
+		<Item Index="48" Serial="1" Option="1" Drop="0"  /> <!-- Lion (Evolved) -->
+		<Item Index="49" Serial="1" Option="1" Drop="0"  /> <!-- Knight Instructor -->
+		<Item Index="50" Serial="1" Option="1" Drop="0"  /> <!-- Knight Instructor (Evolved) -->
+		<Item Index="51" Serial="1" Option="1" Drop="0"  /> <!-- Blackbeard -->
+		<Item Index="52" Serial="1" Option="1" Drop="0"  /> <!-- Blackbeard (Evolved) -->
+		<Item Index="53" Serial="1" Option="1" Drop="0"  /> <!-- Toy Robot -->
+		<Item Index="54" Serial="1" Option="1" Drop="0"  /> <!-- Toy Robot (Evolved) -->
+		<Item Index="55" Serial="1" Option="1" Drop="0"  /> <!-- Adventure cat -->
+		<Item Index="56" Serial="1" Option="1" Drop="0"  /> <!-- Adventure cat (Evolved) -->
+		<Item Index="57" Serial="1" Option="1" Drop="0"  /> <!-- Dike -->
+		<Item Index="58" Serial="1" Option="1" Drop="0"  /> <!-- Dike (Evolved) -->
+		<Item Index="59" Serial="1" Option="1" Drop="0"  /> <!-- Rainy Girl -->
+		<Item Index="60" Serial="1" Option="1" Drop="0"  /> <!-- Rainy Girl (Evolved) -->
+		<Item Index="61" Serial="1" Option="1" Drop="0"  /> <!-- Scarecrow -->
+		<Item Index="62" Serial="1" Option="1" Drop="0"  /> <!-- Scarecrow (Evolved) -->
+		<Item Index="63" Serial="1" Option="1" Drop="0"  /> <!-- Zombie Articles -->
+		<Item Index="64" Serial="1" Option="1" Drop="0"  /> <!-- Zombie Articles (Evolved) -->
+		<Item Index="65" Serial="1" Option="1" Drop="0"  /> <!-- Mr. Fishing King -->
+		<Item Index="66" Serial="1" Option="1" Drop="0"  /> <!-- Mr. Fishing King (Evolved) -->
+		<Item Index="67" Serial="1" Option="1" Drop="0"  /> <!-- Snow Fairy -->
+		<Item Index="68" Serial="1" Option="1" Drop="0"  /> <!-- Snow Fairy (Evolved) -->
+		<Item Index="211" Serial="1" Option="1" Drop="0"  /> <!-- Evolution Stone -->
+		<Item Index="212" Serial="1" Option="1" Drop="0"  /> <!-- Luki -->
+		<Item Index="213" Serial="1" Option="1" Drop="0"  /> <!-- Luki (Evolved) -->
+		<Item Index="214" Serial="1" Option="1" Drop="0"  /> <!-- Tony -->
+		<Item Index="215" Serial="1" Option="1" Drop="0"  /> <!-- Tony (Evolved) -->
+		<Item Index="216" Serial="1" Option="1" Drop="0"  /> <!-- Nymph -->
+		<Item Index="217" Serial="1" Option="1" Drop="0"  /> <!-- Nymph (Evolved) -->
+		<Item Index="218" Serial="1" Option="1" Drop="0"  /> <!-- Safi -->
+		<Item Index="219" Serial="1" Option="1" Drop="0"  /> <!-- Safi (Evolved) -->
+		<Item Index="223" Serial="1" Option="1" Drop="0"  /> <!-- William -->
+		<Item Index="224" Serial="1" Option="1" Drop="0"  /> <!-- William (Evolved) -->
+		<Item Index="225" Serial="1" Option="1" Drop="0"  /> <!-- Paul -->
+		<Item Index="226" Serial="1" Option="1" Drop="0"  /> <!-- Paul (Evolved) -->
+		<Item Index="227" Serial="1" Option="1" Drop="0"  /> <!-- Chiron -->
+		<Item Index="228" Serial="1" Option="1" Drop="0"  /> <!-- Chiron (Evolved) -->
+		<Item Index="229" Serial="1" Option="1" Drop="0"  /> <!-- Wooparoo -->
+		<Item Index="230" Serial="1" Option="1" Drop="0"  /> <!-- Wooparoo (Evolved) -->
+		<Item Index="231" Serial="1" Option="1" Drop="0"  /> <!-- Tibetton -->
+		<Item Index="232" Serial="1" Option="1" Drop="0"  /> <!-- Tibetton (Evolved) -->
+		<Item Index="233" Serial="1" Option="1" Drop="0"  /> <!-- Witch -->
+		<Item Index="234" Serial="1" Option="1" Drop="0"  /> <!-- Witch (Evolved) -->
+		<Item Index="235" Serial="1" Option="1" Drop="0"  /> <!-- Skull -->
+		<Item Index="236" Serial="1" Option="1" Drop="0"  /> <!-- Skull (Evolved) -->
+		<Item Index="237" Serial="1" Option="1" Drop="0"  /> <!-- Pumpkie -->
+		<Item Index="238" Serial="1" Option="1" Drop="0"  /> <!-- Pumpkie (Evolved) -->
+		<Item Index="239" Serial="1" Option="1" Drop="0"  /> <!-- Muun Energy Converter -->
+		<Item Index="240" Serial="1" Option="1" Drop="0"  /> <!-- Wizardry Stone -->
+		<Item Index="241" Serial="1" Option="1" Drop="0"  /> <!-- Savath -->
+		<Item Index="242" Serial="1" Option="1" Drop="0"  /> <!-- Savath (Evolved) -->
+		<Item Index="243" Serial="1" Option="1" Drop="0"  /> <!-- Lycan -->
+		<Item Index="244" Serial="1" Option="1" Drop="0"  /> <!-- Lycan (Evolved) -->
+		<Item Index="245" Serial="1" Option="1" Drop="0"  /> <!-- Torby -->
+		<Item Index="246" Serial="1" Option="1" Drop="0"  /> <!-- Torby (Evolved) -->
+		<Item Index="252" Serial="1" Option="1" Drop="0"  /> <!-- Seiren -->
+		<Item Index="253" Serial="1" Option="1" Drop="0"  /> <!-- Seiren (Evolved) -->
+		<Item Index="254" Serial="1" Option="1" Drop="0"  /> <!-- Behemoth -->
+		<Item Index="255" Serial="1" Option="1" Drop="0"  /> <!-- Behemoth (Evolved) -->
+		<Item Index="256" Serial="1" Option="1" Drop="0"  /> <!-- Loggle -->
+		<Item Index="257" Serial="1" Option="1" Drop="0"  /> <!-- Loggle (Evolved) -->
+		<Item Index="258" Serial="1" Option="1" Drop="0"  /> <!-- Mino -->
+		<Item Index="259" Serial="1" Option="1" Drop="0"  /> <!-- Mino (Evolved) -->
+		<Item Index="260" Serial="1" Option="1" Drop="0"  /> <!-- Hound -->
+		<Item Index="261" Serial="1" Option="1" Drop="0"  /> <!-- Hound (Evolved) -->
+		<Item Index="262" Serial="1" Option="1" Drop="0"  /> <!-- Trive -->
+		<Item Index="263" Serial="1" Option="1" Drop="0"  /> <!-- Trive (Evolved) -->
+		<Item Index="264" Serial="1" Option="1" Drop="0"  /> <!-- Vogan -->
+		<Item Index="265" Serial="1" Option="1" Drop="0"  /> <!-- Vogan (Evolved) -->
+		<Item Index="266" Serial="1" Option="1" Drop="0"  /> <!-- Cyclop -->
+		<Item Index="267" Serial="1" Option="1" Drop="0"  /> <!-- Cyclop (Evolved) -->
+		<Item Index="270" Serial="1" Option="1" Drop="0"  /> <!-- Bonf -->
+		<Item Index="271" Serial="1" Option="1" Drop="0"  /> <!-- Bonf (Evolved) -->
+		<Item Index="272" Serial="1" Option="1" Drop="0"  /> <!-- Hawk -->
+		<Item Index="273" Serial="1" Option="1" Drop="0"  /> <!-- Hawk (Evolved) -->
+		<Item Index="274" Serial="1" Option="1" Drop="0"  /> <!-- Muty -->
+		<Item Index="275" Serial="1" Option="1" Drop="0"  /> <!-- Muty (Evolved) -->
+		<Item Index="278" Serial="1" Option="1" Drop="0"  /> <!-- Mantis -->
+		<Item Index="279" Serial="1" Option="1" Drop="0"  /> <!-- Mantis (Evolved) -->
+		<Item Index="280" Serial="1" Option="1" Drop="0"  /> <!-- Scolpy -->
+		<Item Index="281" Serial="1" Option="1" Drop="0"  /> <!-- Scolpy (Evolved) -->
+		<Item Index="282" Serial="1" Option="1" Drop="0"  /> <!-- Chafer -->
+		<Item Index="283" Serial="1" Option="1" Drop="0"  /> <!-- Chafer (Evolved) -->
+		<Item Index="284" Serial="1" Option="1" Drop="0"  /> <!-- Shogun -->
+		<Item Index="285" Serial="1" Option="1" Drop="0"  /> <!-- Shogun (Evolved) -->
+		<Item Index="286" Serial="1" Option="1" Drop="0"  /> <!-- Ninja -->
+		<Item Index="287" Serial="1" Option="1" Drop="0"  /> <!-- Ninja (Evolved) -->
+		<Item Index="288" Serial="1" Option="1" Drop="0"  /> <!-- Samurai -->
+		<Item Index="289" Serial="1" Option="1" Drop="0"  /> <!-- Samurai (Evolved) -->
+		<Item Index="290" Serial="1" Option="1" Drop="0"  /> <!-- Cosplay Girl -->
+		<Item Index="291" Serial="1" Option="1" Drop="0"  /> <!-- Cosplay Girl (Evolved) -->
+		<Item Index="292" Serial="1" Option="1" Drop="0"  /> <!-- Cheer Girl -->
+		<Item Index="293" Serial="1" Option="1" Drop="0"  /> <!-- Cheer Girl (Evolved) -->
+		<Item Index="294" Serial="1" Option="1" Drop="0"  /> <!-- Sporty Girl -->
+		<Item Index="295" Serial="1" Option="1" Drop="0"  /> <!-- Sporty Girl (Evolved) -->
+		<Item Index="296" Serial="1" Option="1" Drop="0"  /> <!-- Baal -->
+		<Item Index="297" Serial="1" Option="1" Drop="0"  /> <!-- Baal (Evolved) -->
+		<Item Index="298" Serial="1" Option="1" Drop="0"  /> <!-- Gaap -->
+		<Item Index="299" Serial="1" Option="1" Drop="0"  /> <!-- Gaap (Evolved) -->
+		<Item Index="300" Serial="1" Option="1" Drop="0"  /> <!-- Taaf -->
+		<Item Index="301" Serial="1" Option="1" Drop="0"  /> <!-- Taaf (Evolved) -->
+		<Item Index="302" Serial="1" Option="1" Drop="0"  /> <!-- Frozen -->
+		<Item Index="303" Serial="1" Option="1" Drop="0"  /> <!-- Frozen (Evolved) -->
+		<Item Index="304" Serial="1" Option="1" Drop="0"  /> <!-- Lure -->
+		<Item Index="305" Serial="1" Option="1" Drop="0"  /> <!-- Lure (Evolved) -->
+		<Item Index="306" Serial="1" Option="1" Drop="0"  /> <!-- Fur Seal -->
+		<Item Index="307" Serial="1" Option="1" Drop="0"  /> <!-- Fur Seal (Evolved) -->
+		<Item Index="308" Serial="1" Option="1" Drop="0"  /> <!-- Lucky Rabbit -->
+		<Item Index="309" Serial="1" Option="1" Drop="0"  /> <!-- Lucky Rabbit (Evolved) -->
+		<Item Index="310" Serial="1" Option="1" Drop="0"  /> <!-- Mooncake Rabbit -->
+		<Item Index="311" Serial="1" Option="1" Drop="0"  /> <!-- Mooncake Rabbit (Evolved) -->
+		<Item Index="312" Serial="1" Option="1" Drop="0"  /> <!-- Mortar Rabbit -->
+		<Item Index="313" Serial="1" Option="1" Drop="0"  /> <!-- Mortar Rabbit (Evolved) -->
+		<Item Index="314" Serial="1" Option="1" Drop="0"  /> <!-- Tarius -->
+		<Item Index="315" Serial="1" Option="1" Drop="0"  /> <!-- Tarius (Evolved) -->
+		<Item Index="316" Serial="1" Option="1" Drop="0"  /> <!-- Rainer -->
+		<Item Index="317" Serial="1" Option="1" Drop="0"  /> <!-- Rainer (Evolved) -->
+		<Item Index="318" Serial="1" Option="1" Drop="0"  /> <!-- Alkamo -->
+		<Item Index="319" Serial="1" Option="1" Drop="0"  /> <!-- Alkamo (Evolved) -->
+		<Item Index="320" Serial="1" Option="1" Drop="0"  /> <!-- Glacuse -->
+		<Item Index="321" Serial="1" Option="1" Drop="0"  /> <!-- Glacuse (Evolved) -->
+		<Item Index="322" Serial="1" Option="1" Drop="0"  /> <!-- Kenturion -->
+		<Item Index="323" Serial="1" Option="1" Drop="0"  /> <!-- Kenturion (Evolved) -->
+		<Item Index="324" Serial="1" Option="1" Drop="0"  /> <!-- Rocka -->
+		<Item Index="325" Serial="1" Option="1" Drop="0"  /> <!-- Rocka (Evolved) -->
+		<Item Index="326" Serial="1" Option="1" Drop="0"  /> <!-- Repen -->
+		<Item Index="327" Serial="1" Option="1" Drop="0"  /> <!-- Repen (Evolved) -->
+		<Item Index="328" Serial="1" Option="1" Drop="0"  /> <!-- Pawn -->
+		<Item Index="329" Serial="1" Option="1" Drop="0"  /> <!-- Pawn (Evolved) -->
+		<Item Index="330" Serial="1" Option="1" Drop="0"  /> <!-- Griffs -->
+		<Item Index="331" Serial="1" Option="1" Drop="0"  /> <!-- Griffs (Evolved) -->
+		<Item Index="332" Serial="1" Option="1" Drop="0"  /> <!-- Polar Bear -->
+		<Item Index="333" Serial="1" Option="1" Drop="0"  /> <!-- Polar Bear (Evolved) -->
+		<Item Index="334" Serial="1" Option="1" Drop="0"  /> <!-- Present -->
+		<Item Index="335" Serial="1" Option="1" Drop="0"  /> <!-- Present (Evolved) -->
+		<Item Index="336" Serial="1" Option="1" Drop="0"  /> <!-- Rocking Horse -->
+		<Item Index="337" Serial="1" Option="1" Drop="0"  /> <!-- Rocking Horse (Evolved) -->
+		<Item Index="338" Serial="1" Option="1" Drop="0"  /> <!-- Aries -->
+		<Item Index="339" Serial="1" Option="1" Drop="0"  /> <!-- Aries (Evolved) -->
+		<Item Index="340" Serial="1" Option="1" Drop="0"  /> <!-- Lester -->
+		<Item Index="341" Serial="1" Option="1" Drop="0"  /> <!-- Lester (Evolved) -->
+		<Item Index="342" Serial="1" Option="1" Drop="0"  /> <!-- Merino -->
+		<Item Index="343" Serial="1" Option="1" Drop="0"  /> <!-- Merino (Evolved) -->
+		<Item Index="344" Serial="1" Option="1" Drop="0"  /> <!-- Splinter -->
+		<Item Index="345" Serial="1" Option="1" Drop="0"  /> <!-- Splinter (Evolved) -->
+		<Item Index="346" Serial="1" Option="1" Drop="0"  /> <!-- Mutation -->
+		<Item Index="347" Serial="1" Option="1" Drop="0"  /> <!-- Mutation (Evolved) -->
+		<Item Index="348" Serial="1" Option="1" Drop="0"  /> <!-- Fighter -->
+		<Item Index="349" Serial="1" Option="1" Drop="0"  /> <!-- Fighter (Evolved) -->
+		<Item Index="409" Serial="1" Option="1" Drop="0"  /> <!-- Heywood -->
+		<Item Index="410" Serial="1" Option="1" Drop="0"  /> <!-- Heywood (Evolved) -->
+		<Item Index="411" Serial="1" Option="1" Drop="0"  /> <!-- Branch -->
+		<Item Index="412" Serial="1" Option="1" Drop="0"  /> <!-- Branch (Evolved) -->
+		<Item Index="413" Serial="1" Option="1" Drop="0"  /> <!-- Hook -->
+		<Item Index="414" Serial="1" Option="1" Drop="0"  /> <!-- Hook (Evolved) -->
+		<Item Index="415" Serial="1" Option="1" Drop="0"  /> <!-- Carnifle -->
+		<Item Index="416" Serial="1" Option="1" Drop="0"  /> <!-- Carnifle (Evolved) -->
+		<Item Index="417" Serial="1" Option="1" Drop="0"  /> <!-- Mandora -->
+		<Item Index="418" Serial="1" Option="1" Drop="0"  /> <!-- Mandora (Evolved) -->
+		<Item Index="419" Serial="1" Option="1" Drop="0"  /> <!-- Treat -->
+		<Item Index="420" Serial="1" Option="1" Drop="0"  /> <!-- Treat (Evolved) -->
+		<Item Index="421" Serial="1" Option="1" Drop="0"  /> <!-- Rose Spirit -->
+		<Item Index="422" Serial="1" Option="1" Drop="0"  /> <!-- Rose Spirit (Evolved) -->
+		<Item Index="423" Serial="1" Option="1" Drop="0"  /> <!-- Freesia Spirit -->
+		<Item Index="424" Serial="1" Option="1" Drop="0"  /> <!-- Freesia Spirit (Evolved) -->
+		<Item Index="425" Serial="1" Option="1" Drop="0"  /> <!-- Cherry Blossom Spirit -->
+		<Item Index="426" Serial="1" Option="1" Drop="0"  /> <!-- Cherry Blossom Spirit (Evolved) -->
+		<Item Index="427" Serial="1" Option="1" Drop="0"  /> <!-- Gigantes -->
+		<Item Index="428" Serial="1" Option="1" Drop="0"  /> <!-- Gigantes (Evolved) -->
+		<Item Index="429" Serial="1" Option="1" Drop="0"  /> <!-- Mammoth -->
+		<Item Index="430" Serial="1" Option="1" Drop="0"  /> <!-- Mammoth (Evolved) -->
+		<Item Index="431" Serial="1" Option="1" Drop="0"  /> <!-- Walker -->
+		<Item Index="432" Serial="1" Option="1" Drop="0"  /> <!-- Walker (Evolved) -->
+		<Item Index="433" Serial="1" Option="1" Drop="0"  /> <!-- Surfing Girl -->
+		<Item Index="434" Serial="1" Option="1" Drop="0"  /> <!-- Surfing Girl (Evolved) -->
+		<Item Index="435" Serial="1" Option="1" Drop="0"  /> <!-- Swim Tube Girl -->
+		<Item Index="436" Serial="1" Option="1" Drop="0"  /> <!-- Swim Tube Girl (Evolved) -->
+		<Item Index="437" Serial="1" Option="1" Drop="0"  /> <!-- Snorkeling Girl -->
+		<Item Index="438" Serial="1" Option="1" Drop="0"  /> <!-- Snorkeling Girl (Evolved) -->
+		<Item Index="439" Serial="1" Option="1" Drop="0"  /> <!-- Commander -->
+		<Item Index="440" Serial="1" Option="1" Drop="0"  /> <!-- Commander (Evolved) -->
+		<Item Index="441" Serial="1" Option="1" Drop="0"  /> <!-- Lance Soldier -->
+		<Item Index="442" Serial="1" Option="1" Drop="0"  /> <!-- Lance Soldier (Evolved) -->
+		<Item Index="443" Serial="1" Option="1" Drop="0"  /> <!-- Bow Soldier -->
+		<Item Index="444" Serial="1" Option="1" Drop="0"  /> <!-- Bow Soldier (Evolved) -->
+		<Item Index="445" Serial="1" Option="1" Drop="0"  /> <!-- Hammer -->
+		<Item Index="446" Serial="1" Option="1" Drop="0"  /> <!-- Hammer (Evolved) -->
+		<Item Index="447" Serial="1" Option="1" Drop="0"  /> <!-- Refear -->
+		<Item Index="448" Serial="1" Option="1" Drop="0"  /> <!-- Refear (Evolved) -->
+		<Item Index="449" Serial="1" Option="1" Drop="0"  /> <!-- Axer -->
+		<Item Index="450" Serial="1" Option="1" Drop="0"  /> <!-- Axer (Evolved) -->
+		<Item Index="451" Serial="1" Option="1" Drop="0"  /> <!-- Pumpkin Girl -->
+		<Item Index="452" Serial="1" Option="1" Drop="0"  /> <!-- Pumpkin Girl (Evolved) -->
+		<Item Index="453" Serial="1" Option="1" Drop="0"  /> <!-- Ghost -->
+		<Item Index="454" Serial="1" Option="1" Drop="0"  /> <!-- Ghost (Evolved) -->
+		<Item Index="455" Serial="1" Option="1" Drop="0"  /> <!-- Mummy Boy -->
+		<Item Index="456" Serial="1" Option="1" Drop="0"  /> <!-- Mummy Boy (Evolved) -->
+		<Item Index="457" Serial="1" Option="1" Drop="0"  /> <!-- Chrysanthemum -->
+		<Item Index="458" Serial="1" Option="1" Drop="0"  /> <!-- Chrysanthemum (Evolved) -->
+		<Item Index="459" Serial="1" Option="1" Drop="0"  /> <!-- Maple -->
+		<Item Index="460" Serial="1" Option="1" Drop="0"  /> <!-- Maple (Evolved) -->
+		<Item Index="461" Serial="1" Option="1" Drop="0"  /> <!-- Ginkgo -->
+		<Item Index="462" Serial="1" Option="1" Drop="0"  /> <!-- Ginkgo (Evolved) -->
+		<Item Index="463" Serial="1" Option="1" Drop="0"  /> <!-- Ghost (Evolved) -->
+		<Item Index="464" Serial="1" Option="1" Drop="0"  /> <!-- Mummy Boy (Evolved) -->
+		<Item Index="477" Serial="1" Option="1" Drop="0"  /> <!-- [PC Cafe] Aries -->
+		<Item Index="480" Serial="1" Option="1" Drop="0"  /> <!-- Toy Soldier -->
+		<Item Index="481" Serial="1" Option="1" Drop="0"  /> <!-- Toy Soldier (Evolved) -->
+		<Item Index="482" Serial="1" Option="1" Drop="0"  /> <!-- Christmas Tree -->
+		<Item Index="483" Serial="1" Option="1" Drop="0"  /> <!-- Christmas Tree (Evolved) -->
+		<Item Index="484" Serial="1" Option="1" Drop="0"  /> <!-- Snowman -->
+		<Item Index="485" Serial="1" Option="1" Drop="0"  /> <!-- Snowman (Evolved) -->
+		<Item Index="486" Serial="1" Option="1" Drop="0"  /> <!-- Busker Monkey -->
+		<Item Index="487" Serial="1" Option="1" Drop="0"  /> <!-- Busker Monkey (Evolved) -->
+		<Item Index="488" Serial="1" Option="1" Drop="0"  /> <!-- DJ Monkey -->
+		<Item Index="489" Serial="1" Option="1" Drop="0"  /> <!-- DJ Monkey (Evolved) -->
+		<Item Index="490" Serial="1" Option="1" Drop="0"  /> <!-- Space Monkey -->
+		<Item Index="491" Serial="1" Option="1" Drop="0"  /> <!-- Space Monkey (Evolved) -->
+		<Item Index="492" Serial="1" Option="1" Drop="0"  /> <!-- Little Cupid -->
+		<Item Index="493" Serial="1" Option="1" Drop="0"  /> <!-- Little Cupid (Evolved) -->
+		<Item Index="494" Serial="1" Option="1" Drop="0"  /> <!-- Chocolate Cookie -->
+		<Item Index="495" Serial="1" Option="1" Drop="0"  /> <!-- Chocolate Cookie (Evolved) -->
+		<Item Index="496" Serial="1" Option="1" Drop="0"  /> <!-- Heart Girl -->
+		<Item Index="497" Serial="1" Option="1" Drop="0"  /> <!-- Heart Girl (Evolved) -->
+		<Item Index="498" Serial="1" Option="1" Drop="0"  /> <!-- Candy Girl -->
+		<Item Index="499" Serial="1" Option="1" Drop="0"  /> <!-- Candy Girl (Evolved) -->
+		<Item Index="500" Serial="1" Option="1" Drop="0"  /> <!-- Lollipop Mama -->
+		<Item Index="501" Serial="1" Option="1" Drop="0"  /> <!-- Lollipop Mama (Evolved) -->
+		<Item Index="502" Serial="1" Option="1" Drop="0"  /> <!-- Sweet Muscle Man -->
+		<Item Index="503" Serial="1" Option="1" Drop="0"  /> <!-- Sweet Muscle Man (Evolved) -->
+	</Section>
+</ItemList>

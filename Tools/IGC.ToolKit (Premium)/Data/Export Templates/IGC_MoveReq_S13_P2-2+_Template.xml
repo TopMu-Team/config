@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<File Name="MoveReq.xml" />
+	<Comments>
+		<Head>
+<!-- 
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igc-network.com
+// == (C) 2010-2017 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == Modify if you know what you do only!
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// ### WarpSettings ###
+//	EventNotififyMoveCost: Cost in Zen of Warp via Event notification icon
+//	LorenWarpRestriction: Determines wheter to use warp index 24 with special function:
+//		0: Warp works for everybody meeting its requirements
+//		1: Warp does not work during Castle Siege event, otherwise may be used only by Castle Owners or Union Members
+//
+// ### WarpSettings::Warp ###
+//	Index: Unique warp index
+//	ServerName: Display name for purpose of Server usage
+//	ClientName: Display name for purpose of Game Client usage
+//	MinLevel: Minimum Level requires to use the warp - regular level only
+//	MaxLevel: Maximum Level allowed to use the warp - regular level only
+//	ReqMoney: Money (Zen) collected for warp usage
+//	GateNumber: Number of a Gate to use for the warp
+//
+// Gates can be checked and configured in '\Data\Warps\IGC_GateSettings.xml'
+// Gates configuration must much Game Client file \Data\Gate.bmd
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ Game Client MoveReq.bmd must much below configuration and exact order of indexes
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+		</Head>
+		<Comment ID="0">
+			<!--aaa-->
+		</Comment>
+		<Comment ID="1">
+			<!--bbb-->
+		</Comment>
+	</Comments>
+	<Element Name="WarpSettings" ConstAttributes="EventNotififyMoveCost#20000;LorenWarpRestriction#1">
+		<Element Name="Warp">
+			<Attribute Name="Index" OriginID="0" />
+			<Attribute Name="ServerName" OriginID="1" />
+			<Attribute Name="ClientName" OriginID="2" />
+			<Attribute Name="MinLevel" OriginID="4" />
+			<Attribute Name="MaxLevel" OriginID="5" />
+			<Attribute Name="ReqMoney" OriginID="3" />
+			<Attribute Name="GateNumber" OriginID="6" />
+			<Attribute Name="DifficultyOrder" OriginID="7" />
+			<Attribute Name="AlphabetOrder" OriginID="8" />
+			<Attribute Name="MonsterClassificationOrder" OriginID="9" />
+		</Element>
+	</Element>
+</ExportTemplate>

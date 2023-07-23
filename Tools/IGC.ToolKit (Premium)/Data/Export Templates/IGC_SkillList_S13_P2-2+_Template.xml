@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<File Name="SkillList.xml" />
+	<Comments>
+		<Head>
+<!-- 
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// ### SkillList::Skill ###
+//	Index: Unique index of the skill
+//	Name: Name of the skill, max 50 characters
+//	ReqLevel: Required level to use the skill
+//	Damage:
+//		~ For regular character skills is a value of damage
+//		~ For skills of index 300 and greater (up to 999) the Damage attribute is an index of formula to be used to calculate a value of skill effect, see MasterSkillPoint.lua
+//	ManaUsage: Amount of Mana skill uses
+//	BPUsage: Amount of BP skill uses
+//	Distance: Range of the skill
+//	Delay: Delay between each skill usage, milliseconds
+//	ReqEnergy: Required energy to use the skill
+//	ReqStrength: Required strength to use the skill
+//	ReqDexterity: Required agility to use the skill
+//	ReqVitality: Required vitality to use the skill
+//	ReqCommand: Required command to use the skill
+//	Element: Skill attribute:
+//		~ 0: no Elemental attribute
+//		~ 1: Fire
+//		~ 2: Water
+//		~ 3: Earth
+//		~ 4: Wind
+//		~ 5: Darkness
+//
+//	Type: Type of skill
+//	UseType: Used mostly for Skill Tree to recognize skill type
+//		~ 3: Passive
+//		~ 4: Active
+//
+//	Brand: Defines skill index the current skill is related to
+//	KillCount: Minimum Kill count required to use the skill, used within Castle Siege
+//	ReqStatus0: Required Guild master rank to use skill within Castle Siege, 0/1
+//	ReqStatus1: Required Assistant rank to use the skill  within Castle Siege, 0/1
+//	ReqStatus2: Required Battle Master Rank to use the skill within Castle Siege, 0/1
+//	DarkWizard: Determines whether to allow Dark Wizard and his evolutions to use the skill, 0/1/2/3/4
+//	DarkKnight: Determines whether to allow Dark Knight and his evolutions to use the skill, 0/1/2/3/4
+//	FairyElf: Determines whether to allow Fairy Elf and her evolutions to use the skill, 0/1/2/3/4
+//	MagicGladiator: Determines whether to allow Magic Gladiator and his evolutions to use the skill, 0/1/3/4
+//	DarkLord: Determines whether to allow Dark Lord and his evolutions to use the skill, 0/1/3/4
+//	Summoner: Determines whether to allow Summoner and her evolutions to use the skill, 0/1/2/3/4
+//	RageFighter: Determines whether to allow Rage Fighter and his evolutions to use the skill, 0/1/3/4
+//	GrowLancer: Determines whether to allow Grow Lancer and her evolutions to use the skill, 0/1/3/4
+//	Rank: Rank of the skill
+//	Group: Group of the skill
+//	Duration: Duration of skill effect, used mostly for buffs, seconds
+//	IconNumber: Not in use by server
+//	ItemSkill: Allows to determine whether if skill is item skill, mean it is coming only with specified type of item, 0/1
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ If ItemSkill is set to 1 then skill index must be configured for Skill column in IGC_ItemList.xml
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+//	isDamage: Not in use at the moment
+//	BuffIndex: Not in use at the moment
+//	StatType1:
+//		~ -1: None
+//		~ 1: Strength
+//		~ 2: Agility
+//		~ 3: Energy
+//		~ 4: Vitality
+//		~ 5: Command
+//	StatValue1: Division value for stat specialization 1
+//	StatType2: 
+//		~ -1: None
+//		~ 1: Strength
+//		~ 2: Agility
+//		~ 3: Energy
+//		~ 4: Vitality
+//		~ 5: Command
+//	StatValue2: Division value for stat specialization 2
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ Each skill may have two specialized stats, formula is as follows:
+//~~ 			PlusSkillValue = CharacterStat / StatValueX
+//~~			DamageMax = DamageMax + PlusSkillValue * 1.5;
+//~~			DamageMin = DamageMin + PlusSkillValue;
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~		
+//	ImprintValue: Value of elemental imprint used as multiplier to calculate additional damage power of a skill
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//	
+//	AddDamage: Increases chance of additional damage when enabled, see IGC_SkillSettings.ini: AdditionalDamageChanceRatePlus, 0/1
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+		</Head>
+		<Comment ID="0">
+			<!--aaa-->
+		</Comment>
+		<Comment ID="1">
+			<!--bbb-->
+		</Comment>
+	</Comments>
+	<Element Name="SkillList">
+			<Element Name="Skill">
+				<Attribute Name="Index" OriginID="0" />
+				<Attribute Name="Name" OriginID="1" />
+				<Attribute Name="ReqLevel" OriginID="2" />
+				<Attribute Name="Damage" OriginID="3" />
+				<Attribute Name="ManaUsage" OriginID="4" />
+				<Attribute Name="BPUsage" OriginID="5" />
+				<Attribute Name="Distance" OriginID="6" />
+				<Attribute Name="Delay" OriginID="7" />
+				<Attribute Name="ReqEnergy" OriginID="8" />
+				<Attribute Name="ReqStrength" OriginID="9" />
+				<Attribute Name="ReqDexterity" OriginID="10" />
+				<Attribute Name="ReqCommand" OriginID="11" />
+				<Attribute Name="ReqVitality" OriginID="12" />
+				<Attribute Name="Element" OriginID="13" />
+				<Attribute Name="Type" OriginID="46" />
+				<Attribute Name="UseType" OriginID="15" />
+				<Attribute Name="Brand" OriginID="16" />
+				<Attribute Name="KillCount" OriginID="17" />
+				<Attribute Name="ReqStatus0" OriginID="18" />
+				<Attribute Name="ReqStatus1" OriginID="19" />
+				<Attribute Name="ReqStatus2" OriginID="20" />
+				<Attribute Name="DarkWizard" OriginID="21" />
+				<Attribute Name="DarkKnight" OriginID="22" />
+				<Attribute Name="FairyElf" OriginID="23" />
+				<Attribute Name="MagicGladiator" OriginID="24" />
+				<Attribute Name="DarkLord" OriginID="25" />
+				<Attribute Name="Summoner" OriginID="26" />
+				<Attribute Name="RageFighter" OriginID="27" />
+				<Attribute Name="GrowLancer" OriginID="28" />
+				<Attribute Name="Rank" OriginID="29" />
+				<Attribute Name="Group" OriginID="30" />
+				<Attribute Name="Duration" OriginID="32" />
+				<Attribute Name="IconNumber" OriginID="35" />
+				<Attribute Name="ItemSkill" OriginID="37" />
+				<Attribute Name="isDamage" OriginID="38" />
+				<Attribute Name="BuffIndex" OriginID="39" />
+				<Attribute Name="StatType1" OriginID="46" />
+				<Attribute Name="StatValue1" OriginID="47" />
+				<Attribute Name="StatType2" OriginID="48" />
+				<Attribute Name="StatValue2" OriginID="49" />
+				<Attribute Name="ImprintValue" OriginID="50" />
+				<Attribute Name="AddDamage" OriginID="51" />
+			</Element>
+	</Element>
+</ExportTemplate>

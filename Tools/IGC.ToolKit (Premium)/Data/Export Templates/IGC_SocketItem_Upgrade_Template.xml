@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<Comments>
+		<Head>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010-2016 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//	
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+		</Head>
+		<Comment ID="0">
+			<!--aaa-->
+		</Comment>
+		<Comment ID="1">
+			<!--bbb-->
+		</Comment>
+	</Comments>
+	<Element Name="SocketItemUpgrade">
+		<Element Name="CombinationMaterials">
+			<Element Name="Combination" OriginID="0">
+				<Attribute Name="ID" OriginID="0" />
+				<Attribute Name="ItemCat" OriginID="1" />
+				<Attribute Name="ItemIndex" OriginID="2" />
+				<Attribute Name="ItemMinLevel" OriginID="3" />
+				<Attribute Name="ItemMaxLevel" OriginID="4" />
+				<Attribute Name="ReqSkill" OriginID="5" />
+				<Attribute Name="ReqOption" OriginID="6" />
+				<Attribute Name="ReqLuck" OriginID="7" />
+				<Attribute Name="MinSocketCount" OriginID="8" />
+				<Attribute Name="ReqMoney" OriginID="9" />
+				<Attribute Name="SuccessRate" OriginID="10" />
+			</Element>
+		</Element>
+		<Element Name="CombinationRequirements">
+			<Element Name="Combination" OriginID="1">
+				<Attribute Name="StartID" OriginID="0" />
+				<Attribute Name="EndID" OriginID="1" />
+				<Attribute Name="ItemCat" OriginID="2" />
+				<Attribute Name="ItemIndex" OriginID="3" />
+				<Attribute Name="ItemCheckType" DefaultValue="1" />
+				<Attribute Name="ItemCount" OriginID="6" />
+			</Element>
+		</Element>
+		<Element Name="CombinationResult">
+			<Element Name="Combination" OriginID="2">
+				<Attribute Name="ID" OriginID="0" />
+				<Attribute Name="ItemCat" OriginID="2" />
+				<Attribute Name="ItemIndex" OriginID="3" />
+				<Attribute Name="ItemLevel" OriginID="4" />
+				<Attribute Name="Skill" OriginID="5" />
+				<Attribute Name="SkillRate" OriginID="6" />
+				<Attribute Name="Luck" OriginID="7" />
+				<Attribute Name="LuckRate" OriginID="8" />
+				<Attribute Name="KeepSockets" OriginID="9" />
+				<Attribute Name="SlotRate1" OriginID="10" />
+				<Attribute Name="SlotRate2" OriginID="11" />
+				<Attribute Name="SlotRate3" OriginID="12" />
+				<Attribute Name="SlotRate4" OriginID="13" />
+				<Attribute Name="SlotRate5" OriginID="14" />
+			</Element>
+		</Element>
+	</Element>
+</ExportTemplate>

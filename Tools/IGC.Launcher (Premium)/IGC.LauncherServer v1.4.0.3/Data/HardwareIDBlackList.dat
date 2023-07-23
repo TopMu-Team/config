@@ -1,0 +1,10 @@
+// Any HWIDs added to this file will not be able to connect to LauncherServer
+// NOTE: Applies to Launcher connections only, not Client connection
+// NOTE: launcher will send XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX hardware id in case that there was an error while trying to generate hardware id on player PC
+// NOTE: Records are written to this file only after LauncherServer is closed, not on real time
+// 1 HWID entry = 1 Line
+// "_" = any value
+// Examples:
+// 1057-4E4B-5E3C-A0FD-545F-C6B9-6D4B-30F9
+// 1057-4E4B-5E3C-A0FD-____-C6B9-6D4B-30F9
+// 1057-____-5E3C-A0FD-____-C6B9-6D__-30F9

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<EventTypes>
+  <Event Index="0" Name="Ribbon Box" />
+	<Event Index="1" Name="Chockolate Box" />
+	<Event Index="2" Name="Candy Box" />
+	<Event Index="3" Name="Christmas Star" />
+	<Event Index="4" Name="Firecracker" />
+	<Event Index="5" Name="Heart of Love" />
+	<Event Index="6" Name="Medals" />
+	<Event Index="7" Name="Halloween" />
+	<Event Index="8" Name="Cherry Blossom" />
+	<Event Index="9" Name="Lucky Coin" />
+	<Event Index="10" Name="Star of Christmas" />
+	<Event Index="11" Name="Sealed Box" />
+	<Event Index="12" Name="Card Deck" />
+	<Event Index="13" Name="Summon Scroll" />
+	<Event Index="14" Name="Evolution Monster" />
+  <Event Index="15" Name="Remedy of Love" />
+  <Event Index="16" Name="Gem of Secret" />
+  <Event Index="17" Name="Unused" />
+  <Event Index="18" Name="Elemental Symbol" />
+  <Event Index="19" Name="Magic Solution" />
+</EventTypes>

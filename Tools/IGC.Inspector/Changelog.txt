@@ -1,0 +1,100 @@
+[v2.0.3.6]
+	-> [FIX] issue with restore/hide .NET applications ("G" window is shown)
+	-> [MOD] warning message if running IGC.Inspector multiple times
+
+[v2.0.3.5]
+	-> [FIX] issue with restore/hide .NET applications
+
+[v2.0.3.4]
+	-> [FIX] attempt to fix "auto update helper" resources error
+
+[v2.0.3.3]
+	-> [MOD] all Windows of process will be hidden/shown, not only MainWindow (resolve issue with restoing already hidden process by Inspector was killed/crashed abnormally)
+
+[v2.0.3.2]
+	-> [MOD] minor performace/monitoring improvements
+	-> [ADD] option to specify custom title in tray icon (see configs page)
+
+[v2.0.3.1]
+	-> [FIX] possible crashes in different scenarios
+	-> [MOD] improved start speed in case of monitored application already running
+
+[v2.0.3.0]
+	-> [NEW] option to specify weekly scheduled restart per app
+
+[v2.0.2.1]
+	-> [FIX] Unable to connect to secondary authentication server (which results in "no license found" popup)
+
+[v2.0.2.0]
+	-> [NEW] option to start all monitored applications in Hidden state (and Restore All or Hide All after inspector is running)
+	-> [NEW] Process Resource Monitoring: monitor GS/CS/DS CPU/memory usage + email notification on limit + automatic restart
+	-> [MOD] improved protection on password fields (now even if someone copy your config files to other location he wont be able to use the passwords)
+	-> [FIX] critical bugs and crashes
+	
+[v2.0.1.0]
+** Compatible with server files verison 9.5.1.16 and 9.5.1.48 and newer ***
+	-> [FIX] sometimes inspector continue operation after "stop" request
+	-> [FIX] sometimes notifications show on top of each other
+	-> [ADD] E-Mail Notification System (based on connection to SMTP server)
+	-> [ADD] ChatServer and LauncherServer app types
+	-> [ADD] Feature: Restart ChatServer following DataServer restart (on/off)
+	-> [ADD] Feature: Restart LauncherServer following ConnectServer restart (on/off)
+	-> [ADD] Monitor Status Viewer (while inspector is running) -> right click on tray icon -> 'Monitor Status Viewer'
+	-> [ADD] Possiblity to pause/resume monitoring of apps and restarting response and restart timers (Monitor Status Viewer)
+
+[v2.0.0.2]
+	-> [FIX] MaxInitTime and MaxCloseTime not saved upon exit
+	-> [FIX] crash on open in some PCs
+
+[v2.0.0.1]
+	-> [MOD] changed file browsing to Double Mouse Click
+
+[v2.0.0.0]
+	-> [MOD] UI: completely redesigned the application
+	-> [MOD] General: completely rewritten the application
+	-> [MOD] possbility to assign groups to applications for the use of Chain Restart
+	-> [MOD] extended previous features to be able to set per-app and not general option
+	-> [ADD] General (non CS,DS, or GS app) app type
+	-> [ADD] you can add unlimited number of apps
+	-> [MOD] you can add apps with the same base name (different folders)
+[v1.3.2.1]
+	-> [MOD] extended time for waiting for process to recover from "not responding" state from 20 to 60 seconds
+	-> [ADD] CrashLog.log file will be created in case of Inspector crash
+
+[v1.3.2.0]
+	-> [FIX] sometimes inspector crashes after DS close
+	-> [FIX] sometimes inspector sometimes is not closing non-responsive process
+	-> [MOD] monitoring process is now working on seperate thread, which means you can stop or close inspector even while its in middle of processing something
+	-> [ADD] open each EXE with different user credintials (username, password, domain) - leave all empty if running under the same operating OS account and not requiring special users
+	-> [ADD] set additional arguments for each EXE
+
+[v1.3.1.1]:
+	-> Fixed mistake
+
+[v1.3.1.0]:
+	-> Added option to set Restart Interval for each exe
+
+[v1.3.0.0]:
+	-> 90% of code has been rewritten. inspector is now more stable, effecient and less resource consuming.
+	* note: might be some bugs or crashes because of new code used.
+
+[v1.2.2.9]:
+	-> stability and performace improvements
+
+[v1.2.2.8]:
+	-> More bugfixes
+
+[v1.2.2.5]:
+	-> Fixed a bug when sometimes inspector would run same application multiple times
+	-> Fixed a bug when sometimes inspector would fail to kill a process correctly
+	-> More info will be written to log
+
+[v1.2.2.2]:
+	-> Bigfix
+
+[v1.2.2.1]:
+	-> Fixed some mistakes
+
+[v1.2.2.0]:
+	-> Added possiblity to start Inspector silently
+	-> Added possiblity to set manuall delays of EXEs starts

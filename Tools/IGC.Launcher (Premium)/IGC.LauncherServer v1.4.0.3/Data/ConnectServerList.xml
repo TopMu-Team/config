@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+Explanation:
+Any record added to this file represents a ConnectServer connection, and a Server pointer which will be used for directing the connecting client to the requested server.
+"HashAddressSuffix" and "PatchesAddressSuffix" Values on "Server" record represents the additional values to append to your Patches and HashCheck Addresses that are sent to launcher for Client Update, Launcher Update, and HashCheck systems.
+ 	For exame, if my base Launcher address for Patches is "ftp://daniel.myftphost.com/Patches/", and my player chose "Server0" from servers list on Settings form in Launcher, and i have set "Server0" PatchesAddressSuffix to "HighExp/" then launcher will download Patches from address: "ftp://daniel.myftphost.com/Patches/HighExp/"
+
+NOTES: 
+~ The ID value of the server must match the ID for that same server which was added to "Settings" file using Launcher Management Tools
+~ Any ConnectServer added to this file MUST HAVE ACTIVE LAUNCHER LICENSE
+~ Database ID must NOT repeat itself on whole file !
+~ The connected client will be directed to the correct ConnectServer based on the player's chosen server from Server List on Launcher Settings form
+~ **************** For this featue to work you must enable ConnectServerProxy in config.ini file ! *********************
+
+Examples:
+
+=============================
+~Multi server setup (3 Main Servers, two running on local machine, the other on remote machine)
+	<ConnectServer IP="127.0.0.1" Port="44407">
+		<Server ID="0" Name="Local (First MainServer)" HashAddressSuffix="LowExp/" PatchesAddressSuffix="LowExp/" />
+		<Server ID="1" Name="Local (Second MainServer)" HashAddressSuffix="HighExp/" PatchesAddressSuffix="HighExp/" />
+	</ConnectServer>
+	<ConnectServer IP="88.88.88.88" Port="44407">
+		<Server ID="2" Name="Remote (Third MainServer)" HashAddressSuffix="ExtremeExp/" PatchesAddressSuffix="ExtremeExp/" />
+	</ConnectServer>
+=============================
+~Multi server setup (2 Main Servers running on local machine)
+	<ConnectServer IP="127.0.0.1" Port="44407">
+		<Server ID="0" Name="Local (First MainServer)" HashAddressSuffix="LowExp/" PatchesAddressSuffix="LowExp/" />
+		<Server ID="1" Name="Local (Second MainServer)" HashAddressSuffix="HighExp/" PatchesAddressSuffix="HighExp/" />
+	</ConnectServer>
+=============================
+~Normal server setup (1 Main Server running on local machine)
+	<ConnectServer IP="127.0.0.1" Port="44407">
+		<Server ID="0" Name="Local (MainServer)" HashAddressSuffix="" PatchesAddressSuffix="" />
+	</ConnectServer>
+  =============================
+~Normal server setup (1 Main Server running on local machine), while using Hash system to support multiple client languanges
+	<ConnectServer IP="127.0.0.1" Port="44407">
+		<Server ID="0" Name="Local (MainServer) - Eng" HashAddressSuffix="Eng/" PatchesAddressSuffix="" />
+    <Server ID="1" Name="Local (MainServer) - Spn" HashAddressSuffix="Spn/" PatchesAddressSuffix="" />
+    <Server ID="2" Name="Local (MainServer) - Por" HashAddressSuffix="Por/" PatchesAddressSuffix="" />
+	</ConnectServer>
+=============================
+
+-->
+
+<ConnectSevers>
+	<ConnectServer IP="127.0.0.1" Port="44407">
+		<Server ID="0" Name="Local (MainServer)" HashAddressSuffix="" PatchesAddressSuffix="" />
+	</ConnectServer>
+</ConnectSevers>

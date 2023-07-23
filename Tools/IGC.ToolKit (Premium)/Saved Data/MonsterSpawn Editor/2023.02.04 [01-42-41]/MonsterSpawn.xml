@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<MonsterSpawn>
+	<Map Number="134" Name="Ashy Aida">
+		<Spot Type="3" Description="Elemental Monster Spawn">
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="170" StartY="54" EndX="170" EndY="54" Dir="-1" Count="8" Element="3" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="187" StartY="85" EndX="187" EndY="85" Dir="-1" Count="8" Element="3" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="199" StartY="130" EndX="199" EndY="130" Dir="-1" Count="8" Element="3" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="201" StartY="154" EndX="201" EndY="154" Dir="-1" Count="8" Element="3" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="170" StartY="149" EndX="170" EndY="149" Dir="-1" Count="8" Element="3" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="166" StartY="108" EndX="166" EndY="108" Dir="-1" Count="8" Element="3" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="30" StartY="83" EndX="30" EndY="83" Dir="-1" Count="8" Element="1" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="48" StartY="70" EndX="48" EndY="70" Dir="-1" Count="8" Element="1" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="66" StartY="58" EndX="66" EndY="58" Dir="-1" Count="8" Element="1" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="48" StartY="41" EndX="48" EndY="41" Dir="-1" Count="8" Element="1" />
+			<!--(875) Ashy Destry [Lv.550]-->
+			<Spawn Index="875" Distance="4" StartX="79" StartY="42" EndX="79" EndY="42" Dir="-1" Count="8" Element="1" />
+			<!--(876) Ashy Forest Oak [Lv.555]-->
+			<Spawn Index="876" Distance="4" StartX="133" StartY="169" EndX="133" EndY="169" Dir="-1" Count="8" Element="4" />
+			<!--(876) Ashy Forest Oak [Lv.555]-->
+			<Spawn Index="876" Distance="4" StartX="144" StartY="133" EndX="144" EndY="133" Dir="-1" Count="8" Element="4" />
+			<!--(876) Ashy Forest Oak [Lv.555]-->
+			<Spawn Index="876" Distance="4" StartX="118" StartY="113" EndX="118" EndY="113" Dir="-1" Count="8" Element="4" />
+			<!--(876) Ashy Forest Oak [Lv.555]-->
+			<Spawn Index="876" Distance="4" StartX="148" StartY="105" EndX="148" EndY="105" Dir="-1" Count="8" Element="4" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="240" StartY="53" EndX="240" EndY="53" Dir="-1" Count="8" Element="5" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="214" StartY="27" EndX="214" EndY="27" Dir="-1" Count="8" Element="5" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="182" StartY="20" EndX="182" EndY="20" Dir="-1" Count="8" Element="5" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="191" StartY="53" EndX="191" EndY="53" Dir="-1" Count="8" Element="5" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="242" StartY="104" EndX="242" EndY="104" Dir="-1" Count="8" Element="5" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="221" StartY="82" EndX="221" EndY="82" Dir="-1" Count="8" Element="5" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="127" StartY="84" EndX="127" EndY="84" Dir="-1" Count="8" Element="4" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="145" StartY="74" EndX="145" EndY="74" Dir="-1" Count="8" Element="4" />
+			<!--(877) Tashy Deathrider [Lv.555]-->
+			<Spawn Index="877" Distance="4" StartX="74" StartY="18" EndX="74" EndY="18" Dir="-1" Count="8" Element="1" />
+			<!--(878) Ashy Witch Queen [Lv.560]-->
+			<Spawn Index="878" Distance="4" StartX="110" StartY="92" EndX="110" EndY="92" Dir="-1" Count="8" Element="2" />
+			<!--(878) Ashy Witch Queen [Lv.560]-->
+			<Spawn Index="878" Distance="4" StartX="118" StartY="62" EndX="118" EndY="62" Dir="-1" Count="8" Element="2" />
+			<!--(878) Ashy Witch Queen [Lv.560]-->
+			<Spawn Index="878" Distance="4" StartX="89" StartY="71" EndX="89" EndY="71" Dir="-1" Count="8" Element="2" />
+			<!--(878) Ashy Witch Queen [Lv.560]-->
+			<Spawn Index="878" Distance="4" StartX="92" StartY="115" EndX="92" EndY="115" Dir="-1" Count="8" Element="2" />
+			<!--(878) Ashy Witch Queen [Lv.560]-->
+			<Spawn Index="878" Distance="4" StartX="70" StartY="88" EndX="70" EndY="88" Dir="-1" Count="8" Element="2" />
+			<!--(878) Ashy Witch Queen [Lv.560]-->
+			<Spawn Index="878" Distance="4" StartX="69" StartY="142" EndX="69" EndY="142" Dir="-1" Count="8" Element="2" />
+		</Spot>
+	</Map>
+</MonsterSpawn>

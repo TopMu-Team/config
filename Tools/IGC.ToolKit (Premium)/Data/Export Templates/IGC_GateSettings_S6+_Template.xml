@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<File Name="GateSettings.xml" />
+	<Comments>
+		<Head>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igc-network.com
+// == (C) 2010-2015 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == Modify if you know what you do only!
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// ### GateSettings::Gate ###
+//	Index: Unique Index of Gate
+//	Flag: Used to determine Warp type
+//		~ 0: Used to one time warp to specified location, usually 'M' Warp Menu
+//		~ 1: Used to configure moving to defined location with intention of a way back (e.g. moves between Lorencia and Devias)
+//		~ 2: Used to configure a return move for Gate of Flag 1
+//	MapNumber: For Gate of Flag 0 MapNumber is destination Map after warping, for Flags 1 and 2 it is initial Map the Warp is occurring from
+//	StartX: Start X Coordinate of spawn area after warping
+//	StartY: Start Y Coordinate of spawn area after warping
+//	EndX: End X Coordinate of spawn area after warping
+//	EndY: End Y Coordinate of spawn area after warping
+//	Target: For Gate of Flag type 0 target is always 0, for Flags 1 and 2 it is destination Map after warping
+//	Direction: Direction character look at after warping:
+//		~ 1: South-West
+//		~ 2: South
+//		~ 3: South-East
+//		~ 4: East
+//		~ 5: North-East
+//		~ 6: North
+//		~ 7: North-West
+//		~ 8: West
+//		~ -1: Central
+//	MinLevel: Minimum Level required to use the Gate - Regular Level only
+//	Name: Name of the Gate, used for in-file description only
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+		</Head>
+	</Comments>
+	<Element Name="GateSettings">
+		<Element Name="Gate">
+			<Attribute Name="Index" OriginID="0" />
+			<Attribute Name="Flag" OriginID="1" />
+			<Attribute Name="MapNumber" OriginID="2" />
+			<Attribute Name="StartX" OriginID="3" />
+			<Attribute Name="StartY" OriginID="4" />
+			<Attribute Name="EndX" OriginID="5" />
+			<Attribute Name="EndY" OriginID="6" />
+			<Attribute Name="Target" OriginID="7" />
+			<Attribute Name="Direction" OriginID="8" />
+			<Attribute Name="MinLevel" OriginID="9" />
+			<Attribute Name="Name" DefaultValue="" />
+		</Element>
+	</Element>
+</ExportTemplate>

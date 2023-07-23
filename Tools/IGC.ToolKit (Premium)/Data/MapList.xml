@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapList>
+  <Map Number="0" Resource="EncTerrain1" Name="Lorencia" />
+  <Map Number="1" Resource="EncTerrain2" Name="Dungeon" />
+  <Map Number="2" Resource="EncTerrain3" Name="Devias" />
+  <Map Number="3" Resource="EncTerrain4" Name="Noria" />
+  <Map Number="4" Resource="EncTerrain5" Name="Lost Tower" />
+  <Map Number="5" Resource="Null" Name="(5) Null" />
+  <Map Number="6" Resource="EncTerrain7" Name="Arena" />
+  <Map Number="7" Resource="EncTerrain8" Name="Atlans" />
+  <Map Number="8" Resource="EncTerrain9" Name="Tarkan" />
+  <Map Number="9" Resource="EncTerrain10" Name="Devil Square 1 - 4" />
+  <Map Number="10" Resource="EncTerrain11" Name="Icarus" />
+  <Map Number="11" Resource="EncTerrain12" Name="Blood Castle 1" />
+  <Map Number="12" Resource="EncTerrain12" Name="Blood Castle 2" />
+  <Map Number="13" Resource="EncTerrain12" Name="Blood Castle 3" />
+  <Map Number="14" Resource="EncTerrain12" Name="Blood Castle 4" />
+  <Map Number="15" Resource="EncTerrain12" Name="Blood Castle 5" />
+  <Map Number="16" Resource="EncTerrain12" Name="Blood Castle 6" />
+  <Map Number="17" Resource="EncTerrain12" Name="Blood Castle 7" />
+  <Map Number="18" Resource="EncTerrain19" Name="Chaos Castle 1" />
+  <Map Number="19" Resource="EncTerrain19" Name="Chaos Castle 2" />
+  <Map Number="20" Resource="EncTerrain19" Name="Chaos Castle 3" />
+  <Map Number="21" Resource="EncTerrain19" Name="Chaos Castle 4" />
+  <Map Number="22" Resource="EncTerrain19" Name="Chaos Castle 5" />
+  <Map Number="23" Resource="EncTerrain19" Name="Chaos Castle 6" />
+  <Map Number="24" Resource="EncTerrain25" Name="Kalima 1" />
+  <Map Number="25" Resource="EncTerrain25" Name="Kalima 2" />
+  <Map Number="26" Resource="EncTerrain25" Name="Kalima 3" />
+  <Map Number="27" Resource="EncTerrain25" Name="Kalima 4" />
+  <Map Number="28" Resource="EncTerrain25" Name="Kalima 5" />
+  <Map Number="29" Resource="EncTerrain25" Name="Kalima 6" />
+  <Map Number="30" Resource="EncTerrain31" Name="Valley Of Loren" />
+  <Map Number="31" Resource="EncTerrain32" Name="Land Of Trials" />
+  <Map Number="32" Resource="EncTerrain10" Name="Devil Square 5 - 8" />
+  <Map Number="33" Resource="EncTerrain34" Name="Aida" />
+  <Map Number="34" Resource="EncTerrain35" Name="Crywolf" />
+  <Map Number="35" Resource="Null" Name="(35) Null" />
+  <Map Number="36" Resource="EncTerrain25" Name="Kalima 7" />
+  <Map Number="37" Resource="EncTerrain38" Name="Kanturu" />
+  <Map Number="38" Resource="EncTerrain39" Name="Kanturu Ruins" />
+  <Map Number="39" Resource="EncTerrain40" Name="Kanturu Refinery Tower" />
+  <Map Number="40" Resource="EncTerrain41" Name="Silent Map" />
+  <Map Number="41" Resource="EncTerrain42" Name="Balgass Barracks" />
+  <Map Number="42" Resource="EncTerrain43" Name="Balgass Refuge" />
+  <Map Number="43" Resource="Null" Name="(43) Null" />
+  <Map Number="44" Resource="Null" Name="(44) Null" />
+  <Map Number="45" Resource="EncTerrain47" Name="Illusion Temple 1" />
+  <Map Number="46" Resource="EncTerrain47" Name="Illusion Temple 2" />
+  <Map Number="47" Resource="EncTerrain47" Name="Illusion Temple 3" />
+  <Map Number="48" Resource="EncTerrain47" Name="Illusion Temple 4" />
+  <Map Number="49" Resource="EncTerrain47" Name="Illusion Temple 5" />
+  <Map Number="50" Resource="EncTerrain47" Name="Illusion Temple 6" />
+  <Map Number="51" Resource="EncTerrain52" Name="Elbeland" />
+  <Map Number="52" Resource="EncTerrain12" Name="Blood Castle 8" />
+  <Map Number="53" Resource="EncTerrain19" Name="Chaos Castle 7" />
+  <Map Number="54" Resource="Null" Name="(54) Null" />
+  <Map Number="55" Resource="Null" Name="(54) Null" />
+  <Map Number="56" Resource="EncTerrain57" Name="Swamp Of Calmness" />
+  <Map Number="57" Resource="EncTerrain58" Name="Raklion" />
+  <Map Number="58" Resource="EncTerrain59" Name="Raklion Hatchery" />
+  <Map Number="59" Resource="Null" Name="(59) Null" />
+  <Map Number="60" Resource="Null" Name="(60) Null" />
+  <Map Number="61" Resource="Null" Name="(61) Null" />
+  <Map Number="62" Resource="EncTerrain63" Name="Santa Village" />
+  <Map Number="63" Resource="EncTerrain64" Name="Vulcanus" />
+  <Map Number="64" Resource="EncTerrain65" Name="Duel Arena" />
+  <Map Number="65" Resource="EncTerrain66" Name="Doppelganger Snow" />
+  <Map Number="66" Resource="EncTerrain67" Name="Doppelganger Vulcan" />
+  <Map Number="67" Resource="EncTerrain68" Name="Doppelganger Sea" />
+  <Map Number="68" Resource="EncTerrain69" Name="Doppelganger Crystals" />
+  <Map Number="69" Resource="EncTerrain70" Name="ImperialGuardian 1" />
+  <Map Number="70" Resource="EncTerrain71" Name="ImperialGuardian 2" />
+  <Map Number="71" Resource="EncTerrain72" Name="ImperialGuardian 3" />
+  <Map Number="72" Resource="EncTerrain73" Name="ImperialGuardian 4" />
+  <Map Number="73" Resource="EncTerrain74" Name="(73) Null" />
+  <Map Number="74" Resource="EncTerrain75" Name="(74) Null" />
+  <Map Number="75" Resource="Null" Name="(75) Null" />
+  <Map Number="76" Resource="Null" Name="(76) Null" />
+  <Map Number="77" Resource="Null" Name="(77) Null" />
+  <Map Number="78" Resource="Null" Name="(78) Null" />
+  <Map Number="79" Resource="EncTerrain80" Name="Loren Market" />
+  <Map Number="80" Resource="EncTerrain81" Name="Karutan 1" />
+  <Map Number="81" Resource="EncTerrain82" Name="Karutan 2" />
+  <Map Number="82" Resource="EncTerrain83" Name="Doppelganger Renewal" />
+  <Map Number="83" Resource="Null" Name="(83) Null" />
+  <Map Number="84" Resource="Null" Name="(84) Null" />
+  <Map Number="85" Resource="Null" Name="(85) Null" />
+  <Map Number="86" Resource="Null" Name="(86) Null" />
+  <Map Number="87" Resource="Null" Name="(87) Null" />
+  <Map Number="88" Resource="Null" Name="(88) Null" />
+  <Map Number="89" Resource="Null" Name="(89) Null" />
+  <Map Number="90" Resource="Null" Name="(90) Null" />
+  <Map Number="91" Resource="EncTerrain92" Name="Acheron" />
+  <Map Number="92" Resource="EncTerrain92" Name="Arka War" />
+  <Map Number="93" Resource="EncTerrain94" Name="(93) Null" />
+  <Map Number="94" Resource="EncTerrain95" Name="(94) Null" />
+  <Map Number="95" Resource="EncTerrain96" Name="Debenter" />
+  <Map Number="96" Resource="EncTerrain96" Name="Arca Battle" />
+  <Map Number="97" Resource="EncTerrain19" Name="Chaos Castle Survival" />
+  <Map Number="98" Resource="EncTerrain99" Name="Illussion Temple League 1" />
+  <Map Number="99" Resource="EncTerrain99" Name="Illussion Temple League 2" />
+  <Map Number="100" Resource="EncTerrain101" Name="Urk Montain 1" />
+  <Map Number="101" Resource="EncTerrain101" Name="Urk Montain 2" />
+  <Map Number="102" Resource="EncTerrain103" Name="Tormented Square of the Fittest" />
+  <Map Number="103" Resource="EncTerrain103" Name="Tormented Square 1" />
+  <Map Number="104" Resource="EncTerrain103" Name="Tormented Square 2" />
+  <Map Number="105" Resource="EncTerrain103" Name="Tormented Square 3" />
+  <Map Number="106" Resource="EncTerrain103" Name="Tormented Square 4" />
+  <Map Number="107" Resource="Null" Name="(107) Null" />
+  <Map Number="108" Resource="Null" Name="(108) Null" />
+  <Map Number="109" Resource="Null" Name="(109) Null" />
+  <Map Number="110" Resource="EncTerrain111" Name="Nars" />
+  <Map Number="111" Resource="Null" Name="(111) Null" />
+  <Map Number="112" Resource="EncTerrain113" Name="Ferea" />
+  <Map Number="113" Resource="EncTerrain114" Name="Nixie Lake" />
+  <Map Number="114" Resource="EncTerrain115" Name="Labyrinth Entrance" />
+  <Map Number="115" Resource="EncTerrain116" Name="Labyrinth" />
+  <Map Number="116" Resource="EncTerrain117" Name="DeepDungeon 1" />
+  <Map Number="117" Resource="EncTerrain118" Name="DeepDungeon 2" />
+  <Map Number="118" Resource="EncTerrain119" Name="DeepDungeon 3" />
+  <Map Number="119" Resource="EncTerrain120" Name="DeepDungeon 4" />
+  <Map Number="120" Resource="EncTerrain121" Name="DeepDungeon 5" />
+  <Map Number="121" Resource="EncTerrain122" Name="4th Quest" />
+  <Map Number="122" Resource="EncTerrain123" Name="Swamp Of Darkness" />
+  <Map Number="123" Resource="EncTerrain124" Name="Kubera Mine Area 1" />
+  <Map Number="124" Resource="EncTerrain124" Name="Kubera Mine Area 2" />
+  <Map Number="125" Resource="EncTerrain124" Name="Kubera Mine Area 3" />
+  <Map Number="126" Resource="EncTerrain124" Name="Kubera Mine Area 4" />
+  <Map Number="127" Resource="EncTerrain124" Name="Kubera Mine Area 5" />
+  <Map Number="128" Resource="EncTerrain129" Name="Abyss Of Atlas 1" />
+  <Map Number="129" Resource="EncTerrain130" Name="Abyss Of Atlas 2" />
+  <Map Number="130" Resource="EncTerrain131" Name="Abyss Of Atlas 3" />
+  <Map Number="131" Resource="EncTerrain132" Name="Scorched Canyon" />
+  <Map Number="132" Resource="EncTerrain133" Name="Red Smoke Icarus" />
+  <Map Number="133" Resource="EncTerrain134" Name="Arenil Temple" />
+  <Map Number="134" Resource="EncTerrain135" Name="Ashy Aida" />
+  <Map Number="135" Resource="EncTerrain136" Name="Old Kethotum" />
+  <Map Number="136" Resource="EncTerrain137" Name="Blaze Kethotum" />
+  <Map Number="137" Resource="EncTerrain138" Name="Kanturu Undergrounds" />
+</MapList>

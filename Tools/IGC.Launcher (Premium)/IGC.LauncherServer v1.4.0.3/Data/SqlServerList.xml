@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+Explanation:
+Any record added to this file represents a SQL server connection, and a Database pointer which will be used for Launcher Account Registration system and Account Password Change system.
+
+NOTES: 
+~ The database which will be used for the Account Registration or Password Change will be for the same Server which your player selected on Launcher "Settings" form.
+~ The ID value of the Database must match the ID for that same server which was added to "Settings" file using Launcher Management Tools
+~ You can use [ ] on Database Name if needed
+~ Database Name must be the name of your mu online database which holds the Account Tables (MEMB_INFO)
+~ Database ID must NOT repeat itself on whole file !
+~ Database MD5Type is the account password encryption type. [-1 = AutoDetect, 0 = SHA256, 1 = WZ_MD5, 2 = IGC_MD5, 3 = None]
+
+Examples:
+
+=============================
+~Multi server setup (3 Main Servers, two running on local machine, the other on remote machine)
+	<SqlServer Address="(local)" Port="1433" Username ="" Password="">
+		<Database ID="0" Name="Me_MuOnlineLowExp" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+		<Database ID="1" Name="Me_MuOnlineHighExp" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+	</SqlServer>
+	<SqlServer Address="88.88.88.88" Port="1433" Username ="bigmojo" Password="bigibig">
+		<Database ID="2" Name="Me_MuOnlineExtremeExp" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+	</SqlServer>
+=============================
+~Multi server setup (2 Main Servers running on same machine)
+	<SqlServer Address="(local)" Port="1433" Username ="" Password="">
+		<Database ID="0" Name="Me_MuOnlineLowExp" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+		<Database ID="1" Name="Me_MuOnlineHighExp" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+	</SqlServer>
+=============================
+~Normal server setup (1 Main Server running on local machine, using current windows used default credentials)
+	<SqlServer Address="(local)" Port="1433" Username ="" Password="">
+		<Database ID="0" Name="Me_MuOnline" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+	</SqlServer>
+=============================
+~Normal server setup (1 Main Server running on local machine, using custom credentials to logon)
+	<SqlServer Address="127.0.0.1" Port="1433" Username ="bigmojo" Password="bigibig">
+		<Database ID="0" Name="Me_MuOnline" AccountRegistration="1" PasswordChange="1" MD5Type="-1" />
+	</SqlServer>
+=============================
+
+-->
+
+<SqlServers>
+	<SqlServer Address="(local)" Port="1433" Username ="" Password="">
+		<Database ID="0" Name="Me_MuOnline" AccountRegistration="1" PasswordChange="0" MD5Type="-1" />
+	</SqlServer>
+</SqlServers>

@@ -1,0 +1,22 @@
+﻿[v18.1.1.4]
+	-> [FIX] Skill Editor: unable to open editor after server version 18.1.1.5 upgrade
+	-> [MOD->FILE] General: updated Data files upto latest server files version 18.1.1.7 S2
+	-> [MOD->FILE] 'Data\DatabaseSpecification.xml' compatible with server files 18.1.1.7 S2
+
+[v18.1.1.3]
+	-> [FIX] Account Editor: crash when loading accounts of vip type 0/-1 which are not yet expired
+	-> [MOD->FILE] General: updated Data files upto latest server files version 18.1.1.2 S2
+	-> [MOD->FILE] 'Data\DatabaseSpecification.xml' compatible with server files 18.1.1.2 S2
+
+[v18.1.1.2]
+	-> [FIX] Account Editor: crash when saving account with VIP type 0
+
+[v18.1.1.1]
+	-> [FIX] Character Editor: Illusion Knight incorrect class codes for 3rd and 4th class
+	-> [MOD] Character Editor: Character rename does not require DS restart anymore (you must use server files 18.1.1.0 T3 or newer)
+	-> [MOD->FILE] General: updated Data files upto latest server files version 18.1.1.0 T3
+	-> [MOD->FILE] 'Data\DatabaseSpecification.xml' compatible with server files 18.1.1.0 T3
+
+[v18.1.1.0]
+	-> [NEW] Illusion Knight class support 
+	-> [MOD->FILE] General: updated Data files upto latest server files version 18.1.1.0

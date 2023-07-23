@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<Comments>
+		<Head>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010-2016 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//	
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+		</Head>
+		<Comment ID="0">
+			<!--aaa-->
+		</Comment>
+		<Comment ID="1">
+			<!--bbb-->
+		</Comment>
+	</Comments>
+	<Element Name="SeedSphereUpgrade">
+			<Element Name="Upgrade" OriginID="0">
+				<Attribute Name="ID" IsKey="True" OriginID="0" />
+				<Attribute Name="MainItemCat" OriginID="1" />
+				<Attribute Name="MainItemIndex" OriginID="2" />
+				<Attribute Name="SubItemCat" OriginID="1:1" />
+				<Attribute Name="SubItemIndexStart" OriginID="1:2" />
+				<Attribute Name="SubItemIndexEnd" OriginID="1:3" />
+				<Attribute Name="MaterialItemCat" OriginID="2:1" />
+				<Attribute Name="MaterialItemIndex" OriginID="2:2" />
+				<Attribute Name="MaterialItemCount" OriginID="2:3" />
+				<Attribute Name="SuccessRate" OriginID="3:1" />
+				<Attribute Name="ReqMoney" OriginID="3:2" />
+				<Attribute Name="ResultItemCat" OriginID="4:1" />
+				<Attribute Name="ResultItemIndex" OriginID="4:2" />
+			</Element>
+	</Element>
+</ExportTemplate>

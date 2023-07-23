@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<MonsterSpawn>
+	
+	<Map Number="110" Name="Nars">
+		<Spot Type="4" Description="Single Point Elemental Monsters">
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="126" StartY="22" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="118" StartY="19" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="105" StartY="22" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="112" StartY="20" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="94" StartY="13" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="83" StartY="16" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="95" StartY="16" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="102" StartY="26" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="101" StartY="29" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="70" StartY="27" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="68" StartY="35" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="64" StartY="42" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="56" StartY="41" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="37" StartY="73" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="37" StartY="78" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="36" StartY="91" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="55" StartY="105" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="64" StartY="107" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="54" StartY="104" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="48" StartY="104" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="57" StartY="103" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="78" StartY="89" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="79" StartY="84" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="76" StartY="79" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="68" StartY="74" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="59" StartY="73" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="56" StartY="78" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="58" StartY="140" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="52" StartY="140" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="44" StartY="136" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="40" StartY="130" Dir="-1" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="30" StartY="129" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="190" StartY="146" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="191" StartY="153" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="196" StartY="168" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="190" StartY="140" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="183" StartY="81" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="191" StartY="82" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="195" StartY="92" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="202" StartY="96" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="208" StartY="100" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="216" StartY="105" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="220" StartY="99" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="228" StartY="93" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="233" StartY="92" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="237" StartY="89" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="234" StartY="76" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="223" StartY="72" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="220" StartY="79" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="211" StartY="67" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="208" StartY="54" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="203" StartY="45" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="216" StartY="40" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="177" StartY="46" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="172" StartY="50" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="161" StartY="38" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="159" StartY="29" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="154" StartY="30" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="145" StartY="22" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="151" StartY="14" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="156" StartY="14" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="41" StartY="141" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="35" StartY="147" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="24" StartY="142" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="26" StartY="162" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="32" StartY="161" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="19" StartY="181" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="22" StartY="206" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="29" StartY="210" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="37" StartY="217" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="42" StartY="225" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="54" StartY="232" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="70" StartY="227" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="81" StartY="229" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="83" StartY="233" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="88" StartY="230" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="75" StartY="226" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="77" StartY="224" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="68" StartY="225" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="71" StartY="205" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="65" StartY="202" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="54" StartY="202" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="69" StartY="195" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="71" StartY="190" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="77" StartY="186" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="83" StartY="184" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="85" StartY="191" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="87" StartY="195" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="110" StartY="208" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="114" StartY="213" Dir="-1" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="96" StartY="220" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="184" StartY="150" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="185" StartY="145" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="229" StartY="152" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="235" StartY="153" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="228" StartY="181" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="235" StartY="179" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="215" StartY="197" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="205" StartY="198" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="196" StartY="198" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="212" StartY="226" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="212" StartY="219" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="211" StartY="212" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="205" StartY="239" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="198" StartY="237" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="211" StartY="237" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="92" StartY="221" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="97" StartY="218" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="137" StartY="214" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="130" StartY="214" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="146" StartY="213" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="144" StartY="205" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="133" StartY="230" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="149" StartY="237" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="158" StartY="244" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="170" StartY="229" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="174" StartY="230" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="182" StartY="234" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="231" StartY="238" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="235" StartY="236" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="236" StartY="231" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="210" StartY="202" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="211" StartY="196" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="219" StartY="196" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="227" StartY="186" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="231" StartY="181" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="179" StartY="77" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="188" StartY="76" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="198" StartY="83" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="128" StartY="60" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="132" StartY="58" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="127" StartY="64" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="115" StartY="68" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="101" StartY="54" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="106" StartY="50" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="111" StartY="46" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="117" StartY="44" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="139" StartY="78" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="137" StartY="76" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="144" StartY="72" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="146" StartY="68" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="144" StartY="61" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="85" StartY="65" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="29" StartY="33" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="33" StartY="38" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="51" StartY="23" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="45" StartY="18" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="40" StartY="15" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="64" StartY="29" Dir="-1" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="58" StartY="25" Dir="-1" Element="6" />
+		</Spot>
+		<Spot Type="3" Description="Elemental Monster Spawn">
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="240" StartY="204" EndX="241" EndY="204" Dir="-1" Count="8" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="153" StartY="201" EndX="153" EndY="201" Dir="-1" Count="8" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="125" StartY="198" EndX="125" EndY="198" Dir="-1" Count="8" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="190" StartY="13" EndX="190" EndY="13" Dir="-1" Count="8" Element="6" />
+			<!--(713) Nars Devil Fairy [Lv.116]-->
+			<Spawn Index="713" Distance="4" StartX="174" StartY="26" EndX="174" EndY="26" Dir="-1" Count="8" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="141" StartY="243" EndX="141" EndY="243" Dir="-1" Count="8" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="118" StartY="232" EndX="118" EndY="232" Dir="-1" Count="8" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="118" StartY="85" EndX="118" EndY="85" Dir="-1" Count="8" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="33" StartY="7" EndX="33" EndY="7" Dir="-1" Count="8" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="229" StartY="32" EndX="229" EndY="32" Dir="-1" Count="8" Element="6" />
+			<!--(714) Nars Elemental Beast [Lv.118]-->
+			<Spawn Index="714" Distance="4" StartX="233" StartY="55" EndX="233" EndY="55" Dir="-1" Count="8" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="37" StartY="195" EndX="37" EndY="195" Dir="-1" Count="8" Element="6" />
+			<!--(715) Nars Elemental Knight [Lv.120]-->
+			<Spawn Index="715" Distance="4" StartX="120" StartY="122" EndX="120" EndY="122" Dir="-1" Count="8" Element="6" />
+		</Spot>
+	</Map>
+</MonsterSpawn>

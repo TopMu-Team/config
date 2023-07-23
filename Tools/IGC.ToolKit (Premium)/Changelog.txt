@@ -1,0 +1,193 @@
+﻿[v1.11.15.0]
+	-> [FIX] BMD Editor: MuunAddOption.bmd export structure
+	-> [FIX] BMD Editor: MuunOption.bmd export structure
+	-> [MOD] CashShop Editor (s10 and newer): support Season Pass item types
+	-> [FIX] CashShop Editor (s10 and newer): TOL and ETOL saved with incorrect item types (you need to resave existing cash shop files, it will be automatically fixed)
+	-> [FIX] CashShop Editor (s10 and newer): in case creating the first package ever, unable to buy it from shop
+
+[v1.11.14.0]
+	-> [NEW] BMD Editor: MuunOption.bmd (Season 18 Ep.2-2)
+	-> [NEW] BMD Editor: Item.bmd (Season 18 Ep.2-2)
+	-> [NEW] BMD Editor: Mix.bmd (Season 18 Ep.2-2)
+	-> [NEW] BMD Editor: MuunAddOption.bmd (Season 18 Ep.2-2)
+	-> [NEW] BMD Editor: MuunInfo.bmd (Season 18 Ep.2-2)
+
+[v1.11.13.0]
+	-> [NEW] EventBag/ChaosCard/Shop/CashShop Editor: support s18 ep1.3 Artifact Option
+	-> [ADD->FILE] 'Data\ArtifactOption.xml'
+	-> [ADD->FILE] 'Data\ArtifactSystem.xml'
+	-> [MOD->FILE] General: updated Data files upto latest server files version 18.1.3.4 (Not part of the auto-update process, must update manually)
+
+[v1.11.12.1]	
+	-> [MOD] BMD Editor: in case tabs (categories) count is greater than 25, tabs will be displayed horizontally (for example s18e1.3 FormulaData)
+
+[v1.11.12.0]	
+	-> [NEW] EventBag Editor (s17 ep2.2 v2): support Illusion Knight class
+	-> [NEW] EventBag Editor (s17 ep2.2 v2): support 'PartyOneDropOnly' option
+	-> [MOD->FILE] General: updated Data files upto latest server files version 18.1.1.0 T3 (Not part of the auto-update process, must update manually)
+
+[v1.11.11.0]
+	-> [NEW] BMD Editor: Item.bmd (Season 18 Ep.1-1)
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 18 Ep.1-1)
+
+[v1.11.10.1]	
+	-> [FIX] CashShop Editor (IGCN s10 and newer): error when manipulating record of multi-item type
+
+[v1.11.10.0]	
+	-> [NEW] Shop Editor (IGCN s10 and newer): support Grade, Guardian options
+	-> [NEW] CashShop Editor (IGCN s10 and newer): support Grade, Guardian options (also remembers custom pre-configured SocketInfo item option, so its not lost)
+	-> [NEW] ChaosCard Editor (IGCN s10 and newer): support Durability, SetItem, SocketCount, ElementalItem, Grade, Guardian options
+
+[v1.11.9.0]	
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support DropSection structure change
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support Grade items options (4th wings)
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support Guardian items options
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support SetItemCount
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support PartyDropRate, PartyShareType
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support [PlayerMinReset, PlayerMaxReset] in ItemBag::AddCoin, ItemBag::Ruud, ItemBag::DropSection::DropAllow
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support [PlayerMinLevel, PlayerMaxLevel] in ItemBag::AddCoin, ItemBag::Ruud
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support DropAllItems option (Type 1) in ItemBag::DropSection::DropAllow::Drop
+	-> [NEW] EventBag Editor (Season 17 Ep.2-2 V2): support UseMode option in ItemBag::DropSection
+	-> [FIX] MapAttribute Editor: saved file is corrupted in some cases (not saved with correct version)
+
+[v1.11.8.1]	
+	-> [FIX] BMD Editor: s6 item.bmd export server file crash
+
+[v1.11.8.0]	
+	-> [MOD] maintenance update
+	-> [MOD] support new Guardian pet (shining tail)
+	-> [MOD] support ExcellentOption ItemKindA_5 property
+	-> [MOD->FILE] 'Data\MapList.xml'
+	-> [MOD->FILE] General: updated Data files upto latest server files version 17.2.2.0
+	
+[v1.11.7.2]	
+	-> [FIX] BMD Editor: StatOption.bmd for season 17 not displayed in list
+
+[v1.11.7.1]
+	-> [MOD] CashShop Editor: remake Item Editor UI to allow resizing
+
+[v1.11.7.0]
+	-> [NEW] Shop Editor (SX): added support for multiple tabs (season 17 Ep.1-3 and newer)
+	-> [MOD] BMD Editor: you can now select the column auto sizing option in toolkit main window menu 'Options->BMD Editor->Grid Column Sizing'
+	-> [MOD->FILE] 'Data\MapList.xml'
+	-> [MOD->FILE] General: updated Data files upto latest server files version (v17.1.3.4)
+
+[v1.11.6.2]
+	-> [MOD] BMD Editor: Item.bmd (Season 17 Ep.1-1 or newer) structure changed
+	-> [MOD] BMD Editor: Item.bmd export with ElementalDamage,ElementalDefense,PentagramType,MasteryPentagram columns for group 12
+
+[v1.11.6.1]
+	-> [MOD] maintenance
+
+[v1.11.6.0]
+	-> [NEW] BMD Editor: StatOption.bmd (Season 17 Ep.1-3)
+	-> [MOD] BMD Editor: Item.bmd export with ReqVitality column for group 12 and 15
+
+[v1.11.5.2]
+	-> [FIX] EventBag Editor (SX): unable to load saved files due to invalid SummonBook drop value
+	-> [FIX] EventBag Editor (SX): generated file sets invalid SummonBook drop value
+	
+[v1.11.5.1]
+	-> [MOD] General: Renamed occurences of "White Wizard" class name to "Light Wizard"
+	-> [MOD] EventBag Editor (SX): support for short class names
+	-> [MOD] BMD Editor: when pasting from clipboard, the current selected cell will remain
+	-> [MOD] Translate Tool: "uppercast first letter" will be effective on all sentence words
+	
+[v1.11.5.0]
+	-> [NEW] BMD Editor: ItemSetType.bmd (Season 17 Ep.1-2)
+	-> [NEW] BMD Editor: Item.bmd (Season 17 Ep.1-1)
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 17 Ep.1-1)
+	-> [NEW] BMD Editor: Quest.bmd (Season 17 Ep.1-1)
+	-> [NEW] EventBag Editor (SX): support for White Wizard and Lemuria Mage classes
+	-> [MOD] Translate Tool: allow forcing first translated letter to uppercase
+	-> [MOD] BMD Editor -> CSV Import/Export: now its more reliable (exporting with column names and row index, allowing to import later by exact column name and row index)
+	-> [MOD-FILE] 'Data\MapList.xml'	
+	-> [MOD->FILE] General: updated Data files upto latest server files version (v16.2.2.2)
+
+[v1.11.4.1]
+	-> [MOD] General: improved connection stability with authentication server for very slow connections (effecting file save operations that previously failed due to bad connection)
+
+[v1.11.4.0]
+	-> [MOD] EventBag Editor: DropAllow chance calculation (percentage for selection) is displayed
+	-> [ADD] EventBag Editor: support for Guardian item options (SocketInfo value)
+	-> [ADD] EventBag Editor: support MasterySetItemInclude option
+	-> [MOD->FILE] General: updated Data files upto latest server files version (v16.1.2.44)
+	-> [ADD->FILE] 'Data\GuardianItemOption.xml'
+
+[v1.11.3.0]
+	-> [NEW] TabbedFile Editor: added support for loading header information (name) from external file (Data\TabbedFileInfo.json)
+	-> [MOD] BMD Editor: new Translation system
+	-> [FIX] General: improved UI chinese translation
+	-> [FIX] BMD Editor: scroll sync issue with Compare tool
+	-> [FIX] BMD Editor: "copy to file" button in compare tool not working correctly in specific files (ItemAddOption)
+	-> [MOD->FILE] General: updated Data files upto latest server files version (v16.1.2.29)
+
+[v1.11.2.4]
+	-> [FIX] Monster Map Bag Editor: error when selecting specific items
+	-> [NEW] General: UI in Chinese (Simplified) language support
+	-> [MOD->FILE] General: updated Data files upto latest alpha server files version (v16.1.2.19)
+
+[v1.11.2.3]
+	-> [MOD] BMD 3D Viewer: allow to open containing folder of loaded model's textures
+	-> [MOD] BMD Editor: Item.bmd export with Money column for group 20
+	-> [MOD] BMD Editor & Compare: improved cell selection synchronization
+
+[v1.11.2.2]
+	-> [MOD] BMD 3D Viewer: improved batch image preview generation speed (skipping files that already exist)
+	-> [MOD] BMD 3D Viewer: fixed load issues with few models
+	-> [MOD] Shop Editor: remade design for more convenient accessibility
+	-> [MOD] General: improved compatability with new NPC previews for every editor that display monsters (redownload Resources package)
+
+[v1.11.2.1]
+	-> [FIX] error if itemlist_s6.xml is loaded
+	-> [MOD] BMD 3D Viewer: improved scale/position settings read from ItemTRSData.txt (for relevant models)
+	-> [MOD] BMD 3D Viewer: improved speed of generating model previews if preview file already exists (and Overwrite option is not enabled)
+	-> [MOD] BMD 3D Viewer: improved "HideRTextures" logic
+	-> [MOD] BMD 3D Viewer: "HideRTextures" option will hide character skin textures as well (noticeable when loading helm models)
+	-> [FIX] BMD 3D Viewer: transparent pixels on generated preview of specfic models
+	-> [FIX] BMD 3D Viewer: crash if trying to generate preview if no model is currently in viewport (off-screen)
+	-> [FIX] BMD 3D Viewer: unable to load some models
+	-> [MOD] BMD 3D Viewer: add 10x10 padding to generated preview of models
+	-> [FIX] BMD Editor: Mix.bmd (Season 16 Ep.1-3) cant open
+
+[v1.11.2.0]
+	-> [NEW] BMD 3D Viewer: attempt to set correct rotation by information provided in 'Data\ItemTRSData.txt' file (search by loaded bmd file name)
+	-> [NEW] BMD 3D Viewer Batch Preview: can specify generated png file name
+	-> [NEW] BMD Editor: Item.bmd (Season 16 Ep.1-3)
+	-> [MOD] BMD Editor: Item.bmd export with MasteryGrade value
+	-> [NEW] Lang.mpr Encoder/Decoder support for s16p1-1 and newer
+	-> [NEW->FILE] 'Data\ItemTRSData.txt'
+	-> [NEW->FILE] 'Data\MasteryGradeItems.xml' which is used to determine correct MastryGrade value when converting Item.bmd file into 'ItemList.xml'
+
+[v1.11.1.2]
+	-> [FIX] possible issue of infinite reconnect cycle on speific conditions
+	-> [FIX] BMD Editor: google translator clears content of cell if translation fails
+	-> [FIX] BMD 3D Viewer: 'tga' (OZT) textures are rendered with black spots
+	-> [FIX] BMD 3D Viewer: initial camera properties not initialized in 'Batch Preview' tool
+	-> [MOD] BMD 3D Viewer: better control on preview rotation/position using mouse L/R click (press + hold + move)
+	-> [NEW] BMD 3D Viewer: manual control over rendered textures (alpha clipping, hide meshes, R texture hide) as workaround for black spots
+	-> [MOD] BMD 3D Viewer: 'Ctrl+P' to save preview as PNG instead of 'P'
+	-> [MOD->FILE] General: updated Data files upto latest alpha server files version (v16.1.0.3)
+
+[v1.11.1.1]
+	- [FIX] BMD Editor: Item.bmd editor for season 16 is invisible in menu
+	- [FIX] BMD Viewer: some meshes are render in incorrect position
+	- [FIX] BMD Viewer: cannot navigate list using keyboard keys
+
+[v1.11.1.0]
+	-> [NEW] BMD Editor: Item.bmd (Season 16 Ep.1-1)
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 16 Ep.1-1)
+	-> [NEW] BMD Editor: Quest.bmd (Season 16 Ep.1-1)
+	-> [NEW] EventBag Editor (SX): support for Gun Crusher class
+	-> [MOD-FILE] 'Data\MapList.xml'
+	-> [MOD-FILE] Updated data files upto igc server version 16.1.0.1
+
+[v1.11.0.0]
+	-> [NEW] *BMD 3D Viewer: view & convert BMD models (BMD->SMD and SMD-BMD conversion, including animations) as well as generating Screenshot of batch of models, including preview SMD models
+	-> [NEW] Activating License while in Trial mode: it is now possible to activate your license even if it is still in Trial period (Help->Activate License)
+	-> [FIX] BMD Editor: search tool cause crash in certain scenarios
+	-> [FIX] DropManager Editor: muun evolution stone does not assign muun type correctly
+	-> [FIX] EventBag Editor: muun evolution stone does not assign muun type correctly
+	* BMD 3D Viewer is a paid plugin, purchaseable additionally to toolkit license terms
+	* BMD 3D Viewer works without the paid plugin, but allows only to preview models (cannot convert to SMD or generate image preview)
+	* BMD 3D Viewer model preview requires an OpenCL device (smd conversion will work regardless existance of compatible OpenCL device)

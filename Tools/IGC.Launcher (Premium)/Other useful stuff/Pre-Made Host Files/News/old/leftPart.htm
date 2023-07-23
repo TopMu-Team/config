@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=11" >
+	<meta name="GOOGLEBOT" content="NOODP">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<title> Official MU Online </title>
+	<style type="text/css">
+	body, html { margin:0; border:0; overflow:hidden; }
+	img { border:none; vertical-align:top; }
+	#banner_l {width:448px;background: url('http://image.webzen.com/Global/Mu/launcher/bg_banner.gif') left top no-repeat; padding:1px; border:3px solid #3f3f41; display:inline-block; }
+	</style>
+	<script>
+		function _banner() {
+			var json = [];
+			json = [{"href":"/news/events/21021/exp-130-event","img":"http://uploadcdn.webzen.com/Files/Clara/portal-inquiry-notice/2016/07/12/99_launcher-banner-636039018532074225.jpg"},{"href":"http://www.webzen.com/events/games-of-webzen?utm_source=Banner%20Click%20Rate\u0026utm_medium=MU%20Online%20EN%20Main%20Banner\u0026utm_campaign=2016%20Summer%20Event\u0026utm_term=Check%20Click%20Rate","img":"http://uploadcdn.webzen.com/Files/Clara/portal-inquiry-notice/2016/06/28/03_banner_MU_12-636026980002571560.jpg"}];
+			var img = "";
+			var href = "/";
+			var num = 0;
+			if(json.length==0)
+			{
+			    img = "http://static.webzen.com/portal/ob/common/v2/contents/banner_default/mu_launcher.jpg";
+			}
+			else
+			{
+				num = Math.floor(Math.random() * (json.length));
+				href = json[num].href;
+				img = json[num].img;
+			}
+			
+			document.write('<a href="'+href+'" hideFocus target="_blank"><img src="'+img+'" width="448" height="244" alt="" onerror="this.src=\'http://static.webzen.com/portal/ob/common/v2/contents/banner_default/mu_launcher.jpg\'" /></a>');
+		}
+	</script>
+</head>
+<body oncontextmenu='return false' ondragstart='return false' onselectstart='return false'>
+    <div id="banner_l">
+		<script>
+			_banner();
+		</script>
+	</div> 
+</body>
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<Comments>
+		<Head>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010-2016 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//	
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+		</Head>
+		<Comment ID="0">
+			<!--aaa-->
+		</Comment>
+		<Comment ID="1">
+			<!--bbb-->
+		</Comment>
+	</Comments>
+	<Element Name="PentagramSystem">
+		<Element Name="Errtel">
+			<Attribute Name="Index" OriginID="0" />
+			<Attribute Name="ItemCat" OriginID="1" />
+			<Attribute Name="ItemIndex" OriginID="2" />
+			<Attribute Name="Rank" OriginID="3" />
+			<Attribute Name="OptionNum" OriginID="4" />
+			<Attribute Name="OptionRate" OriginID="5" />
+			<Attribute Name="RON" OriginID="6" />
+			<Attribute Name="OptionValue0" OriginID="7" />
+			<Attribute Name="OptionRate0" OriginID="8" />
+			<Attribute Name="OptionValue1" OriginID="9" />
+			<Attribute Name="OptionRate1" OriginID="10" />
+			<Attribute Name="OptionValue2" OriginID="11" />
+			<Attribute Name="OptionRate2" OriginID="12" />
+			<Attribute Name="OptionValue3" OriginID="13" />
+			<Attribute Name="OptionRate3" OriginID="14" />
+			<Attribute Name="OptionValue4" OriginID="15" />
+			<Attribute Name="OptionRate4" OriginID="16" />
+			<Attribute Name="OptionValue5" OriginID="17" />
+			<Attribute Name="OptionRate5" OriginID="18" />
+			<Attribute Name="OptionValue6" OriginID="19" />
+			<Attribute Name="OptionRate6" OriginID="20" />
+			<Attribute Name="OptionValue7" OriginID="21" />
+			<Attribute Name="OptionRate7" OriginID="22" />
+			<Attribute Name="OptionValue8" OriginID="23" />
+			<Attribute Name="OptionRate8" OriginID="24" />
+			<Attribute Name="OptionValue9" OriginID="25" />
+			<Attribute Name="OptionRate9" OriginID="26" />
+			<Attribute Name="OptionValue10" OriginID="27" />
+			<Attribute Name="OptionRate10" OriginID="28" />
+			<Attribute Name="OptionType" OriginID="29" />
+			<Attribute Name="Name" OriginID="30" />
+		</Element>
+	</Element>
+</ExportTemplate>

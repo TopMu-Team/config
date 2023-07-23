@@ -1,0 +1,120 @@
+﻿[v1.4.3.2]
+	-> [FIX] Possible issue with file loading/saving
+	
+[v1.4.3.1]
+	-> [MOD] Settings editor: server time will be automatically assigned based on machine's values
+
+[v1.4.3.0]
+	-> [NEW] Designer tool: you can now drag and drop image files from windows folder directly into controls
+	-> [NEW] Designer tool: added more information about controls (location start, end, size)
+	-> [FIX] Hash Generator: possible crash when drag&drop multiple folders
+
+[v1.4.2.0]
+	-> [MOD] .NET Framework: ManagementTools now requires a minimum of .NET Framework v4.6.2
+	-> [MOD] Settings editor: minor UI changes for inconvenience
+	-> [NEW] Settings editor: LauncherServer optional Handshake key configuration
+	-> [NEW] Designer tool: ServerList control for purpose of AutoLogin in Main window editor
+	-> [NEW] Designer tool: Account Password control for purpose of AutoLogin in Settings window editor
+	
+[v1.4.1.4]
+	-> [FIX] Design Tool: crash on open file
+
+[v1.4.1.3]
+	-> [FIX] Design Tool: issue with selecting Panel season type (now can be changed from Menu->Options->Design Type)
+
+[v1.4.1.2]
+	-> [MOD] More information will be shown if failed to authenticate the software	
+
+[v1.4.1.1]
+	-> [FIX] Unable to connect to secondary authentication server (which results in "no license found" popup)
+
+[v1.4.1.0]
+	-> [MOD] Hash system tool: improved loading/saving speed, added progress indicator
+	-> [NEW] Design Tool: added Season 12 mode
+	-> [NEW] Design Tool: added support for text scrolling animation on Status check label
+	-> [NEW] Design Tool: added option to remove all images from selected control (right click in Property window)
+	-> [MOD] Design Tool: moved WindowMode checkbox to Settings window on Season 12 design and newer
+	-> [MOD] Settings generator: Season 12 mode support, removed News browser panel if using Season 12 and newer
+	-> [NEW] Custom Language tool: "ConnectServer" and "CheckingForClientModifications" strings
+
+[v1.4.0.1]
+	-> [FIX] Design Tool (new): unable to change registration code color
+
+[v1.4.0.0]
+	-> [MOD] Changed framework requirement to .NET 4.6.1
+	-> [NEW] Designer Tool (v2): rewritten completely. also supports now hiding/showing any element (usuage with launcher v1.9.0.0 or newer only)
+
+[v1.3.8.1]
+	-> [MOD] Changed framework requirement to .NET 4.5
+
+[v1.3.8.0]
+	-> [ADD] Launcher Designer: 'Season 9 Resolutions' combo box
+	-> [ADD] 'Season 9 Mode' switch in Settings file
+	-> [ADD] 'Open Browser Error' custom language string configuration
+
+[v1.3.7.0]
+	-> [FIX] Launcher Designer: minor fixes
+	-> [ADD] Launcher Designer: "Check Files" button design
+	-> [ADD] Automatic Mouse Right Button Press configuration ('Settings File' -> 'Client Keyboard Hook System' -> 'R.Click')
+	-> [ADD] Client Files Check System configuration ('Settings File' -> 'Launcher Options' -> 'Client Files Check System')
+
+[v1.3.6.9]
+	-> [MOD] Error Language: language of errors (not the translated strings) should now show in english no matter the OS language
+	-> [MOD] General: in case of crash or critical error, 'CrashLog.log' file will be created and you will be able to continue working without crash
+
+[v1.3.6.8]
+	-> [ADD] Crashes: in case of crash *.dmp* file will be created which u need to send to me
+	-> [ADD] Designer: you can now chose text's  font Name and Italic style
+
+[v1.3.6.7]
+	-> [FIX] Browser Refresh Interval issue
+	-> [ADD] set Browser Refresh Interval value to 0 to disable refresh
+
+[v1.3.6.6]
+	-> [ADD] option to limit player from opening more then 1 launcher from same folder
+	-> [ADD] interval to refresh Main and News browsers every X minutes
+
+[v1.3.6.5]
+	-> [ADD] Hash File Generator: "Full Protection" state per-file
+	-> [ADD] Settings Generator: "Ignore Windows DPI" option
+
+[v1.3.6.4]
+	-> [FIX] error shows if trying to add more then 3 Multi Servers
+
+[v1.3.6.3]
+	-> [ADD] Hash File: possiblity to add folders and files manually to hash list
+	-> [ADD] Settings Generator -> Custom Launcher Languages: Default language
+
+[v1.3.6.2]
+	-> [MOD] Designer: removed "Cancel" button in Settings Window
+
+[v1.3.6.1]
+	-> [FIX] Designer: News Browser location relative to Main Panel
+	-> [FIX] Designer: "Register" button location in Main Panel 
+
+[v1.3.6.0]
+	-> [ADD] Designer: possiblity to convert background color of Main Window / Settings Window / Registration Window to Transparent
+	-> [ADD] Designer: change selected control size with keyboard ("H" + "+" or "-" to change height, "W" + "+" or "-" to change width)
+	-> [ADD] Settings Generator: features presented in launcher v1.8.5.0
+
+[v1.3.5.0]
+	-> [MOD] removed all unused launcher options (Settings file generator) in relation to launcher v1.8.0.0
+	-> [ADD] added all features options added on launcher v1.8.0.0
+	-> [ADD] Designer: ServerList contol on Settings form
+	-> [ADD] Designer: you can move controls with your keybaord arrow keys too (after you click the control with mouse)
+
+[v1.3.1.1]
+	-> [FIX] sometimes loading Settings.txt doesnt load all values
+
+[v1.3.1.0]
+	-> Designer - Added option to see how launcher will look like with the Graphics (including the Transparent background)
+	-> when creating language file, tool will check if saved as English language and prompt for approval
+
+[v1.3.0.0]
+	-> Lots of changes
+
+[v1.1.8.0]
+	-> Added option to set if the hosts' Server Time is with Daylight Saving (NOTE: after the daylight saving will be disabled in server, you would need to create new patch with settings file DayLightSaving disabled)
+
+[v1.1.7.0]
+	-> added the custom texts to the minimize ballon to the Settings Generator form

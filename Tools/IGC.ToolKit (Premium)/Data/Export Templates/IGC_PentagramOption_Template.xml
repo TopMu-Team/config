@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExportTemplate>
+	<Comments>
+		<Head>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010-2016 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// ### PentagramSystem:::OptionList::Pentagram ### - maximum 20 entries
+//	ItemCat: Pentagram Item Category (IGC_ItemList.xml)
+//	ItemIndex: Pentagram Item Index (IGC_ItemList.xml)
+//	Grade: Grade of Pentagram, 1-3
+//	OptionNum1: Pentagram Option 1 number
+//	OptionNum2: Pentagram Option 2 number
+//	OptionNum3: Pentagram Option 3 number
+//	OptionNum4: Pentagram Option 4 number
+//	OptionNum5: Pentagram Option 5 number
+//	OptionNum6: Pentagram Option 6 number
+//	OptionNum7: Pentagram Option 7 number
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ for OptionNum refer to OptionSettings section
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//	Name: Name of Pentagram Item
+//
+// ### PentagramSystem::OptionSettings::Errtel ###
+//	OptionNum: Errtel Option Number definition
+//	Type1: 
+//	Rank1: 
+//	Level1: 
+//	Type2: 
+//	Rank2: 
+//	Level2: 
+//	Type3: 
+//	Rank3: 
+//	Level3: 
+//	Name: Name of Pentagram Option
+//
+// ### Pentagram System::SocketRate::Socket ###
+//	Grade: Grade of Errtels the rates will be applied to
+//	Rate1: Chance rate for Socket count 1
+//	Rate2: Chance rate for Socket count 2
+//	Rate3: Chance rate for Socket count 3
+//	Rate4: Chance rate for Socket count 4
+//	Rate5: Chance rate for Socket count 5
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ Rate is n/10000, sum of total per row must be equal to 10000
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+		</Head>
+		<Comment ID="0">
+			<!--aaa-->
+		</Comment>
+		<Comment ID="1">
+			<!--bbb-->
+		</Comment>
+	</Comments>
+	<Element Name="PentagramSystem">
+		<Element Name="OptionList">
+			<Element Name="Pentagram" OriginID="0">
+				<Attribute Name="ItemCat" OriginID="0" />
+				<Attribute Name="ItemIndex" OriginID="1" />
+				<Attribute Name="Grade" OriginID="3" />
+				<Attribute Name="OptionNum1" OriginID="4" />
+				<Attribute Name="OptionNum2" OriginID="5" />
+				<Attribute Name="OptionNum3" OriginID="6" />
+				<Attribute Name="OptionNum4" OriginID="7" />
+				<Attribute Name="OptionNum5" OriginID="8" />
+				<Attribute Name="OptionNum6" OriginID="9" />
+				<Attribute Name="OptionNum7" OriginID="10" />
+				<Attribute Name="Name" OriginID="2" />
+			</Element>
+		</Element>
+		<Element Name="OptionSetting">
+			<Element Name="Errtel" OriginID="1">
+				<Attribute Name="OptionNum" OriginID="0" />
+				<Attribute Name="Type1" OriginID="2" />
+				<Attribute Name="Rank1" OriginID="3" />
+				<Attribute Name="Level1" OriginID="4" />
+				<Attribute Name="Type2" OriginID="5" />
+				<Attribute Name="Rank2" OriginID="6" />
+				<Attribute Name="Level2" OriginID="7" />
+				<Attribute Name="Type3" OriginID="8" />
+				<Attribute Name="Rank3" OriginID="9" />
+				<Attribute Name="Level3" OriginID="10" />
+				<Attribute Name="Type4" OriginID="11" />
+				<Attribute Name="Rank4" OriginID="12" />
+				<Attribute Name="Level4" OriginID="13" />
+				<Attribute Name="Type5" OriginID="14" />
+				<Attribute Name="Rank5" OriginID="15" />
+				<Attribute Name="Level5" OriginID="16" />
+				<Attribute Name="Name" OriginID="1" />
+			</Element>
+		</Element>
+		<Element Name="SocketProbabilityRate">
+			<Element Name="Socket" OriginID="2">
+				<Attribute Name="Grade" OriginID="0" />
+				<Attribute Name="Rate1" OriginID="1" />
+				<Attribute Name="Rate2" OriginID="2" />
+				<Attribute Name="Rate3" OriginID="3" />
+				<Attribute Name="Rate4" OriginID="4" />
+				<Attribute Name="Rate5" OriginID="5" />
+			</Element>
+		</Element>
+	</Element>
+</ExportTemplate>

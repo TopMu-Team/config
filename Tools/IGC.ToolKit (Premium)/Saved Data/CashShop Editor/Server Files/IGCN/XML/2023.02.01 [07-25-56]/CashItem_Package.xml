@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<CashItemPackage>
+	<Package GUID="0" ID="0" ItemSequence="0" UniqueID1="431" UniqueID2="500" Description="Pet Panda (7 Day)_P" />
+	<Package GUID="1" ID="0" ItemSequence="1" UniqueID1="432" UniqueID2="501" Description="Seal of Healing (7 Day)_P" />
+	<Package GUID="2" ID="0" ItemSequence="2" UniqueID1="433" UniqueID2="502" Description="Bundle of Jewel of Bless (10)_P" />
+	<Package GUID="3" ID="0" ItemSequence="3" UniqueID1="434" UniqueID2="503" Description="Bundle of Jewel of Soul (10)_P" />
+	<Package GUID="4" ID="0" ItemSequence="4" UniqueID1="439" UniqueID2="508" Description="Scroll of Evil Spirit_P" />
+	<Package GUID="5" ID="0" ItemSequence="5" UniqueID1="440" UniqueID2="509" Description="Scroll of Expansion of Wizardry_P" />
+	<Package GUID="6" ID="0" ItemSequence="6" UniqueID1="441" UniqueID2="510" Description="Scroll of Nova_P" />
+	<Package GUID="7" ID="0" ItemSequence="7" UniqueID1="442" UniqueID2="511" Description="Scroll of Soul Barrior_P" />
+</CashItemPackage>

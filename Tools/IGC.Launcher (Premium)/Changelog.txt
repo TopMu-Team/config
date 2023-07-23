@@ -1,0 +1,1415 @@
+[Update 83]
+/**
+
+:::: IGC.LauncherPremium ::::
+Rev.17: [v1.10.1.15]
+	-> [FIX] When launcher is minimized, notification message group title always shows 'Launcher.Premium' (now it will be the same as the exe name)
+Rev.16: [v1.10.1.14]
+	-> [FIX] Possible issue with file loading and network packets
+Rev.15: [v1.10.1.13]
+	-> [FIX] error is displayed when pressing "Save" button in Settings window, in case custom Server Realms list is configured with IDs which do not match the realms count.
+	-> [FIX] launcher icon displayed in Taskbar shows in low quality
+Rev.14: [v1.10.1.12]
+	-> [MOD] hidden specific non critical error
+Rev.13: [v1.10.1.11]
+	-> [MOD] 'Browser Refresh' related errors will not be displayed to the user
+	-> [FIX] 'News' browser shows "navigation stopped" for a short time before loading the news
+	-> [FIX] Once any text input field receive focus, and the user's input language is not supported, launcher will display error and close ('Culture ID 8192 (0x2000) is not a supported culture.') - now the launcher will display error but wont close
+Rev.12: [v1.10.1.10]
+	-> [FIX] possible application error in certain cases ("configuration section not recognized ...") -> IMPORTANT: launcher ".exe.config" file modified as well 
+Rev.11: [v1.10.1.9]
+	-> [MOD] links inside the HTML content (Main page, News page) which are configured to open URL in new window (target="_blank" HTML attribute) will open the default browser in PC (not enforced to IE only)
+Rev.10: [v1.10.1.8]
+	-> [FIX] 'Browser Refresh' warning is displayed if the web page is not completely loaded
+Rev.9: [v1.10.1.7]
+	-> [FIX] possible (rare) error
+Rev.8: [v1.10.1.6]
+	-> [MOD] In case of error, more information will be displayed in the message box displayed to the user
+Rev.7: [v1.10.1.5]
+	-> [FIX] Unable to connect to LauncherServer in some PCes in case of using DNS on Settings file and your server has enabled IPV6
+Rev.6: [v1.10.1.4]
+	-> [MOD] cVersion check: if existing cVersion file has invalid password, all available patches will be downloaded and installed
+	-> [FIX] HTTPs Patch/HashCheck license address does not work (this error is caused by a web host that is using new TLS (1.1, 1.2, etc) protocols for their certificate - .NET 3.5 does not support newer TLS protocols; only TLS 1.0; if you are using new TLS in your certificate, your players must install .NET Framework 4.5 or newer)
+Rev.5: [v1.10.1.3]
+	-> [NOTE] It is recommended to ship "your-launcher-name.exe.config" file together with your launcher, however you should rename it to the same name of your launcher for example "MULauncher.exe.config"
+	-> [FIX] launcher error if client (main) is closed while launcher running or launcher is closing while client (main) is running
+	-> [FIX] client auto-update system's self reset feature does not work
+	-> [FIX] high cpu/gpu usage
+Rev.4: [v1.10.1.2]
+	-> [FIX] launcher shows tooltip when closing, if "minimize to tray" option is enabled in Settings
+Rev.3: [v1.10.1.1]
+	-> [FIX] when launcher is restored after main closed, it does not come to foreground
+	-> [FIX] various issues when keyboard hook system is enabled (seems like issue is exclusive to v1.10.1.0)
+Rev.2: [v1.10.1.0]
+	-> [MOD] Degraded to .NET Framework 3.5 for better old OS support (Windows 7 SP0 should work without any extra requirements, Win XP should manually install .net framework 3.5)
+	-> [MOD] Removed interactive taskbar icon support due to .net framework degration (see changelog for version 1.9.1.6)
+	-> [FIX] Server time does not show currect value when Server's Daylight Saving time is enabled Settings
+Rev.1: [v1.10.0.11]
+	-> [FIX] ever increasing log file size
+	-> [FIX] possible crash
+	-> [FIX] window fade out on close seems to freeze for a second
+
+:::: IGC.LauncherServer ::::
+Rev.16: [v1.4.0.3]
+	-> [FIX] Possible issue with networking
+Rev.9: [v1.4.0.2]
+	-> [MOD] License Check: if license check has failed, 3 days grace period will be allowed until connections will be refused (valid only after launcher server succeeded validation at least once, so is not valid in cold start)
+Rev.8: [v1.4.0.1]
+	-> [FIX] Database: possible issues with non-ascii account registration
+	-> [MOD] License Check: launcher server does not recheck license status 30 seconds after failed check, in some cases
+Rev.1: [v1.4.0.0]
+	* .NET Framework 4.8 Upgrade *
+	-> [MOD] IOCP improvements
+	-> [MOD] removed some UI components
+	-> [NEW] ConnectServerList.xml allows seperate Suffix for HashCheck\Patches address
+
+:::: IGC.LauncherManagementTools ::::
+Rev.16: [v1.4.3.2]
+	* .NET Framework 4.8 Upgrade *
+	-> [FIX] Possible issue with file loading/saving
+Rev.2: [v1.4.3.1]
+	-> [MOD] Settings editor: server time will be automatically assigned based on machine's values
+Rev.1: [v1.4.3.0]
+	-> [NEW] Designer tool: you can now drag and drop image files from windows folder directly into controls
+	-> [NEW] Designer tool: added more information about controls (location start, end, size)
+	-> [FIX] Hash Generator: possible crash when drag&drop multiple folders
+
+**/
+
+[Update 82]
+/**
+
+:::: IGC.Launcher.Premium ::::
+Rev.3: [v1.10.0.10]
+	-> [FIX] News page cannot display webpage working in some cases (caused by 1.10.0.9 changes)
+Rev.2: [v1.10.0.9]
+	-> [MOD] modified browser auto refresh to try fix possible crash on refresh
+Rev.1: [v1.10.0.8]
+	-> [MOD] better compatability with LauncherServer reconnetion when using Anti-DoS protection
+
+:::: IGC.Launcher.Server ::::
+Rev.1: [v1.3.0.0]
+	-> [MOD] ConnectServer State Check: launcher server will establish connection to ConnectServer once and monitor it's state instead of continuesly reconnection every few seconds
+	-> [NEW] Anti-DoS: option to automatically ban suspects in Windows Firewall
+	-> [NEW] Logging: option to disable wrting Trash log file and/or higher level logs (error/logs); check config.ini settings
+	-> [FIX] Anti-DoS: fixed some broken config.ini options
+	-> [FIX] Anti-DoS: fixed various vulnerabilities such as connection spoofing etc
+	-> [MOD] Anti-DoS: HardwareID will not be automatically banned, only IP
+	-> [MOD] Anti-DoS: 'HardwareIDBlackList.dat' will only be used by you to set specific ban per HardwareID (you can search player HardwareID in logs)
+	-> [MOD] config.ini: Anti-DoS related settings (read description carefully)
+
+**/
+
+[Update 81]
+/**
+
+:::: IGC.Launcher.Premium ::::
+Rev.9: [v1.10.0.7]
+	-> [FIX] in some cases, https sites cannot be displayed because of ceriticate error
+Rev.8: [v1.10.0.6]
+	-> [FIX] windows DPI fixes
+	-> [FIX] ServerList for autologin does how show when launcher first open
+Rev.7: [v1.10.0.5]
+	-> [FIX] launcher does not function properly after the local network connection has been lost, and reconnected to server
+Rev.5: [v1.10.0.4]
+	-> [FIX] unable to scroll ServerList with mouse clicks
+	-> [FIX] launcher does not read correctly passwords that start with "0"
+	-> [MOD] minor iocp changes
+Rev.4: [v1.10.0.3]
+	-> [FIX] hook system not working since v1.10
+Rev.3: [v1.10.0.2]
+	-> [FIX] unable to start launcher if 'Data\Launcher\Temp' folder does not exist
+Rev.1: [v1.10.0.1]
+	-> [FIX] half a second freeze when closing
+	-> [FIX] window does not come to font of other windows when opening/restoring
+[v1.10.0.0]
+	-> [NEW] IGC AutoLogin support (S13 Ep2 and newer)
+	-> [NEW] Launcher's Taskbar icon will visually display the update progress into its icon (supported on windows 7 and newer, see https://docs.microsoft.com/en-us/dotnet/media/wpfshell-taskbariteminfo.png)
+	-> [NEW] You can hover over Launcher's Taskbar icon and press the "play" button to start game without clicking GameStart button in launcher (supported on windows 7 and newer, see https://docs.microsoft.com/en-us/dotnet/media/wpfshell-taskbariteminfo.png)
+	-> [MOD] Log system has been improved and should provide more information in case of crash (submit to us 'Data\Launcher\Log.txt' file in such case)
+	-> [MOD] improved IOCP communication with LauncherServer
+	-> [MOD] overall performance improvements
+	-> [FIX] different fixes
+
+:::: IGC.Launcher.Server ::::
+Rev.6: [v1.2.1.2]
+	-> [FIX] connected Launcher instances gets disconnected after few seconds
+Rev.2: [v1.2.1.1]
+	-> [FIX] unable to connect with previous launcher.exe versions (<1.10.0.0) even if Handshake key is not used
+[v1.2.1.0]
+	-> [MOD] .NET Framework: LauncherServer now requires a minimum of .NET Framework v4.6.2
+	-> [NEW] Support for specifying custom key that will allow only specific launcher being able to connect to your server (Handshake value must be identical in LauncherServer config.ini and Launcher 'Settings' file)
+	-> [NEW] ServerList query support from Launcher, for purpose of AutoLogin system
+	-> [MOD] config.ini: optional Handshake value specification
+
+:::: IGC.Launcher.ManagementTools ::::
+[v1.4.2.0]
+	-> [MOD] .NET Framework: ManagementTools now requires a minimum of .NET Framework v4.6.2
+	-> [MOD] Settings editor: minor UI changes for inconvenience
+	-> [NEW] Settings editor: LauncherServer optional Handshake key configuration
+	-> [NEW] Designer tool: ServerList control for purpose of AutoLogin in Main window editor
+	-> [NEW] Designer tool: Account Password control for purpose of AutoLogin in Settings window editor
+
+:::: Design Files ::::
+	-> [MOD] S12 design Template file AutoLogin related changes
+	
+:::: Other Files ::::
+	-> [MOD] Images and PSDs of S12 template design AutoLogin related changes
+
+**/
+
+[Update 80]
+/**
+
+:::: IGC.Launcher.Premium ::::
+v9 [v1.9.1.5]
+	-> [FIX] launcher may crash if using SSL web for launcher files on older windows versions (where .net 4.5 cannot be installed)
+v8 [v1.9.1.4]
+	-> [FIX] launcher may throw errors related to SSL connection when using https/ftps Patches/Hashcheck addresses
+v6 [v1.9.1.3]
+	-> [NEW->FILE] 'Data\Launcher\updater.exe' - YOU MUST INCLUDE THIS FILE IN NEXT CLIENT PATCH SHIPPED TO YOUR PLAYERS
+	-> [FIX] possibly fixed issue with some AntiViruses reporting launcher as virus after launcher self-update (requires new file 'Data\Launcher\updater.exe')
+	-> [FIX] possibly fixed issue with GameStart button disabled (Grey, unclickable) at startup in some OSes
+v5 [v1.9.1.1]
+	-> [FIX] Resolutions for S12 (KOR) version
+v0 [v1.9.1.0]
+	-> [NEW] configurable string "ConnectServer" and "CheckingForClientModifications" in Management tools custom language
+	-> [FIX] client reconnect does not work if using "minimize" option for launcher in Settings after press "GameStart"
+	-> [MOD] Main Window: if using client season 12 and newer in Settings file, removed WindowMode checkbox (now in Settings window), ConnetServer status label (now integrated in GameServers status animation), News browser.
+	-> [MOD] Settings Window: if using client season 12 and newer in Settings file; removed Sound, Music, Color Depth, Client Language selections
+	-> [NEW] GameServers status label "Scrolling" animation option (configurable in Design tool)
+	-> [FIX] possible crashes in Hash files download
+	-> [FIX] possible incorrect Hash files progress count
+	-> [FIX] possible incorrect GameServer status shown if using duplicated GS names
+	-> [FIX] Registration Window: Verification code location not read from custom design
+
+:::: IGC.Launcher.Server ::::
+v10 [v1.2.0.12]
+	-> [FIX] rare crash on open
+	-> [MOD] extended crash log info
+	
+v8 [v1.2.0.11]
+	-> [MOD->FILE] 'config.ini': added option to disable writing log to file
+	-> [FIX] Launcher AntiDos identifing packets from verified launcher as false positive
+v4 [v1.2.0.10]
+	-> [MOD] More information will be shown if failed to authenticate the software	
+	-> [FIX] possible bug with launcher license blocking launcher from starting
+v3 [v1.2.0.9]
+	-> [FIX] Unable to connect to secondary authentication server (which results in "no license found" popup)
+v2 [v1.2.0.8]
+	-> [MOD] added more log information once connection is closing with launcher/client
+	-> [FIX] possible crash
+	-> [FIX] hwid not being added to ban list in case of suspecious activity (launcher server only - not proxy)
+	-> [FIX] incoming connection IP isnt being blocked if is on Blacklist
+	-> [FIX] launcher server freeze
+
+:::: IGC.Launcher.ManagementTools ::::
+v7 [v1.4.1.4]
+	-> [FIX] Design Tool: crash on open file
+v6 [v1.4.1.3]
+	-> [FIX] Design Tool: issue with selecting Panel season type (now can be changed from Menu->Options->Design Type)
+v6 [v1.4.1.2]
+	-> [MOD] More information will be shown if failed to authenticate the software
+v3 [v1.4.1.1]
+	-> [FIX] Unable to connect to secondary authentication server (which results in "no license found" popup)
+v0 [v1.4.1.0]
+	-> [MOD] Hash system tool: improved loading/saving speed, added progress indicator
+	-> [NEW] Design Tool: added Season 12 mode
+	-> [NEW] Design Tool: added support for text scrolling animation on Status check label
+	-> [NEW] Design Tool: added option to remove all images from selected control (right click in Property window)
+	-> [MOD] Design Tool: moved WindowMode checkbox to Settings window on Season 12 design and newer
+	-> [MOD] Settings generator: Season 12 mode support, removed News browser panel if using Season 12 and newer
+	-> [NEW] Custom Language tool: "ConnectServer" and "CheckingForClientModifications" strings
+
+:::: Design Files ::::
+	-> [NEW] S12 design Template file (based on KOR s12 launcher)
+	
+:::: Other Files ::::
+	-> [NEW] S12 news section for launcher website files (based on KOR s12 launcher)
+	-> [NEW] Images and PSDs of S12 template design
+
+**/
+
+[Update 79]
+** Compatible with server files verison 9.5.1.16 and 9.5.1.48 and newer ***
+/**
+
+:::: IGC.Launcher.Premium ::::
+v9 [v1.9.0.6]
+	-> [FIX] client isnt being closed if closing launcher too fast and using option "Close client in case launcher closed"
+
+v8 [v1.9.0.5]
+	-> [FIX] flickering on launcher load
+	
+v6 [v1.9.0.4]
+	-> [FIX] Custom Design issues with Season 9 mode and Resulotions combo box
+	
+v4 [v1.9.0.3]
+	-> [FIX] Custom Design never being loaded
+	
+v3 [v1.9.0.2]
+	-> [FIX] Custom Design errors/bugs
+
+v2 [v1.9.0.1]
+	-> [FIX] missing error in information in Template file loading
+
+[v1.9.0.0]
+	*** NOTE: if using custom graphics, you must re-generate your Graphics (Design) file using new Design Tool of Launcher Management Tools v1.4.0.0 or newer ***
+	-> [FIX] critical crash
+	-> [FIX] custom Click sound not working or cannot be removed
+	-> [FIX] in some cases Keyboard Hokteys systems do not work
+	-> [FIX] "GameStart" button stays gray for long period of time after game has been opened
+	-> [NEW] support for new Design system (loads faster and more lightweight) - usable with launcher management tools v1.4.0.0 or newer
+	-> [NEW] support for hiding every UI element (button/label etc) - usable with launcher management tools v1.4.0.0 or newer
+	-> [NEW] ServerInfo's realtime Codepage modificaiton based on selected language (Settings window) - you must set correct Default and codepage for every client language you add in Launcher Management tools
+	-> [MOD] General: shortened startup and authentication process and connection
+	-> [MOD] greatly improved communication with LauncherServer - relevent only if using LauncherServer 1.2.0.0 or newer 
+
+:::: IGC.Launcher.Server ::::
+v8 [v1.2.0.6]
+	-> [FIX] sometimes "connected users" list isnt being cleared from disconnected connections
+	-> [MOD] removed license automatic refresh, and added menu button for refreshing license data (under Utilities menu)
+
+v7 [v1.2.0.5]
+	-> [MOD] more improvements
+	-> [FIX] crash on launcher server open if using multiple databases
+
+v5 [v1.2.0.4]
+	-> [MOD] general improvements
+	
+v4 [v1.2.0.1]
+	-> [NEW] Account Registration: added support for SHA256 encryption
+	-> [FIX] Password Encryption type automatic Detection possible bug
+	-> [MOD->FILE] 'config.ini': added SHA256 encyption salt value configuration
+
+[v1.2.0.0]
+	** NOTE: this version contains many improvements and modifications, and so may have some bugs which will be fixed ASAP **
+	-> [MOD] upgraded .net version to 4.6.1
+	-> [MOD] config.ini file - READ INSTRUCTIONS CAREFULLY
+	-> [MOD] complete rewrite of IOCP architecture
+	-> [MOD] improved loading times
+	-> [MOD] improved verification times
+	-> [FIX] critical bug fixes/crashes
+	-> [FIX] cases when verification fails on client Reconnect system and Proxy mode
+	
+:::: IGC.Launcher.ManagementTools ::::
+v5 [v1.4.0.1]
+	-> [FIX] Design Tool (new): unable to change registration code color
+	
+[v1.4.0.0]
+	-> [MOD] Changed framework requirement to .NET 4.6.1
+	-> [NEW] Designer Tool (v2): rewritten completely. also supports now hiding/showing any element (usuage with launcher v1.9.0.0 or newer only)
+
+:::: Documentation ::::
+[v1.12.0]
+	-> [MOD] changed instructions related to launcher 1.9.0.0 mods
+	-> [NEW] added more F.A.Qs
+
+:::: Graphic Files ::::
+	-> [NEW] MG Template file (to be used with new Design system)
+	-> [NEW] SUM Template file (to be used with new Design system)
+	
+**/
+
+[Update 78]
+** Compatible with server files verison 9.5.1.16 and 9.5.1.48 and newer ***
+/**
+
+:::: IGC.Launcher.Premium ::::
+
+v3: [v1.8.10.1]
+	-> [FIX] client Keyboard Hook system not working since 1.8.10.0
+	-> [MOD] after launcher self-update completed, GameStart buttom would automatically be pressed.
+[v1.8.10.0]
+	-> [NEW] launcher now supports game's reconnect system in case player loses entire internet connection (and normal reconnect too) - must use LauncherServer version 1.0.5.0 and IGC.DLL 9.5.1.12
+	-> [FIX] general fixes and improvements
+	-> [FIX] crash fixes
+	-> [MOD] added message box warning in case that launcher is trying to replace a file that is being used (when doing Client Auto Update - up_list.zip extraction)
+
+:::: IGC.Launcher.Server ::::
+
+v2: [v1.0.5.1]
+	-> [FIX] crash
+[v1.0.5.0]
+	-> [NEW] Packet flood protection to AntiDos protection (see config.ini)
+	-> [FIX] bug if InactiveConnectionsClearInterval_Seconds is set to -1
+	-> [NEW] complete support for game's Reconnect System (must use with launcher v 1.8.10.0 or newer)
+
+**/
+
+[Update 77]
+/**
+
+:::: IGC.Launcher.Premium ::::
+[v1.8.9.0]
+	-> [NEW] configuration Support for UHD resolutions introduced in server files 9.5.1.3 (season 9 only, works with IGCN clients ONLY)
+	-> [FIX] incorrect Database ID might be selected if using Multi-Server default ID (with launcher shortcut) - now this default ID is the line number of the Multi-Server config (0, 1, 2 ..) 
+	-> [FIX] crash if OS DEP is enabled (need to be tested)
+	-> [FIX] General: possible crash after pressing "Start Game" in case main.exe porcess was closed immidietly after Launcher opened it.
+
+**/
+
+[Update 76]
+/**
+
+:::: IGC.Launcher.Premium ::::
+v5: [v1.8.8.4]
+	-> [FIX] WindowMode doesnt show correct state
+	
+v4: [v1.8.8.3]
+	-> [FIX] possible fix to an issue that players may not be able to run launcher properly if Non-Unicode language is not set to English in OS
+
+v3: [v1.8.8.2]
+	-> [MOD] removed forced ScrollBars in Launcher Browsers (News & Main)
+
+v2: [v1.8.8.1]
+	-> [FIX] Custom Launcher Language: language doesnt save after launcher restart
+	-> [FIX] 'Game Start' is enabled if 'Settings' window is open and closed why launcher updates
+
+[v1.8.8.0]
+	-> [FIX] General: possible crash after pressing "Start Game" in case main.exe porcess was closed immidietly after Launcher opened it.
+	-> [FIX] General: possible crash after pressing "More" button in case launcher was unable to open a web link.
+	-> [FIX] MultiServer: multi server selector does not show if not using custom design
+	-> [MOD] Account Registration: extended maximum password length to 20 chars (must use Launcher Server v1.0.4.0 and newer)
+	-> [MOD] Settings Window: 'Multi Server List' combo box will no be shown if no multi servers has been added in Settings file
+	-> [ADD] Multi-Server: you can specify the default ServerID that will be selected by running launcher with the parameter of the ServerID (0, 1, 2...) -> 1 parameter only with shortcut!!
+	-> [ADD] General: enabled support for Season 9 Client Settings (resolution, sound, music, window mode etc..) - make sure to generate new Settins file with 'Season 9' mode and make according changes in your Design
+
+:::: IGC.Launcher.Server ::::
+[v1.0.4.0]
+	-> [MOD] Account Registration: extended max possible Password to 20 chars (must use launcher v1.8.8.0 and newer)
+
+:::: IGC.Launcher.ManagementTools ::::
+v4: [v1.3.8.1]
+	-> [MOD] Changed framework requirement to .NET 4.5
+
+[v1.3.8.0]
+	-> [ADD] Launcher Designer: 'Season 9 Resolutions' combo box
+	-> [ADD] 'Season 9 Mode' switch in Settings file
+	-> [ADD] 'Open Browser Error' custom language string configuration
+	
+:::: Documentation ::::
+[v1.10.0]
+	-> [ADD] added instructions on how to start launcher with default Server ID
+
+:::: Graphic Files ::::
+[Update 76]
+	-> [ADD] season 9 resolutions combo box location and size
+
+**/
+
+[Update 75]
+/**
+
+:::: IGC.Launcher.Premium ::::
+[v4] [v1.8.7.3]
+	-> [FIX] possible crash
+
+[v3] [v1.8.7.2]
+	-> [FIX] Launcher Self-Update system does not work if Launcher EXE name contains White Spaces.
+	-> [FIX] Launcher's WebBrowser (Main Browser and News Browsers) sometimes do not refresh or show old content (final fix)
+
+[v2] [v1.8.7.1]
+	-> [FIX] cannot login to game if "JoinGameWithLauncherOnly" options is enabled
+[v1.8.7.0]
+	-> [FIX] Launcher's WebBrowser (Main Browser and News Browsers) sometimes do not refresh or show old content (experimental feature, not sure if would work)
+	-> [FIX] "Game Start" automatically pressed if Enter key is pressed, but launcher is not top most application
+	-> [ADD] possiblity to block launcher from connecting to LauncherServer if launcher is running from Virtual Machine (see config.ini file of LauncherServer 1.0.3.0 and newer)
+	-> [ADD] Automaic Mouse Right Button Press feature (see LauncherTools)
+	-> [ADD] "Client Files Check System" which validates and replace all client files with files from host (if needed, and if they are in list "Host\HashCheck\Hash_FullCheck.tmp") upon clicking "Check Files" button on launcher (see LauncherTools)
+
+:::: IGC.Launcher.Server ::::
+[v2] [v1.0.3.1]
+	-> [FIX] cannot login to game if "JoinGameWithLauncherOnly" options is enabled
+[v1.0.3.0]
+	-> [ADD] now you can set the sensitivity level of "JoinGameWithLauncherOnly" feature (see config.ini)
+	-> [ADD] BlockVirtualMachine options (see config.ini) - usable from launcher version 1.8.7.0 and newer only
+	-> [FIX] possible crashes
+	-> [FIX] Account Registration: if using 'IGCN_MD5' encryption type, accounts are created with incorrect password
+
+:::: IGC.Launcher.ManagementTools ::::
+[v1.3.7.0]
+	-> [FIX] Launcher Designer: minor fixes
+	-> [ADD] Launcher Designer: "Check Files" button design
+	-> [ADD] Automatic Mouse Right Button Press configuration ('Settings File' -> 'Client Keyboard Hook System' -> 'R.Click')
+	-> [ADD] Client Files Check System configuration ('Settings File' -> 'Launcher Options' -> 'Client Files Check System')
+
+:::: Documentation ::::
+[v1.9.0]
+	-> [ADD] information about "Check Files" system and other changes
+
+:::: Others ::::
+	-> [MOD] Graphic files (MG and SUM) - added "Check Files" button design
+	-> [ADD] "Other useful stuff" - "Check Files" button PSD and images
+
+**/
+
+[Update 74]
+/**
+
+:::: IGC.Launcher.Premium ::::
+v2: [v1.8.6.1]
+	-> [MOD] launcher will not crash in case you have script errors in your Website (the URLs added to launcher for URL_Main and URL_News)
+
+[v1.8.6.0]
+	-> [FIX] sometimes after Launcher reconnects to Launcher Server, it isnt being verified
+	-> [ADD] HardwareID Ban options (see Launcher Server) - must use Launcher Server v1.0.2.0 or newer
+	-> [ADD] 'Data\ConnectionLog.log' file to investigate potential connection issues with LauncherServer
+
+:::: IGC.Launcher.Server ::::
+v2: [v1.0.2.1]
+	-> [MOD] removed IP configuration from config.ini file
+
+[v1.0.2.0]
+		//-- NOTE: some parts of code are new, so as a result might be some crashes --\\
+	-> [FIX] memory leaks
+	-> [FIX] possible crashes
+	-> [FIX] sometimes after Launcher reconnects, it isnt being verified
+	-> [MOD] changed file name 'Data\IPBlackList.dat'
+	-> [MOD] minor changes to log output
+	-> [ADD] possibity to ban player launcher PC by Hardware ID ('Data\HardwareIDBlackList.dat' and 'config.ini -> ForceHardwareIDCheck = 0/1') - must use launcher version 1.8.6.0 or newer
+
+**/
+
+
+[Update 73]
+/**
+
+:::: IGC.Launcher.Premium ::::
+[v1.8.5.32]
+	-> [FIX] possible crash
+	-> [FIX] rare bug causing game start button to be disabled
+	-> [MOD] improved thread management
+	-> [MOD] connection hanlding improvements
+
+:::: IGC.Launcher.Server ::::
+[v1.0.1.24]
+	-> [MOD] improved connection handling
+	-> [MOD] added additional logs of errors / warnings
+	-> [FIX] possible crashes
+	-> [FIX] memory leaks
+
+**/
+
+[Update 72]
+/**
+
+:::: IGC.Launcher.Premium ::::
+[v1.8.5.30]
+	-> [MOD] Error Language: language of errors (not the translated strings) should now show in english no matter the OS language
+
+:::: IGC.Launcher.Server ::::
+[v1.0.1.14]
+	-> [FIX] possible crashes
+	-> [MOD] Error Language: language of errors (not the translated strings) should now show in english no matter the OS language
+	-> [MOD] General: in case of crash or critical error, 'CrashLog.log' file will be created and you will be able to continue working without crash
+v2 [v1.0.1.15]
+	-> [FIX] possible crashes
+
+:::: IGC.Launcher.ManagementTools ::::
+[v1.3.6.9]
+	-> [MOD] Error Language: language of errors (not the translated strings) should now show in english no matter the OS language
+	-> [MOD] General: in case of crash or critical error, 'CrashLog.log' file will be created and you will be able to continue working without crash
+
+:::: Documentation ::::
+[v1.8.1]
+	-> [FIX] outdated information in some places
+
+**/
+
+[Update 71]
+/**
+
+IGC.Launcher.Premium
+[v1.8.5.25]
+	-> [FIX] possible crashes
+	-> [FIX] bugs if using FTP without user & password
+	-> [FIX] Custom Launcher Language: "Installing" zip file string is always in english
+	-> [FIX] Custom Launcher Language: issue with right to left languages on first open of launcher
+	-> [FIX] some other fixes
+v2: [v1.8.5.27]
+	-> [FIX] some rare connectivity issue on Windows XP
+	-> [FIX] rare connectivity issue with Launcher Server
+	-> [MOD] in case that player have unrecognized Client Language, it will be added to Client Languages list, but the first Language in List will be automatically selected so if he press Save then the unrecognized language will be overwriten with the first client language in list
+v3: [v1.8.5.29]
+	-> [MOD] Instead of dump files, small log files will be created (LauncherCrashLog.log)
+	-> [MOD] Launcher Addresses will now be hidden on any error message displayed by launcher
+
+IGC.Launcher.Server
+v3: [v1.0.1.13]
+	-> [FIX] Information Display mistake once player tries to create an account
+	-> [FIX] possible crash
+	-> [MOD] Instead of dump files, small log files will be created (CrashLog.log)
+
+
+**/
+
+[Update 70]
+/**
+
+IGC.Launcher.Premium
+[v1.8.5.20]
+	-> [FIX] Custom Launcher Language: possible bug
+	-> [FIX] Game Server Status Check: possible long delay in launcher start in case of adding many Game Servers
+	-> [FIX] Launcher Connection To Launcher Server: final fix for long delay issues
+	-> [FIX] Launcher Default English Language: corrections some text strings 
+	-> [ADD] Design: possiblity to change the Font Name and Italic type of texts (Management Tools -> Launcher Designer)
+	-> [ADD] Launcher Minimize To Tray: launcher will be restored if user press the notification message that launcher has been minimized
+	-> [ADD] Crashes: in case of crash *.dmp* file will be created which u need to send to me
+	-> [MOD] Launcher Minimize To Tray: the notification box that launcher has been minimized will be shown on first time only that launcher has been minimized (on the same session)
+v2:
+[v1.8.5.21]
+	-> [FIX] "Limit Open 1 Launcher From Same Folder" option causing crash if clicking launcher fast
+
+IGC.Launcher.Server
+[v1.0.1.12]
+	-> [FIX] final fix for issue when sometimes it takes very long time to connec to launcher server
+	-> [MOD] ConnectServer reconnects much faster
+	-> [MOD] Logs: some of the logs has been rewritten to be more clear
+	-> [MOD] removed ConnectionsClearInterval option from config.ini file (temp fix cleared, no need for that feature anymore)
+	-> [ADD] in case that a connection was "inactive" for more then X seconds, it gets disconnected (applies to Unknown and Client connections only, not Launcher Connections) - configurable in config.ini
+
+IGC.Launcher.ManagementTools
+[v1.3.6.8]
+	-> [ADD] Crashes: in case of crash *.dmp* file will be created which u need to send to me
+	-> [ADD] Designer: you can now chose text's  font Name and Italic style
+
+**/
+
+[Update 69]
+/**
+IGC.Launcher.Premium 
+	[v1.8.5.15]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+	-> [MOD] Reconnecting to launcher server is much faster now
+	-> [ADD] option to limit player from opening more then 1 launcher from same folder (Settings file)
+	-> [ADD] interval to refresh Main and News browsers every X minutes (Settings file)
+	-> [FIX] general minor fixes
+	[v1.8.5.16]
+	-> [ADD] Browser Refresh Interval with value 0 will never refresh
+
+IGC.Launcher.Server 
+	[v1.0.1.7]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+	-> [FIX] some crash fixes
+	-> [FIX] BlackList sometimes not saved correctly after restart
+	-> [ADD] temporary fix for lag in connection to server in case that many users are connected ("ConnectionsClearInterval_Minutes" in config.ini)
+	-> [FIX] minor fixes
+	-> [ADD] you can order Users list by IP / Type / Verified columns (click on column name)
+	-> [FIX] user buffer issues
+	-> [ADD] in case of crash then ".dmp" file will be generated
+
+IGC.Launcher.ManagementTools
+	[v1.3.6.6]
+	-> [ADD] option to limit player from opening more then 1 launcher from same folder
+	-> [ADD] interval to refresh Main and News browsers every X minutes
+	[v1.3.6.7]
+	-> [FIX] Browser Refresh Interval issue
+	-> [ADD] set Browser Refresh Interval value to 0 to disable refresh
+**/
+
+[Update 68]
+/**
+IGC.Launcher.Premium 
+	[v1.8.5.0]
+	-> [FIX] General: possible bugs / crashes
+	-> [MOD] General: removed Debug Mode
+	-> [MOD] Launcher Icon: changed to MU related icon
+	-> [MOD] Design: removed Lime color as auto transparent color (for any of you who used Lime color as Background transparent color, open new version of Management Tools -> Custom Design -> load your Graphics file -> Main Form -> Backgroud Image -> Make Transparent -> select the background color that you want to make transparent (default is Lime) -> save)
+	-> [ADD] Design: now it is possible to use full graphic potential of PNG files such as Shadows and semi-transparency
+	-> [ADD] Design: fade in / fade out effects of Main Window / Settings Window / Registration Window
+	-> [ADD] Design: "Breathing" effect for Connect Server / Game Servers status
+	-> [ADD] Design: "Game Start" button "Disabled" state as your normal "Game Start" button converted to Grayscale (Black and White)
+	-> [ADD] Design: any Zip extraction ("Installing") now shows progress of extraction
+	-> [ADD] File Watcher: launcher monitors any changes made to files which were added to Hash Protection system while Client is running, and launcher will close Client if any modification detected to the files (NOTE: new option "Close Client if Launcher Closed" must be enabled and "Close Launcher After Game Start" option must be disabled)
+	-> [ADD] Custom Client Languages: you can now add any client language you want (ex. \Local\Eng\) to the client languages list in Settings window (includes value which will be used in langconfig.ini) -> reffer to Launcher Management Tools "Settings Generator"
+	-> [ADD] General: option to start update only (and not game) in once Launcher is opened
+	v2:
+	[v1.8.5.1]
+	-> [FIX] "input string was not in correct format" error with some custom designs
+	-> [FIX] possible design visual bugs
+	v3:
+	[v1.8.5.3]
+	-> [FIX] Design: some bugs with specific kind of images with custom design
+	-> [MOD] improved method for launcher close in case of client close -> need more test
+	-> [MOD] Settings Window: removed "Cancel" button (now 2 buttons only in form: "Save" and "X")
+	-> [ADD] Settings Window: Keyboard key press "Enter" will perform same action as "Save" button
+	-> [ADD] Settings Window: Keyboard key press "Escape" will perform same action as "X" button
+	-> [ADD] Account Registration Window: Keyboard key press "Enter" will perform same action as "Create" button
+	-> [ADD] Account Registration Window: Keyboard key press "Escape" will perform same action as "X" button
+	v4:
+	[v1.8.5.4]
+	-> [FIX] "Kill Main Process Before Start" option does not eliminate all client processes
+	-> [FIX] Settings Window: "1024x768" resulotion option does not save
+	-> [ADD] Main Launcher Window: "Enter" press will act same as "Game Start" button press
+	-> [ADD] Main Launcher Window: "Escape" press will act same as "X" button press
+	v5:
+	[v1.8.5.5]
+	-> [FIX] Custom Design: "Out of memory" exception on Win XP OS
+	-> [ADD] Design: "Account Registration" button will be Grayscaled if it cannot be pressed (same like Game Start disabled state)
+	v6:	
+	[v1.8.5.6]
+	-> [ADD] Custom Launcher Language: added possiblity to set initial default language for launcher (see Settings Generator)
+	v7:
+	[v1.8.5.7]
+	-> [FIX] Hash Protection: "Length of data to decrypt is invalid" error
+	-> [FIX] Hash Protection: sometimes text files are downloaded with bad Encoding
+	v8:
+	[v1.8.5.8]
+	-> [MOD] Network: possible fix for cases of lag with many users connected
+	v9:
+	[v1.8.5.10]
+	-> [ADD] Hash Protection: "Full Protection" per-file settings ("Full Protection" = client close if file modified and option set to "On") -> this option is by default "On" for all files added to hash check - you dont hvae to create new Hash.tmp
+	-> [ADD] Design (General): option to ignore Windows DPI Configuration of the player (enabled by default - you dont have to create new Settings file)
+	v10:
+	[v1.8.5.11]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+
+IGC.Launcher.Server 
+	[v1.0.1.0]
+	-> [FIX] sometimes client gets disconnected because its not verified (must use launcher v1.8.5.0 with option "Close Launcher If Client Closed" enabled and "Close Launcher After Game Start" disabled)
+	-> [FIX] crashes and possible bugs
+	-> [MOD] improved network communication and packet queue (no lost or jumbled packets)
+	-> [ADD] AntiDoS System (reffer to config.ini file)
+	v8:
+	[v1.0.1.1]
+	-> [MOD] Network: possible fix for cases of lag with many users connected	
+	v9:
+	[v1.0.1.2]
+	-> [FIX] launcher freeze for some time after pressing X
+	v10:
+	[v1.0.1.3]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+
+IGC.Launcher.ManagementTools
+	[v1.3.6.0]
+	-> [ADD] Designer: possiblity to convert background color of Main Window / Settings Window / Registration Window to Transparent
+	-> [ADD] Designer: change selected control size with keyboard ("H" + "+" or "-" to change height, "W" + "+" or "-" to change width)
+	-> [ADD] Settings Generator: features presented in launcher v1.8.5.0
+	v2:
+	[v1.3.6.1]
+	-> [FIX] Designer: News Browser location relative to Main Panel
+	-> [FIX] Designer: "Register" button location in Main Panel
+	v3:
+	[v1.3.6.2]
+	-> [MOD] Designer: removed "Cancel" button in Settings Window
+	v6:
+	[v1.3.6.3]
+	-> [ADD] Hash File: possiblity to add folders and files manually to hash list
+	-> [ADD] Settings Generator -> Custom Launcher Languages: Default language
+	v8:
+	[v1.3.6.4]
+	-> [FIX] error shows if trying to add more then 3 Multi Servers
+	v9:
+	[v1.3.6.5]
+	-> [ADD] Hash File Generator: "Full Protection" state per-file
+	-> [ADD] Settings Generator: "Ignore Windows DPI" option
+
+Graphics Files (MG / SUM):
+	-> removed Lime color from MG and SUM background and replaced with Transparent
+
+**/
+
+[Update 67 v3]
+/**
+
+IGC.LauncherServer [v1.0.0.3]
+	-> [MOD] minor improvements
+	-> [FIX] possible crashes
+
+**/
+
+[Update 67 v2]
+/**
+
+IGC.Launcher.ManagementTools
+	-> [FIX] settings doesnt allow more then 3 GameServers check
+
+**/
+
+[Update 67]
+/**
+
+IGC.LauncherServer [v1.0.0.2]
+	-> [MOD] minor improvements
+	-> [FIX] possible crashes
+
+**/
+
+[Update 66]
+/**
+
+IGC.Launcher.Premium [v1.8.0.1]:
+	-> [MOD] minor changes. to use with LauncherServer v1.0.0.1 and newer only.
+
+IGC.LauncherServer [v1.0.0.1]:
+	-> [FIX] LauncherServer reports "no license" on some machines
+	-> [FIX] Registration disabled if PasswordChange is deactivated
+
+**/
+
+[Update 65]
+/**
+IGC.Launcher.Premium [v1.8.0.0]:
+	~~NOTE: FROM THIS VERSION ONWARDS, LAUNCHER WILL NOT WORK ANYMORE WITH CONNECT SERVER, LAUNCHER MUST CONNECT TO LAUNCHER SERVER~~
+	-> [FIX] many fixes on all systems
+	-> [FIX] stablity improvements and crash fixes
+	-> [FIX] registration freezes sometimes
+	-> [MOD] launcher icon has been changed
+	-> [MOD] much of the code has been re-written and improved
+	-> [MOD] less CPU consumption and memeory usuage
+	-> [MOD] removed loading animation
+	-> [MOD] launcher opens very fast, not like older version which takes few seconds
+	-> [MOD] server GMT can be decimal (1.5 etc)
+	-> [MOD] Update / Total progress now looks better
+	-> [MOD] Improved error reporting (check Documentation for explanation of codes)
+	-> [ADD] launcher can be opened multiple times on same machine
+	-> [ADD] mutli server option (client will be able to connect to different server IPs) - changealbe in Settings form of Launcher
+	-> [ADD] multi server account registration
+	-> [ADD] account password change option (multi server)
+	-> [ADD] right to left language support
+	-> [ADD] ALL launcher texts are possible to be translated
+	-> [ADD] multiple clients can be hidden/resoted/minimized on the same time (all clients which were opened by launcher, and launcher still running)
+	-> [ADD] possiblity to verify that player has opened client with launcher - player will not be able to play the game if not opened with launcher (this is new feature, in addition to old "Use IGCN Launcher" option. this new system is almost impossible to bypass by players)
+
+IGC.RegistrationServer - REMOVED
+
+IGC.LauncherServer - ADDED
+	-> [ADD] Multiple Servers Option
+	-> [ADD] Multiple Servers Account Registration / Password Change Option
+	-> [ADD] Connecting game if opened by launcher only (SECURED) ------------- USE WITH IGC.DLL of 8.0.4.4 (Beta) AND NEWER ONLY !
+
+IGC.Launcher.ManagementTools [v1.3.5.0]:
+	-> [MOD] removed all unused launcher options (Settings file generator) in relation to launcher v1.8.0.0
+	-> [ADD] added all features options added on launcher v1.8.0.0
+	-> [ADD] Designer: ServerList contol on Settings form
+	-> [ADD] Designer: you can move controls with your keybaord arrow keys too (after you click the control with mouse)
+
+Graphics File:
+	-> [MOD] updated Summoner and MG designs with latest features
+
+Other:
+	-> [MOD] Launcher Designs PSDs and Images - updated with latest Settings form and Registration forms PSDs
+
+Documentation [v1.8.0]
+	-> [ADD/MOD] information regarding must of launcher systems
+	-> IMPORTANT: updates Error code information and handling
+**/
+
+[Update 64]
+/**
+IGC.Launcher [v1.7.0.21]:
+	-> [MOD] Executable file repacked and now less sensative to Antivirus Flase Detections.
+Other:
+	-> [ADD] Launcher Designs PSDs and Images
+	-> [ADD] Webzen Launcher News Pages
+**/
+
+[Update 63]
+/**
+IGC.Launcher [v1.7.0.21]:
+	-> [FIX] sometimes launcher downloads corrupted text files from host (to fix it now you must put them in zip files, read below) 
+	-> [MOD] L_Version.wvd file now must be placed in "Patches\LauncherUpdate\L_Version.zip" file
+	-> [MOD] version.wvd file now must be placed in "Patches\version.zip" file
+
+Documentation [v1.7.2]:
+	-> changed information regarding locations of version.wvd file and L_Version.wvd file
+**/
+
+[Update 62]
+/**
+IGC.Launcher [v1.7.0.20]:
+	-> [FIX] random sometimes launcher freeze for few seconds
+	-> [FIX] multiple connect server connections initiated if connected server is closed for some time (cs status check)
+	-> [FIX] high cpu load when connect server is off
+	-> [ADD] message box will be shown if L_Version.wvd or version.wvd files are saved with bad encoding
+
+Registration Server: [v1.0.0.10]:
+	-> [ADD] option to disable the Password Type Automatic detection (see config file)
+
+**/
+
+[Update 61]
+/**
+IGC.Launcher [v1.7.0.13]:
+   -> [FIX] Possible fix for "1 is not a supported code page" error
+**/
+
+
+[Update 60]
+/**
+IGC.Launcher [v1.7.0.12]:
+	-> [FIX] Login error when using FTP host
+	-> [FIX] some other small issues..
+**/
+
+[Update 59]
+/**
+IGC.Launcher [v1.7.0.11]:
+	-> [FIX] Launcher doesnt read "HashCheck" prefix
+**/
+
+[Update 58]
+/**
+IGC.Launcher [v1.7.0.10]:
+	-> [MOD] its now possible to add to HashSystem files that are open by other processes (antihack files, main.exe, running dlls, etc..)
+	-> [FIX] "main.exe is already used by other program" error when opening client more then once (multiclient) from the same folder -> it will take now about 7 seconds for launcher to run additional clients
+	-> [FIX] "Update" progress bar not showing download progress when in HashSystem files check
+	-> [FIX] other general fixes
+**/
+
+[Update 57]
+/**
+Launcher Tools [v1.3.1.1]
+	-> [FIX] sometimes loading Settings.txt doesnt load all values
+**/
+
+[Update 56]
+/**
+IGC.Launcher [v1.7.0.9]:
+	-> [FIX] sometimes shows error "cVersion not found"
+	-> [FIX] if in hash check set to check for "main", launcher crash after tries to run game
+**/
+
+[Update 55]
+/**
+IGC.Launcher [v1.7.0.8]:
+	-> [FIX] icon of launcher does not show in tray when minimized if no Icon file is added to Animacon file or Animacon file is not used
+**/
+
+[Update 54]
+/**
+IGC.Launcher [v1.7.0.7]:
+	Note: READ CHANGES FOR Self-Update System in Documentation v1.7.1
+	-> [FIX] self update error
+**/
+
+[Update 53]
+/**
+IGC.Launcher [v1.7.0.6]:
+	-> [FIX] self update error
+	-> [FIX] directory exists check
+**/
+
+[Update 52]
+/**
+IGC.Launcher [v1.7.0.5]:
+	-> [MOD] launcher will check for empty lines in version.wvd file and L_Version.wvd
+	-> [MOD] if "English" language file name will be added to Settings file, it will overwirte the launcher default English
+	-> [FIX] main.exe cannot be opened and throws error
+	-> [FIX] one thing that may cause crash when checking for launcher version
+
+Launcher Tools [v1.3.1.0]:
+	-> Designer - Added option to see how launcher will look like with the Graphics (including the Transparent background)
+	-> when creating language file, tool will check if saved as English language and prompt for approval
+
+**/
+
+[Update 51]
+/**
+IGC.Launcher [v1.7.0.0]:
+Note on updating existing launchers to version 1.7.0.0
+	1. Make new Auto Update Patch (Patches\version.wvd) with new files of Launcher (Settings file, cVersion, etc.. NOTICE THE NEW LOCATIONS OF FILES)
+	2. Update the Self-Update system (Patches\LauncherUpdate\L_Version.wvd and temp.zip) with the new launcher EXE File 
+
+	-> [FIX] Crash when checking for multiple files in Hash System
+	-> [FIX] Custom design for Register Form
+	-> [FIX] ServerTime incorrect hour
+	-> [MOD] disabled Right click on Broswers
+	-> [MOD] You can add any files you want to temp.zip which will be extracted to client once there is a launcher update (note: must include atleast the new Launcher.exe file)
+	-> [MOD] Improved visual of progress bar
+	-> [MOD] Download speed will be showing in MB/s if speed is more then 999 KB/s
+	-> [MOD] if cVersion file does not exists in the MU folder, launcher will download and install all available patches
+	-> [MOD] Launcher Self Update now will be running in launcher itself (no need LauncherUpdater.tmp)
+	-> [MOD] Changed needed location of cVersion file to "Data\" folder
+	-> [MOD] Changed needed location of Graphics file to "Data\Launcher\Design" folder
+	-> [MOD] Changed needed location of Settings file to "Data\Launcher\" folder
+	-> [MOD] Moved location of Temp folder to "Data\Launcher\Temp" folder
+	-> [MOD] Moved location of generated Error file to "Data\Launcher" folder
+	-> [MOD] Error.log files generated by launcher will be Encrypted (you need to send me in order to analyze)
+	-> [ADD] Launcher will be generating Dump files in case of crash etc (you can indetify the Dump files by their name, the name will be the Time of the corrent moment for example "[03_11_2013] 15-13-42.dmp")
+	-> [ADD] if you want the launcher to restart after updating client patch (example "1.00.03") then simply add ":1" after quotes in "Patches/version.wvd" file. for example ( "1.00.03":1 ) and launcher will restart after update to 1.00.03 is finished
+	-> [ADD] option to run main.exe even if there was a problem updating launcher / client or HashSystem check
+	-> [ADD] status check for GS/CS can be disabled
+	-> [ADD] option to start update process right after launcher opened (no need to press GameStart to start update)
+	-> [ADD] option to set the main.exe file name (if you want to change it)
+	-> [ADD] debug mode - when enabled will show all settings values
+	-> [ADD] Buttons Hover image
+	-> [ADD] Multiple GSes Status Check
+	-> [ADD] can add Custom animation for launcher startup - if u dont want custom animation or icon, simply dont include Animation file in launcher folder ("Data\Launcher\Design\")
+	-> [ADD] can add Custom Icon - if u dont want custom animation or icon, simply dont include Animation file in launcher folder
+	-> [ADD] Additional launcher texts can be translaterd (Registration related)
+	-> [ADD] can add multiple languages to launcher
+	-> [ADD] you can Cancel any launcher operation (Self Update, Patch Update, HashCheck) by clicking the Close button once any of those operations are in Process (game will not start ofcoruse)
+	-> [GENERAL] many other improvements and corrections
+
+Launcher Tools [v1.3.0.0]
+	-> will run on IGCN Registered machine ONLY (server files machine)
+	-> Lots of changes (see changelog of Launcher)
+	-> IU Improvements (more user friendly)
+
+Graphics Files:
+	-> Added new Graphics file (Summoner background - like MuRebirth Launcher)
+	-> Added the Hover images to old Graphics file (MagicGladiator background - like GMO Launcher)
+**/
+
+[Update 50]
+/**
+
+
+Launcher Tools [v1.2.0.0]:
+	-> See Launcher changelog
+**/
+
+[Update 50]
+/**
+Registration Server: [v1.0.0.5]:
+	-> fixed possible error when connecting to database
+**/
+
+[Update 49]
+/**
+Launcher [v1.6.7.1]:
+	-> [FIX] Hash system "Temp" folder not exists error
+**/
+
+[Update 48]
+/**
+Launcher [v1.6.7.0]:
+	-> [FIX] HD Resolution save in Settings form
+**/
+
+[Update 47]
+/**
+Launcher [v1.6.6.9]:
+	-> [FIX] Loading launcher gets error 200
+**/
+
+[Update 46]
+/**
+Launcher [v1.6.6.8]:
+	-> [FIX] Code Mismatch in Registration if using Default design (no graphics file)
+**/
+
+[Update 45]
+/**
+Launcher [v1.6.6.7]:
+	-> [ADD] New Graphics file. much more nice and orginized design
+	-> [ADD] Improved design for launcher (without graphics file)
+	-> [MOD] CS/GS check every 10 minutes interval
+	-> [MOD] Small code sections rewritten
+	-> [FIX] Many Design corrections
+			<**> (if you are using full sqaure background you can ignor this note) NOTE: If you want Transperant background to your launcher, use Lime color for the Backgound color of your launcher background image and save as BMP file. to lower the BMP size can save as 16bit
+	-> [FIX] Default design (no graphics file) bugs
+	-> [OTHER] Some maintance
+
+*New Graphics file with new design (same for launcher default without custom graphics)
+
+**/
+
+[Update 44]
+/**
+Launcher [v1.6.6.4]:
+	-> [FIX] Settings Form: black background for some controls
+**/
+
+[Update 43]
+/**
+Launcher [v1.6.6.3]:
+	-> if the RegServer IP is BLANK (empty) configured in Settings file, then will not be possible to Register with registration function
+	-> other fixes
+**/
+
+[Update 42]
+/**
+Launcher [v1.6.6.0]:
+	-> now it is possible to add more supported versions of launcher to the L_Version.wvd
+		NOTE for any who use version 1.6.5.1 or older! : the newest Update version of launcher must be the first line of the L_Version.wvd file
+	-> Added Daylight Saving time for Server Time
+
+Launcher Tools [v1.1.8.0]:
+	-> Added option to set if the hosts' Server Time is with Daylight Saving (NOTE: after the daylight saving will be disabled in server, you would need to create new patch with settings file DayLightSaving disabled)
+
+~Updated the Documentation file with some info
+**/
+
+[Update 41]
+/**
+Launcher [v1.6.5.1]:
+	-> Fixed launcher graphics if not using the Custom Graphics option
+
+**/
+
+
+[Update 40]
+/**
+Launcher [v1.6.5.0]:
+	-> in case that launcher is opened more then 1 time, the first form of launcher will be back to front of screen
+	-> in case that launcher was minimized to tray or to taskbar, and launcher.exe will be clicked again, the first form of launcher will be back to front of screen
+	-> notification ballon will be opened once launcher is minimized to tray (can set custom text via LauncherTools)
+	-> other improvments
+
+Launcher Tools [v1.1.7.0]:
+	-> added the custom texts to the minimize ballon to the Settings Generator form
+**/
+
+[Update 39]
+/**
+Launcher Updater [v1.0.2.3]:
+	-> fixed "1 is not supported code page" error
+**/
+
+[Update 38]
+/**
+Registration Server: [v1.0.0.4]:
+	-> Fixed crash
+**/
+
+[Update 37]
+/**
+Launcher [v1.6.4.8]:
+	-> Increased mail address maximum length to 60 chars
+
+Registration Server: [v1.0.0.3]:
+	-> Increased mail address maximum length to 60 chars
+**/
+
+
+[Update 36]
+/**
+Launcher [v1.6.4.7]:
+	-> Fixed Settings save crash if registery values dont exist (now auto-creates)
+	-> Added little fix in LauncherUpdater deletion
+	-> Fixed flashing with first load (should be fixed...)
+
+Launcher Updater [v1.0.2.2]:
+	-> Fixed label position
+**/
+
+[Update 35]
+/**
+Launcher [v1.6.4.6]:
+	-> Improved connection management
+	-> Fixed flickering with first load
+
+Launcher Updater [v1.0.2.1]:
+	-> Some connection improvements
+	-> Now will request to run as administrator
+
+Launcher Tools [v1.1.6.1]:
+	-> Fixed (-) gmt bug
+	-> Fixed a bug where the custom string wheres saved trimmed
+
+Documentation [v1.4.0]:
+	-> Added more infomation and notes
+**/
+
+
+
+[Update 34]
+/**
+Launcher EXE:  [v1.6.4.3] (Final)
+	-> Fixed possible bugs
+	-> If remote host is not online or there is connection error at first run of launcher, destination IP and port will not be shown.
+**/
+
+[Update 33]
+/**
+Launcher EXE:  [v1.6.4.2] (Final)
+	-> Added option to set custom wait time after connection to ConnectServer
+
+Launcher Tools [v1.1.6.0]
+	-> Fixed critical bug. Who used version 1.1.5.0 to generate "Settings" file and having problems with AutoUpdate, must generate "Settings" file with new version.
+	-> Added option to configure the waiting time after issueing connection to ConnectServer (1000 milliseconds is recomended value for good quality host servers, if u having problems with long loading times, INCREASE the values until u are setisfied with result)
+
+~Custom Geaphics file: Fixed transperant edges of GameStart button
+
+**/
+
+[Update 32]
+/**
+Launcher EXE:  [v1.6.4.1] (Final)
+	-> Fixed long loading times
+
+**/
+
+[Update 31]
+/**
+Launcher EXE:  [v1.6.4.0] (Final)
+	-> Added option to include a prefix to Patches/HashCheck to each Settings file (to be able to use with multiple Servers located ON THE SAME MACHINE AND IGCN LICENSE)
+	-> Fixed & improved GS/CS Status check
+	-> Added possiblity to use DNS name instead of IP for ConnectServerIP/GameServerIP/RegistrationServerIP
+
+Launcher Tools [v1.1.5.0]
+	-> Added Patches/HashCheck prefix config
+	-> Enabled DNS name input as IPs
+
+*Updated the Documentation file with some info
+**/
+
+[Update 30]
+/**
+Launcher EXE:  [v1.6.2.1] (Final)
+	-> Fixed a bug. Sorry for this.
+**/
+
+[Update 29]
+/**
+Launcher EXE:  [v1.6.2.0] (Final)
+	-> Now once launcher minimize button is pressed & you set MinimizeToTray = ON then it will be minimized to tray
+	-> minor minimize to tray bug fix
+	-> little improvment of client Restore (now it will restore & brings to front)
+**/
+
+[Update 28]
+/**
+Launcher EXE:  [v1.6.1.0] (Final)
+	-> Added option to minimize launcher to Tray once minimize button is pressed
+	-> Client icon will be visible in Tray once using the "hide" hotkey
+
+Launcher Tools [v1.1.4.0]
+	-> Added launcher minimize to tray config
+
+**/
+
+[Update 27]
+/**
+Launcher EXE:  v1.6.0.0 (Final)
+	-> Keyboard hooking (client minimize, hide, restore hotkeys)
+	-> Bugfixes
+	-> Live Registration system improvments
+	-> Launcher now will request for elevated privileges with first run 
+
+Launcher Tools [v1.1.3.0]
+	-> Designer Bug/crash fixes
+	-> Added Keyboard hooking system configs
+**/
+
+[Update 26]
+/**
+Launcher EXE:  v1.5.5.2 (Final)
+	-> Fixed Settings Crash
+**/
+
+[Update 25]
+/**
+Launcher EXE:  v1.5.5.1 (Final)
+	-> Fixed little mistake
+
+Launcher Tools:  v1.1.2.1
+	-> minor bugfix
+**/
+
+[Update 24]
+/**
+Launcher EXE:  v1.5.5.0 (Final)
+	-> Changed ProgressBar graphics (now background is transparent)
+	-> Added option to minimize Launcher after GameStart
+	-> Added Minimize button
+	-> Fixed bug when launcher started minimized
+
+Launcher Tools:  v1.1.2.0
+	-> Added option to Minimize launcher after GameStart (Settings generator)
+	-> Fixed desginger bug
+	-> Added Desginer minimize button
+
+NEW Grapihcs File
+
+**/
+
+[Update 23]
+/**
+IGC.Registration Server: v1.0.0.2 
+	-> Fixed IGC MD5 password generation bug
+**/
+
+[Update 22]
+/**
+IGC.Registration Server: v1.0.0.2 
+	-> Fixed IGC MD5 password generation bug
+**/
+
+
+[Update 21]
+/**
+Launcher EXE:  v1.5.1.0 (Final)
+	-> More webzen-style nicer GameStart functionallity
+	-> Fixed AM/PM time bug
+
+IGC.Registration Server: v1.0.0.1 
+	-> Fixed possible bug
+
+**/
+[Update 21]
+/**
+Launcher EXE:  v1.5.0.0 (Final)
+	-> Fixed Settings form background size
+	-> other Bugfixes & Improvements
+	-> Added Live Registration
+	-> Changed launcher parameter start with main (Will be possible to use main <-> Launcher lock in NEXT igc.dll update)
+
+Launcher Tools:  v1.1.0.0
+	-> Added more Texts infos to Settings generator & more Registration system configs
+	-> Added Registration System designing tools to Designer
+
+IGC.Registration Server: v1.0.0.0 (New application)
+	-> Auto-Detects MD5 ON/OFF/IGCN type
+	-> Will handle all Registration requests by Launcher
+	-> Stable & Minor RAM comsumption
+
+OTHER:
+	-> Graphics file in \Launcher Tools\GraphicsFile replaced with new pre-made Registration form design
+**/
+
+[Update 20]
+/**
+Launcher Tools:  v1.0.3.5
+	-> Fixed cVersion bug
+**/
+
+[Update 19]
+/**
+Launcher Tools:  v1.0.3.4
+	-> Fixed Designer crash would not load Graphics file on some PCs
+	-> Fixed cVersion would not generate on some PCs
+**/
+
+[Update 18]
+/**
+Launcher EXE:  v1.4.0.0 (Final)
+	-> Fixed gif animation, now works, can add every image as animated
+	-> Errors msg boxes information reduced, more info will be added to file "error_log.txt"
+	-> Changed the loading animation  to mu-related
+	-> Compiled 2 versions of launcher, with and without loading animation
+	-> Some bugfixes
+**/
+
+[Update 17]
+/**
+Launcher EXE: Version 1.3.0.1
+	-> Fixed little mistake
+**/
+
+[Update 16]
+/**
+Launcher EXE: Version 1.3.0.0
+	-> added loading image after launcher initiated
+	-> added option to set custom text string for launcher infos
+	-> added option to force kill "main" process if exists, before running new instace of main
+	-> blocked the possibility to run Launcher more then once at a time
+
+LauncherTools v1.0.3.0:
+	-> Added option to change default text strings
+	-> added kill main process switch
+
+Documentation v1.2.5:
+	-> Some updates
+**/
+
+[Update 15]
+/**
+Launcher EXE: Version 1.2.4.2
+	-> Fixes some bugs as Launcher will not work on some OSes
+     ***NOTE: TO USE THIS VERSION YOU MUST GENERATE NEW "Settings" "Graphics" and "cVersion" FILES
+
+LauncherTools v1.0.2.0:
+	-> Added option to chose ServerToime type 24h / 12h
+
+LauncherUpdater v1.0.2.0:
+	-> Added possibility to extract "Settings", "Graphics" and "cVersion" files from the temp.zip file (if exists in zip)
+	
+**/
+
+[Update 13]
+/**
+Launcher EXE: Version 1.2.3.2
+	-> Fixed loop bug when using FTP host
+
+Grapihcs file
+	-> Changed some images 
+	
+**/
+
+
+[Update 12]
+/**
+Launcher EXE: Version 1.2.3.1
+	-> Changed file name "Hash" to "Hash.tmp" to avoid potential problems with HTTP host
+
+Launcher Tools
+	-> Changed file name "Hash" to "Hash.tmp" to avoid potential problems with HTTP host
+
+Documentation
+	-> Changed file name "Hash" to "Hash.tmp" to avoid potential problems with HTTP host
+**/
+
+[Update 11]
+/**
+Launcher EXE: Version 1.2.3.0
+	-> Fixed some bugs with custom Graphics
+	-> Fixed Server Time (now works correctly)
+	-> Some minor changes and bug fixes
+	-> Added possibility to add Animated GIFs as buttons images
+
+Launcher Tools
+	-> Fixed a bug when Desginer is crashing once trying to load images
+	-> Will work now in x32 OS
+	-> Added option to load .gif images 
+**/
+
+[Update 10]
+/**
+Launcher EXE: Version 1.2.2.1
+	-> Removed 1 pixel borders on Images
+	-> Fixed issue with custom design when buttons are not loaded initially
+**/
+
+[Update 9]
+/**
+Launcher EXE: Version 1.2.2.0
+	-> Some fixes
+**/
+[Update 8]
+/**
+Launcher EXE: Version 1.2.1.2
+		-> Fixed a bug when not loading Browsers (main and News) - NEED TO GENERATE NEW SETTINGS FILE
+Launcher Tools
+		-> Fixed a bug when generating and loading Settings file
+**/
+
+[Update 7]
+/**
+Launcher EXE: Version 1.2.1.1
+		-> Fixed error regarding GetWindowModeState
+		-> Changed the error msg info a bit
+LauncherUpdater
+		-> Now the updater will download "temp.zip" from the Host (location \LauncherUpdate\temp.zip)
+				Then updater will extract the zip file (the zip file contains the latest version of launcher)
+Documentation
+	-> Updated
+**/
+
+[Update 6]
+/**
+Launcher EXE: Version 1.2.1.0
+	-> Added error codes for debugging
+	-> Small fixes
+Launcher Tools
+	-> Added check for for valid URLs
+Documentation
+	-> Added error codes info and handling
+**/
+
+[Update 5]
+/**
+Grahpics file -> Added some "Clicked" images
+
+Launcher Tools -> Launcher Designer -> Added possiblity to add a "Clicked" image to buttons
+
+Launcher EXE: version 1.2.0.0
+	-> Fixed Windows 8 crash
+	-> Patch Update system now works with .zip files ONLY (not rar or any other, only zip)
+	-> Changes update functions a bit, nothing you will notice
+
+Documentation -> Updated
+**/

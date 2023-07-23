@@ -1,0 +1,329 @@
+﻿[v1.10.1.15]
+	-> [FIX] When launcher is minimized, notification message group title always shows 'Launcher.Premium' (now it will be the same as the exe name)
+
+[v1.10.1.14]
+	-> [FIX] Possible issue with file loading and network packets
+
+[v1.10.1.13]
+	-> [FIX] error is displayed when pressing "Save" button in Settings window, in case custom Server Realms list is configured with IDs which do not match the realms count.
+	-> [FIX] launcher icon displayed in Taskbar shows in low quality
+
+[v1.10.1.12]
+	-> [MOD] hidden specific non critical error
+
+[v1.10.1.11]
+	-> [MOD] 'Browser Refresh' related errors will not be displayed to the user
+	-> [FIX] 'News' browser shows "navigation stopped" for a short time before loading the news
+	-> [FIX] Once any text input field receive focus, and the user's input language is not supported, launcher will display error and close ('Culture ID 8192 (0x2000) is not a supported culture.') - now the launcher will display error but wont close
+
+[v1.10.1.10]
+	-> [FIX] possible application error in certain cases ("configuration section not recognized ...") -> IMPORTANT: launcher ".exe.config" file modified as well 
+
+[v1.10.1.9]
+	-> [MOD] links inside the HTML content (Main page, News page) which are configured to open URL in new window (target="_blank" HTML attribute) will open the default browser in PC (not enforced to IE only)
+
+[v1.10.1.8]
+	-> [FIX] 'Browser Refresh' warning is displayed if the web page is not completely loaded
+
+[v1.10.1.7]
+	-> [FIX] possible (rare) error
+
+[v1.10.1.6]
+	-> [MOD] In case of error, more information will be displayed in the message box displayed to the user
+
+[v1.10.1.5]
+	-> [FIX] Unable to connect to LauncherServer in some PCes in case of using DNS on Settings file and your server has enabled IPV6
+
+[v1.10.1.4]
+	-> [MOD] cVersion check: if existing cVersion file has invalid password, all available patches will be downloaded and installed
+	-> [FIX] HTTPs Patch/HashCheck license address does not work (this error is caused by a web host that is using new TLS (1.1, 1.2, etc) protocols for their certificate - .NET 3.5 does not support newer TLS protocols; only TLS 1.0; if you are using new TLS in your certificate, your players must install .NET Framework 4.5 or newer)
+
+[v1.10.1.3]
+	-> [NOTE] It is recommended to ship "your-launcher-name.exe.config" file together with your launcher, however you should rename it to the same name of your launcher for example "MULauncher.exe.config"
+	-> [FIX] launcher error if client (main) is closed while launcher running or launcher is closing while client (main) is running
+	-> [FIX] client auto-update system's self reset feature does not work
+	-> [FIX] high cpu/gpu usage
+	
+[v1.10.1.2]
+	-> [FIX] launcher shows tooltip when closing, if "minimize to tray" option is enabled in Settings
+
+[v1.10.1.1]
+	-> [FIX] when launcher is restored after main closed, it does not come to foreground
+	-> [FIX] various issues when keyboard hook system is enabled (seems like issue is exclusive to v1.10.1.0)
+
+[v1.10.1.0]
+	-> [MOD] Degraded to .NET Framework 3.5 for better old OS support (Windows 7 SP0 should work without any extra requirements, Win XP should manually install .net framework 3.5)
+	-> [MOD] Removed interactive taskbar icon support due to .net framework degration (see changelog for version 1.9.1.6)
+	-> [FIX] Server time does not show currect value when Server's Daylight Saving time is enabled Settings
+
+[v1.10.0.11]
+	-> [FIX] ever increasing log file size
+	-> [FIX] possible crash
+	-> [FIX] window fade out on close seems to freeze for a second
+
+[v1.10.0.10]
+	-> [FIX] News page cannot display webpage working in some cases (caused by 1.10.0.9 changes)
+
+[v1.10.0.9]
+	-> [MOD] modified browser auto refresh to try fix possible crash on refresh
+
+[v1.10.0.8]
+	-> [MOD] better compatability with LauncherServer reconnetion when using Anti-DoS protection
+
+[v1.10.0.7]
+	-> [FIX] in some cases, https sites cannot be displayed because of ceriticate error
+
+[v1.10.0.6]
+	-> [FIX] windows DPI fixes
+	-> [FIX] ServerList for autologin does how show when launcher first open
+
+[v1.10.0.5]
+	-> [FIX] launcher does not function properly after the local network connection has been lost, and reconnected to server
+
+[v1.10.0.4]
+	-> [FIX] unable to scroll ServerList with mouse clicks
+	-> [FIX] launcher does not read correctly passwords that start with "0"
+	-> [MOD] minor iocp changes
+
+[v1.10.0.3]
+	-> [FIX] hook system not working since v1.10
+	
+[v1.10.0.2]
+	-> [FIX] unable to start launcher if 'Data\Launcher\Temp' folder does not exist
+	
+[v1.10.0.1]
+	-> [FIX] half a second freeze when closing
+	-> [FIX] window does not come to font of other windows when opening/restoring
+
+[v1.10.0.0]
+	-> [NEW] IGC AutoLogin support (S13 Ep2 and newer)
+	-> [NEW] Launcher's Taskbar icon will visually display the update progress into its icon (supported on windows 7 and newer, see https://docs.microsoft.com/en-us/dotnet/media/wpfshell-taskbariteminfo.png)
+	-> [NEW] You can hover over Launcher's Taskbar icon and press the "play" button to start game without clicking GameStart button in launcher (supported on windows 7 and newer, see https://docs.microsoft.com/en-us/dotnet/media/wpfshell-taskbariteminfo.png)
+	-> [MOD] Log system has been improved and should provide more information in case of crash (submit to us 'Data\Launcher\Log.txt' file in such case)
+	-> [MOD] improved IOCP communication with LauncherServer
+	-> [MOD] overall performance improvements
+	-> [FIX] different fixes
+
+[v1.9.1.6]
+	-> [MOD] extended crash log info
+	-> [NEW] Launcher taskbar icon will now fill up (progress bar) based on the Total update progress
+	-> [NEW] Launcher taskbar icon "Play" button for fast GameStart functionallity (when hovering over Launcher taskbar icon)
+
+[v1.9.1.5]
+	-> [FIX] launcher may crash if using SSL web for launcher files on older windows versions (where .net 4.5 cannot be installed)
+
+[v1.9.1.4]
+	-> [FIX] launcher may throw errors related to SSL connection when using https/ftps Patches/Hashcheck addresses
+
+[v1.9.1.3]
+	-> [FIX] possibly fixed issue with some AntiViruses reporting launcher as virus after launcher self-update (requires new file 'Data\Launcher\updater.exe')
+	-> [FIX] possibly fixed issue with GameStart button disabled (Grey, unclickable) at startup in some OSes
+
+[v1.9.1.1]
+	-> [FIX] Resolutions for S12 (KOR) version
+
+[v1.9.1.0]
+	-> [NEW] configurable string "ConnectServer" and "CheckingForClientModifications" in Management tools custom language
+	-> [FIX] client reconnect does not work if using "minimize" option for launcher in Settings after press "GameStart"
+	-> [MOD] Main Window: if using client season 12 and newer in Settings file, removed WindowMode checkbox (now in Settings window), ConnetServer status label (now integrated in GameServers status animation), News browser.
+	-> [MOD] Settings Window: if using client season 12 and newer in Settings file; removed Sound, Music, Color Depth, Client Language selections
+	-> [NEW] GameServers status label "Scrolling" animation option (configurable in Design tool)
+	-> [FIX] possible crashes in Hash files download
+	-> [FIX] possible incorrect Hash files progress count
+	-> [FIX] possible incorrect GameServer status shown if using duplicated GS names
+	-> [FIX] Registration Window: Verification code location not read from custom design
+
+[v1.9.0.6]
+	-> [FIX] client isnt being closed if closing launcher too fast and using option "Close client in case launcher closed"
+
+[v1.9.0.5]
+	-> [FIX] flickering on launcher load
+
+[v1.9.0.4]
+	-> [FIX] Custom Design issues with Season 9 mode and Resulotions combo box
+
+[v1.9.0.3]
+	-> [FIX] Custom Design never being loaded
+
+[v1.9.0.2]
+	-> [FIX] Custom Design errors/bugs
+
+[v1.9.0.1]
+	-> [FIX] missing error in information in Template file loading
+
+[v1.9.0.0]
+	*** NOTE: if using custom graphics, you must re-generate your Graphics (Design) file using new Design Tool of Launcher Management Tools v1.4.0.0 or newer ***
+	-> [FIX] critical crash
+	-> [FIX] custom Click sound not working or cannot be removed
+	-> [FIX] in some cases Keyboard Hokteys systems do not work
+	-> [FIX] "GameStart" button stays gray for long period of time after game has been opened
+	-> [NEW] support for new Design system (loads faster and more lightweight) - usable with launcher management tools v1.4.0.0 or newer
+	-> [NEW] support for hiding every UI element (button/label etc) - usable with launcher management tools v1.4.0.0 or newer
+	-> [NEW] ServerInfo's realtime Codepage modificaiton based on selected language (Settings window) - you must set correct Default and codepage for every client language you add in Launcher Management tools
+	-> [MOD] General: shortened startup and authentication process and connection
+	-> [MOD] greatly improved communication with LauncherServer - relevent only if using LauncherServer 1.2.0.0 or newer 
+
+[v1.8.10.1]
+	-> [FIX] client Keyboard Hook system not working since 1.8.10.0
+	-> [MOD] after launcher self-update completed, GameStart buttom would automatically be pressed.
+
+[v1.8.10.0]
+	-> [NEW] launcher now supports game's reconnect system in case player loses entire internet connection (and normal reconnect too) - must use LauncherServer version 1.0.5.0 and IGC.DLL 9.5.1.12
+	-> [FIX] general fixes and improvements
+	-> [FIX] crash fixes
+	-> [MOD] added message box warning in case that launcher is trying to replace a file that is being used (when doing Client Auto Update - up_list.zip extraction)
+
+[v1.8.9.0]
+	-> [NEW] configuration Support for UHD resolutions introduced in server files 9.5.1.3 (season 9 only, works with IGCN clients ONLY)
+	-> [FIX] incorrect Database ID might be selected if using Multi-Server default ID (with launcher shortcut) - now this default ID is the line number of the Multi-Server config (0, 1, 2 ..) 
+	-> [FIX] crash if OS DEP is enabled (need to be tested)
+	-> [FIX] General: possible crash after pressing "Start Game" in case main.exe porcess was closed immidietly after Launcher opened it.
+
+[v1.8.8.4]
+	-> [FIX] WindowMode doesnt show correct state
+
+[v1.8.8.3]
+	-> [FIX] possible fix to an issue that players may not be able to run launcher properly if Non-Unicode language is not set to English in OS
+
+[v1.8.8.2]
+	-> [MOD] removed forced ScrollBars in Launcher Browsers (News & Main)
+
+[v1.8.8.1]
+	-> [FIX] Custom Launcher Language: language doesnt save after launcher restart
+	-> [FIX] 'Game Start' is enabled if 'Settings' window is open and closed why launcher updates
+
+[v1.8.8.0]
+	-> [FIX] General: possible crash after pressing "Start Game" in case main.exe porcess was closed immidietly after Launcher opened it.
+	-> [FIX] General: possible crash after pressing "More" button in case launcher was unable to open a web link.
+	-> [FIX] MultiServer: multi server selector does not show if not using custom design
+	-> [MOD] Account Registration: extended maximum password length to 20 chars (must use Launcher Server v1.0.4.0 and newer)
+	-> [MOD] Settings Window: 'Multi Server List' combo box will no be shown if no multi servers has been added in Settings file
+	-> [ADD] Multi-Server: you can specify the default ServerID that will be selected by running launcher with the parameter of the ServerID (0, 1, 2...) -> 1 parameter only with shortcut!!
+	-> [ADD] General: enabled support for Season 9 Client Settings (resolution, sound, music, window mode etc..) - make sure to generate new Settins file with 'Season 9' mode and make according changes in your Design
+
+[v1.8.7.3]
+	-> [FIX] possible crash
+	
+[v1.8.7.2]
+	-> [FIX] Launcher Self-Update system does not work if Launcher EXE name contains White Spaces.
+	-> [FIX] Launcher's WebBrowser (Main Browser and News Browsers) sometimes do not refresh or show old content (final fix)
+
+[v1.8.7.1]
+	-> [FIX] cannot login to game if "JoinGameWithLauncherOnly" options is enabled
+
+[v1.8.7.0]
+	-> [FIX] Launcher's WebBrowser (Main Browser and News Browsers) sometimes do not refresh or show old content (experimental feature, not sure if would work)
+	-> [FIX] "Game Start" automatically pressed if Enter key is pressed, but launcher is not top most application
+	-> [ADD] possiblity to block launcher from connecting to LauncherServer if launcher is running from Virtual Machine (see config.ini file of LauncherServer 1.0.3.0 and newer)
+	-> [ADD] Automaic Mouse Right Button Press feature (see LauncherTools)
+	-> [ADD] "Client Files Check System" which validates and replace all client files with files from host (if needed, and if they are in list "Host\HashCheck\Hash_FullCheck.tmp") upon clicking "Check Files" button on launcher (see LauncherTools)
+
+[v1.8.6.1]
+	-> [MOD] launcher will not crash in case you have script errors in your Website (the URLs added to launcher for URL_Main and URL_News)
+
+[v1.8.6.0]
+	-> [FIX] sometimes after Launcher reconnects to Launcher Server, it isnt being verified
+	-> [ADD] HardwareID Ban options (see Launcher Server) - must use Launcher Server v1.0.2.0 or newer
+	-> [ADD] 'Data\ConnectionLog.log' file to investigate potential connection issues with LauncherServer
+
+[v1.8.5.32]
+	-> [FIX] possible crash
+	-> [FIX] rare bug causing game start button to be disabled
+	-> [MOD] improved thread management
+	-> [MOD] connection hanlding improvements
+
+[v1.8.5.30]
+	-> [MOD] Error Language: language of errors (not the translated strings) should now show in english no matter the OS language
+
+[v1.8.5.29]
+	-> [MOD] Instead of dump files, small log files will be created (LauncherCrashLog.log)
+	-> [MOD] Launcher Addresses will now be hidden on any error message displayed by launcher
+
+[v1.8.5.27]
+	-> [FIX] some rare connectivity issue on Windows XP
+	-> [FIX] rare connectivity issue with Launcher Server
+	-> [MOD] in case that player have unrecognized Client Language, it will be added to Client Languages list, but the first Language in List will be automatically selected so if he press Save then the unrecognized language will be overwriten with the first client language in list
+
+[v1.8.5.25]
+	-> [FIX] possible crashes
+	-> [FIX] bugs if using FTP without user & password
+	-> [FIX] Custom Launcher Language: "Installing" zip file string is always in english
+	-> [FIX] Custom Launcher Language: issue with right to left languages on first open of launcher
+	-> [FIX] some other fixes
+
+[v1.8.5.21]
+	-> [FIX] "Limit Open 1 Launcher From Same Folder" option causing crash if clicking launcher fast
+
+[v1.8.5.20]
+	-> [FIX] Custom Launcher Language: possible bug
+	-> [FIX] Game Server Status Check: possible long delay in launcher start in case of adding many Game Servers
+	-> [FIX] Launcher Connection To Launcher Server: final fix for long delay issues
+	-> [FIX] Launcher Default English Language: corrections some text strings 
+	-> [ADD] Design: possiblity to change the Font Name and Italic type of texts (Management Tools -> Launcher Designer)
+	-> [ADD] Launcher Minimize To Tray: launcher will be restored if user press the notification message that launcher has been minimized
+	-> [ADD] Crashes: in case of crash *.dmp* file will be created which u need to send to me
+	-> [MOD] Launcher Minimize To Tray: the notification box that launcher has been minimized will be shown on first time only that launcher has been minimized (on the same session)
+
+[v1.8.5.16]
+	-> [ADD] Browser Refresh Interval with value 0 will never refresh
+
+[v1.8.5.15]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+	-> [MOD] Reconnecting to launcher server is much faster now
+	-> [ADD] option to limit player from opening more then 1 launcher from same folder (Settings file)
+	-> [ADD] interval to refresh Main and News browsers every X minutes (Settings file)
+	-> [FIX] general minor fixes
+
+[v1.8.5.11]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+
+[v1.8.5.10]
+	-> [ADD] Hash Protection: "Full Protection" per-file settings ("Full Protection" = client close if file modified and option set to "On") -> this option is by default "On" for all files added to hash check - you dont hvae to create new Hash.tmp
+	-> [ADD] Design (General): option to ignore Windows DPI Configuration of the player (enabled by default - you dont have to create new Settings file)
+
+[v1.8.5.8]
+	-> [MOD] Network: possible fix for cases of lag with many users connected
+
+[v1.8.5.7]
+	-> [FIX] Hash Protection: "Length of data to decrypt is invalid" error
+	-> [FIX] Hash Protection: sometimes text files are downloaded with bad Encoding
+
+[v1.8.5.6]
+	-> [ADD] Custom Launcher Language: added possiblity to set initial default language for launcher (see Settings Generator)
+
+[v1.8.5.5]
+	-> [FIX] Custom Design: "Out of memory" exception on Win XP OS
+	-> [ADD] Design: "Account Registration" button will be Grayscaled if it cannot be pressed (same like Game Start disabled state)
+
+[v1.8.5.4]
+	-> [FIX] "Kill Main Process Before Start" option does not eliminate all client processes
+	-> [FIX] Settings Window: "1024x768" resulotion option does not save
+	-> [ADD] Main Launcher Window: "Enter" press will act same as "Game Start" button press
+	-> [ADD] Main Launcher Window: "Escape" press will act same as "X" button press
+
+[v1.8.5.3]
+	-> [FIX] Design: some bugs with specific kind of images with custom design
+	-> [MOD] improved method for launcher close in case of client close -> need more test
+	-> [MOD] Settings Window: removed "Cancel" button (now 2 buttons only in form: "Save" and "X")
+	-> [ADD] Settings Window: Keyboard key press "Enter" will perform same action as "Save" button
+	-> [ADD] Settings Window: Keyboard key press "Escape" will perform same action as "X" button
+	-> [ADD] Account Registration Window: Keyboard key press "Enter" will perform same action as "Create" button
+	-> [ADD] Account Registration Window: Keyboard key press "Escape" will perform same action as "X" button
+
+[v1.8.5.1]
+	-> [FIX] "input string was not in correct format" error with some custom designs
+	-> [FIX] possible design visual bugs
+
+[v1.8.5.0]
+	-> [FIX] General: possible bugs / crashes
+	-> [MOD] General: removed Debug Mode
+	-> [MOD] Launcher Icon: changed to MU related icon
+	-> [MOD] Design: removed Lime color as auto transparent color (for any of you who used Lime color as Background transparent color, open new version of Management Tools -> Custom Design -> load your Graphics file -> Main Form -> Backgroud Image -> Make Transparent -> select the background color that you want to make transparent (default is Lime) -> save)
+	-> [ADD] Design: now it is possible to use full graphic potential of PNG files such as Shadows and semi-transparency
+	-> [ADD] Design: fade in / fade out effects of Main Window / Settings Window / Registration Window
+	-> [ADD] Design: "Breathing" effect for Connect Server / Game Servers status
+	-> [ADD] Design: "Game Start" button "Disabled" state as your normal "Game Start" button converted to Grayscale (Black and White)
+	-> [ADD] Design: any Zip extraction ("Installing") now shows progress of extraction
+	-> [ADD] File Watcher: launcher monitors any changes made to files which were added to Hash Protection system while Client is running, and launcher will close Client if any modification detected to the files (NOTE: new option "Close Client if Launcher Closed" must be enabled and "Close Launcher After Game Start" option must be disabled)
+	-> [ADD] Custom Client Languages: you can now add any client language you want (ex. \Local\Eng\) to the client languages list in Settings window (includes value which will be used in langconfig.ini) -> reffer to Launcher Management Tools "Settings Generator"
+	-> [ADD] General: option to start update only (and not game) in once Launcher is opened

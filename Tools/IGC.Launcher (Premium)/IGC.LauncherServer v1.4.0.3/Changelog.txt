@@ -1,0 +1,176 @@
+[v1.4.0.3]
+	-> [FIX] Possible issue with networking
+
+[v1.4.0.2]
+	-> [MOD] License Check: if license check has failed, 3 days grace period will be allowed until connections will be refused (valid only after launcher server succeeded validation at least once, so is not valid in cold start)
+
+[v1.4.0.1]
+	-> [FIX] Database: possible issues with non-ascii account registration
+	-> [MOD] License Check: launcher server does not recheck license status 30 seconds after failed check, in some cases
+
+[v1.4.0.0]
+	* .NET Framework 4.8 Upgrade *
+	-> [MOD] IOCP improvements
+	-> [MOD] removed some UI components
+	-> [NEW] ConnectServerList.xml allows seperate Suffix for HashCheck\Patches address
+
+[v1.3.0.0]
+	-> [MOD] ConnectServer State Check: launcher server will establish connection to ConnectServer once and monitor it's state instead of continuesly reconnection every few seconds
+	-> [NEW] Anti-DoS: option to automatically ban suspects in Windows Firewall
+	-> [NEW] Logging: option to disable wrting Trash log file and/or higher level logs (error/logs); check config.ini settings
+	-> [FIX] Anti-DoS: fixed some broken config.ini options
+	-> [FIX] Anti-DoS: fixed various vulnerabilities such as connection spoofing etc
+	-> [MOD] Anti-DoS: HardwareID will not be automatically banned, only IP
+	-> [MOD] Anti-DoS: 'HardwareIDBlackList.dat' will only be used by you to set specific ban per HardwareID (you can search player HardwareID in logs)
+	-> [MOD] config.ini: Anti-DoS related settings (read description carefully)
+
+[v1.2.1.2]
+	-> [FIX] connected Launcher instances gets disconnected after few seconds
+
+[v1.2.1.1]
+	-> [FIX] unable to connect with previous launcher.exe versions (<1.10.0.0) even if Handshake key is not used
+
+[v1.2.1.0]
+	-> [MOD] .NET Framework: LauncherServer now requires a minimum of .NET Framework v4.6.2
+	-> [NEW] Support for specifying custom key that will allow only specific launcher being able to connect to your server (Handshake value must be identical in LauncherServer config.ini and Launcher 'Settings' file)
+	-> [NEW] ServerList query support from Launcher, for purpose of AutoLogin system
+	-> [MOD] config.ini: optional Handshake value specification
+
+[v1.2.0.12]
+	-> [FIX] rare crash on open
+	-> [MOD] extended crash log info
+
+[v1.2.0.11]
+	-> [MOD->FILE] 'config.ini': added option to disable writing log to file
+	-> [FIX] Launcher AntiDos identifing packets from verified launcher as false positive
+
+[v1.2.0.10]
+	-> [MOD] More information will be shown if failed to authenticate the software	
+	-> [FIX] possible bug with launcher license blocking launcher from starting
+
+[v1.2.0.9]
+	-> [FIX] Unable to connect to secondary authentication server (which results in "no license found" popup)
+
+[v1.2.0.8]
+	-> [MOD] added more log information once connection is closing with launcher/client
+	-> [FIX] possible crash
+	-> [FIX] hwid not being added to ban list in case of suspecious activity (launcher server only - not proxy)
+	-> [FIX] incoming connection IP isnt being blocked if is on Blacklist
+
+[v1.2.0.6]
+	-> [FIX] sometimes "connected users" list isnt being cleared from disconnected connections
+	-> [MOD] removed license automatic refresh, and added menu button for refreshing license data (under Utilities menu)
+
+[v1.2.0.5]
+	-> [MOD] more improvements
+	-> [FIX] crash on launcher server open if using multiple databases
+
+[v1.2.0.4]
+	-> [MOD] general improvements
+
+[v1.2.0.1]
+	-> [NEW] Account Registration: added support for SHA256 encryption
+	-> [FIX] Password Encryption type automatic Detection possible bug
+	-> [MOD->FILE] 'config.ini': added SHA256 encyption salt value configuration
+
+[v1.2.0.0]
+	** NOTE: this version contains many improvements and modifications, and so may have some bugs which will be fixed ASAP **
+	-> [MOD] upgraded .net version to 4.6.1
+	-> [MOD] config.ini file - READ INSTRUCTIONS CAREFULLY
+	-> [MOD] complete rewrite of IOCP architecture
+	-> [MOD] improved loading times
+	-> [MOD] improved verification times
+	-> [FIX] critical bug fixes/crashes
+	-> [FIX] cases when verification fails on client Reconnect system and Proxy mode
+
+[v1.0.5.1]
+	-> [FIX] crash
+
+[v1.0.5.0]
+	-> [NEW] Packet flood protection to AntiDos protection (see config.ini)
+	-> [FIX] bug if InactiveConnectionsClearInterval_Seconds is set to -1
+	-> [NEW] complete support for game's Reconnect System (must use with launcher v 1.8.10.0 or newer)
+
+[v1.0.4.0]
+	-> [MOD] Account Registration: extended max possible Password to 20 chars (must use launcher v1.8.8.0 and newer)
+
+[v1.0.3.0]
+	-> [ADD] now you can set the sensitivity level of "JoinGameWithLauncherOnly" feature (see config.ini)
+	-> [ADD] BlockVirtualMachine options (see config.ini) - usable from launcher version 1.8.7.0 and newer only
+	-> [FIX] possible crashes
+	-> [FIX] Account Registration: if using 'IGCN_MD5' encryption type, accounts are created with incorrect password
+
+[v1.0.2.1]
+	-> [MOD] removed IP configuration from config.ini file
+
+[v1.0.2.0]
+		//-- NOTE: some parts of code are new, so as a result might be some crashes --\\
+	-> [FIX] memory leaks
+	-> [FIX] possible crashes
+	-> [FIX] sometimes after Launcher reconnects, it isnt being verified
+	-> [MOD] changed file name 'Data\IPBlackList.dat'
+	-> [MOD] minor changes to log output
+	-> [ADD] possibity to ban player launcher PC by Hardware ID ('Data\HardwareIDBlackList.dat' and 'config.ini -> ForceHardwareIDCheck = 0/1') - usable from launcher version 1.8.6.0 and newer
+
+[v1.0.1.24]
+	-> [MOD] improved connection handling
+	-> [MOD] added additional logs of errors / warnings
+	-> [FIX] possible crashes
+	-> [FIX] memory leaks
+
+[v1.0.1.14]
+	-> [FIX] possible crashes
+	-> [MOD] Error Language: language of errors (not the translated strings) should now show in english no matter the OS language
+	-> [MOD] General: in case of crash or critical error, 'CrashLog.log' file will be created and you will be able to continue working without crash
+
+[v1.0.1.13]
+	-> [FIX] Information Display mistake once player tries to create an account
+	-> [FIX] possible crash
+	-> [MOD] Instead of dump files, small log files will be created (CrashLog.log)
+
+[v1.0.1.12]
+	-> [FIX] final fix for issue when sometimes it takes very long time to connec to launcher server
+	-> [MOD] ConnectServer reconnects much faster
+	-> [MOD] Logs: some of the logs has been rewritten to be more clear
+	-> [MOD] removed ConnectionsClearInterval option from config.ini file (temp fix cleared, no need for that feature anymore)
+	-> [ADD] in case that a connection was "inactive" for more then X seconds, it gets disconnected (applies to Unknown and Client connections only, not Launcher Connections) - configurable in config.ini
+
+[v1.0.1.8]
+	-> [FIX] crash fixes
+
+[v1.0.1.7]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+	-> [FIX] some crash fixes
+	-> [FIX] BlackList sometimes not saved correctly after restart
+	-> [ADD] temporary fix for lag in connection to server in case that many users are connected (ConnectionsClearInterval in config.ini)
+	-> [FIX] minor fixes
+	-> [ADD] you can order Users list by IP / Type / Verified columns (click on column name)
+	-> [FIX] user buffer issues
+	-> [ADD] in case of crash then ".dmp" file will be generated
+
+[v1.0.1.3]
+	-> [MOD] Network: additional possible fix for cases of lag with many users connected
+
+[v1.0.1.2]
+	-> [FIX] launcher freeze for some time after pressing X
+
+[v1.0.1.1]
+	-> [MOD] Network: possible fix for cases of lag with many users connected
+
+[v1.0.1.0]
+	-> [FIX] sometimes client gets disconnected because its not verified (must use launcher v1.8.5.0 with option "Close Launcher If Client Closed" enabled and "Close Launcher After Game Start" disabled)
+	-> [FIX] crashes and possible bugs
+	-> [MOD] improved network communication and packet queue (no lost or jumbled packets)
+	-> [ADD] AntiDoS System (reffer to config.ini file)
+
+[v1.0.0.3]
+	-> [MOD] minor improvements
+	-> [FIX] possible crashes
+
+[v1.0.0.2]
+	-> [MOD] minor improvements
+	-> [FIX] possible crashes
+
+[v1.0.0.1]
+	-> [FIX] LauncherServer reports "no license" on some machines
+	-> [FIX] Registration disabled if PasswordChange is deactivated

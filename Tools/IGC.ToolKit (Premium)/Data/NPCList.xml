@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<NPCList>
+	<NPC Index="200" Name="Soccer Ball" />
+	<NPC Index="204" Name="Wolf Status" />
+	<NPC Index="205" Name="Wolf Altar1" />
+	<NPC Index="206" Name="Wolf Altar2" />
+	<NPC Index="207" Name="Wolf Altar3" />
+	<NPC Index="208" Name="Wolf Altar4" />
+	<NPC Index="209" Name="Wolf Altar5" />
+	<NPC Index="215" Name="Shield" />
+	<NPC Index="216" Name="Crown" />
+	<NPC Index="217" Name="Crown Switch2" />
+	<NPC Index="218" Name="Crown Switch1" />
+	<NPC Index="219" Name="Castle Gate Switch" />
+	<NPC Index="220" Name="Gatekeeper" />
+	<NPC Index="221" Name="Slingshot attack" />
+	<NPC Index="222" Name="Slingshot defense" />
+	<NPC Index="223" Name="Senior" />
+	<NPC Index="224" Name="Guardsman" />
+	<NPC Index="226" Name="Trainer" />
+	<NPC Index="229" Name="Marlon" />
+	<NPC Index="230" Name="Wandering Merchant Alex" />
+	<NPC Index="231" Name="Thompson Kenel" />
+	<NPC Index="232" Name="Archangel" />
+	<NPC Index="233" Name="Messenger of Archangel" />
+	<NPC Index="234" Name="Pet Trainer" />
+	<NPC Index="235" Name="Sebina the Priest" />
+	<NPC Index="236" Name="Golden Archer" />
+	<NPC Index="237" Name="Charon" />
+	<NPC Index="238" Name="Chaos Goblin" />
+	<NPC Index="239" Name="Arena Guard" />
+	<NPC Index="240" Name="Safety Guardian" />
+	<NPC Index="241" Name="Royal Guard Captain Lorence" />
+	<NPC Index="242" Name="Elf Lala" />
+	<NPC Index="243" Name="Eo the Craftsman" />
+	<NPC Index="244" Name="Caren the Barmaid" />
+	<NPC Index="245" Name="Wizard Izabel" />
+	<NPC Index="246" Name="Weapons Merchant Zienna" />
+	<NPC Index="247" Name="Guard" />
+	<NPC Index="248" Name="Wandering Merchant Martin" />
+	<NPC Index="249" Name="Guard" />
+	<NPC Index="250" Name="Wandering Merchant" />
+	<NPC Index="251" Name="Hanzo the Blacksmith" />
+	<NPC Index="252" Name="NPC 252" />
+	<NPC Index="253" Name="Potion Girl Amy" />
+	<NPC Index="254" Name="Pasi the Mage" />
+	<NPC Index="255" Name="Lumen the Barmaid" />
+	<NPC Index="256" Name="Lahap" />
+	<NPC Index="257" Name="Shadow Phantom Soldier" />
+	<NPC Index="258" Name="Luke the Helper" />
+	<NPC Index="259" Name="Oracle Layla" />
+	<NPC Index="367" Name="Gateway Machine" />
+	<NPC Index="368" Name="Elpis" />
+	<NPC Index="369" Name="Osbourne" />
+	<NPC Index="370" Name="Jerridon" />
+	<NPC Index="371" Name="Leo the Helper" />
+	<NPC Index="372" Name="Elite Skull Soldier" />
+	<NPC Index="373" Name="Jack Olantern" />
+	<NPC Index="374" Name="Santa" />
+	<NPC Index="375" Name="Chaos Card Master" />
+	<NPC Index="376" Name="Pamela the Supplier" />
+	<NPC Index="377" Name="Angela the Supplier" />
+	<NPC Index="378" Name="GameMaster" />
+	<NPC Index="379" Name="Natasha Firecracker Merchant" />
+	<NPC Index="380" Name="Stone Statue" />
+	<NPC Index="381" Name="MU Allies General" />
+	<NPC Index="382" Name="Illusion Sorcerer Elder" />
+	<NPC Index="383" Name="Alliance Sacred Item Storage" />
+	<NPC Index="384" Name="Illusion Castle Sacred Item Storage" />
+	<NPC Index="385" Name="Mirage" />
+	<NPC Index="376" Name="Pamela the Supplier" />
+	<NPC Index="377" Name="Angela the Supplier" />
+	<NPC Index="379" Name="Natasha Firecracker Merchant" />
+	<NPC Index="406" Name="Apostle Devin" />
+	<NPC Index="407" Name="Werewolf Quarel" />
+	<NPC Index="408" Name="Gatekeeper" />
+	<NPC Index="415" Name="Silvia" />
+	<NPC Index="416" Name="Rhea" />
+	<NPC Index="417" Name="Marce" />
+	<NPC Index="450" Name="Cherry Blossom Spirit" />
+	<NPC Index="451" Name="Cherry Blossom Tree" />
+	<NPC Index="452" Name="Seed Master" />
+	<NPC Index="453" Name="Seed Researcher" />
+	<NPC Index="464" Name="Re-Initialization Helper" />
+	<NPC Index="465" Name="Santa Claus" />
+	<NPC Index="467" Name="Snowman" />
+	<NPC Index="468" Name="Dasher" />
+	<NPC Index="469" Name="Kermit" />
+	<NPC Index="470" Name="Dancer" />
+	<NPC Index="471" Name="Cupid" />
+	<NPC Index="472" Name="Prancer" />
+	<NPC Index="473" Name="Donner" />
+	<NPC Index="474" Name="Vixen" />
+	<NPC Index="475" Name="Blitzen" />
+	<NPC Index="478" Name="Delgado" />
+	<NPC Index="479" Name="Doorkeeper Titus" />
+	<NPC Index="492" Name="Moss" />
+	<NPC Index="522" Name="Jerint the Assistant" />
+	<NPC Index="523" Name="Trap" />
+	<NPC Index="524" Name="Castle Gate 1" />
+	<NPC Index="525" Name="Castle Gate 2" />
+	<NPC Index="526" Name="Stone Statue 1" />
+	<NPC Index="527" Name="Castle Gate 3" />
+	<NPC Index="528" Name="Castle Gate 4" />
+	<NPC Index="540" Name="Lugard" />
+	<NPC Index="541" Name="Interim Reward Chest" />
+	<NPC Index="542" Name="Final Reward Chest" />
+	<NPC Index="543" Name="Gens Duprian Steward" />
+	<NPC Index="544" Name="Gens Vanert Steward" />
+	<NPC Index="545" Name="Christine the Merchant" />
+	<NPC Index="546" Name="Jeweller Raul" />
+	<NPC Index="547" Name="Market Union Member Julia" />
+	<NPC Index="566" Name="Mercenary Guild Manager Tercia" />
+	<NPC Index="567" Name="Priestess Veina" />
+	<NPC Index="568" Name="Wandering Merchant Zyro" />
+	<NPC Index="577" Name="Leina the Merchant" />
+	<NPC Index="578" Name="Weapons Merchant Bolo" />
+	<NPC Index="579" Name="David" />
+	<NPC Index="580" Name="Captain Slough" />
+	<NPC Index="581" Name="Deruvish" />
+	<NPC Index="582" Name="Adniel" />
+	<NPC Index="583" Name="Jin" />
+	<NPC Index="584" Name="Sir Lesnar" />
+	<NPC Index="603" Name="Arca Barrier" />
+	<NPC Index="604" Name="Jin" />
+	<NPC Index="643" Name="Mait" />
+	<NPC Index="651" Name="Private Store Bulletin Board" />
+	<NPC Index="658" Name="Cursed Statue" />
+	<NPC Index="659" Name="Captured Stone Statue" />
+	<NPC Index="660" Name="Captured Stone Statue" />
+	<NPC Index="661" Name="Captured Stone Statue" />
+	<NPC Index="662" Name="Captured Stone Statue" />
+	<NPC Index="663" Name="Captured Stone Statue" />
+	<NPC Index="664" Name="Captured Stone Statue" />
+	<NPC Index="665" Name="Captured Stone Statue" />
+	<NPC Index="666" Name="Captured Stone Statue" />
+	<NPC Index="667" Name="Captured Stone Statue" />
+	<NPC Index="668" Name="Captured Stone Statue" />
+	<NPC Index="669" Name="Ellin" />
+	<NPC Index="682" Name="Monica" />
+	<NPC Index="683" Name="Marce" />
+	<NPC Index="684" Name="Silvia" />
+	<NPC Index="685" Name="Izabel" />
+	<NPC Index="686" Name="Sophia (repair)" />
+	<NPC Index="687" Name="Bolo (repair)" />
+	<NPC Index="688" Name="Christine" />
+	<NPC Index="695" Name="Levine" />
+	<NPC Index="719" Name="Archangel's Spirit" />
+	<NPC Index="720" Name="Charon" />
+	<NPC Index="721" Name="Jerint the Assistant" />
+	<NPC Index="722" Name="Mirage" />
+	<NPC Index="723" Name="Rugard" />
+	<NPC Index="724" Name="Chaos Goblin" />
+	<NPC Index="725" Name="Priest James" />
+	<NPC Index="748" Name="The Spirit of Nixie" />
+	<NPC Index="764" Name="Cent(Town)" />
+	<NPC Index="765" Name="Cent(Entrance)" />
+	<NPC Index="766" Name="Cent(Quest)" />
+</NPCList>

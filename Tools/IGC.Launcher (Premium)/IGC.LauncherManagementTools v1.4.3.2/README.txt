@@ -1,0 +1,1 @@
+Launcher Tools will run in x64 OS Only and on IGCN Registered machine ONLY (server files machine)

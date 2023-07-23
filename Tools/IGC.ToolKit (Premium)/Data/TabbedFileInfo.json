@@ -1,0 +1,224 @@
+﻿{
+  "Files": [
+    {
+      "DisplayName": "EarringAttribute (General)",
+      "FileName": "EarringAttribute.txt",
+      "Groups": [
+        {
+          "ID": 0,
+          "Name": "EditionSettings",
+          "Columns": [
+            {
+              "Name": "Edition",
+              "Offset": 0
+            },
+            {
+              "Name": "Opt Rate 1",
+              "Offset": 1
+            },
+            {
+              "Name": "Opt Rate 2",
+              "Offset": 2
+            },
+            {
+              "Name": "Opt Rate 3",
+              "Offset": 3
+            },
+            {
+              "Name": "Opt Rate 4",
+              "Offset": 4
+            },
+            {
+              "Name": "Opt Rate 5",
+              "Offset": 5
+            }
+          ]
+        },
+        {
+          "ID": 1,
+          "Name": "OptionLinkSettings",
+          "Columns": [
+            {
+              "Name": "Link ID",
+              "Offset": 0
+            },
+            {
+              "Name": "Name",
+              "Offset": 1
+            },
+            {
+              "Name": "Display Name",
+              "Offset": 2
+            },
+            {
+              "Name": "Opt Idx 1",
+              "Offset": 3
+            },
+            {
+              "Name": "Opt Val Idx 1",
+              "Offset": 4
+            },
+            {
+              "Name": "Opt Idx 2",
+              "Offset": 5
+            },
+            {
+              "Name": "Opt Val Idx 2",
+              "Offset": 6
+            },
+            {
+              "Name": "Opt Idx 3",
+              "Offset": 7
+            },
+            {
+              "Name": "Opt Val Idx 3",
+              "Offset": 8
+            },
+            {
+              "Name": "Opt Idx 4",
+              "Offset": 9
+            },
+            {
+              "Name": "Opt Val Idx 4",
+              "Offset": 10
+            },
+            {
+              "Name": "Opt Idx 5",
+              "Offset": 11
+            },
+            {
+              "Name": "Opt Val Idx 5",
+              "Offset": 12
+            },
+            {
+              "Name": "Edition",
+              "Offset": 13
+            },
+            {
+              "Name": "Item Cat",
+              "Offset": 14
+            },
+            {
+              "Name": "Item Idx",
+              "Offset": 15
+            }
+          ]
+        },
+        {
+          "ID": 2,
+          "Name": "LinkedOptionActivation",
+          "Columns": [
+            {
+              "Name": "Link ID 1",
+              "Offset": 0
+            },
+            {
+              "Name": "Link ID 2",
+              "Offset": 1
+            },
+            {
+              "Name": "Display Name",
+              "Offset": 2
+            },
+            {
+              "Name": "Opt Idx 1",
+              "Offset": 3
+            },
+            {
+              "Name": "Opt Val Idx 1",
+              "Offset": 4
+            },
+            {
+              "Name": "Opt Idx 2",
+              "Offset": 5
+            },
+            {
+              "Name": "Opt Val Idx 2",
+              "Offset": 6
+            },
+            {
+              "Name": "Opt Idx 3",
+              "Offset": 7
+            },
+            {
+              "Name": "Opt Val Idx 3",
+              "Offset": 8
+            }
+          ]
+        },
+        {
+          "ID": 3,
+          "Name": "EarringLevelUp",
+          "Columns": [
+            {
+              "Name": "Mix Req Level",
+              "Offset": 0
+            },
+            {
+              "Name": "Success Rate",
+              "Offset": 1
+            },
+            {
+              "Name": "Item Cat 1",
+              "Offset": 2
+            },
+            {
+              "Name": "Item Idx 1",
+              "Offset": 3
+            },
+            {
+              "Name": "Item Cnt 1",
+              "Offset": 4
+            },
+            {
+              "Name": "Item Cat 2",
+              "Offset": 5
+            },
+            {
+              "Name": "Item Idx 2",
+              "Offset": 6
+            },
+            {
+              "Name": "Item Cnt 2",
+              "Offset": 7
+            },
+            {
+              "Name": "Item Cat 3",
+              "Offset": 8
+            },
+            {
+              "Name": "Item Idx 3",
+              "Offset": 9
+            },
+            {
+              "Name": "Item Cnt 3",
+              "Offset": 10
+            },
+            {
+              "Name": "Req Money",
+              "Offset": 11
+            }
+          ]
+        },
+        {
+          "ID": 4,
+          "Name": "OptionSettings",
+          "Columns": [
+            {
+              "Name": "Option Set Idx",
+              "Offset": 0
+            },
+            {
+              "Name": "Option Set Val",
+              "Offset": 1
+            },
+            {
+              "Name": "Edition",
+              "Offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

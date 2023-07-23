@@ -1,0 +1,108 @@
+﻿[v1.7.0.0]
+	-> [NEW] BMD Editor: Item.bmd (Season 18 Ep.1-1 and newer)
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 18 Ep.1-1 and newer)
+
+[v1.6.0.0]
+	-> [NEW] BMD Editor: Item.bmd (Season 16 Ep.1-3 -> Season 16 Ep.2-2)
+	-> [NEW] BMD Editor: Item.bmd (Season 17 Ep.1-1 and newer)
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 17 Ep.1-1)
+	-> [NEW] BMD Editor: ItemSetType.bmd (Season 17 Ep.1-2)
+
+[v1.5.0.0]
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 16 Ep.1-1)
+	-> [NEW] BMD Editor: Item.bmd (Season 16 Ep.1-1)
+
+[v1.4.0.0]
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 15 Ep.1-2)
+	-> [NEW] BMD Editor: ItemTooltip.bmd (Season 15 Ep.1-3)
+	-> [NEW] BMD Editor: Item.bmd (Season 15 Ep.1-3)
+	-> [MOD] ItemStats Calculator: fixes and modifications to support Season 15 changes
+
+[v1.3.7.0]
+	-> [NEW] BMD Editor: ItemSetOption (season 13 ep1)
+	-> [NEW] BMD Editor: ItemTooltipText (season 13 ep2)
+	-> [NEW] Lang.mpr Encoder/Decoder for season 13 ep2
+
+[v1.3.6.3]
+	-> [MOD] Changed ServerInfo maker (xml) to encode any custom IGC client file (EntryLevel.xml) etc
+	-> [MOD] More information will be shown if failed to authenticate the software
+
+[v1.3.6.1]
+	-> [NEW] ServerInfo.bmd Encoder (xml type)
+	-> [FIX] Unable to connect to secondary authentication server (which results in "no license found" popup)
+
+[v1.3.6.0]
+	-> [NEW] Lang.mpr Encoder/Decoder
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season X Ep.3)
+	-> [NEW] BMD Editor: ItemSetOption.bmd (Season 12 Ep.1-2)
+	-> [NEW] BMD Editor: ItemAddOption.bmd
+	-> [NEW] BMD Editor: NPCName.bmd (Season X Ep.3)
+	-> [NEW] BMD Editor: SocketItem.bmd (Season 12 Ep.1-2)
+	-> [NEW] BMD Editor: RuudShopViewInfo.bmd (Season X Ep.3)
+	-> [NEW] BMD Editor: RuudShopViewInfo.bmd (Season 12 Ep.1-2)
+	-> [NEW] BMD Editor: ServerList.bmd (Season 12 Ep.1-2)
+	-> [NEW] BMD Editor: ItemTooltip.bmd
+
+[v1.3.4.1]
+	-> [FIX] "not responding" issue
+
+[v1.3.4.0]
+	-> [FIX] critical bugs/crashes
+	-> [NEW] BMD Editor: Item.bmd (Season X Ep.3)
+	-> [NEW] BMD Editor: Skill.bmd (Season X Ep.3) 
+
+[v1.3.3.0]
+	-> [FIX] New Manager bugs
+	-> [ADD] BMD Editor: ServerList.bmd (Season 9 Episode 2)
+	-> [ADD] BMD Editor: Skill.bmd (Season 9 Episode 2)
+
+[v1.3.2.0]
+	-> [ADD] ServerInfo Maker: "Asian Lang" option configuration
+
+[v1.3.1.3]
+	-> [FIX] ServerInfo Maker: "Block running on virtual machine" option not saving correctly
+	
+[v1.3.1.1]
+	-> [FIX] News Manager: sometimes gets error in file save
+
+[v1.3.1.0]
+	-> [ADD] ItemTRSData.bmd Editor
+	
+[v1.3.0.4]
+	-> [ADD] ServerInfo Maker: "Block Virtual Machine" option configuration
+
+[v1.3.0.3]
+	-> [MOD] BMD Editor: Item.bmd column (value) names 
+	-> [ADD] ServerInfo Maker: IGC.ChatServer port configuration
+	
+[v1.3.0.2]
+	-> [FIX] minor fixes
+
+[v1.3.0.1]
+	-> [MOD] ServerInfo Maker: you can specify own value for langeuage Codepage
+	-> [ADD] ServerInfo Maker: added UTF8 (Unicode) 
+
+[v1.3.0.0]
+	-> [MOD] General: code completely rewritten
+	-> [MOD] General: redisigned UI
+	-> [ADD] AutoUpdater (AUH.dll)
+	-> [ADD] Item.bmd Stats Calculator
+	-> [ADD] ServerInfo.bmd Maker
+	-> [ADD] News Maker (ConnectServer\News.dat)
+	-> [ADD] BMD Editor: Encoding selection option
+	-> [ADD] BMD Editor: Item.bmd (Season 8)
+	-> [ADD] BMD Editor: SocketItem.bmd (Season 8)
+	-> [ADD] BMD Editor: ItemSetType.bmd (Season 8)
+	-> [ADD] BMD Editor: NpcName.bmd
+
+[v1.2.0.0]
+	-> Added ItemToolTip.bmd file edit
+	-> Added ItemToolTipText.bmd file edit
+	-> Added ServerList.bmd for S6E3 file edit
+	-> Added Skill.bmd ex700-s8e1 file edit
+
+[v1.1.0.0]
+	-> Added support for ex700 Plus ServerList.bmd
+	-> Added more infomation about ServerList.bmd values
+	-> Added Ex700 Plus item.bmd
+	-> Fixed MoveReq.bmd incorrect Name read
