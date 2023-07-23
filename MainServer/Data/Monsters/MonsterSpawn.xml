@@ -40,7 +40,7 @@
 			<!--(375) Chaos Card Master [Lv.10]-->
 			<Spawn Index="375" Distance="0" StartX="132" StartY="161" Dir="2" />
 			<!--(543) Gens Duprian Steward [Lv.2]-->
-			<Spawn Index="543" Distance="0" StartX="144" StartY="127" Dir="3" />
+			<Spawn Index="543" Distance="0" StartX="130" StartY="129" Dir="3" />
 			<!--(547) Market Union Member Julia [Lv.2]-->
 			<Spawn Index="547" Distance="0" StartX="139" StartY="138" Dir="3" />
 			<!--(584) Sir Lesnar [Lv.2]-->
