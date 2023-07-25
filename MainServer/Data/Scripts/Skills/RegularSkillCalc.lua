@@ -49,9 +49,9 @@ function WizardMagicDefense(Index, TargetIndex, TargetClass, Dexterity, Energy)
 	local SkillTime = Energy / 40 + 60
 	
 	if(Index == TargetIndex and SkillEffect > 50) then -- casting spell on yourself
-		SkillEffect = 50
+		SkillEffect = 20
 	elseif (Index ~= TargetIndex and SkillEffect > 50)  then -- casting spell on others
-		SkillEffect = 50
+		SkillEffect = 10
 	end
 	
 	return SkillEffect, SkillTime

@@ -55,9 +55,9 @@ function WizardMagicDefense_Level1(Index, TargetIndex, TargetClass, Dexterity, E
 	local SkillTime = Energy / 40 + 60
 	
 	if (Index == TargetIndex and SkillEffect > 60) then -- casting spell on yourself
-		SkillEffect = 60
+		SkillEffect = 25
 	elseif (Index ~= TargetIndex and SkillEffect > 50) then -- casting spell on others
-		SkillEffect = 50
+		SkillEffect = 15
 	end
 	
 	return SkillEffect, SkillTime
@@ -69,9 +69,9 @@ function WizardMagicDefense_Level2(Index, TargetIndex, TargetClass, Dexterity, E
 	local SkillTime = Energy / 40 + 60
 	
 	if (Index == TargetIndex and SkillEffect > 70) then -- casting spell on yourself
-		SkillEffect = 70
+		SkillEffect = 25
 	elseif (Index ~= TargetIndex and SkillEffect > 50) then -- casting spell on others
-		SkillEffect = 50
+		SkillEffect = 15
 	end
 	
 	return SkillEffect, SkillTime
@@ -83,9 +83,9 @@ function WizardMagicDefense_Level3(Index, TargetIndex, TargetClass, Dexterity, E
 	local SkillTime = Energy / 40 + 60
 	
 	if (Index == TargetIndex and SkillEffect > 75) then -- casting spell on yourself
-		SkillEffect = 75
+		SkillEffect = 25
 	elseif (Index ~= TargetIndex and SkillEffect > 50) then -- casting spell on others
-		SkillEffect = 60
+		SkillEffect = 15
 	end
 	
 	return SkillEffect, SkillTime
@@ -485,11 +485,11 @@ function ElfHolyBolt_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vitality, 
 	local OutDamage = InDamage
 	
 	if (BarrageCount == 1) then
-        OutDamage = (InDamage * (400 + (Energy / 20))) / 100
+        OutDamage = (InDamage * (400 + (Energy / 40))) / 100
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * (400 + (Energy / 20))) / 100
+        OutDamage = (InDamage * (400 + (Energy / 40))) / 100
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * (400 + (Energy / 20))) / 100
+        OutDamage = (InDamage * (400 + (Energy / 40))) / 100
     end
 	
 	return OutDamage
@@ -521,13 +521,13 @@ function FireSlash_MasterLevel1_Gladiator(InDamage, Strength, Energy, BarrageCou
     local OutDamage = 0
     
     if (BarrageCount == 1) then
-        OutDamage = (InDamage * 1.15) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.15) * ( 200 + ( Energy / 40 ) ) / 100;
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * 1.18) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.18) * ( 200 + ( Energy / 40 ) ) / 100;
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * 1.22) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.22) * ( 200 + ( Energy / 40 ) ) / 100;
     elseif (BarrageCount == 4) then
-        OutDamage = (InDamage * 1.25) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.25) * ( 200 + ( Energy / 40 ) ) / 100;
     end
 	
     return OutDamage
@@ -546,13 +546,13 @@ function FireSlash_MasterLevel2_Gladiator(InDamage, Strength, Energy, BarrageCou
     local OutDamage = 0
     
     if (BarrageCount == 1) then
-        OutDamage = (InDamage * 1.15) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.15) * ( 200 + ( Energy / 40 ) ) / 100;
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * 1.18) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.18) * ( 200 + ( Energy / 40 ) ) / 100;
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * 1.22) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.22) * ( 200 + ( Energy / 40 ) ) / 100;
     elseif (BarrageCount == 4) then
-        OutDamage = (InDamage * 1.25) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 1.25) * ( 200 + ( Energy / 40 ) ) / 100;
     end
 	
     return OutDamage
@@ -585,14 +585,14 @@ end
 
 -- SkillID: 508, Fire Burst Strengthener - (Lord Emperor)
 function FireBurst_MasterLevel1_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100;
+	local OutDamage = (InDamage * (((Energy) / 40 + 200))) / 100;
 	
 	return OutDamage
 end
 
 -- SkillID: 509, Force Wave Strengthener - (Lord Emperor)
 function ForceWave_Master_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100;
+	local OutDamage = (InDamage * (((Energy) / 40 + 200))) / 100;
 	
 	return OutDamage
 end
@@ -607,7 +607,7 @@ end
 
 -- SkillID: 512, Earthshake Strengthener - (Lord Emperor)
 function EarthShake_MasterLevel1_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100;
+	local OutDamage = (InDamage * (((Energy) / 40 + 200))) / 100;
 	
 	return OutDamage
 end
@@ -638,35 +638,35 @@ end
 
 -- SkillID: 518, Fire Scream Strengthener - (Lord Emperor)
 function FireScream_MasterLevel1_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100;
+	local OutDamage = (InDamage * (((Energy) / 40 + 200))) / 100;
 	
 	return OutDamage
 end
 
 -- SkillID: 520, Fire Scream Mastery - (Lord Emperor)
 function FireScream_MasterLevel2_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100;
+	local OutDamage = (InDamage * (((Energy) / 40 + 200))) / 100;
 	
 	return OutDamage
 end
 
 -- SkillID: 519, Electric Spark Strengthener - (Lord Emperor)
 function ElectricSpark_Master_Lord(InDamage, Energy)
-	local OutDamage = (InDamage * (((Energy) / 20 + 200))) / 100;
+	local OutDamage = (InDamage * (((Energy) / 40 + 200))) / 100;
 	
 	return OutDamage
 end
 
 -- SkillID: 523, Chaotic Diseier Strengthener - (Lord Emperor)
 function ChaoticDiseier_Master_Lord(InDamage, Energy)
-	local OutDamage = InDamage * (Energy / 25 + 200) / 100
+	local OutDamage = InDamage * (Energy / 40 + 200) / 100
 	
 	return OutDamage
 end
 
 -- SkillID: 454, Sleep Strengthener - MvP - (Dimension Master)
 function Sleep_Monster_Level1(Energy, Curse, MonsterLevel)
-	local SkillSuccessRate = Energy / 30 + Curse / 6 + 20
+	local SkillSuccessRate = Energy / 60 + Curse / 6 + 40
 	local SkillTime = Energy / 100 + 5 - MonsterLevel / 20
 	
 	return SkillSuccessRate, SkillTime
@@ -701,7 +701,7 @@ end
 
 -- SkillID: 456, Lightning Shock - (Dimension Master)
 function LightningShock_Master_Summoner(InDamage, Energy)
-	local OutDamage = (InDamage * 1.0) * ( 100 + ( Energy / 30 ) ) / 100
+	local OutDamage = (InDamage * 1.0) * ( 100 + ( Energy / 60 ) ) / 100
 	
 	return OutDamage
 end
@@ -722,35 +722,35 @@ end
 
 -- SkillID: 554, Killing Blow Mastery - (Fist Master)
 function KillingBlow_Master(InDamage, Vitality)
-	local OutDamage = InDamage * (Vitality / 10 + 50) / 100.0
+	local OutDamage = InDamage * (Vitality / 40 + 50) / 100.0
  
 	return OutDamage
 end
 
 -- SkillID: 555, Beast Uppercut Mastery - (Fist Master)
 function BeastUppercut_Master(InDamage, Vitality)
-	local OutDamage = InDamage * (Vitality / 10 + 50) / 100.0
+	local OutDamage = InDamage * (Vitality / 40 + 50) / 100.0
  
 	return OutDamage
 end
 
 -- SkillID: 558, Chain Drive Mastery - (Fist Master)
 function ChainDrive_Master(InDamage, Vitality)
-	local OutDamage = (InDamage + Vitality / 10) * (Vitality / 10 + 50) / 100.0
+	local OutDamage = (InDamage + Vitality / 40) * (Vitality / 10 + 50) / 100.0
  
 	return OutDamage
 end
 
 -- SkillID: 563, Dark Side Strengthener - (Fist Master)
 function RageFighterDarkSideIncDamage_Master(InDamage, Dexterity, Energy)
-	local OutDamage = (Dexterity / 8 + InDamage + Energy / 10) * (Dexterity / 8 + Energy / 10 + 100) / 100.0
+	local OutDamage = (Dexterity / 8 + InDamage + Energy / 20) * (Dexterity / 16 + Energy / 20 + 100) / 100.0
  
 	return OutDamage
 end
 
 -- SkillID: 560: Dragon Roar Mastery - (Fist Master)
 function DragonRoar_Master(InDamage, Energy)
-	local OutDamage = (InDamage + Energy / 10) * (Energy / 10 + 50) / 100.0
+	local OutDamage = (InDamage + Energy / 20) * (Energy / 20 + 50) / 100.0
  
 	return OutDamage
 end
@@ -760,9 +760,9 @@ function DragonSlasher_Level1(InDamage, SkillBonus, Energy, TargetType)
 	local OutDamage = 0
  
 	if (TargetType == 1) then -- User
- 		OutDamage = (InDamage + SkillBonus) * (Energy / 10 + 50) / 100.0
+ 		OutDamage = (InDamage + SkillBonus) * (Energy / 40 + 50) / 100.0
  	else -- Monster
- 		OutDamage = ((InDamage + SkillBonus) * (Energy / 10 + 50) / 100.0 + 100.0) * 3.0
+ 		OutDamage = ((InDamage + SkillBonus) * (Energy / 40 + 50) / 100.0 + 100.0) * 3.0
  	end
  
 	return OutDamage
@@ -823,9 +823,9 @@ function RushCalc_Master(Class, SkillId, InDamage, Strength, Dexterity, Vitality
 	local OutDamage = 0
 	
 	if (Class == CLASS_KNIGHT and SkillId == 813) then
-		OutDamage = InDamage * (Energy / 10 + 200) / 100
+		OutDamage = InDamage * (Energy / 40 + 200) / 100
 	elseif (Class == CLASS_SLAYER and SkillId == 631) then
-		OutDamage = InDamage * (Energy / 10 + 200) / 100
+		OutDamage = InDamage * (Energy / 40 + 200) / 100
 	end
 	
 	return OutDamage
@@ -841,16 +841,16 @@ end
 
 -- SkillID: 687, Spin Step PowUp - (Mirage Lancer)
 function GrowLancerSpinStep_Level1(InDamage, Dexterity, SkillTreeBonus)
-	local OutDamage = (InDamage * 1.1) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
-	local ExplosionDamage = (InDamage * 0.7) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+	local OutDamage = (InDamage * 1.1) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
+	local ExplosionDamage = (InDamage * 0.7) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 
 	return OutDamage, ExplosionDamage
 end
 
 -- SkillID: 690, Spin Step Mastery - (Mirage Lancer)
 function GrowLancerSpinStep_Level2(InDamage, Dexterity, SkillTreeBonus)
-	local OutDamage = (InDamage * 1.1) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
-	local ExplosionDamage = (InDamage * 0.7) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+	local OutDamage = (InDamage * 1.1) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
+	local ExplosionDamage = (InDamage * 0.7) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 
 	return OutDamage, ExplosionDamage
 end
@@ -860,9 +860,9 @@ function GrowLancerHarshStrike_Level1(InDamage, Strength, SkillTreeBonus, Barrag
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 1.0) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.0) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.1) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.1) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 	end
 
 	return OutDamage
@@ -873,11 +873,11 @@ function GrowLancerHarshStrike_Level2(InDamage, Strength, SkillTreeBonus, Barrag
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 1.0) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.0) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.1) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.1) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif(BarrageCount == 3) then
-		OutDamage = (InDamage * 1.2) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.2) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 	end
 
 	return OutDamage
@@ -888,11 +888,11 @@ function GrowLancerMagicPin_Level1(InDamage, Dexterity, SkillTreeBonus, BarrageC
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 0.8) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 0.8) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.0) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.0) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * 1.1) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.1) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 	end
 
 	return OutDamage
@@ -903,11 +903,11 @@ function GrowLancerMagicPin_Level2(InDamage, Dexterity, SkillTreeBonus, BarrageC
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 0.8) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 0.8) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.0) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.0) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * 1.1) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.1) * (Dexterity / 40 + 97 + SkillTreeBonus) / 100.0
 	end
 
 	return OutDamage
@@ -915,21 +915,21 @@ end
 
 -- SkillID: 696, Breche PowUp - (Mirage Lancer)
 function GrowLancerBreche_Level1(InDamage, Strength, SkillTreeBonus)
-	local OutDamage = (InDamage * 0.5) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+	local OutDamage = (InDamage * 0.5) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 
 	return OutDamage
 end
 
 -- SkillID: 698, Breche Mastery - (Mirage Lancer)
 function GrowLancerBreche_Level2(InDamage, Strength, SkillTreeBonus)
-	local OutDamage = (InDamage * 0.5) * (Strength / 10 + 97 + SkillTreeBonus) / 100.0
+	local OutDamage = (InDamage * 0.5) * (Strength / 40 + 97 + SkillTreeBonus) / 100.0
 
 	return OutDamage
 end
 
 -- SkillID: 688, Shining Peak PowUp - (Mirage Lancer)
 function GrowLancerShiningPeak_Level1(InDamage, Strength, Dexterity, SkillTreeBonus_Retailation, SkillTreeBonus_Rage)
-	local OutDamage = InDamage * (((Strength / 10 + 97 + SkillTreeBonus_Retailation) + (Dexterity / 10 + 97 + SkillTreeBonus_Rage)) * 0.8) / 100.0
+	local OutDamage = InDamage * (((Strength / 20 + 97 + SkillTreeBonus_Retailation) + (Dexterity / 20 + 97 + SkillTreeBonus_Rage)) * 0.8) / 100.0
 	OutDamage = OutDamage / 3
 
 	return OutDamage
@@ -964,7 +964,7 @@ end
 
 -- SkillID: 693, Obsidian PowUp - (Mirage Lancer)
 function GrowLancerObsidian_Level1(Index, TargetIndex, TargetClass, Strength, Dexterity, Energy)
-	local SkillEffect = Strength / 20
+	local SkillEffect = Strength / 40
 	local SkillTime = 120
 
 	return SkillEffect, SkillTime
@@ -972,14 +972,14 @@ end
 
 -- SkillID: 744, Phoenix Shot Strengthener - (Fist Master)
 function RageFighterPhoenixShot_Level1(InDamage, Dexterity, Vitality)
-	local OutDamage = InDamage * (Vitality / 10 + 200) / 100.0
+	local OutDamage = InDamage * (Vitality / 40 + 200) / 100.0
  
 	return OutDamage
 end
 
 -- SkillID: 745, Phoenix Shot Mastery - (Fist Master)
 function RageFighterPhoenixShot_Level2(InDamage, Dexterity, Vitality)
-	local OutDamage = InDamage * (Vitality / 10 + 200) / 100.0
+	local OutDamage = InDamage * (Vitality / 40 + 200) / 100.0
  
 	return OutDamage
 end
@@ -1022,7 +1022,7 @@ end
 
 -- SkillID: 748, Magic Arrow Enhancement - (Grand Rune Master)
 function RuneWizardMagicArrowCalcDamage_Level1(InDamage, Strength, Dexterity, Vitality, Energy)
-	local OutDamage = (InDamage * 1.0) * ( 200 + ( Energy / 30 ) ) / 100
+	local OutDamage = (InDamage * 1.0) * ( 200 + ( Energy / 40 ) ) / 100
 	
 	return OutDamage
 end
@@ -1108,7 +1108,7 @@ end
 
 -- SkillID: 781, Bat Flock Strengthener - (Damage) - (Slayer, Royal Slayer, Master Slayer, Slaughterer)
 function SlayerBatFlock_MasterLevel1_Calc(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 28) + 120) / 100
+	local OutDamage = InDamage * ((Strength / 32) + (Dexterity / 28) + 120) / 100
 	OutDamage = OutDamage * 0.5
 	
 	return OutDamage
@@ -1116,7 +1116,7 @@ end
 
 -- SkillID: 782, Bat Flock Mastery - (Damage) - (Slayer, Royal Slayer, Master Slayer, Slaughterer)
 function SlayerBatFlock_MasterLevel2_Calc(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 28) + 120) / 100
+	local OutDamage = InDamage * ((Strength / 32) + (Dexterity / 28) + 120) / 100
 	OutDamage = OutDamage * 0.5
 	
 	return OutDamage
@@ -1124,7 +1124,7 @@ end
 
 -- SkillID: 779, Sword Inertia Strengthener - (Slayer, Royal Slayer, Master Slayer, Slaughterer)
 function SlayerSwordInertia_MasterLevel1_Calc(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 28) + 120) / 100
+	local OutDamage = InDamage * ((Strength / 32) + (Dexterity / 28) + 120) / 100
 	OutDamage = OutDamage
 	
 	return OutDamage
@@ -1132,7 +1132,7 @@ end
 
 -- SkillID: 780, Sword Inertia Mastery - (Slayer, Royal Slayer, Master Slayer, Slaughterer)
 function SlayerSwordInertia_MasterLevel2_Calc(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 28) + 120) / 100
+	local OutDamage = InDamage * ((Strength / 32) + (Dexterity / 28) + 120) / 100
 	OutDamage = OutDamage
 	
 	return OutDamage
@@ -1140,7 +1140,7 @@ end
 
 -- SkillID: 787, Demolish Strengthener - (Slayer, Royal Slayer, Master Slayer, Slaughterer)
 function SlayerDemolish_MasterLevel1_Calc(Strength, Dexterity, Vitality, Energy, SkillTreeValue)
-	local SkillEffect = ((Strength / 8) + (Dexterity / 28) + 120)
+	local SkillEffect = ((Strength / 32) + (Dexterity / 28) + 120)
 	local SkillTime = 60
 	SkillEffect = SkillEffect * 0.03 + SkillTreeValue
 	
@@ -1149,7 +1149,7 @@ end
 
 -- SkillID: 788, Demolish Mastery - (Slayer, Royal Slayer, Master Slayer, Slaughterer)
 function SlayerDemolish_MasterLevel2_Calc(Strength, Dexterity, Vitality, Energy, SkillTreeValue)
-	local SkillEffect = ((Strength / 8) + (Dexterity / 28) + 120)
+	local SkillEffect = ((Strength / 32) + (Dexterity / 28) + 120)
 	local SkillTime = 60
 	SkillEffect = SkillEffect * 0.03 + SkillTreeValue
 	
@@ -1201,9 +1201,9 @@ function StrikeOfDestructionCalc_MasterLevel1_Knight(InDamage, Strength, Dexteri
 	local OutDamage = 0
 
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 0.8) * (Energy / 10 + 200) / 100
+		OutDamage = (InDamage * 0.8) * (Energy / 40 + 200) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.0) * (Energy / 10 + 200) / 100
+		OutDamage = (InDamage * 1.0) * (Energy / 40 + 200) / 100
 	end
 
 	return OutDamage
@@ -1214,9 +1214,9 @@ function StrikeOfDestructionCalc_MasterLevel2_Knight(InDamage, Strength, Dexteri
 	local OutDamage = 0
 
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * (Energy / 10 + 200) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * (Energy / 40 + 200) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * (Energy / 10 + 200) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * (Energy / 40 + 200) + SkillTreeValue) / 100
 	end
 
 	return OutDamage
@@ -1230,7 +1230,7 @@ end
 
 -- SkillID: 811, Tornado Cutting Strengthener
 function TorandoCuttingCalc_Level1(InDamage, Strength, Dexterity, Vitality, Energy)
-	local OutDamage = InDamage * (Energy / 10 + 200) / 100
+	local OutDamage = InDamage * (Energy / 40 + 200) / 100
 	
 	return OutDamage
 end
@@ -1238,7 +1238,7 @@ end
 -- SkillID: 820, Dark Plasma Strengthener - (Master Gun Breaker, Heist Gun Crusher)
 function GunCrusherDarkPlasma_Level1(InDamage, Strength, Dexterity, Vitality, Energy)
 	local OutDamage = 0
-	OutDamage = InDamage * ((Energy / 8) + (Dexterity / 28) + 120) / 100
+	OutDamage = InDamage * ((Energy / 32) + (Dexterity / 28) + 120) / 100
 	
 	return OutDamage
 end
@@ -1246,7 +1246,7 @@ end
 -- SkillID: 821, Dark Plasma Proficiency - (Master Gun Breaker, Heist Gun Crusher)
 function GunCrusherDarkPlasma_Level2(InDamage, Strength, Dexterity, Vitality, Energy)
 	local OutDamage = 0
-	OutDamage = InDamage * ((Energy / 8) + (Dexterity / 28) + 120) / 100
+	OutDamage = InDamage * ((Energy / 32) + (Dexterity / 28) + 120) / 100
 
 	return OutDamage
 end
@@ -1254,7 +1254,7 @@ end
 -- SkillID: 822, Dark Plasma Mastery - (Master Gun Breaker, Heist Gun Crusher)
 function GunCrusherDarkPlasma_Level3(InDamage, Strength, Dexterity, Vitality, Energy, SkillTreeValue)
 	local OutDamage = 0
-	OutDamage = InDamage * (((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+	OutDamage = InDamage * (((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 
 	return OutDamage
 end
@@ -1264,11 +1264,11 @@ function GunCrusherIceBreak_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vit
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = ((InDamage * 1.2) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.2) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	end
 	
 	return OutDamage
@@ -1279,11 +1279,11 @@ function GunCrusherIceBreak_MasterLevel2_Calc(InDamage, Strength, Dexterity, Vit
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = ((InDamage * 1.2) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.2) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	end
 	
 	return OutDamage
@@ -1294,9 +1294,9 @@ function GunCrusherDeathFire_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vi
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	end
 	
 	return OutDamage
@@ -1307,9 +1307,9 @@ function GunCrusherDeathFire_MasterLevel2_Calc(InDamage, Strength, Dexterity, Vi
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	end
 	
 	return OutDamage
@@ -1332,9 +1332,9 @@ function GunCrusherDeathIce_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vit
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	end
 	
 	return OutDamage
@@ -1345,9 +1345,9 @@ function GunCrusherDeathIce_MasterLevel2_Calc(InDamage, Strength, Dexterity, Vit
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 0.8) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 0.8) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 8) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 32) + (Dexterity / 28) + 120) + SkillTreeValue) / 100
 	end
 	
 	return OutDamage
@@ -1749,11 +1749,11 @@ function IllusionKnightBladeStorm_MasterLevel1_Calc(InDamage, Strength, Dexterit
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * (200 + (Strength / 15) + (Dexterity / 25))) / 100;
+		OutDamage = (InDamage * (200 + (Strength / 45) + (Dexterity / 25))) / 100;
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * (200 + (Strength / 15) + (Dexterity / 25))) / 100;
+		OutDamage = (InDamage * (200 + (Strength / 45) + (Dexterity / 25))) / 100;
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * (200 + (Strength / 15) + (Dexterity / 25))) / 100;
+		OutDamage = (InDamage * (200 + (Strength / 45) + (Dexterity / 25))) / 100;
 	end
 
 	return OutDamage
