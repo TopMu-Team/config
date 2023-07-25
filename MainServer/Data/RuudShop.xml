@@ -99,42 +99,42 @@
 <RuudShop Enable="1" ShopTime="60">
 	<Character Class="-1" Name="All Classes">
 		<Item Cat="16" Index="42" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="1440" Price="75000" /> <!-- Chicken (Evolved) -->
-		<Item Cat="14" Index="341" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Sealed Stone Shard -->
+		<Item Cat="14" Index="341" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="150000" /> <!-- Sealed Stone Shard -->
 		<Item Cat="14" Index="364" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="5000" /> <!-- Socket Upgrade Note -->
-		<Item Cat="14" Index="384" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1000" /> <!-- Sphere Upgrade Rune Capsule -->
-		<Item Cat="14" Index="386" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Darkangel Anvil -->
-		<Item Cat="14" Index="389" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Holyangel Spirit -->
-		<Item Cat="14" Index="415" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Awakening -->
-		<Item Cat="14" Index="416" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Anvil of Holy Angel -->
+		<Item Cat="14" Index="384" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="5000" /> <!-- Sphere Upgrade Rune Capsule -->
+		<Item Cat="14" Index="386" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="250000" /> <!-- Darkangel Anvil -->
+		<Item Cat="14" Index="389" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="300000" /> <!-- Holyangel Spirit -->
+		<Item Cat="14" Index="415" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="450000" /> <!-- Awakening -->
+		<Item Cat="14" Index="416" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="500000" /> <!-- Anvil of Holy Angel -->
 		<Item Cat="12" Index="407" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1000" /> <!-- [Bound] The magic solution of Locke -->
 		<Item Cat="12" Index="409" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="75000" /> <!-- [Bound] The magic solution of Condor -->
 		<Item Cat="14" Index="390" Level="0" Durability="5" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="2500" /> <!-- Elemental Nixie's Fragment x5 -->
-		<Item Cat="14" Index="450" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Soul Moru -->
-		<Item Cat="14" Index="449" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Cold Marriage -->
-		<Item Cat="14" Index="495" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Blue Eye Anvil -->
-		<Item Cat="14" Index="502" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Silver Heart's Anvil -->
-		<Item Cat="14" Index="501" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Manticore Soul -->
-		<Item Cat="14" Index="458" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="25000" /> <!-- Ancestral Frame -->
-		<Item Cat="14" Index="494" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Ancestral Spirit -->
+		<Item Cat="14" Index="450" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="750000" /> <!-- Soul Moru -->
+		<Item Cat="14" Index="449" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="600000" /> <!-- Cold Marriage -->
+		<Item Cat="14" Index="495" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1000000" /> <!-- Blue Eye Anvil -->
+		<Item Cat="14" Index="502" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1250000" /> <!-- Silver Heart's Anvil -->
+		<Item Cat="14" Index="501" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="900000" /> <!-- Manticore Soul -->
+		<Item Cat="14" Index="458" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Ancestral Frame -->
+		<Item Cat="14" Index="494" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="750000" /> <!-- Ancestral Spirit -->
 		<Item Cat="14" Index="460" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="400" /> <!-- [Level 1] Monster Soul Converter -->
 		<Item Cat="14" Index="461" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="500" /> <!-- [Level 2] Monster Soul Converter -->
 		<Item Cat="14" Index="462" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="600" /> <!-- [Level 3] Monster Soul Converter -->
 		<Item Cat="14" Index="463" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="700" /> <!-- [Level 4] Monster Soul Converter -->
 		<Item Cat="14" Index="464" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="800" /> <!-- [Level 5] Monster Soul Converter -->
-		<Item Cat="14" Index="497" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="25000" /> <!-- Glory of Honor -->
-		<Item Cat="20" Index="77" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="25000" /> <!-- Blood Crafting Frame -->
-		<Item Cat="14" Index="498" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Ice Dragon Seal -->
-		<Item Cat="14" Index="510" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Pierce Lion's Seal -->
-		<Item Cat="12" Index="509" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="30000" /> <!-- Pentagram Emblem -->
-		<Item Cat="12" Index="510" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="20000" /> <!-- Ertel Emblem -->
-		<Item Cat="12" Index="82" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Manticore Anvil -->
-		<Item Cat="12" Index="81" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Brilliant Soul -->
-		<Item Cat="20" Index="83" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="25000" /> <!-- Daze Crafting Frame -->
-		<Item Cat="20" Index="84" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Shining Tail's Seal -->
-		<Item Cat="12" Index="85" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Soul of Apocalypse -->
-		<Item Cat="12" Index="86" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Brilliant Anvil -->
-		<Item Cat="20" Index="112" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="25000" /> <!-- Binding Frame -->
-		<Item Cat="20" Index="119" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Seal of Ur -->
+		<Item Cat="14" Index="497" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="200000" /> <!-- Glory of Honor -->
+		<Item Cat="20" Index="77" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="300000" /> <!-- Blood Crafting Frame -->
+		<Item Cat="14" Index="498" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="250000" /> <!-- Ice Dragon Seal -->
+		<Item Cat="14" Index="510" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="500000" /> <!-- Pierce Lion's Seal -->
+		<Item Cat="12" Index="509" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="250000" /> <!-- Pentagram Emblem -->
+		<Item Cat="12" Index="510" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Ertel Emblem -->
+		<Item Cat="12" Index="82" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1500000" /> <!-- Manticore Anvil -->
+		<Item Cat="12" Index="81" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1050000" /> <!-- Brilliant Soul -->
+		<Item Cat="20" Index="83" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="400000" /> <!-- Daze Crafting Frame -->
+		<Item Cat="20" Index="84" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="750000" /> <!-- Shining Tail's Seal -->
+		<Item Cat="12" Index="85" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1200000" /> <!-- Soul of Apocalypse -->
+		<Item Cat="12" Index="86" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1750000" /> <!-- Brilliant Anvil -->
+		<Item Cat="20" Index="112" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="500000" /> <!-- Binding Frame -->
+		<Item Cat="20" Index="119" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1000000" /> <!-- Seal of Ur -->
 	</Character>
 	<Character Class="0" Name="Dark Wizard">
 		<Item Cat="13" Index="359" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Bloodangel Armor of Sealed Transcendence -->
