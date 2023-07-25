@@ -31,7 +31,6 @@
 			<!-- Errtel of Radiance-->
 			<Item Cat="12" Index="261" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="3" Serial="1" />
 		</Drop>
-		
 	</DropAllow>
 </DropSection>
 </ItemBag>
