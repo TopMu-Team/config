@@ -49,6 +49,8 @@
 		<Item Cat="15" Index="46" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
 		<!-- Perlution Parchment-->
 		<Item Cat="15" Index="44" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+		<!-- Fixed -->
+		<Item Cat="15" Index="59" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
 	</Tab>
 	<Tab Id="2">
 		<!-- Insert shop data here -->

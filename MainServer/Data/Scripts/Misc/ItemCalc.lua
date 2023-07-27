@@ -251,7 +251,7 @@ function GoldKundun_DropWing()
 end
 
 function DarkHorse_CalcAbsorb(PetLevel)
-	local Absorb = (PetLevel + 30) / 5
+	local Absorb = (PetLevel + 30) / 4
 	return Absorb
 end
 		

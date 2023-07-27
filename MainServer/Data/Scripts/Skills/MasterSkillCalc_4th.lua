@@ -96,7 +96,7 @@ function FireSlash_4thEnchant_Gladiator(InDamage, Strength, Energy, BarrageCount
 end
 
 function WindSoul_4thEnchant_Lord(InDamage, Strength, Dexterity, Vitality, Energy, Command)
-	local OutDamage = InDamage * (Strength / 25) / 100
+	local OutDamage = InDamage * (Strength / 20) / 100
 	
 	return OutDamage
 end
@@ -135,15 +135,15 @@ function MagicPin_4thEnchant_Lancer(InDamage, Dexterity, SkillTreeBonus, Barrage
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 0.8) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 0.8) * (Dexterity / 18 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * 1.0) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.0) * (Dexterity / 18 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * 1.1) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.1) * (Dexterity / 18 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 4) then
-		OutDamage = (InDamage * 1.2) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.2) * (Dexterity / 18 + 97 + SkillTreeBonus) / 100.0
 	elseif (BarrageCount == 5) then
-		OutDamage = (InDamage * 1.3) * (Dexterity / 10 + 97 + SkillTreeBonus) / 100.0
+		OutDamage = (InDamage * 1.3) * (Dexterity / 18 + 97 + SkillTreeBonus) / 100.0
 	end
 
 	return OutDamage
@@ -297,8 +297,8 @@ end
 
 -- SkillID: 1159, Bat Flock Enhancement - (Damage over time)
 function BatFlock_DotDamage_4thEnchant_Slayer(InDamage, Strength, Energy)
-	local Damage = (InDamage * 1.0) * ( 200 + ( Strength / 25 ) ) / 100
-	local DotDamage = (InDamage / 10)
+	local Damage = (InDamage * 1.0) * (( Strength / 35 ) ) / 100
+	local DotDamage = (InDamage / 20)
 	local Time = 3
 	
 	return Damage, DotDamage, Time
@@ -312,14 +312,14 @@ function SwordInertia_4thEnchant_Slayer(InDamage, Strength, Dexterity)
 end	
 
 function BatFlock_4thEnchant_Slayer(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 8) + 150) / 100
+	local OutDamage = InDamage * ((Strength / 25) + (Dexterity / 25)) / 100
 	OutDamage = OutDamage * 0.5
 	
 	return OutDamage
 end	
 
 function PierceAttack_4thEnchant_Slayer(InDamage, Strength, Dexterity)
-	local OutDamage = InDamage * ((Strength / 8) + (Dexterity / 8) + 150) / 100
+	local OutDamage = InDamage * ((Strength / 20) + (Dexterity / 20)) / 100
 	return OutDamage
 end
 
@@ -377,7 +377,7 @@ end
 -- SkillID: 1212, Ice Blast Enhancement Skill
 function IceBlast_4thEnchant_GunCrusher(InDamage, Strength, Dexterity, Vitality, Energy)
 	local OutDamage = 0
-	OutDamage = InDamage * ((Energy / 12) + (Dexterity / 28) + 120) / 100
+	OutDamage = InDamage * ((Energy / 22) + (Dexterity / 28) + 120) / 100
 	
 	return OutDamage
 end
@@ -387,11 +387,11 @@ function BurstingFlare_4thEnchant_GunCrusher(InDamage, Strength, Dexterity, Vita
 	local OutDamage = 0
 
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * 0.8) * ((Energy / 20)) / 100
-	elseif (BarrageCount == 2) then
 		OutDamage = (InDamage * 1.0) * ((Energy / 20)) / 100
+	elseif (BarrageCount == 2) then
+		OutDamage = (InDamage * 1.15) * ((Energy / 20)) / 100
 	elseif (BarrageCount == 3) then -- Shockwave
-		OutDamage = (InDamage * 1.2) * ((Energy / 20)) / 100
+		OutDamage = (InDamage * 1.3) * ((Energy / 20)) / 100
 	end
 	
 	return OutDamage
@@ -402,11 +402,11 @@ function LightWizardSpearStorm_4thEnchant_Calc(InDamage, Strength, Dexterity, Vi
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 50) + 200)) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 110))) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 50) + 200)) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 110))) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 50) + 200)) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 110))) / 100
 	end
 
 	return OutDamage
@@ -463,11 +463,11 @@ function LightWizardDragonViolent_4thEnchant_Calc(InDamage, Strength, Dexterity,
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 50) + 200)) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 75) )) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 50) + 200)) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 75) )) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = ((InDamage * 1.0) * ((Energy / 50) + 200)) / 100
+		OutDamage = ((InDamage * 1.0) * ((Energy / 75) )) / 100
 	end
 
 	return OutDamage
@@ -752,13 +752,13 @@ function IllusionKnightWindGlaive_4thEnchant_Calc(InDamage, Strength, Dexterity,
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ((Strength / 15) + (Dexterity / 15))) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ( (Strength / 15) + (Dexterity / 15))) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ((Strength / 15) + (Dexterity / 15))) / 100
 	elseif (BarrageCount == 4) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ( (Strength / 15) + (Dexterity / 15))) / 100
 	end
 
 	return OutDamage
@@ -769,13 +769,13 @@ function IllusionKnightBladeStorm_4thEnchant_Calc(InDamage, Strength, Dexterity,
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ( (Strength / 20) + (Dexterity / 20))) / 100
 	elseif (BarrageCount == 2) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ((Strength / 20) + (Dexterity / 20))) / 100
 	elseif (BarrageCount == 3) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ( (Strength / 20) + (Dexterity / 20))) / 100
 	elseif (BarrageCount == 4) then
-		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100
+		OutDamage = (InDamage * ( (Strength / 20) + (Dexterity / 20))) / 100
 	end
 
 	return OutDamage

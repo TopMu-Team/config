@@ -957,7 +957,7 @@ end
 function GrowLancerWrath_Level3(Strength, Dexterity, Energy)
 	local SkillIncDamage = 50
 	local SkillDecDefense = 30
-	local SkillTime = 15
+	local SkillTime = 30
 
 	return SkillIncDamage, SkillDecDefense, SkillTime
 end
