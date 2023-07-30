@@ -1,0 +1,1 @@
+20:07:30 [HackDetected][][] IpAddress: 14.187.144.168, HardwareId: 2BC0AE5B-B9B991A5-A01AFC1B-BF759BB5, DetectionType: MEMORY_DETECTION, CaptionName: , ProcessName: 
