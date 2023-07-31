@@ -1,0 +1,16 @@
+05:35:07 [SocketManager] Server started at port [55999]
+05:35:07 [AntiHackServerInfo] Config loaded successfully
+05:35:07 [AntiHackServerInfo] DumpList loaded successfully
+05:35:07 [AntiHackServerInfo] ChecksumList loaded successfully
+05:35:07 [AntiHackServerInfo] InternalList loaded successfully
+05:35:07 [AntiHackServerInfo] WindowList loaded successfully
+05:35:07 [AntiHackServerInfo] BlackList loaded successfully
+06:16:11 [ClientManager][0] AddClient (123.21.242.102)
+06:16:11 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+06:18:49 [ClientManager][0] DelClient (123.21.242.102)
+08:30:58 [ClientManager][0] AddClient (116.96.47.184)
+08:30:58 [ClientManager][0] ClientInfo (HardwareId: 21A4B54B-D6C5F5DA-C569E00D-CA1EE9A5)
+09:17:17 [ClientManager][1] AddClient (123.21.242.102)
+09:17:17 [ClientManager][1] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+09:17:56 [ClientManager][1] DelClient (123.21.242.102)
+09:49:15 [ClientManager][0] DelClient (116.96.47.184)
