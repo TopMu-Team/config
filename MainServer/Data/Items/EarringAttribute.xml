@@ -101,61 +101,61 @@
 	<OptionSettings>
 	<!-- Edition 1 -->
 		<OptionSet Index="0" Value="20000" Edition="1" Description="Max Life Increase and Max Mana Increase" />
-		<OptionSet Index="1" Value="340" Edition="1" Description="Skill Damage Increase" />
+		<OptionSet Index="1" Value="17" Edition="1" Description="Skill Damage Increase" />
 		<OptionSet Index="2" Value="4" Edition="1" Description="Excellent Damage Probability Increase and Critical Damage Probability Increase" />
 		<OptionSet Index="3" Value="10" Edition="1" Description="AG Auto Recovery Amount Increase" />
-		<OptionSet Index="4" Value="200" Edition="1" Description="Attack Power / Wizardry Increase" />
+		<OptionSet Index="4" Value="20" Edition="1" Description="Attack Power / Wizardry Increase" />
 		<OptionSet Index="5" Value="7" Edition="1" Description="Attack Speed Increase" />
-		<OptionSet Index="6" Value="350" Edition="1" Description="Attack Power Increase and Critical Damage Power Increase" />
+		<OptionSet Index="6" Value="35" Edition="1" Description="Attack Power Increase and Critical Damage Power Increase" />
 		<OptionSet Index="7" Value="1" Edition="1" Description="Ignore enemy defense" />
 	<!-- Edition 2 -->
 		<OptionSet Index="0" Value="40000" Edition="2" Description="Max Life Increase and Max Mana Increase" />
-		<OptionSet Index="1" Value="380" Edition="2" Description="Skill Damage Increase" />
+		<OptionSet Index="1" Value="19" Edition="2" Description="Skill Damage Increase" />
 		<OptionSet Index="2" Value="5" Edition="2" Description="Excellent Damage Probability Increase and Critical Damage Probability Increase" />
 		<OptionSet Index="3" Value="10" Edition="2" Description="AG Auto Recovery Amount Increase" />
-		<OptionSet Index="4" Value="200" Edition="2" Description="Attack Power / Wizardry Increase" />
+		<OptionSet Index="4" Value="0" Edition="2" Description="Attack Power / Wizardry Increase" />
 		<OptionSet Index="5" Value="7" Edition="2" Description="Attack Speed Increase" />
-		<OptionSet Index="6" Value="300" Edition="2" Description="Attack Power Increase and Critical Damage Power Increase" />
+		<OptionSet Index="6" Value="1" Edition="2" Description="Attack Power Increase and Critical Damage Power Increase" />
 		<OptionSet Index="7" Value="2" Edition="2" Description="Ignore enemy defense" />
 	<!-- Edition 3 -->
 		<OptionSet Index="0" Value="60000" Edition="3" Description="Max Life Increase and Max Mana Increase" />
-		<OptionSet Index="1" Value="420" Edition="3" Description="Skill Damage Increase" />
+		<OptionSet Index="1" Value="21" Edition="3" Description="Skill Damage Increase" />
 		<OptionSet Index="2" Value="6" Edition="3" Description="Excellent Damage Probability Increase and Critical Damage Probability Increase" />
 		<OptionSet Index="3" Value="10" Edition="3" Description="AG Auto Recovery Amount Increase" />
-		<OptionSet Index="4" Value="200" Edition="3" Description="Attack Power / Wizardry Increase" />
+		<OptionSet Index="4" Value="2" Edition="3" Description="Attack Power / Wizardry Increase" />
 		<OptionSet Index="5" Value="7" Edition="3" Description="Attack Speed Increase" />
-		<OptionSet Index="6" Value="300" Edition="3" Description="Attack Power Increase and Critical Damage Power Increase" />
+		<OptionSet Index="6" Value="3" Edition="3" Description="Attack Power Increase and Critical Damage Power Increase" />
 		<OptionSet Index="7" Value="3" Edition="3" Description="Ignore enemy defense" />
 	<!-- Edition 4 -->
 		<OptionSet Index="0" Value="80000" Edition="4" Description="Max Life Increase and Max Mana Increase" />
-		<OptionSet Index="1" Value="460" Edition="4" Description="Skill Damage Increase" />
+		<OptionSet Index="1" Value="23" Edition="4" Description="Skill Damage Increase" />
 		<OptionSet Index="2" Value="7" Edition="4" Description="Excellent Damage Probability Increase and Critical Damage Probability Increase" />
 		<OptionSet Index="3" Value="10" Edition="4" Description="AG Auto Recovery Amount Increase" />
-		<OptionSet Index="4" Value="400" Edition="4" Description="Attack Power / Wizardry Increase" />
+		<OptionSet Index="4" Value="4" Edition="4" Description="Attack Power / Wizardry Increase" />
 		<OptionSet Index="5" Value="7" Edition="4" Description="Attack Speed Increase" />
-		<OptionSet Index="6" Value="500" Edition="4" Description="Attack Power Increase and Critical Damage Power Increase" />
+		<OptionSet Index="6" Value="5" Edition="4" Description="Attack Power Increase and Critical Damage Power Increase" />
 		<OptionSet Index="7" Value="4" Edition="4" Description="Ignore enemy defense" />
-		<OptionSet Index="8" Value="600" Edition="4" Description="Damage Increase" />
+		<OptionSet Index="8" Value="6" Edition="4" Description="Damage Increase" />
 	<!-- Edition 5 -->
 		<OptionSet Index="0" Value="100000" Edition="5" Description="Max Life Increase and Max Mana Increase" />
-		<OptionSet Index="1" Value="500" Edition="5" Description="Skill Damage Increase" />
+		<OptionSet Index="1" Value="25" Edition="5" Description="Skill Damage Increase" />
 		<OptionSet Index="2" Value="8" Edition="5" Description="Excellent Damage Probability Increase and Critical Damage Probability Increase" />
 		<OptionSet Index="3" Value="10" Edition="5" Description="AG Auto Recovery Amount Increase" />
-		<OptionSet Index="4" Value="700" Edition="5" Description="Attack Power / Wizardry Increase" />
+		<OptionSet Index="4" Value="7" Edition="5" Description="Attack Power / Wizardry Increase" />
 		<OptionSet Index="5" Value="7" Edition="5" Description="Attack Speed Increase" />
-		<OptionSet Index="6" Value="800" Edition="5" Description="Attack Power Increase and Critical Damage Power Increase" />
+		<OptionSet Index="6" Value="8" Edition="5" Description="Attack Power Increase and Critical Damage Power Increase" />
 		<OptionSet Index="7" Value="5" Edition="5" Description="Ignore enemy defense" />
-		<OptionSet Index="8" Value="900" Edition="5" Description="Damage Increase" />
+		<OptionSet Index="8" Value="9" Edition="5" Description="Damage Increase" />
 	<!-- Edition 5 -->
-		<OptionSet Index="0" Value="100000" Edition="6" Description="Max Life Increase and Max Mana Increase" />
-		<OptionSet Index="1" Value="540" Edition="6" Description="Skill Damage Increase" />
+		<OptionSet Index="0" Value="150000" Edition="6" Description="Max Life Increase and Max Mana Increase" />
+		<OptionSet Index="1" Value="27" Edition="6" Description="Skill Damage Increase" />
 		<OptionSet Index="2" Value="9" Edition="6" Description="Excellent Damage Probability Increase and Critical Damage Probability Increase" />
 		<OptionSet Index="3" Value="10" Edition="6" Description="AG Auto Recovery Amount Increase" />
-		<OptionSet Index="4" Value="1000" Edition="6" Description="Attack Power / Wizardry Increase" />
+		<OptionSet Index="4" Value="10" Edition="6" Description="Attack Power / Wizardry Increase" />
 		<OptionSet Index="5" Value="7" Edition="6" Description="Attack Speed Increase" />
-		<OptionSet Index="6" Value="1100" Edition="6" Description="Attack Power Increase and Critical Damage Power Increase" />
+		<OptionSet Index="6" Value="11" Edition="6" Description="Attack Power Increase and Critical Damage Power Increase" />
 		<OptionSet Index="7" Value="6" Edition="6" Description="Ignore enemy defense" />
-		<OptionSet Index="8" Value="1200" Edition="6" Description="Damage Increase" />
+		<OptionSet Index="8" Value="12" Edition="6" Description="Damage Increase" />
 	</OptionSettings>
 
 	<OptionsList> <!-- Section used by tools only -->
