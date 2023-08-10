@@ -1180,15 +1180,15 @@ function Calc4thClassDamageFromUser(UserLevel, UserMasterLevel, MonsterLevel, Pe
 	local LevelDiff = SumMonLevel - SumUserLevel
 	local OutDamage = InDamage
 	
-	if LevelDiff <= 0 then
-		return OutDamage
-	end
+	-- if LevelDiff <= 0 then
+	-- 	return OutDamage
+	-- end
 		
-	if (LevelDiff > 7) then
-		LevelDiff = 7
-	end
+	-- if (LevelDiff > 7) then
+	-- 	LevelDiff = 7
+	-- end
 		
-	OutDamage = OutDamage - (OutDamage * (LevelDiff * 10) / 100)
+	-- OutDamage = OutDamage - (OutDamage * (LevelDiff * 10) / 100)
 	return OutDamage
 end
 
@@ -1199,14 +1199,14 @@ function Calc4thClassDamageFromMonster(UserLevel, UserMasterLevel, MonsterLevel,
 	local LevelDiff = SumMonLevel - SumUserLevel
 	local OutDamage = InDamage
 	
-	if LevelDiff <= 0 then
-		return OutDamage
-	end
+	-- if LevelDiff <= 0 then
+	-- 	return OutDamage
+	-- end
 		
-	if LevelDiff > 7 then
-		LevelDiff = 7
-	end
+	-- if LevelDiff > 7 then
+	-- 	LevelDiff = 7
+	-- end
 		
-	OutDamage = OutDamage + (OutDamage * (LevelDiff * 10) / 100)
+	-- OutDamage = OutDamage + (OutDamage * (LevelDiff * 10) / 100)
 	return OutDamage
 end																					   
