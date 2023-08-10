@@ -95,8 +95,8 @@
 -->
 
 <ExpSystem CalcType="0" NonVipAdjuster="0.0" PartyExpGainRange="9" DebugMode="0">
-	<StaticExp Normal="1000.0" Master="20.0" Majestic="20.0" Event="0.0" Quest="1.0" OffLevel="1.0" />
-	<PartyRegAddExp One="1.0" Two="1.1" Three="1.15" Four="1.2" Five="1.25" />
+	<StaticExp Normal="1000.0" Master="20.0" Majestic="30.0" Event="0.0" Quest="1.0" OffLevel="1.0" />
+	<PartyRegAddExp One="1.0" Two="0.9" Three="0.8" Four="0.75" Five="0.7" />
 	<PartySetAddExp Two="1.0" Three="1.0" Four="1.0" Five="1.0" />
 	
 	<DynamicExpRangeList> <!-- First rule that matches player requirements will be applied, therefore order of entries matters -->
